@@ -1,0 +1,2581 @@
+{
+  "start_date": "2025-01-03",
+  "end_date": "2025-01-10",
+  "records_fetched": 12,
+  "articles": [
+    {
+      "id": "39749674",
+      "source": "MED",
+      "pmid": "39749674",
+      "doi": "10.1080/21678421.2024.2447911",
+      "title": "Care trajectories and adherence to respiratory management recommendations in persons living with amyotrophic lateral sclerosis: a ten-year cohort study in a French tertiary university centre.",
+      "authorString": "Tank\u00e9r\u00e9 P, Cascarano E, Saint Raymond C, Mallaret M, Toribio Ruiz C, Herquelot E, Denis H, Cals Maurette M, Tamisier R, P\u00e9pin JL.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tank\u00e9r\u00e9 P",
+            "firstName": "Pierre",
+            "lastName": "Tank\u00e9r\u00e9",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Grenoble Alpes, Grenoble, France."
+                },
+                {
+                  "affiliation": "Center for Sleep Medicine, Croix-Rousse Hospital, Hospices Civils de Lyon, Lyon, France."
+                },
+                {
+                  "affiliation": "Lyon Neuroscience Research Center, PAM Team, INSERM U1028, CNRS UMR 5292, Claude Bernard Lyon 1 University, Lyon, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cascarano E",
+            "firstName": "Estelle",
+            "lastName": "Cascarano",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Grenoble Alpes, Grenoble, France."
+                },
+                {
+                  "affiliation": "Service Hospitalo-Universitaire Pneumologie et Physiologie, Pole Thorax et Vaisseaux, CHU de Grenoble Alpes, Grenoble, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Saint Raymond C",
+            "firstName": "Christel",
+            "lastName": "Saint Raymond",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Grenoble Alpes, Grenoble, France."
+                },
+                {
+                  "affiliation": "Service Hospitalo-Universitaire Pneumologie et Physiologie, Pole Thorax et Vaisseaux, CHU de Grenoble Alpes, Grenoble, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mallaret M",
+            "firstName": "Martial",
+            "lastName": "Mallaret",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Service Hospitalo-Universitaire de Neurologie, CHU de Grenoble Alpes, Grenoble, France, and."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Toribio Ruiz C",
+            "firstName": "Cristina",
+            "lastName": "Toribio Ruiz",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Grenoble Alpes, Grenoble, France."
+                },
+                {
+                  "affiliation": "Service Hospitalo-Universitaire Pneumologie et Physiologie, Pole Thorax et Vaisseaux, CHU de Grenoble Alpes, Grenoble, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Herquelot E",
+            "firstName": "El\u00e9onore",
+            "lastName": "Herquelot",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "HEVA, Lyon, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Denis H",
+            "firstName": "Helene",
+            "lastName": "Denis",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "HEVA, Lyon, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cals Maurette M",
+            "firstName": "Mallory",
+            "lastName": "Cals Maurette",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "HEVA, Lyon, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tamisier R",
+            "firstName": "Renaud",
+            "lastName": "Tamisier",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Grenoble Alpes, Grenoble, France."
+                },
+                {
+                  "affiliation": "Service Hospitalo-Universitaire Pneumologie et Physiologie, Pole Thorax et Vaisseaux, CHU de Grenoble Alpes, Grenoble, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "P\u00e9pin JL",
+            "firstName": "Jean Louis",
+            "lastName": "P\u00e9pin",
+            "initials": "JL",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Grenoble Alpes, Grenoble, France."
+                },
+                {
+                  "affiliation": "Service Hospitalo-Universitaire Pneumologie et Physiologie, Pole Thorax et Vaisseaux, CHU de Grenoble Alpes, Grenoble, France."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3879123,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+          "medlineAbbreviation": "Amyotroph Lateral Scler Frontotemporal Degener",
+          "isoabbreviation": "Amyotroph Lateral Scler Frontotemporal Degener",
+          "issn": "2167-8421",
+          "nlmid": "101587185",
+          "essn": "2167-9223"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "1-9",
+      "abstractText": "<i>Objective</i>: This study determined real-life care trajectories before and after initiation of noninvasive ventilation (NIV) in patients with amyotrophic lateral sclerosis (ALS). Caregiver adherence to respiratory management recommendations and the associated survival rate of people with ALS were also assessed. <i>Methods</i>: Data were obtained from a tertiary center prospective ALS database that included 10 years of follow-up data for people with ALS. Results are presented numerically and with graphical time sequence analysis through K clustering (TAK) representation. Kaplan Meier and Cox models were used to determine survival and associated prognostic factors. <i>Results:</i> 109 patients with ALS patients were included; median [interquartile range] follow-up was 25.0 months [15.3-43.3]. During study timeframe patients had a median of 4.0 [2.0-6.0] clinical visits; death occurred in 54.1%. Median time between clinical visits was 3.9 [2.8-6.5] months, between arterial blood gases was 4.3 months [3.0-6.6], between spirometry testing was 5.8 months [4.1-8.2], and between nocturnal oximetry was 4.4 months [3.0-7.8]. Visualization of care trajectories TAK show marked heterogeneity in survival, time to NIV initiation, and time from NIV initiation to death. Mortality was correlated with NIV initiation and arterial carbon dioxide pressure increase. <i>Conclusions</i>: The current framework in ALS guidelines should be adapted to the ALS disease stage and individual patient characteristics. Understanding how subgroups of patients with ALS use healthcare services over time could help to highlight fragility areas and priorities in the allocation of care resources and implementation of best practices.",
+      "affiliation": "University Grenoble Alpes, Grenoble, France.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Mortality",
+          "Survival",
+          "Amyotrophic Lateral Sclerosis",
+          "Noninvasive Ventilation",
+          "Healthcare Trajectories"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/21678421.2024.2447911"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-03",
+      "firstIndexDate": "2025-01-03",
+      "dateOfRevision": "2025-01-03",
+      "electronicPublicationDate": "2025-01-03",
+      "firstPublicationDate": "2025-01-03"
+    },
+    {
+      "id": "39753945",
+      "source": "MED",
+      "pmid": "39753945",
+      "doi": "10.1007/s10143-025-03186-w",
+      "title": "Transcranial resection of falcine meningiomas by complete endoscopy with the assistance of intraoperative ultrasound.",
+      "authorString": "Xiao J, Zhao T, Cheng X, Sheng Q, Li C, Li Y, Zhang Y, Wang X, Cheng H, Ye L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Xiao J",
+            "firstName": "Jin",
+            "lastName": "Xiao",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China. xjtulip@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao T",
+            "firstName": "Tianchen",
+            "lastName": "Zhao",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cheng X",
+            "firstName": "Xiang",
+            "lastName": "Cheng",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sheng Q",
+            "firstName": "Qiang",
+            "lastName": "Sheng",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li C",
+            "firstName": "Chao",
+            "lastName": "Li",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Y",
+            "firstName": "Yan",
+            "lastName": "Li",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang Y",
+            "firstName": "Yiquan",
+            "lastName": "Zhang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang X",
+            "firstName": "Xianxiang",
+            "lastName": "Wang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cheng H",
+            "firstName": "Hongwei",
+            "lastName": "Cheng",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ye L",
+            "firstName": "Lei",
+            "lastName": "Ye",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China. yelei@ahmu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "48",
+        "journalIssueId": 3877859,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Neurosurgical review",
+          "medlineAbbreviation": "Neurosurg Rev",
+          "isoabbreviation": "Neurosurg Rev",
+          "issn": "0344-5607",
+          "nlmid": "7908181",
+          "essn": "1437-2320"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "21",
+      "abstractText": "Transcranial neurosurgery assisted by endoscopy and intraoperative ultrasound (IOUS) has become an effective approach for real-time visualization and guidance during tumor resection. This study explores the application of these techniques in falcine meningioma (FM) resection, assessing their feasibility and safety. Eleven FM patients underwent transcranial endoscopic resection with IOUS assistance. Preoperative neuroimaging, including magnetic resonance (MR) imaging, computed tomography, MR angiography, and MR venography, guided surgical planning. IOUS provided real-time tumor localization, boundary visualization, adjacent structure assessment, and guidance throughout the resection. Tumors were located in the anterior, middle, and posterior falx in 4, 5, and 2 patients, respectively. Of the 11 cases, 8 involved unilateral falx tumors and 3 involved bilateral falx tumors. Simpson grade 1 resection was achieved in 12 patients; one case involved a deeply located tumor closely associated with the deep venous plexus. Pathologically, 10 patients had World Health Organization (WHO) grade 1 meningiomas, and 1 had a WHO grade 3 anaplastic meningioma. Postoperative complications included temporary contralateral hemiplegia in one patient and pulmonary infection in another. The average follow-up period was 19.3 months, with all patients achieving Karnofsky Performance Status scores of >\u200990. In conclusion, endoscopic resection with IOUS assistance is both feasible and safe for FM patients.",
+      "affiliation": "Department of Neurosurgery, The First Affiliated Hospital of Anhui Medical University, Jixi Road 218, Hefei, 230022, P.R. China. xjtulip@163.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "KJ2021A0289",
+            "agency": "Natural Science Research Project of Colleges and Universities in Anhui Province",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2020H232",
+            "agency": "Anhui Province Academic and Technical Leader Candidate Research Activities Funding Projects",
+            "orderIn": 0
+          },
+          {
+            "grantId": "RHG-2021-3",
+            "agency": "Open Research Project of the Key Laboratory of Reproductive Health and Genetics in Anhui Province",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Microneurosurgery",
+          "Intraoperative Ultrasound",
+          "Falcine Meningiomas",
+          "Transcranial Endoscopy"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s10143-025-03186-w"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "PPR906058",
+            "source": "PPR",
+            "type": "Preprint in",
+            "note": "CrossRef Pre-print loader",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-03",
+      "firstIndexDate": "2025-01-04",
+      "dateOfRevision": "2025-01-03",
+      "electronicPublicationDate": "2025-01-04",
+      "firstPublicationDate": "2025-01-04"
+    },
+    {
+      "id": "39667816",
+      "source": "MED",
+      "pmid": "39667816",
+      "doi": "10.2967/jnumed.124.268068",
+      "title": "Preclinical Evaluation and Pilot Clinical Study of CD137 PET Radiotracer for Noninvasive Monitoring Early Responses of Immunotherapy.",
+      "authorString": "Cheng K, Ge L, Song M, Li W, Zheng J, Liu J, Luo Y, Sun P, Xu S, Cheng Z, Yu J, Liu J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cheng K",
+            "firstName": "Kai",
+            "lastName": "Cheng",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                },
+                {
+                  "affiliation": "Department of PET/CT Center, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ge L",
+            "firstName": "Luna",
+            "lastName": "Ge",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biomedical Sciences College and Shandong Medicinal Biotechnology Centre, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Song M",
+            "firstName": "Miaomiao",
+            "lastName": "Song",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Drug Research, Molecular Imaging Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China; School of Pharmacy, University of Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li W",
+            "firstName": "Wanhu",
+            "lastName": "Li",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of PET/CT Center, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zheng J",
+            "firstName": "Jinsong",
+            "lastName": "Zheng",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of PET/CT Center, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu J",
+            "firstName": "Jingru",
+            "lastName": "Liu",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luo Y",
+            "firstName": "Yuxi",
+            "lastName": "Luo",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sun P",
+            "firstName": "Pengfei",
+            "lastName": "Sun",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Hepato-Biliary Surgery, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China; and."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu S",
+            "firstName": "Shengnan",
+            "lastName": "Xu",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cheng Z",
+            "firstName": "Zhen",
+            "lastName": "Cheng",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Drug Research, Molecular Imaging Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China; School of Pharmacy, University of Chinese Academy of Sciences, Beijing, China; zcheng@simm.ac.cn linchuangliujie@163.com sdyujinming@163.com."
+                },
+                {
+                  "affiliation": "Shandong Laboratory of Yantai Drug Discovery, Bohai Rim Advanced Research Institute for Drug Discovery, Yantai, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yu J",
+            "firstName": "Jinming",
+            "lastName": "Yu",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China; zcheng@simm.ac.cn linchuangliujie@163.com sdyujinming@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu J",
+            "firstName": "Jie",
+            "lastName": "Liu",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China; zcheng@simm.ac.cn linchuangliujie@163.com sdyujinming@163.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "66",
+        "journalIssueId": 3879642,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
+          "medlineAbbreviation": "J Nucl Med",
+          "isoabbreviation": "J Nucl Med",
+          "issn": "0161-5505",
+          "nlmid": "0217410",
+          "essn": "1535-5667"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "40-46",
+      "abstractText": "Given the variability in the effectiveness of immune checkpoint blocking therapy among patients and tumor types, development of noninvasive methods for longitudinal assessment of immune cell function and early tumor response is crucial for precision immunotherapy. CD137 (4-1BB), a marker of activated T cells, plays a significant role in immunotherapy. However, its potential as an imaging biomarker for activated T cells in the tumor microenvironment has not been explored. This study introduces a bicyclic peptide-based probe that targets CD137 for noninvasive PET imaging of tumor-infiltrating activated T cells. <b>Methods:</b> A bicyclic peptide-based probe, [<sup>18</sup>F]AlF-NOTA-BCP137, was first designed and synthesized for quantitative and longitudinal whole-body visualization of CD137 dynamics. Initially, [<sup>18</sup>F]AlF-NOTA-BCP137 was assessed in mouse models with varying CD137 expression levels. Next, [<sup>18</sup>F]AlF-NOTA-BCP137 was used for longitudinal monitoring of systemic CD137 changes in a humanized tumor-bearing mouse model. Lastly, the probe was further evaluated in a small group of patients with hepatocellular carcinoma undergoing immunotherapy or combination immunotherapy. <b>Results:</b> [<sup>18</sup>F]AlF-NOTA-BCP137 PET accurately characterized CD137 expression in homologous transplanted mouse models and tumor patients. The findings from animal studies indicated that uptake of [<sup>18</sup>F]AlF-NOTA-BCP137 was predictive of the early therapeutic response to combination immunotherapies and was positively associated with the increased survival rates of mice with tumors. A preliminary clinical study involving small patient cohorts demonstrated that [<sup>18</sup>F]AlF-NOTA-BCP137 imaging effectively predicted early patient responses to immunotherapeutic interventions. <b>Conclusion:</b> [<sup>18</sup>F]AlF-NOTA-BCP137 PET imaging of CD137 is a promising and reliable method for evaluating the efficacy of multiple combination immunotherapies and merits further validation in larger-scale clinical trials. This approach has the potential for early noninvasive visualization of individual patient responses in combination cancer immunotherapy and will aid in tailoring personalized strategies for patients.",
+      "affiliation": "Shandong Provincial Key Laboratory of Precision Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Immunotherapy",
+          "CD137",
+          "Activated T Cells",
+          "PET imaging"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2967/jnumed.124.268068"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 1,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2024-12-12",
+      "firstIndexDate": "2024-12-13",
+      "dateOfRevision": "2025-01-03",
+      "electronicPublicationDate": "2025-01-03",
+      "firstPublicationDate": "2025-01-03"
+    },
+    {
+      "id": "39761100",
+      "source": "MED",
+      "pmid": "39761100",
+      "doi": "10.2196/54241",
+      "title": "Social Media Potential and Impact on Changing Behaviors and Actions in Skin Health Promotion: Systematic Review.",
+      "authorString": "Brzozowska JM, Gotlib J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Brzozowska JM",
+            "firstName": "Justyna Martyna",
+            "lastName": "Brzozowska",
+            "initials": "JM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7431-4633"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Medical & Health Sciences, University of Economics and Human Sciences in Warsaw, Warsaw, Poland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gotlib J",
+            "firstName": "Joanna",
+            "lastName": "Gotlib",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2717-7741"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Education and Research in Health Sciences, Faculty of Health Sciences, Medical University of Warsaw, Warsaw, Poland."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7431-4633"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2717-7741"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "volume": "27",
+        "journalIssueId": 3877748,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Journal of medical Internet research",
+          "medlineAbbreviation": "J Med Internet Res",
+          "isoabbreviation": "J Med Internet Res",
+          "issn": "1439-4456",
+          "nlmid": "100959882",
+          "essn": "1438-8871"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e54241",
+      "abstractText": "<h4>Background</h4>Social media is used as a tool for information exchange, entertainment, education, and intervention. Intervention efforts attempt to engage users in skin health.<h4>Objective</h4>This review aimed to collect and summarize research assessing the impact of social media on skin health promotion activities undertaken by social media users.<h4>Methods</h4>In accordance with the PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) guidelines, the following scientific databases were searched: Scopus, Web of Science, PubMed, Academic Search Ultimate (via EBSCO), Academic Research Source eJournals (via EBSCO), ERIC (via EBSCO), Health Source: Consumer Edition (via EBSCO), and Health Source: Nursing/Academic Edition (via EBSCO). Using ProQuest Dissertations and Theses, OpenGrey, Grey Literature Report, and MedNar, the search was supplemented with gray literature. Articles on skin care, skin health, skin diseases, skin protection, and educational activities promoting healthy skin on social media were selected for review (search date: February 6, 2023). The following qualification criteria were used: original research; research conducted on social media; and research topics regarding educational activities in skin health promotion, skin care, skin health, skin diseases, and skin protection. To assess the risk of bias, the following tools were used: the Cochrane Collaboration tool for risk-of-bias assessment (randomized controlled trials and quasi-experimental studies) and the Centre for Evidence-Based Medicine checklist (cross-sectional studies).<h4>Results</h4>Altogether, 1558 works were considered, of which 23 (1.48%) qualified, with 3 (13%) studies on acne and 20 (87%) on skin cancer, sunscreen, and tanning. Social media interventions were dealt with in 65% (15/23) of the studies. The review made it possible to investigate cognitive and cognitive-behavioral interventions. In both observational and interventional studies, the most frequently discussed topics were skin exposure and protection against UV radiation and skin cancer. The analyzed research showed that social media is a source of information. Visualization has a strong impact on users. The involvement of social media users is measured through the amount of content shared and contributes to changing attitudes and behaviors regarding skin health.<h4>Conclusions</h4>This review outlined the impact of social media, despite its heterogeneity, on users' skin health behaviors, attitudes, and actions. It identified strategies for digital interventions to promote skin health. In health sciences, a standardized tool is needed to assess the quality of social media digital interventions. This review has several limitations: only articles written in English were considered; ongoing studies were omitted; and there was a small number of interventional studies on acne and a lack of research on daily skin care, education, and antiaging activities on social media. Another limitation, resulting from the topic being too broad, was a failure to perform quantitative data analysis, resulting in the studies that qualified for the review being heterogeneous.",
+      "affiliation": "School of Medical & Health Sciences, University of Economics and Human Sciences in Warsaw, Warsaw, Poland.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Prevention",
+          "ACNE",
+          "SKin",
+          "Skin Cancer",
+          "Behavioral Intervention",
+          "Social Media",
+          "Sun Protection"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/54241"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-06",
+      "firstIndexDate": "2025-01-06",
+      "dateOfRevision": "2025-01-06",
+      "electronicPublicationDate": "2025-01-06",
+      "firstPublicationDate": "2025-01-06"
+    },
+    {
+      "id": "39719121",
+      "source": "MED",
+      "pmid": "39719121",
+      "doi": "10.1088/1741-2552/ada30b",
+      "title": "A hybrid network using transformer with modified locally linear embedding and sliding window convolution for EEG decoding.",
+      "authorString": "Li K, Chen P, Chen Q, Li X.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li K",
+            "firstName": "Ketong",
+            "lastName": "Li",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0007-7200-1271"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, Southwest Jiaotong University, Chengdu 610031, People's Republic of China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen P",
+            "firstName": "Peng",
+            "lastName": "Chen",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5673-2134"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, Southwest Jiaotong University, Chengdu 610031, People's Republic of China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen Q",
+            "firstName": "Qian",
+            "lastName": "Chen",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, Southwest Jiaotong University, Chengdu 610031, People's Republic of China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li X",
+            "firstName": "Xiangyun",
+            "lastName": "Li",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "West China Biomedical Big Data Center, West China Hospital, Sichuan University, Chengdu 610041, People's Republic of China."
+                },
+                {
+                  "affiliation": "Med-X Center for Informatics, Sichuan University, Chengdu 610041, People's Republic of China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5673-2134"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0007-7200-1271"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "6",
+        "volume": "21",
+        "journalIssueId": 3881129,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Journal of neural engineering",
+          "medlineAbbreviation": "J Neural Eng",
+          "isoabbreviation": "J Neural Eng",
+          "issn": "1741-2560",
+          "nlmid": "101217933",
+          "essn": "1741-2552"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<i>Objective</i>. Brain-computer interface(BCI) is leveraged by artificial intelligence in EEG signal decoding, which makes it possible to become a new means of human-machine interaction. However, the performance of current EEG decoding methods is still insufficient for clinical applications because of inadequate EEG information extraction and limited computational resources in hospitals. This paper introduces a hybrid network that employs a transformer with modified locally linear embedding and sliding window convolution for EEG decoding.<i>Approach</i>. This network separately extracts channel and temporal features from EEG signals, subsequently fusing these features using a cross-attention mechanism. Simultaneously, manifold learning is employed to lower the computational burden of the model by mapping the high-dimensional EEG data to a low-dimensional space by its dimension reduction function.<i>Main results</i>. The proposed model achieves accuracy rates of 84.44%, 94.96%, and 82.79% on the BCI Competition IV dataset 2a, high gamma dataset, and a self-constructed motor imagery (MI) dataset from the left and right hand fist-clenching tests respectively. The results indicate our model outperforms the baseline models by EEG-channel transformer with dimension-reduced EEG data and window attention with sliding window convolution. Additionally, to enhance the interpretability of the model, features preceding the temporal feature extraction network were visualized. This visualization promotes the understanding of how the model prefers task-related channels.<i>Significance</i>. The transformer-based method makes the MI-EEG decoding more practical for further clinical applications.",
+      "affiliation": "School of Mechanical Engineering, Southwest Jiaotong University, Chengdu 610031, People's Republic of China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "EEG classification",
+          "Convolutional Neural Network",
+          "Transformer",
+          "Cross Attention",
+          "Modified Locally Linear Embedding"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1088/1741-2552/ada30b"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2024-12-24",
+      "firstIndexDate": "2024-12-24",
+      "dateOfRevision": "2025-01-06",
+      "electronicPublicationDate": "2025-01-06",
+      "firstPublicationDate": "2025-01-06"
+    },
+    {
+      "id": "39756669",
+      "source": "MED",
+      "pmid": "39756669",
+      "doi": "10.1016/j.preteyeres.2024.101326",
+      "title": "Exploring Retinal Conditions Through Blue Light Reflectance Imaging.",
+      "authorString": "Leit\u00e3o Guerra RL, Leit\u00e3o Guerra CL, Bastos Meirelles MG, Sandoval Barbosa GC, Novais EA, Badar\u00f3 E, Adami Lucatto LF, Roisman L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Leit\u00e3o Guerra RL",
+            "firstName": "Ricardo Luz",
+            "lastName": "Leit\u00e3o Guerra",
+            "initials": "RL",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology Leit\u00e3o Guerra, Oftalmologia (Salvador, Brazil), Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil; Orbit Ophthalmo Learning, Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil. Electronic address: ricardo@leitaoguerra.com.br."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Leit\u00e3o Guerra CL",
+            "firstName": "Cezar Luz",
+            "lastName": "Leit\u00e3o Guerra",
+            "initials": "CL",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology Leit\u00e3o Guerra, Oftalmologia (Salvador, Brazil), Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bastos Meirelles MG",
+            "firstName": "Mariana Gouveia",
+            "lastName": "Bastos Meirelles",
+            "initials": "MG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology Leit\u00e3o Guerra, Oftalmologia (Salvador, Brazil), Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sandoval Barbosa GC",
+            "firstName": "Gabriel Castilho",
+            "lastName": "Sandoval Barbosa",
+            "initials": "GC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, University of S\u00e3o Paulo, Av. Dr. Arnaldo, 455 - Cerqueira C\u00e9sar, S\u00e3o Paulo SP, CEP: 01.246-903, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Novais EA",
+            "firstName": "Eduardo Amorim",
+            "lastName": "Novais",
+            "initials": "EA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orbit Ophthalmo Learning, Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Badar\u00f3 E",
+            "firstName": "Emmerson",
+            "lastName": "Badar\u00f3",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orbit Ophthalmo Learning, Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Adami Lucatto LF",
+            "firstName": "Luiz Filipe",
+            "lastName": "Adami Lucatto",
+            "initials": "LF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orbit Ophthalmo Learning, Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Roisman L",
+            "firstName": "Luiz",
+            "lastName": "Roisman",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orbit Ophthalmo Learning, Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3880622,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Progress in retinal and eye research",
+          "medlineAbbreviation": "Prog Retin Eye Res",
+          "isoabbreviation": "Prog Retin Eye Res",
+          "issn": "1350-9462",
+          "nlmid": "9431859",
+          "essn": "1873-1635"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "101326",
+      "abstractText": "Blue light reflectance (BLR) imaging offers a non-invasive, cost-effective method for evaluating retinal structures by analyzing the reflectance and absorption characteristics of the inner retinal layers. By leveraging blue light's interaction with retinal tissues, BLR enhances visualization beyond the retinal nerve fiber layer, improving detection of structures such as the outer plexiform layer and macular pigment. Its diagnostic utility has been demonstrated in distinct retinal conditions, including hyperreflectance in early macular telangiectasia, hyporeflectance in non-perfused areas indicative of ischemia, identification of pseudodrusen patterns (notably the ribbon type), and detection of peripheral retinal tears and degenerative retinoschisis in eyes with reduced retinal pigment epithelial pigmentation. Best practices for image acquisition and interpretation are discussed, emphasizing standardization to minimize variability. Common artifacts and mitigation strategies are also addressed, ensuring image reliability. BLR's clinical utility, limitations, and future research directions are highlighted, particularly its potential in automated image analysis and quantitative assessment. Different BLR acquisition methods, such as fundus photography, confocal scanning laser ophthalmoscopy, and broad line fundus imaging, are evaluated for their respective advantages and limitations. As research advances, BLR's integration into multimodal workflows is expected to improve early detection and precise monitoring of retinal diseases.",
+      "affiliation": "Department of Ophthalmology Leit\u00e3o Guerra, Oftalmologia (Salvador, Brazil), Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil; Orbit Ophthalmo Learning, Rua Rio de S\u00e3o Pedro, no 256 Gra\u00e7a. Salvador BA, CEP 40.150-350, Brazil. Electronic address: ricardo@leitaoguerra.com.br.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Biomarker",
+          "Inner Retinal Layers",
+          "Multimodal Retinal Imaging",
+          "Retinal Imaging Modalities",
+          "Blue Light Reflectance Imaging"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.preteyeres.2024.101326"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-05",
+      "firstIndexDate": "2025-01-06",
+      "dateOfRevision": "2025-01-05",
+      "electronicPublicationDate": "2025-01-03",
+      "firstPublicationDate": "2025-01-03"
+    },
+    {
+      "id": "39751975",
+      "source": "MED",
+      "pmid": "39751975",
+      "pmcid": "PMC11699174",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11699174"
+        ]
+      },
+      "doi": "10.1007/s12200-024-00143-1",
+      "title": "Laser speckle contrast imaging with principal component and entropy analysis: a novel approach for depth-independent blood flow assessment.",
+      "authorString": "Surkov Y, Timoshina P, Serebryakova I, Stavtcev D, Kozlov I, Piavchenko G, Meglinski I, Konovalov A, Telyshev D, Kuznetcov S, Genina E, Tuchin V.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Surkov Y",
+            "firstName": "Yu",
+            "lastName": "Surkov",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institution of Physics, Saratov State University, Saratov, 410012, Russia. surkov9898@gmail.com."
+                },
+                {
+                  "affiliation": "Scientific Medical Center, Saratov State University, Saratov, 410012, Russia. surkov9898@gmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Timoshina P",
+            "firstName": "P",
+            "lastName": "Timoshina",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institution of Physics, Saratov State University, Saratov, 410012, Russia."
+                },
+                {
+                  "affiliation": "Scientific Medical Center, Saratov State University, Saratov, 410012, Russia."
+                },
+                {
+                  "affiliation": "Laboratory of Laser Molecular Imaging and Machine Learning, Tomsk State University, Tomsk, 634050, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Serebryakova I",
+            "firstName": "I",
+            "lastName": "Serebryakova",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institution of Physics, Saratov State University, Saratov, 410012, Russia."
+                },
+                {
+                  "affiliation": "Scientific Medical Center, Saratov State University, Saratov, 410012, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Stavtcev D",
+            "firstName": "D",
+            "lastName": "Stavtcev",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Bionic Technologies and Engineering, I.M. Sechenov First Moscow State Medical University, Moscow, 119991, Russia."
+                },
+                {
+                  "affiliation": "Institute of Biomedical Systems, National Research University of Electronic Technology, Zelenograd, Moscow, 124498, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kozlov I",
+            "firstName": "I",
+            "lastName": "Kozlov",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Bionic Technologies and Engineering, I.M. Sechenov First Moscow State Medical University, Moscow, 119991, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Piavchenko G",
+            "firstName": "G",
+            "lastName": "Piavchenko",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Human Anatomy and Histology, Cytology and Embryology, Institute of Clinical Medicine N.V. Sklifosovsky, I.M. Sechenov First Moscow State Medical University, Moscow, 119991, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meglinski I",
+            "firstName": "I",
+            "lastName": "Meglinski",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Human Anatomy and Histology, Cytology and Embryology, Institute of Clinical Medicine N.V. Sklifosovsky, I.M. Sechenov First Moscow State Medical University, Moscow, 119991, Russia."
+                },
+                {
+                  "affiliation": "Aston Institute of Materials Research, School of Engineering and Applied Science, Aston University, Birmingham, B4 7ET, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Konovalov A",
+            "firstName": "A",
+            "lastName": "Konovalov",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Bionic Technologies and Engineering, I.M. Sechenov First Moscow State Medical University, Moscow, 119991, Russia."
+                },
+                {
+                  "affiliation": "Burdenko Neurosurgery Institute, Moscow, 125047, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Telyshev D",
+            "firstName": "D",
+            "lastName": "Telyshev",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Bionic Technologies and Engineering, I.M. Sechenov First Moscow State Medical University, Moscow, 119991, Russia."
+                },
+                {
+                  "affiliation": "Institute of Biomedical Systems, National Research University of Electronic Technology, Zelenograd, Moscow, 124498, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kuznetcov S",
+            "firstName": "S",
+            "lastName": "Kuznetcov",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Human Anatomy and Histology, Cytology and Embryology, Institute of Clinical Medicine N.V. Sklifosovsky, I.M. Sechenov First Moscow State Medical University, Moscow, 119991, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Genina E",
+            "firstName": "E",
+            "lastName": "Genina",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institution of Physics, Saratov State University, Saratov, 410012, Russia."
+                },
+                {
+                  "affiliation": "Laboratory of Laser Molecular Imaging and Machine Learning, Tomsk State University, Tomsk, 634050, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tuchin V",
+            "firstName": "V",
+            "lastName": "Tuchin",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institution of Physics, Saratov State University, Saratov, 410012, Russia."
+                },
+                {
+                  "affiliation": "Scientific Medical Center, Saratov State University, Saratov, 410012, Russia."
+                },
+                {
+                  "affiliation": "Laboratory of Laser Molecular Imaging and Machine Learning, Tomsk State University, Tomsk, 634050, Russia."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "18",
+        "journalIssueId": 3879306,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Frontiers of optoelectronics",
+          "medlineAbbreviation": "Front Optoelectron",
+          "isoabbreviation": "Front Optoelectron",
+          "issn": "2095-2759",
+          "nlmid": "9918506187506676",
+          "essn": "2095-2767"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "1",
+      "abstractText": "Current study presents an advanced method for improving the visualization of subsurface blood vessels using laser speckle contrast imaging (LSCI), enhanced through principal component analysis (PCA) filtering. By combining LSCI and laser speckle entropy imaging with PCA filtering, the method effectively separates static and dynamic components of the speckle signal, significantly improving the accuracy of blood flow assessments, even in the presence of static scattering layers located above and below the vessel. Experiments conducted on optical phantoms, with the vessel depths ranging from 0.6 to 2 mm, and in vivo studies on a laboratory mouse ear demonstrate substantial improvements in image contrast and resolution. The method's sensitivity to blood flow velocity within the physiologic range (0.98-19.66 mm/s) is significantly enhanced, while its sensitivity to vessel depth is minimized. These results highlight the method's ability to assess blood flow velocity independently of vessel depth, overcoming a major limitation of conventional LSCI techniques. The proposed approach holds great potential for non-invasive biomedical imaging, offering improved diagnostic accuracy and contrast in vascular imaging. These findings may be particularly valuable for advancing the use of LSCI in clinical diagnostics and biomedical research, where high precision in blood flow monitoring is essential.",
+      "affiliation": "Institution of Physics, Saratov State University, Saratov, 410012, Russia. surkov9898@gmail.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Principal component analysis",
+          "Entropy",
+          "blood flow velocity",
+          "Laser speckle imaging",
+          "Speckle Contrast",
+          "Vascular Imaging"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s12200-024-00143-1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11699174"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11699174?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-03",
+      "firstIndexDate": "2025-01-03",
+      "fullTextReceivedDate": "2025-01-07",
+      "dateOfRevision": "2025-01-06",
+      "electronicPublicationDate": "2025-01-03",
+      "firstPublicationDate": "2025-01-03"
+    },
+    {
+      "id": "39756613",
+      "source": "MED",
+      "pmid": "39756613",
+      "doi": "10.1016/j.neuchi.2025.101632",
+      "title": "Skull base meningiomas: A bibliometric analysis and comprehensive overview of clinical reports.",
+      "authorString": "Bari\u0107 H, Komljenovi\u0107 S, Garcia SG, Niemel\u00e4 M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bari\u0107 H",
+            "firstName": "Hrvoje",
+            "lastName": "Bari\u0107",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Helsinki University Hospital. Electronic address: ext-hrvoje.baric@hus.fi."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Komljenovi\u0107 S",
+            "firstName": "Sara",
+            "lastName": "Komljenovi\u0107",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zagreb University Medical School."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Garcia SG",
+            "firstName": "Sergio Garcia",
+            "lastName": "Garcia",
+            "initials": "SG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Helsinki University Hospital."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Niemel\u00e4 M",
+            "firstName": "Mika",
+            "lastName": "Niemel\u00e4",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Helsinki University Hospital."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3880611,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Neuro-Chirurgie",
+          "medlineAbbreviation": "Neurochirurgie",
+          "isoabbreviation": "Neurochirurgie",
+          "issn": "0028-3770",
+          "nlmid": "0401057",
+          "essn": "1773-0619"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "101632",
+      "abstractText": "<h4>Background</h4>Skull-base surgery, including skull-base meningiomas (SBMs), is among the most challenging medical fields which has witnessed leaps in advancement, owing to ever evolving technological and scientific progress. We performed a comprehensive bibliometric analysis and analysis of clinical reports on SBMs to describe the evolution and identify trends and relationships between basic and applied research in the field.<h4>Methods</h4>The study was a qualitative and quantitative bibliometric analysis of SBM research and review of SBM clinical series via a systematic search of the Web of Science for SBM topics and SBM case series. Quantitative analysis included the most cited publications, most productive authors, most cited journals, and number of publications per country. Keyword co-occurrence and co-authorship maps were produced to visualize research hotspots. Data output from the visualization analysis was analyzed qualitatively to identify themes within separate clusters and delineate evolution of clusters across time. Publications were screened to extract clinical reports of at least ten SBM cases to analyze year, type of treatment, country, and sample size in order to use the data to investigate the lag period between research and clinical adaptation of individual treatment modalities.<h4>Results</h4>We identified 3258 publications and 451 series reporting on 33559 cases of SBMs. The United States of America is the leading country in publications and reported number of SBM cases. The most productive authors are active neurosurgeons in their 40\u2009s, or older. Among the top cited publications, most are related to endoscopic surgery, followed by research on genomics. Open surgery is the most common treatment modality being reported for SBM cases, however it`s prevalence has been on the decrease as more recently there has been a substantial increase in other types of treatment.<h4>Conclusions</h4>Complexity of the field is reflected in the delayed age of peak scientific productivity. Over the past fifty years the SBM research has undergone a rapid expansion and can currently be seen as developing in four separate areas and the efforts are being led by three broadly collaborating research groups. The research-to-clinical routine lag of less than ten years speaks of the dynamic nature of SBM research and treatment.",
+      "affiliation": "Department of Neurosurgery, Helsinki University Hospital. Electronic address: ext-hrvoje.baric@hus.fi.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Research",
+          "Meningioma",
+          "Overview",
+          "Bibliometric"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.neuchi.2025.101632"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-05",
+      "firstIndexDate": "2025-01-06",
+      "dateOfRevision": "2025-01-05",
+      "electronicPublicationDate": "2025-01-03",
+      "firstPublicationDate": "2025-01-03"
+    },
+    {
+      "id": "39760302",
+      "source": "MED",
+      "pmid": "39760302",
+      "doi": "10.1177/01617346241311901",
+      "title": "Clinical Feasibility of 3-D Acoustic Radiation Force Impulse (ARFI) Imaging for Targeted Prostate Biopsy Guidance.",
+      "authorString": "Chan DY, Moavenzadeh SR, Wightman WE, Palmeri ML, Polascik TJ, Nightingale KR.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chan DY",
+            "firstName": "Derek Y",
+            "lastName": "Chan",
+            "initials": "DY",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1816-5455"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moavenzadeh SR",
+            "firstName": "Spencer R",
+            "lastName": "Moavenzadeh",
+            "initials": "SR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wightman WE",
+            "firstName": "Wren E",
+            "lastName": "Wightman",
+            "initials": "WE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Palmeri ML",
+            "firstName": "Mark L",
+            "lastName": "Palmeri",
+            "initials": "ML",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8995-0050"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Polascik TJ",
+            "firstName": "Thomas J",
+            "lastName": "Polascik",
+            "initials": "TJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3666-1372"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Departments of Urology and Radiology, Duke University Medical Center, Durham, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nightingale KR",
+            "firstName": "Kathryn R",
+            "lastName": "Nightingale",
+            "initials": "KR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0960-4495"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8995-0050"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0960-4495"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1816-5455"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3666-1372"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3881187,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Ultrasonic imaging",
+          "medlineAbbreviation": "Ultrason Imaging",
+          "isoabbreviation": "Ultrason Imaging",
+          "issn": "0161-7346",
+          "nlmid": "7909167",
+          "essn": "1096-0910"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "1617346241311901",
+      "abstractText": "We have developed a 3-D acoustic radiation force impulse (ARFI) prostate imaging system to identify regions suspicious for cancer and guide a targeted prostate biopsy in a single visit. The system uses a side-fire transrectal probe and an automated rotation stage to acquire ARFI and B-mode image volumes, combined with 3-D visualization and targeting software to enable biopsy target identification and guide a transperineal (TP) biopsy. The system was tested in the first clinical trial of its kind, with subjects serially undergoing ARFI-guided targeted TP biopsy, multiparametric magnetic resonance imaging (mpMRI)-ultrasound fusion TP biopsy, and systematic sampling TP biopsy. The findings indicate that the ARFI system is feasible for guiding a targeted biopsy. For lower-grade cancer (grade groups [GG] 1-2), ARFI underperformed mpMRI and systematic sampling, detecting cancer in 54% of GG 2 subjects. However, ARFI performance improved with increasing cancer grade; for higher-grade cancer (GG 3-5), ARFI performed comparably to the other biopsy approaches, and detected cancer in all GG 4 and 5 subjects. The findings also suggest the benefit of using 2-D ARFI imaging to confirm target location during live B-mode imaging, which could improve existing ultrasonic fusion biopsy workflows. This study is registered with ClinicalTrials.gov as NCT04607135.",
+      "affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "prostate cancer",
+          "Acoustic Radiation Force",
+          "Elasticity Imaging",
+          "Image-guided Biopsy",
+          "Transperineal Biopsy"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1177/01617346241311901"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "dateOfCreation": "2025-01-06",
+      "firstIndexDate": "2025-01-06",
+      "dateOfRevision": "2025-01-06",
+      "electronicPublicationDate": "2025-01-06",
+      "firstPublicationDate": "2025-01-06"
+    },
+    {
+      "id": "39755836",
+      "source": "MED",
+      "pmid": "39755836",
+      "doi": "10.1007/s11548-024-03302-z",
+      "title": "3D CT to 2D X-ray image registration for improved visualization of tibial vessels in endovascular procedures.",
+      "authorString": "Saderi M, Patel JH, Sheagren CD, Cs\u0151re J, Roy TL, Wright GA.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Saderi M",
+            "firstName": "Moujan",
+            "lastName": "Saderi",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-4175-9366"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Biophysics, University of Toronto, Toronto, Canada. moujan.saderi@alumni.utoronto.ca."
+                },
+                {
+                  "affiliation": "Physical Sciences, Sunnybrook Research Institute, Toronto, Canada. moujan.saderi@alumni.utoronto.ca."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Patel JH",
+            "firstName": "Jaykumar H",
+            "lastName": "Patel",
+            "initials": "JH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Biophysics, University of Toronto, Toronto, Canada."
+                },
+                {
+                  "affiliation": "Physical Sciences, Sunnybrook Research Institute, Toronto, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sheagren CD",
+            "firstName": "Calder D",
+            "lastName": "Sheagren",
+            "initials": "CD",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Biophysics, University of Toronto, Toronto, Canada."
+                },
+                {
+                  "affiliation": "Physical Sciences, Sunnybrook Research Institute, Toronto, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cs\u0151re J",
+            "firstName": "Judit",
+            "lastName": "Cs\u0151re",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "DeBakey Heart & Vascular Center, Houston Methodist Hospital, Houston, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Roy TL",
+            "firstName": "Trisha L",
+            "lastName": "Roy",
+            "initials": "TL",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "DeBakey Heart & Vascular Center, Houston Methodist Hospital, Houston, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wright GA",
+            "firstName": "Graham A",
+            "lastName": "Wright",
+            "initials": "GA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Biophysics, University of Toronto, Toronto, Canada."
+                },
+                {
+                  "affiliation": "Physical Sciences, Sunnybrook Research Institute, Toronto, Canada."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0002-4175-9366"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3879312,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "International journal of computer assisted radiology and surgery",
+          "medlineAbbreviation": "Int J Comput Assist Radiol Surg",
+          "isoabbreviation": "Int J Comput Assist Radiol Surg",
+          "issn": "1861-6410",
+          "nlmid": "101499225",
+          "essn": "1861-6429"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Purpose</h4>During endovascular revascularization interventions for peripheral arterial disease, the standard modality of X-ray fluoroscopy (XRF) used for image guidance is limited in visualizing distal segments of infrapopliteal vessels. To enhance visualization of arteries, an image registration technique was developed to align pre-acquired computed tomography (CT) angiography images and to create fusion images highlighting arteries of interest.<h4>Methods</h4>X-ray image metadata capturing the position of the X-ray gantry initializes a multiscale iterative optimization process, which uses a local-variance masked normalized cross-correlation loss to rigidly align a digitally reconstructed radiograph (DRR) of the CT dataset with the target X-ray, using the edges of the fibula and tibia as the basis for alignment. A precomputed library of DRRs is used to improve run-time, and the six-degree-of-freedom optimization problem of rigid registration is divided into three smaller sub-problems to improve convergence. The method was tested on a dataset of paired cone-beam CT (CBCT) and XRF images of ex vivo limbs, and registration accuracy at the midline of the artery was evaluated.<h4>Results</h4>On a dataset of CBCTs from 4 different limbs and a total of 17 XRF images, successful registration was achieved in 13 cases, with the remainder suffering from input image quality issues. The method produced average misalignments of less than 1\u00a0mm in horizontal projection distance along the artery midline, with an average run-time of 16\u00a0s.<h4>Conclusion</h4>The sub-mm spatial accuracy of artery overlays is sufficient for the clinical use case of identifying guidewire deviations from the path of the artery, for early detection of guidewire-induced perforations. The semiautomatic workflow and average run-time of the algorithm make it feasible for integration into clinical workflows.",
+      "affiliation": "Department of Medical Biophysics, University of Toronto, Toronto, Canada. moujan.saderi@alumni.utoronto.ca.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "PJT156041",
+            "agency": "Canadian Institutes of Health Research - Project Grant",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Image fusion",
+          "Peripheral Arterial Disease",
+          "Endovascular Interventions",
+          "Automated Registration"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11548-024-03302-z"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-04",
+      "firstIndexDate": "2025-01-05",
+      "dateOfRevision": "2025-01-04",
+      "electronicPublicationDate": "2025-01-05",
+      "firstPublicationDate": "2025-01-05"
+    },
+    {
+      "id": "39757051",
+      "source": "MED",
+      "pmid": "39757051",
+      "doi": "10.1016/j.ultrasmedbio.2024.12.015",
+      "title": "Real-Time Volumetric Free-Hand Ultrasound Imaging for Large-Sized Organs: A Study of Imaging the Whole Spine.",
+      "authorString": "Li C, Shen E, Wang H, Wang Y, Yuan J, Gong L, Zhao D, Zhang W, Jin Z.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li C",
+            "firstName": "Caozhe",
+            "lastName": "Li",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shen E",
+            "firstName": "Enxiang",
+            "lastName": "Shen",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang H",
+            "firstName": "Haoyang",
+            "lastName": "Wang",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang Y",
+            "firstName": "Yuxin",
+            "lastName": "Wang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yuan J",
+            "firstName": "Jie",
+            "lastName": "Yuan",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, Jiangsu Province, China. Electronic address: yuanjie@nju.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gong L",
+            "firstName": "Li",
+            "lastName": "Gong",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Affiliated Drum Tower Hospital, Medical School of Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao D",
+            "firstName": "Di",
+            "lastName": "Zhao",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Affiliated Drum Tower Hospital, Medical School of Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang W",
+            "firstName": "Weijing",
+            "lastName": "Zhang",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Affiliated Drum Tower Hospital, Medical School of Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jin Z",
+            "firstName": "Zhibin",
+            "lastName": "Jin",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Affiliated Drum Tower Hospital, Medical School of Nanjing University, Nanjing, Jiangsu Province, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3879670,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Ultrasound in medicine & biology",
+          "medlineAbbreviation": "Ultrasound Med Biol",
+          "isoabbreviation": "Ultrasound Med Biol",
+          "issn": "0301-5629",
+          "nlmid": "0410553",
+          "essn": "1879-291X"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "S0301-5629(24)00474-5",
+      "abstractText": "<h4>Objectives</h4>Three-dimensional (3D) ultrasound imaging can overcome the limitations of conventional two-dimensional (2D) ultrasound imaging in structural observation and measurement. However, conducting volumetric ultrasound imaging for large-sized organs still faces difficulties including long acquisition time, inevitable patient movement, and 3D feature recognition. In this study, we proposed a real-time volumetric free-hand ultrasound imaging system optimized for the above issues and applied it to the clinical diagnosis of scoliosis.<h4>Methods</h4>This study employed an incremental imaging method coupled with algorithmic acceleration to enable real-time processing and visualization of the large amounts of data generated when scanning large-sized organs. Furthermore, to deal with the difficulty of image feature recognition, we proposed two tissue segmentation algorithms to reconstruct and visualize the spinal anatomy in 3D space by approximating the depth at which the bone structures are located and segmenting the ultrasound images at different depths.<h4>Results</h4>We validated the adaptability of our system by deploying it to multiple models of ultrasound equipment and conducting experiments using different types of ultrasound probes. We also conducted experiments on six scoliosis patients and 10 normal volunteers to evaluate the performance of our proposed method. Ultrasound imaging of a volunteer spine from shoulder to crotch (more than 500 mm) was performed in 2 minutes, and the 3D imaging results displayed in real-time were compared with the corresponding X-ray images with a correlation coefficient of 0.96 in spinal curvature.<h4>Conclusion</h4>Our proposed volumetric ultrasound imaging system might hold the potential to be clinically applied to other large-sized organs.",
+      "affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, Jiangsu Province, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Real-time Imaging",
+          "Spine Ultrasound",
+          "Large-sized Organ",
+          "Volumetric Free-hand Ultrasound Imaging"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.ultrasmedbio.2024.12.015"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-05",
+      "firstIndexDate": "2025-01-06",
+      "dateOfRevision": "2025-01-05",
+      "electronicPublicationDate": "2025-01-04",
+      "firstPublicationDate": "2025-01-04"
+    },
+    {
+      "id": "39754230",
+      "source": "MED",
+      "pmid": "39754230",
+      "pmcid": "PMC11699819",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11699819"
+        ]
+      },
+      "doi": "10.1186/s13018-024-05409-0",
+      "title": "Delta large-channel endoscopy versus unilateral biportal endoscopy decompressive laminectomy for lumbar spinal stenosis: a prospective randomized controlled trial.",
+      "authorString": "Wei R, Liu W, Yu M, Zhu Y, Yao R, Wang B, Li-Ling J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wei R",
+            "firstName": "Rushuo",
+            "lastName": "Wei",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Spinal Surgery, Weifang People's Hospital, Shandong Second Medical University, 151 Guangwen Street, Kuiwen District, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Digital Spine and Minimally Invasive Research Institute, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Shandong Provincial Key Medical and Health Laboratory of Orthopedic Rare Diseases Prevention and Digital Technique Medicine-Engineering Transformation, Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu W",
+            "firstName": "Weiqiang",
+            "lastName": "Liu",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Spinal Surgery, Weifang People's Hospital, Shandong Second Medical University, 151 Guangwen Street, Kuiwen District, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Digital Spine and Minimally Invasive Research Institute, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Shandong Provincial Key Medical and Health Laboratory of Orthopedic Rare Diseases Prevention and Digital Technique Medicine-Engineering Transformation, Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yu M",
+            "firstName": "Mingdong",
+            "lastName": "Yu",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Spinal Surgery, Weifang People's Hospital, Shandong Second Medical University, 151 Guangwen Street, Kuiwen District, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Digital Spine and Minimally Invasive Research Institute, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Shandong Provincial Key Medical and Health Laboratory of Orthopedic Rare Diseases Prevention and Digital Technique Medicine-Engineering Transformation, Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhu Y",
+            "firstName": "Yushan",
+            "lastName": "Zhu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Spinal Surgery, Weifang People's Hospital, Shandong Second Medical University, 151 Guangwen Street, Kuiwen District, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Digital Spine and Minimally Invasive Research Institute, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                },
+                {
+                  "affiliation": "Shandong Provincial Key Medical and Health Laboratory of Orthopedic Rare Diseases Prevention and Digital Technique Medicine-Engineering Transformation, Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, 261000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yao R",
+            "firstName": "Ruzhan",
+            "lastName": "Yao",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Spinal Surgery, Weifang People's Hospital, Shandong Second Medical University, 151 Guangwen Street, Kuiwen District, Weifang, Shandong, 261000, China. yrzspine@126.com."
+                },
+                {
+                  "affiliation": "Digital Spine and Minimally Invasive Research Institute, Shandong Second Medical University, Weifang, Shandong, 261000, China. yrzspine@126.com."
+                },
+                {
+                  "affiliation": "Shandong Provincial Key Medical and Health Laboratory of Orthopedic Rare Diseases Prevention and Digital Technique Medicine-Engineering Transformation, Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, 261000, China. yrzspine@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang B",
+            "firstName": "Bingwu",
+            "lastName": "Wang",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Spinal Surgery, Weifang People's Hospital, Shandong Second Medical University, 151 Guangwen Street, Kuiwen District, Weifang, Shandong, 261000, China. bwwspinesci@163.com."
+                },
+                {
+                  "affiliation": "Digital Spine and Minimally Invasive Research Institute, Shandong Second Medical University, Weifang, Shandong, 261000, China. bwwspinesci@163.com."
+                },
+                {
+                  "affiliation": "Shandong Provincial Key Medical and Health Laboratory of Orthopedic Rare Diseases Prevention and Digital Technique Medicine-Engineering Transformation, Weifang People's Hospital, Shandong Second Medical University, Weifang, Shandong, 261000, China. bwwspinesci@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li-Ling J",
+            "firstName": "Jesse",
+            "lastName": "Li-Ling",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center of Medical Genetics, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, 610041, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "20",
+        "journalIssueId": 3877830,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Journal of orthopaedic surgery and research",
+          "medlineAbbreviation": "J Orthop Surg Res",
+          "isoabbreviation": "J Orthop Surg Res",
+          "issn": "1749-799X",
+          "nlmid": "101265112",
+          "essn": "1749-799X"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "10",
+      "abstractText": "<h4>Background</h4>Delta large-channel endoscopy and unilateral biportal endoscopy (UBE) are prominent minimally invasive techniques for treating lumbar spinal stenosis, known for minimal tissue damage, clear visualization, and quick recovery. However, rigorous controlled research comparing these procedures is scarce, necessitating further investigation into their respective complications and long-term effectiveness. This randomized controlled trial aims to compare their perioperative outcomes, focusing on postoperative recovery and complications over time.<h4>Methods</h4>In total, 101 participants were randomly assigned to Delta large-channel endoscopy group (n\u2009=\u200950) or UBE group (n\u2009=\u200951). Primary measures were Oswestry Disability Index (ODI) scores and operation time. Secondary measures included VAS, EQ-5D, JOA scores, intraoperative blood loss, hospital stay duration, and costs. Perioperative complications such as dural tears, incision infections, hematomas, thrombosis, and reoperation rates were recorded.<h4>Results</h4>The Delta group consistently showed lower mean ODI scores throughout the follow-up than UBE group, with significant differences at 2 weeks postoperative (P\u2009=\u20090.048), though they were not significant by 1 month (P\u2009=\u20090.124), 2 months (P\u2009=\u20090.821) and 3 months (P\u2009=\u20090.350). Operation times were shorter in the Delta group (P\u2009<\u20090.001). Hospitalization costs and intraoperative blood loss were slightly higher in the UBE group (P\u2009<\u20090.001). No significant differences were noted in the other secondary outcomes at various post-surgery intervals, such as VAS, EQ-5D, JOA scores, hospital stay duration and complications.<h4>Conclusion</h4>Both techniques are safe and effective when performed by experienced surgeons. Compared to UBE, Delta large-channel endoscopy can shorten surgery time and reduce blood loss, and more importantly, it promotes faster recovery of lumbar function in the early postoperative period.<h4>Research registration unique identifying number (uin)</h4>Name of the registry: Chinese Clinical Trial Registry chictr.org.cn. ( http://www.chictr.org.cn/index.aspx ). Unique Identifying number or registration ID: ChiCTR2300076237. Hyperlink to your specific registration (must be publicly accessible and will be checked): https://www.chictr.org.cn/showproj.html?proj=207 ,844.",
+      "affiliation": "Department of Spinal Surgery, Weifang People's Hospital, Shandong Second Medical University, 151 Guangwen Street, Kuiwen District, Weifang, Shandong, 261000, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "ZR2022MH273",
+            "agency": "Natural Science Foundation of Shandong Province",
+            "orderIn": 0
+          },
+          {
+            "grantId": "ZR2023LZY012",
+            "agency": "Natural Science Foundation of Shandong Province",
+            "orderIn": 0
+          },
+          {
+            "grantId": "ZR2023MH360",
+            "agency": "Natural Science Foundation of Shandong Province",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Lumbar spinal stenosis",
+          "Unilateral Biportal Endoscopy",
+          "Lumbar Function",
+          "Delta Large-channel Endoscopy"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://josr-online.biomedcentral.com/counter/pdf/10.1186/s13018-024-05409-0"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13018-024-05409-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11699819"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11699819?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-01-04",
+      "firstIndexDate": "2025-01-04",
+      "fullTextReceivedDate": "2025-01-07",
+      "dateOfRevision": "2025-01-06",
+      "electronicPublicationDate": "2025-01-04",
+      "firstPublicationDate": "2025-01-04"
+    }
+  ]
+}

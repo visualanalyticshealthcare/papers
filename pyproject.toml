@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "papers"
+version = "0.1.0"
+description = "Automated pipeline for Visual Analytics in Healthcare research"
+readme = "README.md"
+authors = [{ name = "Natthawut Max Adulyanukosol" }]
+
+[tool.hatch.build.targets.wheel]
+packages = ["scripts"]
+
+[tool.hatch.envs.default]
+dependencies = ["requests>=2.0", "python-dotenv>=1.0.0"]
+
+[tool.hatch.envs.test]
+dependencies = [
+	"pytest>=7.0",
+	"pytest-cov>=4.0",
+	"requests-mock>=1.11.0",
+	"requests>=2.0",
+	"python-dotenv>=1.0.0",
+]
+
+[[tool.hatch.envs.test.matrix]]
+python = ["3.12"]
+
+[tool.hatch.envs.default.scripts]
+fetch-parse-generate = """
+python scripts/fetch_data.py &&
+python scripts/parse_data.py --input_dir data/raw --output_dir data/weekly_reports &&
+latest_csv=$(ls -t data/weekly_reports/epmc_*.csv | head -n1) &&
+python scripts/generate_html.py --input_dir data/weekly_reports &&
+python scripts/generate_aggregate_html.py --input_dir data/weekly_reports &&
+python scripts/generate_directory.py --input_dir docs/ --output_html docs/index.html
+"""
+# test = "PYTHONPATH=. pytest tests/ -v"
+
+test = "pytest {args:tests}"
+test-cov = "pytest --cov-report=html --cov-report=term-missing --cov=src {args:tests}"

@@ -1,0 +1,76 @@
+name: Weekly Update
+
+on:
+  schedule:
+    - cron: '0 0 * * MON' # Run every Monday at midnight
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Hatch
+        run: pip install hatch
+
+      - name: Set up environment variables
+        run: |
+          echo "EPMC_QUERY_KEYWORDS=${{ secrets.EPMC_QUERY_KEYWORDS }}" >> $GITHUB_ENV
+          echo "EPMC_KEYWORD_WEIGHTS=${{ secrets.EPMC_KEYWORD_WEIGHTS }}" >> $GITHUB_ENV
+
+      - name: Run weekly update
+        run: |
+          # Create necessary directories
+          mkdir -p data/raw data/weekly_reports docs
+
+          # Run the pipeline
+          hatch run python scripts/fetch_data.py --days_back 7
+
+          # Get the date range for file naming
+          START_DATE=$(date -d "7 days ago" +%Y-%m-%d)
+          END_DATE=$(date +%Y-%m-%d)
+
+          # Process the new data
+          hatch run python scripts/parse_data.py \
+            --input_file "data/raw/epmc_${START_DATE}_to_${END_DATE}.json" \
+            --output_file "data/weekly_reports/epmc_${START_DATE}_to_${END_DATE}.csv"
+
+          # Generate HTML
+          hatch run python scripts/generate_html.py \
+            --input_csv "data/weekly_reports/epmc_${START_DATE}_to_${END_DATE}.csv" \
+            --output_html "docs/epmc_${START_DATE}_to_${END_DATE}.html"
+
+          # Update directory index
+          hatch run python scripts/generate_directory.py \
+            --input_dir docs/ \
+            --output_html docs/index.html \
+            --group_by month
+
+      - name: Commit changes to main branch
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/raw/*.json data/weekly_reports/*.csv docs/*.html docs/index.html docs/styles.css docs/script.js
+          git commit -m "Weekly Update: $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
