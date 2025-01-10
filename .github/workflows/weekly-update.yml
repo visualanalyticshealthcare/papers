@@ -7,6 +7,7 @@ on:
 
 env:
   EPMC_QUERY_KEYWORDS: '((TITLE:((visualization OR "visual analytics" OR dashboard) AND (healthcare OR health OR clinical))) OR (ABSTRACT:((visualization OR "visual analytics" OR dashboard) AND (healthcare OR health OR clinical))) OR (KW:((visualization OR "visual analytics" OR dashboard) AND (healthcare OR health OR clinical)))) AND HAS_ABSTRACT:y'
+  EPMC_TARGET_KEYWORDS: '["visual analytics", "visualization", "dashboard", "visual", "artificial intelligence", "machine learning", "clinical decision support", "data", "informatics", "electronic health record"]'
   EPMC_KEYWORD_WEIGHTS: '{"visual analytics": 4, "visualization": 3, "dashboard": 3, "visual": 2, "artificial intelligence": 2, "machine learning": 2, "clinical decision support": 2, "data": 1, "informatics": 2, "electronic health record": 3}'
 
 permissions:
