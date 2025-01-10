@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * MON' # Run every Monday at midnight
   workflow_dispatch: # Allow manual trigger
 
+env:
+  EPMC_QUERY_KEYWORDS: '((TITLE:((visualization OR "visual analytics" OR dashboard) AND (healthcare OR health OR clinical))) OR (ABSTRACT:((visualization OR "visual analytics" OR dashboard) AND (healthcare OR health OR clinical))) OR (KW:((visualization OR "visual analytics" OR dashboard) AND (healthcare OR health OR clinical)))) AND HAS_ABSTRACT:y'
+  EPMC_KEYWORD_WEIGHTS: '{"visual analytics": 4, "visualization": 3, "dashboard": 3, "visual": 2, "artificial intelligence": 2, "machine learning": 2, "clinical decision support": 2, "data": 1, "informatics": 2, "electronic health record": 3}'
+
 permissions:
   contents: write
   pages: write
@@ -19,13 +23,8 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Hatch
-        run: pip install hatch
-
-      - name: Set up environment variables
-        run: |
-          echo "EPMC_QUERY_KEYWORDS=${{ secrets.EPMC_QUERY_KEYWORDS }}" >> $GITHUB_ENV
-          echo "EPMC_KEYWORD_WEIGHTS=${{ secrets.EPMC_KEYWORD_WEIGHTS }}" >> $GITHUB_ENV
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Run weekly update
         run: |
@@ -33,24 +32,24 @@ jobs:
           mkdir -p data/raw data/weekly_reports docs
 
           # Run the pipeline
-          hatch run python scripts/fetch_data.py --days_back 7
+          python scripts/fetch_data.py --days_back 7
 
           # Get the date range for file naming
           START_DATE=$(date -d "7 days ago" +%Y-%m-%d)
           END_DATE=$(date +%Y-%m-%d)
 
           # Process the new data
-          hatch run python scripts/parse_data.py \
+          python scripts/parse_data.py \
             --input_file "data/raw/epmc_${START_DATE}_to_${END_DATE}.json" \
             --output_file "data/weekly_reports/epmc_${START_DATE}_to_${END_DATE}.csv"
 
           # Generate HTML
-          hatch run python scripts/generate_html.py \
+          python scripts/generate_html.py \
             --input_csv "data/weekly_reports/epmc_${START_DATE}_to_${END_DATE}.csv" \
             --output_html "docs/epmc_${START_DATE}_to_${END_DATE}.html"
 
           # Update directory index
-          hatch run python scripts/generate_directory.py \
+          python scripts/generate_directory.py \
             --input_dir docs/ \
             --output_html docs/index.html \
             --group_by month
