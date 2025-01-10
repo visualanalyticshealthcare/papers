@@ -53,7 +53,6 @@ jobs:
           python scripts/generate_directory.py \
             --input_dir docs/ \
             --output_html docs/index.html \
-            --group_by month
 
       - name: Commit changes to main branch
         run: |
