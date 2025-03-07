@@ -50,7 +50,7 @@ jobs:
           # Generate HTML
           python scripts/generate_html.py \
             --input_csv "data/weekly_reports/epmc_${START_DATE}_to_${END_DATE}.csv" \
-            --output_html "docs/epmc_${START_DATE}_to_${END_DATE}.html"
+            --output_html "docs/weekly_reports/epmc_${START_DATE}_to_${END_DATE}.html"
 
           # Update directory index
           python scripts/generate_directory.py \
