@@ -1,0 +1,4614 @@
+{
+  "start_date": "2025-03-03",
+  "end_date": "2025-03-10",
+  "records_fetched": 16,
+  "articles": [
+    {
+      "id": "40053788",
+      "source": "MED",
+      "pmid": "40053788",
+      "doi": "10.2196/63279",
+      "title": "Testing a Dashboard Intervention for Tracking Digital Social Media Activity in Clinical Care of Individuals With Mood and Anxiety Disorders: Protocol and Design Considerations for a Pragmatic Randomized Trial. ",
+      "authorString": "Nesbitt B, Virgadamo D, Aguirre C, DeCamp M, Dredze M, Harrigian K, Lhaksampa T, Meuchel JM, Meyer AM, Walker A, Zirikly A, Chisolm MS, Zandi PP, Miller L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nesbitt B",
+            "firstName": "Brittany",
+            "lastName": "Nesbitt",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-5821-6560"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kennedy Krieger Institute, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Virgadamo D",
+            "firstName": "Danielle",
+            "lastName": "Virgadamo",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0003-6366-9115"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kennedy Krieger Institute, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Aguirre C",
+            "firstName": "Carlos",
+            "lastName": "Aguirre",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3570-2032"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "DeCamp M",
+            "firstName": "Matthew",
+            "lastName": "DeCamp",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9371-8729"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Colorado Anschutz Medical Campus, Aurora, CO, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dredze M",
+            "firstName": "Mark",
+            "lastName": "Dredze",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0422-2474"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Harrigian K",
+            "firstName": "Keith",
+            "lastName": "Harrigian",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9483-8469"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lhaksampa T",
+            "firstName": "Tenzin",
+            "lastName": "Lhaksampa",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1272-1329"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meuchel JM",
+            "firstName": "Jennifer M",
+            "lastName": "Meuchel",
+            "initials": "JM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5648-5973"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Johns Hopkins University School of Medicine, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meyer AM",
+            "firstName": "Aja M",
+            "lastName": "Meyer",
+            "initials": "AM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0006-9084-6895"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Johns Hopkins All Children's Hospital, St. Petersburg, FL, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Walker A",
+            "firstName": "Alex",
+            "lastName": "Walker",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0522-3719"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Johns Hopkins University School of Medicine, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zirikly A",
+            "firstName": "Ayah",
+            "lastName": "Zirikly",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8441-1741"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chisolm MS",
+            "firstName": "Margaret S",
+            "lastName": "Chisolm",
+            "initials": "MS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7424-919X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Johns Hopkins University School of Medicine, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zandi PP",
+            "firstName": "Peter P",
+            "lastName": "Zandi",
+            "initials": "PP",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8423-2623"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Johns Hopkins University School of Medicine, Baltimore, MD, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Miller L",
+            "firstName": "Leslie",
+            "lastName": "Miller",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9199-1174"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Johns Hopkins University School of Medicine, Baltimore, MD, United States."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5648-5973"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7424-919X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8423-2623"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9483-8469"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0422-2474"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0522-3719"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1272-1329"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3570-2032"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8441-1741"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9199-1174"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9371-8729"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-5821-6560"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0003-6366-9115"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0006-9084-6895"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "volume": "14",
+        "journalIssueId": 3911777,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "JMIR research protocols",
+          "medlineAbbreviation": "JMIR Res Protoc",
+          "essn": "1929-0748",
+          "issn": "1929-0748",
+          "isoabbreviation": "JMIR Res Protoc",
+          "nlmid": "101599504"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e63279",
+      "abstractText": "Mood and anxiety disorders are prevalent mental health diagnoses. Numerous studies have shown that measurement-based care, which is used to monitor patient symptoms, functioning, and treatment progress and help guide clinical decisions and collaboration on treatment goals, can improve outcomes in patients with these disorders. Including digital information regarding patients' electronic communications and social media activity is an innovative approach to augmenting measurement-based care. Recent data indicate interest and willingness from both mental health clinicians and patients to share this type of digital information in treatment sessions. However, the clinical benefit of systematically doing this has been minimally evaluated. This study aims to develop an electronic dashboard for tracking patients' digital social activity and a protocol for a pragmatic randomized trial to test the feasibility and efficacy of using the dashboard in real-world clinical care of patients with depression or anxiety disorders. We developed a personalized electronic dashboard that tracks patients' electronic communications and social media activity, visualizes data on these interactions through key graphics and figures, and provides a tool that can be readily integrated into routine clinical care for use by clinicians and patients during treatment sessions. We then designed a randomized trial to evaluate the feasibility and effectiveness of using the electronic dashboard in real-world care compared to treatment as usual. The trial included patients aged \u226512 years with a mood or anxiety disorder who were receiving treatment in outpatient psychiatry clinics in the Johns Hopkins Health System and the Kennedy Krieger Institute. The primary outcome includes changes in patient-rated depression symptoms. Secondary outcomes include changes in patient-rated anxiety symptoms and overall functioning. Exploratory analyses examine the impact of the intervention on measures of therapeutic alliance and the detection of clinically actionable targets. We successfully developed an electronic dashboard for tracking patients' electronic communications and social media activity, and we implemented a protocol for evaluating the feasibility and efficacy of using the dashboard in routine care for mood or anxiety disorders. The protocol was approved by the Johns Hopkins University School of Medicine Institutional Review Board. In this study, we report the technological, ethical, and pragmatic considerations in developing the dashboard and testing it in a real-world setting. The integration of an electronic dashboard to monitor digital social activity in mental health care treatment is novel. This study examines the feasibility and effectiveness of the dashboard and the challenges in implementing this protocol. The lessons learned from developing and implementing the study will inform ongoing discussions about the value of gathering collateral information on patients' digital social activity and how to do so in a way that is acceptable and clinically effective. ClinicalTrials.gov NCT03925038; https://clinicaltrials.gov/study/NCT03925038. DERR1-10.2196/63279.",
+      "affiliation": "Kennedy Krieger Institute, Baltimore, MD, United States.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Anxiety Disorders",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Mood Disorders",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Social Media"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/63279"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-07",
+      "dateOfCreation": "2025-03-07",
+      "firstIndexDate": "2025-03-08",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-05",
+      "firstPublicationDate": "2025-03-05"
+    },
+    {
+      "id": "40053759",
+      "source": "MED",
+      "pmid": "40053759",
+      "doi": "10.2196/52119",
+      "title": "Building and Developing a Tool (PANDEM-2 Dashboard) to Strengthen Pandemic Management: Participatory Design Study. ",
+      "authorString": "Tighe C, Ngongalah L, Sent\u00eds A, Orchard F, Pacurar GA, Hayes C, Hayes JS, Toader A, Connolly MA.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tighe C",
+            "firstName": "Carlos",
+            "lastName": "Tighe",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5934-9552"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Insight, SFI Research Centre for Data Analytics, University of Galway, Galway, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ngongalah L",
+            "firstName": "Lem",
+            "lastName": "Ngongalah",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6920-7622"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Trilateral Research Ltd, London, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sent\u00eds A",
+            "firstName": "Alexis",
+            "lastName": "Sent\u00eds",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8132-5645"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Epidemiology Department, Epiconcept, Paris, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Orchard F",
+            "firstName": "Francisco",
+            "lastName": "Orchard",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5793-3301"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "IT Department, Epiconcept, Paris, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pacurar GA",
+            "firstName": "Gheorghe-Aurel",
+            "lastName": "Pacurar",
+            "initials": "GA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0000-7897-9392"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "PMO, Modus Create, Cluj Napoca, Romania."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hayes C",
+            "firstName": "Conor",
+            "lastName": "Hayes",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9152-4138"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Computer Science, University of Galway, Galway, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hayes JS",
+            "firstName": "Jessica S",
+            "lastName": "Hayes",
+            "initials": "JS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2443-1895"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Health Sciences, University of Galway, Galway, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Toader A",
+            "firstName": "Adrian",
+            "lastName": "Toader",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0005-1118-2385"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Enterprise Engineering, Modus Create, Cluj Napoca, Romania."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Connolly MA",
+            "firstName": "M\u00e1ire A",
+            "lastName": "Connolly",
+            "initials": "MA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4322-2837"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Health Sciences, University of Galway, Galway, Ireland."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5793-3301"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6920-7622"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5934-9552"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8132-5645"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9152-4138"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2443-1895"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4322-2837"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0000-7897-9392"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0005-1118-2385"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "volume": "11",
+        "journalIssueId": 3911778,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "JMIR public health and surveillance",
+          "medlineAbbreviation": "JMIR Public Health Surveill",
+          "essn": "2369-2960",
+          "issn": "2369-2960",
+          "isoabbreviation": "JMIR Public Health Surveill",
+          "nlmid": "101669345"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e52119",
+      "abstractText": "The COVID-19 pandemic exposed challenges in pandemic management, particularly in real-time data sharing and effective decision-making. Data protection concerns and the lack of data interoperability and standardization hindered the collection, analysis, and interpretation of critical information. Effective data visualization and customization are essential to facilitate decision-making. This study describes the development of the PANDEM-2 dashboard, a system providing a standardized and interactive platform for decision-making in pandemic management. It outlines the participatory approaches used to involve expert end users in its development and addresses key considerations of privacy, data protection, and ethical and social issues. Development was informed by a review of 25 publicly available COVID-19 dashboards, leading to the creation of a visualization catalog. User requirements were gathered through workshops and consultations with 20 experts from various health care and public health professions in 13 European Union countries. These were further refined by mapping variables and indicators required to fulfill the identified needs. Through a participatory design process, end users interacted with a preprototype platform, explored potential interface designs, and provided feedback to refine the system's components. Potential privacy, data protection, and ethical and social risks associated with the technology, along with mitigation strategies, were identified through an iterative impact assessment. Key variables incorporated into the PANDEM-2 dashboard included case rates, number of deaths, mortality rates, hospital resources, hospital admissions, testing, contact tracing, and vaccination uptake. Cases, deaths, and vaccination uptake were prioritized as the most relevant and readily available variables. However, data gaps, particularly in contact tracing and mortality rates, highlighted the need for better data collection and reporting mechanisms. User feedback emphasized the importance of diverse data visualization formats combining different data types, as well as analyzing data across various time frames. Users also expressed interest in generating custom visualizations and reports, especially on the impact of government interventions. Participants noted challenges in data reporting, such as inconsistencies in reporting levels, time intervals, the need for standardization between member states, and General Data Protection Regulation concerns for data sharing. Identified risks included ethical concerns (accessibility, user autonomy, responsible use, transparency, and accountability), privacy and data protection (security and access controls and data reidentification), and social issues (unintentional bias, data quality and accuracy, dependency on technology, and collaborative development). Mitigation measures focused on designing user-friendly interfaces, implementing robust security protocols, and promoting cross-member state collaboration. The PANDEM-2 dashboard provides an adaptable, user-friendly platform for pandemic preparedness and response. Our findings highlight the critical role of data interoperability, cross-border collaboration, and custom IT tools in strengthening future health crisis management. They also offer valuable insights into the challenges and opportunities in developing IT solutions to support pandemic preparedness.",
+      "affiliation": "Insight, SFI Research Centre for Data Analytics, University of Galway, Galway, Ireland.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Information Dissemination",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Pandemics",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PC",
+                  "qualifierName": "prevention & control",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "COVID-19",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EP",
+                  "qualifierName": "epidemiology",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "PC",
+                  "qualifierName": "prevention & control",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/52119"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-07",
+      "dateOfCreation": "2025-03-07",
+      "firstIndexDate": "2025-03-08",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-05",
+      "firstPublicationDate": "2025-03-05"
+    },
+    {
+      "id": "40043189",
+      "source": "MED",
+      "pmid": "40043189",
+      "doi": "10.1093/ijpp/riaf004",
+      "title": "A mixed methods protocol for an impact and implementation evaluation of the Pharmacy First Services for management of common conditions in England.",
+      "authorString": "Glover RE, Lalani M, Sonnex K, Allen T, Anderson C, Ashiru-Oredope D, Avery A, Coupland C, Elliott R, Goulding J, Higgins H, Johnson S, Mackenna B, Muller-Pebody B, O'Neill S, Pacho A, Taylor A, Thornley T, Mays N.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Glover RE",
+            "firstName": "Rebecca E",
+            "lastName": "Glover",
+            "initials": "RE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9150-9977"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Service Research and Policy, London School of Hygiene & Tropical Medicine, 15-17 Tavistock Place, London WC1H 9SH, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lalani M",
+            "firstName": "Mirza",
+            "lastName": "Lalani",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7851-9062"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Service Research and Policy, London School of Hygiene & Tropical Medicine, 15-17 Tavistock Place, London WC1H 9SH, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sonnex K",
+            "firstName": "Kimberley",
+            "lastName": "Sonnex",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6799-8985"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Pharmacy, University Park,\u00a0University of Nottingham, Nottingham NG7 2RD, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Allen T",
+            "firstName": "Thomas",
+            "lastName": "Allen",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Manchester Centre for Health Economics, Division of Population Health, Health Services Research & Primary Care, University of Manchester, Manchester M13 9PL, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Anderson C",
+            "firstName": "Claire",
+            "lastName": "Anderson",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Pharmacy, University Park,\u00a0University of Nottingham, Nottingham NG7 2RD, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ashiru-Oredope D",
+            "firstName": "Diane",
+            "lastName": "Ashiru-Oredope",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9579-2028"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "United Kingdom Health Security Agency, 10 South Colonnade, Canary Wharf,\u00a0London E14 4PU, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Avery A",
+            "firstName": "Anthony",
+            "lastName": "Avery",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Academic Primary Care, School of Medicine, University Park, University of Nottingham, Nottingham NG7 2RD, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Coupland C",
+            "firstName": "Carol",
+            "lastName": "Coupland",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Academic Primary Care, School of Medicine, University Park, University of Nottingham, Nottingham NG7 2RD, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Elliott R",
+            "firstName": "Rachel",
+            "lastName": "Elliott",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3650-0168"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Manchester Centre for Health Economics, Division of Population Health, Health Services Research & Primary Care, University of Manchester, Manchester M13 9PL, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Goulding J",
+            "firstName": "James",
+            "lastName": "Goulding",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "N/Lab, Nottingham University Business School, Jubilee Campus,\u00a0Nottingham NG8 1BB, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Higgins H",
+            "firstName": "Hannah",
+            "lastName": "Higgins",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9115-0992"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "United Kingdom Health Security Agency, 10 South Colonnade, Canary Wharf,\u00a0London E14 4PU, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Johnson S",
+            "firstName": "Stacy",
+            "lastName": "Johnson",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Health Sciences, University of Nottingham Medical School, Queen's Medical Centre,\u00a0Nottingham\u00a0NG7 2HA, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mackenna B",
+            "firstName": "Brian",
+            "lastName": "Mackenna",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Bennett Institute for Applied Data Science, Nuffield Dept of Primary Care Health Sciences, Radcliffe Primary Care Building, Radcliffe Observatory Quarter Woodstock Rd,\u00a0University of Oxford, Oxford OX2 6GG, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Muller-Pebody B",
+            "firstName": "Berit",
+            "lastName": "Muller-Pebody",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "United Kingdom Health Security Agency, 10 South Colonnade, Canary Wharf,\u00a0London E14 4PU, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "O'Neill S",
+            "firstName": "Stephen",
+            "lastName": "O'Neill",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Service Research and Policy, London School of Hygiene & Tropical Medicine, 15-17 Tavistock Place, London WC1H 9SH, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pacho A",
+            "firstName": "Agata",
+            "lastName": "Pacho",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Service Research and Policy, London School of Hygiene & Tropical Medicine, 15-17 Tavistock Place, London WC1H 9SH, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Taylor A",
+            "firstName": "Amelia",
+            "lastName": "Taylor",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Academic Primary Care, School of Medicine, University Park, University of Nottingham, Nottingham NG7 2RD, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Thornley T",
+            "firstName": "Tracey",
+            "lastName": "Thornley",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Pharmacy, University Park,\u00a0University of Nottingham, Nottingham NG7 2RD, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mays N",
+            "firstName": "Nicholas",
+            "lastName": "Mays",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Service Research and Policy, London School of Hygiene & Tropical Medicine, 15-17 Tavistock Place, London WC1H 9SH, United Kingdom."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6799-8985"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7851-9062"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9115-0992"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9150-9977"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9579-2028"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3650-0168"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3910250,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "The International journal of pharmacy practice",
+          "medlineAbbreviation": "Int J Pharm Pract",
+          "essn": "2042-7174",
+          "issn": "0961-7671",
+          "isoabbreviation": "Int J Pharm Pract",
+          "nlmid": "9204243"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "riaf004",
+      "abstractText": "<h4>Objectives</h4>In response to high levels of demand for primary medical services in England, characterized by longer appointment waiting times and delayed referrals, the Government developed its National Health Service (NHS) Primary Care Recovery Plan. A key component of the plan is Pharmacy First (PF), which involves participating community pharmacies supplying prescription-only medicine after consultation with a pharmacist for seven common conditions: earache, uncomplicated urinary tract infections in women, sore throat, sinusitis, impetigo, shingles, and infected insect bites. The study aims to evaluate the implementation of the PF service and its impact on the volume of prescribing, case mix of General Practitioner consultations, accident and emergency department and other hospital use, equity of access, and cost for different groups of patients in different contexts, as well as its acceptability and fidelity.<h4>Methods</h4>A 36-month, mixed methods evaluation with five elements, namely evidence synthesis, semi-structured interviews, focus groups, quantitative analysis of impacts before and after implementation (e.g. using interrupted time series analysis) using routine data, and an economic evaluation. Findings will be synthesized and interpreted using the Consolidated Framework for Implementation Research supplemented by Proctor's Implementation Outcomes Framework.<h4>Conclusions</h4>The evaluation should have service level, policy, professional, and research impact both in England and beyond. This includes generating evidence to show: whether PF contributes to improving primary healthcare access, assessing the quality of antimicrobial use, identifying the scope for refinements to PF, and, overall, informing better implementation of PF. The findings will also provide robust evidence to enable policymakers to determine how to enhance the role of community pharmacy in England in the future. Furthermore, the evaluation will develop a data dashboard, and the methods and codes used to interrogate it (though not the patient data), will be made publicly available that could support other similar evaluations in England and internationally.",
+      "affiliation": "Department of Health Service Research and Policy, London School of Hygiene & Tropical Medicine, 15-17 Tavistock Place, London WC1H 9SH, United Kingdom.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "NIHR160217",
+            "agency": "NIHR Health and Social Care Delivery Research Programme",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "England",
+          "Community Pharmacy",
+          "Mixed Methods",
+          "Policy Evaluation"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1093/ijpp/riaf004"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1093/ijpp/riaf004"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-05",
+      "firstIndexDate": "2025-03-06",
+      "dateOfRevision": "2025-03-05",
+      "electronicPublicationDate": "2025-03-05",
+      "firstPublicationDate": "2025-03-05"
+    },
+    {
+      "id": "40045095",
+      "source": "MED",
+      "pmid": "40045095",
+      "doi": "10.1186/s41205-025-00254-1",
+      "title": "Generalizable deep learning framework for 3D medical image segmentation using limited training data.",
+      "authorString": "Ekman T, Barakat A, Heiberg E.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ekman T",
+            "firstName": "Tobias",
+            "lastName": "Ekman",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging and Physiology, Lund University, Lund, Sweden. tobias.ekman88@gmail.com."
+                },
+                {
+                  "affiliation": "Department of Medical Imaging and Physiology, Sk\u00e5ne University Hospital, Lund, Sweden. tobias.ekman88@gmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Barakat A",
+            "firstName": "Arthur",
+            "lastName": "Barakat",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging and Physiology, Lund University, Lund, Sweden."
+                },
+                {
+                  "affiliation": "Department of Medical Imaging and Physiology, Sk\u00e5ne University Hospital, Lund, Sweden."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Heiberg E",
+            "firstName": "Einar",
+            "lastName": "Heiberg",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging and Physiology, Lund University, Lund, Sweden."
+                },
+                {
+                  "affiliation": "Department of Medical Imaging and Physiology, Sk\u00e5ne University Hospital, Lund, Sweden."
+                },
+                {
+                  "affiliation": "Wallenberg Center for Molecular Medicine, Lund University, Lund, Sweden."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "11",
+        "journalIssueId": 3910536,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "3D printing in medicine",
+          "medlineAbbreviation": "3D Print Med",
+          "essn": "2365-6271",
+          "issn": "2365-6271",
+          "isoabbreviation": "3D Print Med",
+          "nlmid": "101721758"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "9",
+      "abstractText": "Medical image segmentation is a critical component in a wide range of clinical applications, enabling the identification and delineation of anatomical structures. This study focuses on segmentation of anatomical structures for 3D printing, virtual surgery planning, and advanced visualization such as virtual or augmented reality. Manual segmentation methods are labor-intensive and can be subjective, leading to inter-observer variability. Machine learning algorithms, particularly deep learning models, have gained traction for automating the process and are now considered state-of-the-art. However, deep-learning methods typically demand large datasets for fine-tuning and powerful graphics cards, limiting their applicability in resource-constrained settings. In this paper we introduce a robust deep learning framework for 3D medical segmentation that achieves high performance across a range of medical segmentation tasks, even when trained on a small number of subjects. This approach overcomes the need for extensive data and heavy GPU resources, facilitating adoption within healthcare systems. The potential is exemplified through six different clinical applications involving orthopedics, orbital segmentation, mandible CT, cardiac CT, fetal MRI and lung CT. Notably, a small set of hyper-parameters and augmentation settings produced segmentations with an average Dice score of 92% (SD = \u00b10.06) across a diverse range of organs and tissues.",
+      "affiliation": "Department of Medical Imaging and Physiology, Lund University, Lund, Sweden. tobias.ekman88@gmail.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2021-04855",
+            "agency": "Vetenskapsr\u00e5det",
+            "orderIn": 0
+          },
+          {
+            "grantId": "20230720",
+            "agency": "Swedish Heart and Lung foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Artificial intelligence",
+          "Segmentation",
+          "Machine Learning",
+          "3D Printing",
+          "Deep Learning"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s41205-025-00254-1"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-05",
+      "firstIndexDate": "2025-03-06",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-06",
+      "firstPublicationDate": "2025-03-06"
+    },
+    {
+      "id": "40047946",
+      "source": "MED",
+      "pmid": "40047946",
+      "doi": "10.1007/s11934-025-01258-4",
+      "title": "Novel Techniques in Antenatal Imaging of Spinal Dysraphisms.",
+      "authorString": "Royal C, Chertin L, Alfawzan M, Killian ME.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Royal C",
+            "firstName": "Charis",
+            "lastName": "Royal",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Urology, Division of Pediatric Urology, Le Bonheur Children's Hospital, 50 N Dunlap Street, Memphis, TN, 38103, USA. croyal7@uthsc.edu."
+                },
+                {
+                  "affiliation": "University of Tennessee Health Sciences Center, 50 N Dunlap Street, Memphis, TN, 38103, USA. croyal7@uthsc.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chertin L",
+            "firstName": "Leon",
+            "lastName": "Chertin",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Urology, Division of Pediatric Urology, Le Bonheur Children's Hospital, 50 N Dunlap Street, Memphis, TN, 38103, USA."
+                },
+                {
+                  "affiliation": "University of Tennessee Health Sciences Center, 50 N Dunlap Street, Memphis, TN, 38103, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alfawzan M",
+            "firstName": "Mohammed",
+            "lastName": "Alfawzan",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Urology, Division of Pediatric Urology, Le Bonheur Children's Hospital, 50 N Dunlap Street, Memphis, TN, 38103, USA."
+                },
+                {
+                  "affiliation": "University of Tennessee Health Sciences Center, 50 N Dunlap Street, Memphis, TN, 38103, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Killian ME",
+            "firstName": "Mary Elaine",
+            "lastName": "Killian",
+            "initials": "ME",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Urology, Division of Pediatric Urology, Le Bonheur Children's Hospital, 50 N Dunlap Street, Memphis, TN, 38103, USA. mkillia3@uthsc.edu."
+                },
+                {
+                  "affiliation": "University of Tennessee Health Sciences Center, 50 N Dunlap Street, Memphis, TN, 38103, USA. mkillia3@uthsc.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "26",
+        "journalIssueId": 3907251,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Current urology reports",
+          "medlineAbbreviation": "Curr Urol Rep",
+          "essn": "1534-6285",
+          "issn": "1527-2737",
+          "isoabbreviation": "Curr Urol Rep",
+          "nlmid": "100900943"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "31",
+      "abstractText": "<h4>Purpose of review</h4>This review examines the imaging techniques for diagnosing spinal dysraphisms (SD), focusing on advancements in prenatal detection.<h4>Recent findings</h4>Prenatal ultrasound (US) is the first-line tool for detecting spinal dysraphisms, including myelomeningocele. While US is effective for early detection, it has limitations in fully characterizing defects, particularly due to factors like fetal positioning. To address these, advanced techniques such as 3D ultrasound and AI-driven algorithms have improved diagnostic accuracy. Magnetic resonance imaging (MRI) remains critical for a comprehensive evaluation, providing detailed visualization of soft tissue anomalies and assessing lesion severity. Prenatal ultrasound is essential for initial screening but often complemented by MRI for a thorough diagnosis. Innovations in imaging technologies, including AI and 3D ultrasound, promise to enhance early detection and clinical management of spinal dysraphisms.",
+      "affiliation": "Department of Urology, Division of Pediatric Urology, Le Bonheur Children's Hospital, 50 N Dunlap Street, Memphis, TN, 38103, USA. croyal7@uthsc.edu.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Spinal Dysraphism",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Imaging, Three-Dimensional"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Magnetic Resonance Imaging",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Ultrasonography, Prenatal",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Prenatal Diagnosis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pregnancy"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Neural tube defects",
+          "Magnetic Resonance Imaging",
+          "Spina Bifida",
+          "Spinal Dysraphism",
+          "Prenatal Ultrasound",
+          "3D ultrasound"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11934-025-01258-4"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-06",
+      "dateOfCreation": "2025-03-06",
+      "firstIndexDate": "2025-03-07",
+      "dateOfRevision": "2025-03-08",
+      "electronicPublicationDate": "2025-03-06",
+      "firstPublicationDate": "2025-03-06"
+    },
+    {
+      "id": "40044669",
+      "source": "MED",
+      "pmid": "40044669",
+      "doi": "10.1038/s41467-025-57446-w",
+      "title": "Monitoring mRNA vaccine antigen expression in vivo using PET/CT.",
+      "authorString": "Blizard GS, Dwivedi G, Pan YG, Hou C, Etersque JM, Said H, Chevrier A, Lavertu M, Ni H, Davis B, Tam Y, Cao Q, Mach RH, Weissman D, Alameh MG, Sellmyer MA.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Blizard GS",
+            "firstName": "Gabrielle S",
+            "lastName": "Blizard",
+            "initials": "GS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8861-4039"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                },
+                {
+                  "affiliation": "Department of Biochemistry and Biophysics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dwivedi G",
+            "firstName": "Garima",
+            "lastName": "Dwivedi",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Infectious Diseases, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                },
+                {
+                  "affiliation": "Penn Institute for RNA Innovation, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pan YG",
+            "firstName": "Yi-Gen",
+            "lastName": "Pan",
+            "initials": "YG",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2427-2759"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Infectious Diseases, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hou C",
+            "firstName": "Catherine",
+            "lastName": "Hou",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8905-8492"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Etersque JM",
+            "firstName": "Jean M",
+            "lastName": "Etersque",
+            "initials": "JM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1206-2239"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                },
+                {
+                  "affiliation": "Department of Biochemistry and Biophysics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Said H",
+            "firstName": "Hooda",
+            "lastName": "Said",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, Children's Hospital of Philadelphia, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chevrier A",
+            "firstName": "Anik",
+            "lastName": "Chevrier",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Chemical Engineering Department, Polytechnique Montreal, Montreal, QC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lavertu M",
+            "firstName": "Marc",
+            "lastName": "Lavertu",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Chemical Engineering Department, Polytechnique Montreal, Montreal, QC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ni H",
+            "firstName": "Houping",
+            "lastName": "Ni",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Infectious Diseases, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                },
+                {
+                  "affiliation": "Penn Institute for RNA Innovation, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Davis B",
+            "firstName": "Benjamin",
+            "lastName": "Davis",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Infectious Diseases, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                },
+                {
+                  "affiliation": "Penn Institute for RNA Innovation, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tam Y",
+            "firstName": "Ying",
+            "lastName": "Tam",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4083-5251"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Acuitas Therapeutics, Vancouver, BC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cao Q",
+            "firstName": "Quy",
+            "lastName": "Cao",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biostatistics, Epidemiology, and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mach RH",
+            "firstName": "Robert H",
+            "lastName": "Mach",
+            "initials": "RH",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7645-2869"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Weissman D",
+            "firstName": "Drew",
+            "lastName": "Weissman",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Infectious Diseases, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                },
+                {
+                  "affiliation": "Penn Institute for RNA Innovation, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alameh MG",
+            "firstName": "Mohamad-Gabriel",
+            "lastName": "Alameh",
+            "initials": "MG",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5672-6930"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Infectious Diseases, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. mg.alameh@pennmedicine.upenn.edu."
+                },
+                {
+                  "affiliation": "Penn Institute for RNA Innovation, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. mg.alameh@pennmedicine.upenn.edu."
+                },
+                {
+                  "affiliation": "Department of Pathology, Children's Hospital of Philadelphia, Philadelphia, PA, USA. mg.alameh@pennmedicine.upenn.edu."
+                },
+                {
+                  "affiliation": "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. mg.alameh@pennmedicine.upenn.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sellmyer MA",
+            "firstName": "Mark A",
+            "lastName": "Sellmyer",
+            "initials": "MA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1407-1905"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. mark.sellmyer@pennmedicine.upenn.edu."
+                },
+                {
+                  "affiliation": "Department of Biochemistry and Biophysics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. mark.sellmyer@pennmedicine.upenn.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8861-4039"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8905-8492"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1206-2239"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1407-1905"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4083-5251"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5672-6930"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7645-2869"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2427-2759"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "16",
+        "journalIssueId": 3906903,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Nature communications",
+          "medlineAbbreviation": "Nat Commun",
+          "essn": "2041-1723",
+          "issn": "2041-1723",
+          "isoabbreviation": "Nat Commun",
+          "nlmid": "101528555"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "2234",
+      "abstractText": "Noninvasive visualization of the distribution and persistence of mRNA vaccine antigen expression in mammalian systems has implications for the development and evaluation of future mRNA vaccines. Here, we genetically fuse E. coli dihydrofolate reductase (eDHFR) to the delta furin diproline modified SARS-CoV-2 spike glycoprotein (S2P<sup>\u2206f</sup>) mRNA vaccine and image its expression in female mice and male non-human primates using [<sup>18</sup>F]fluoropropyl-trimethoprim ([<sup>18</sup>F]FP-TMP). Whole body positron emission tomography (PET) imaging revealed transient expression of the vaccine antigen in the injection site and draining lymph nodes (dLNs). Fusion of eDHFR did not impact S2P immunogenicity and no humoral or cellular immune response was detected against eDHFR in either species. In this work, we show that eDHFR can be used as an mRNA-encoded PET reporter gene to monitor the spatiotemporal dynamics of mRNA vaccine antigen expression in vivo. This technique could be applied in clinical translation of future mRNA vaccines or therapeutics.",
+      "affiliation": "Department of Radiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "DP5-OD26386",
+            "agency": "U.S. Department of Health & Human Services | NIH | NIH Office of the Director (OD)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01GM150804",
+            "agency": "U.S. Department of Health & Human Services | NIH | National Institute of General Medical Sciences (NIGMS)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "CRI5589",
+            "agency": "Cancer Research Institute (CRI)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "CAMS",
+            "agency": "Burroughs Wellcome Fund (BWF)",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Lymph Nodes",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mice"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Escherichia coli",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tetrahydrofolate Dehydrogenase",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Vaccines, Synthetic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "RNA, Messenger",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genes, Reporter"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Spike Glycoprotein, Coronavirus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Positron Emission Tomography Computed Tomography",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "COVID-19",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PC",
+                  "qualifierName": "prevention & control",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "SARS-CoV-2",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "COVID-19 Vaccines",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "mRNA Vaccines"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "RNA, Messenger",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Tetrahydrofolate Dehydrogenase",
+            "registryNumber": "EC 1.5.1.3"
+          },
+          {
+            "name": "Vaccines, Synthetic",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Spike Glycoprotein, Coronavirus",
+            "registryNumber": "0"
+          },
+          {
+            "name": "spike protein, SARS-CoV-2",
+            "registryNumber": "0"
+          },
+          {
+            "name": "COVID-19 Vaccines",
+            "registryNumber": "0"
+          },
+          {
+            "name": "mRNA Vaccines",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41467-025-57446-w"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-05",
+      "dateOfCreation": "2025-03-05",
+      "firstIndexDate": "2025-03-06",
+      "dateOfRevision": "2025-03-06",
+      "electronicPublicationDate": "2025-03-06",
+      "firstPublicationDate": "2025-03-06"
+    },
+    {
+      "id": "40029537",
+      "source": "MED",
+      "pmid": "40029537",
+      "doi": "10.1007/s13246-025-01529-x",
+      "title": "Feasibility of the 3D printer to design an intracavitary applicator for the treatment of cervical cancer patients with high dose rate brachytherapy system.",
+      "authorString": "Mourya A, Mohan Aggarwal L, Choudhary S, Sharma N, Mishra R, Prakash C, Pratap Shahi U.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Mourya A",
+            "firstName": "Ankur",
+            "lastName": "Mourya",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiotherapy & Radiation Medicine, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India."
+                },
+                {
+                  "affiliation": "Department of Radiotherapy, State Cancer Institute, Government Cancer Hospital, Netaji Subhash Chandra Bose Medical College, Jabalpur, Madhya Pradesh, 482003, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mohan Aggarwal L",
+            "firstName": "Lalit",
+            "lastName": "Mohan Aggarwal",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6699-9262"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiotherapy & Radiation Medicine, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India. lalitm@bhu.ac.in."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Choudhary S",
+            "firstName": "Sunil",
+            "lastName": "Choudhary",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiotherapy & Radiation Medicine, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sharma N",
+            "firstName": "Neeraj",
+            "lastName": "Sharma",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Indian Institute of Technology, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mishra R",
+            "firstName": "Ritusha",
+            "lastName": "Mishra",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiotherapy & Radiation Medicine, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Prakash C",
+            "firstName": "Chandra",
+            "lastName": "Prakash",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiotherapy & Radiation Medicine, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pratap Shahi U",
+            "firstName": "Uday",
+            "lastName": "Pratap Shahi",
+            "initials": "U",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiotherapy & Radiation Medicine, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6699-9262"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3908203,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Physical and engineering sciences in medicine",
+          "medlineAbbreviation": "Phys Eng Sci Med",
+          "essn": "2662-4737",
+          "issn": "2662-4729",
+          "isoabbreviation": "Phys Eng Sci Med",
+          "nlmid": "101760671"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Designing an intracavitary brachytherapy applicator with a 3D printer using Polyamide12 for Tandem-Ovoid configuration. Further, to evaluate its feasibility and initial clinical use for the treatment of cervical cancer patients with a High Dose Rate (HDR) brachytherapy system. SolidWorks, Computer Aided design software was used for the design of the intracavitary brachytherapy applicator. Hewlett-Packard Jet Fusion 4200 was used for printing different parts of applicators with Polyamide12 (PA12) material. Radiograph and CT images of printed material parts were taken in the air and water medium to see the visualization. Before use in the patient, necessary quality assurance tests were carried out by coupling it with a microSelectron HDR machine. X-ray markers were used to visualize the source path inside the uterine and vaginal tandems. Physical and clinical evaluations were performed with a prototype 3D-printed applicator to check its suitability for clinical use. Final Applicator design was created from multiple hit and trial methods in SolidWorks. Printed PA12 of ovoid parts having a mean Hounsfield unit (HU) value of -\u00a075 HU. Quality tests on the PA12 intracavitary applicator performed with the microSelectron HDR brachytherapy machine were passed. The chances of uterine perforation were less due to the semi-rigidity of the PA12 applicator. The newly designed T-O-based applicator and dummy marker do not produce any artifacts on the CT images. A low-cost flexible plastic applicator was developed that allowed the user to guide the tandem into the uterus of a patient. The developed PA12 intracavitary brachytherapy applicator did not produce artifacts on CT images.",
+      "affiliation": "Department of Radiotherapy & Radiation Medicine, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "TDP/BDTD/65/2021/General",
+            "agency": "Department of Science and Technology, (BDTD programme of YDT Division) (INDIA)",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Medical devices",
+          "3-d Printing",
+          "Gynecologic Brachytherapy",
+          "Brachytherapy Applicator",
+          "Cervical Cancer Brachytherapy",
+          "Powder Bed Fusion Additive",
+          "Brachytherapy Device"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.21203/rs.3.rs-2052596/v1"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s13246-025-01529-x"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-03",
+      "firstIndexDate": "2025-03-03",
+      "dateOfRevision": "2025-03-03",
+      "electronicPublicationDate": "2025-03-03",
+      "firstPublicationDate": "2025-03-03"
+    },
+    {
+      "id": "40038740",
+      "source": "MED",
+      "pmid": "40038740",
+      "doi": "10.1186/s13023-025-03625-3",
+      "title": "Global research dynamics in urea cycle disorders: a bibliometric study highlighting key players and future directions.",
+      "authorString": "Wang Y, Wang X, Zhang H, Zhu B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wang Y",
+            "firstName": "Yan",
+            "lastName": "Wang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, Xijing Hospital, The Fourth Military Medical University, Xi'an, 710032, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang X",
+            "firstName": "Xueer",
+            "lastName": "Wang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, Xijing Hospital, The Fourth Military Medical University, Xi'an, 710032, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang H",
+            "firstName": "Huiqin",
+            "lastName": "Zhang",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, Xijing Hospital, The Fourth Military Medical University, Xi'an, 710032, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhu B",
+            "firstName": "Binhui",
+            "lastName": "Zhu",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2627-796X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, Xijing Hospital, The Fourth Military Medical University, Xi'an, 710032, China. bz13zbh@163.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2627-796X"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "20",
+        "journalIssueId": 3907423,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Orphanet journal of rare diseases",
+          "medlineAbbreviation": "Orphanet J Rare Dis",
+          "essn": "1750-1172",
+          "issn": "1750-1172",
+          "isoabbreviation": "Orphanet J Rare Dis",
+          "nlmid": "101266602"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "101",
+      "abstractText": "<h4>Background</h4>This study aims to explore the research hotspots and trends of urea cycle disorders through bibliometric analysis.<h4>Methods</h4>Using the Web of Science Core Collection as the database, we retrieved literature published from 2007 to 2024. We utilized CiteSpace, VOSviewer, and Bibliometrix R package to conduct a bibliometric visualization analysis, including the number of publications, citation frequency, publishing countries, institutions, journals, authors, references, and keywords.<h4>Results</h4>A total of 926 publications on UCDs were published in 318 journals by 4807 authors at 1494 institutions from 49 countries/regions. The USA had the highest number of publications and citation frequency. The Children's National Health System in the USA published the most literature. The most frequent collaboration was between the USA and Germany. The journal with the most publications was Molecular Genetics and Metabolism. The author with the most publications was Johannes H\u00e4berle. The most frequently cited reference was the 2019 publication of the revised guidelines for the diagnosis and management of UCDs. The identified future research hotspots are expected to focus on \"gene therapy\", \"mutations\" and \"efficacy\".<h4>Conclusion</h4>This study is the first bibliometric analysis of publications in the field of UCDs. These findings suggest that European and American countries dominate UCD research, it is necessary to further strengthen global cooperation in the field of UCDs. Early detection of the disease and emerging therapies, including gene therapy, are likely to be future research hotspots.",
+      "affiliation": "Department of Pediatrics, Xijing Hospital, The Fourth Military Medical University, Xi'an, 710032, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bibliometrics"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Urea Cycle Disorders, Inborn",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Inborn Errors Of Metabolism",
+          "Vosviewer",
+          "Urea Cycle Disorder",
+          "Bibliometric Analysis",
+          "Citespace"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1186/s13023-025-03625-3"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13023-025-03625-3"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-05",
+      "dateOfCreation": "2025-03-04",
+      "firstIndexDate": "2025-03-06",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-04",
+      "firstPublicationDate": "2025-03-04"
+    },
+    {
+      "id": "40051384",
+      "source": "MED",
+      "pmid": "40051384",
+      "doi": "10.1093/jrr/rraf004",
+      "title": "Development of a deep learning-based model to evaluate changes during radiotherapy using cervical cancer digital pathology.",
+      "authorString": "Goto M, Futamura Y, Makishima H, Saito T, Sakamoto N, Iijima T, Tamaki Y, Okumura T, Sakurai T, Sakurai H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Goto M",
+            "firstName": "Masaaki",
+            "lastName": "Goto",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology & Proton Medical Research Center, Institute of Medicine, University of Tsukuba, 2-1-1 Amakubo, Tsubuka, Ibaraki 305-8576, Japan."
+                },
+                {
+                  "affiliation": "Department of Radiation Oncology, Japan Red Cross Medical Center, 4-1-22 Hiroo, Shibuya, Tokyo 150-8935, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Futamura Y",
+            "firstName": "Yasunori",
+            "lastName": "Futamura",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Artificial Intelligence Research, University of Tsukuba, 1-1-1 Tennodai, Tsubuka, Ibaraki 305-8577, Japan."
+                },
+                {
+                  "affiliation": "Department of Computer Science, University of Tsukuba, 1-1-1 Tennodai, Tsubuka, Ibaraki 305-8577, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Makishima H",
+            "firstName": "Hirokazu",
+            "lastName": "Makishima",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology & Proton Medical Research Center, Institute of Medicine, University of Tsukuba, 2-1-1 Amakubo, Tsubuka, Ibaraki 305-8576, Japan."
+                },
+                {
+                  "affiliation": "QST Hospital, National Institute for Quantum Science and Technology, 4-9-1 Anagawa, Inage, Chiba 263-8555, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Saito T",
+            "firstName": "Takashi",
+            "lastName": "Saito",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology & Proton Medical Research Center, Institute of Medicine, University of Tsukuba, 2-1-1 Amakubo, Tsubuka, Ibaraki 305-8576, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sakamoto N",
+            "firstName": "Noriaki",
+            "lastName": "Sakamoto",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic Pathology, Institute of Medicine, University of Tsukuba, 1-1-1 Tennodai, Tsubuka, Ibaraki 305-8575, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Iijima T",
+            "firstName": "Tatsuo",
+            "lastName": "Iijima",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic Pathology, Ibaraki Prefectural Central Hospital, 6528 Koibuchi, Kasama, Ibaraki 309-1793, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tamaki Y",
+            "firstName": "Yoshio",
+            "lastName": "Tamaki",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology, Fukushima Rosai Hospital, 3 Numaziri, Uchigotsuzuramachi, Iwaki, Fukushima 973-8403, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Okumura T",
+            "firstName": "Toshiyuki",
+            "lastName": "Okumura",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology, Ibaraki Prefectural Central Hospital, 6528 Koibuchi, Kasama, Ibaraki 309-1793, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sakurai T",
+            "firstName": "Tetsuya",
+            "lastName": "Sakurai",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Artificial Intelligence Research, University of Tsukuba, 1-1-1 Tennodai, Tsubuka, Ibaraki 305-8577, Japan."
+                },
+                {
+                  "affiliation": "Department of Computer Science, University of Tsukuba, 1-1-1 Tennodai, Tsubuka, Ibaraki 305-8577, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sakurai H",
+            "firstName": "Hideyuki",
+            "lastName": "Sakurai",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology & Proton Medical Research Center, Institute of Medicine, University of Tsukuba, 2-1-1 Amakubo, Tsubuka, Ibaraki 305-8576, Japan."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3910198,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Journal of radiation research",
+          "medlineAbbreviation": "J Radiat Res",
+          "essn": "1349-9157",
+          "issn": "0449-3060",
+          "isoabbreviation": "J Radiat Res",
+          "nlmid": "0376611"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "rraf004",
+      "abstractText": "This study aims to create a deep learning-based classification model for cervical cancer biopsy before and during radiotherapy, visualize the results on whole slide images (WSIs), and explore the clinical significance of obtained features. This study included 95 patients with cervical cancer who received radiotherapy between April 2013 and December 2020. Hematoxylin-eosin stained biopsies were digitized to WSIs and divided into small tiles. Our model adopted the feature extractor of DenseNet121 and the classifier of the support vector machine. About 12\u2009400 tiles were used for training the model and 6000 tiles for testing. The model performance was assessed on a per-tile and per-WSI basis. The resultant probability was defined as radiotherapy status probability (RSP) and its color map was visualized on WSIs. Survival analysis was performed to examine the clinical significance of the RSP. In the test set, the trained model had an area under the receiver operating characteristic curve of 0.76 per-tile and 0.95 per-WSI. In visualization, the model focused on viable tumor components and stroma in tumor biopsies. While survival analysis failed to show the prognostic impact of RSP during treatment, cases with low RSP at diagnosis had prolonged overall survival compared to those with high RSP (P\u2009=\u20090.045). In conclusion, we successfully developed a model to classify biopsies before and during radiotherapy and visualized the result on slide images. Low RSP cases before treatment had a better prognosis, suggesting that tumor morphologic features obtained using the model may be useful for predicting prognosis.",
+      "affiliation": "Department of Radiation Oncology & Proton Medical Research Center, Institute of Medicine, University of Tsukuba, 2-1-1 Amakubo, Tsubuka, Ibaraki 305-8576, Japan.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "19 H03596",
+            "agency": "Ministry of Education, Culture, Sports, Science and Technology of Japan",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Cervical cancer",
+          "Radiation Therapy",
+          "Digital Pathology",
+          "Deep Learning"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1093/jrr/rraf004"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1093/jrr/rraf004"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-07",
+      "firstIndexDate": "2025-03-07",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-07",
+      "firstPublicationDate": "2025-03-07"
+    },
+    {
+      "id": "40051000",
+      "source": "MED",
+      "pmid": "40051000",
+      "doi": "10.1186/s40001-025-02408-7",
+      "title": "Magnetic anchors with line-guided endoscopic full-thickness resection for gastric submucosal tumors. ",
+      "authorString": "Zhang X, Wang H, He C, Xiao Z, Zhang Y, Qu B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhang X",
+            "firstName": "Xueyan",
+            "lastName": "Zhang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gastroenterology, The Second Affiliated Hospital of Harbin Medical University, Harbin, 150086, Heilongjiang, China. zxyzxyhyd@sina.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang H",
+            "firstName": "Hongli",
+            "lastName": "Wang",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gastroenterology, The Second Affiliated Hospital of Harbin Medical University, Harbin, 150086, Heilongjiang, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "He C",
+            "firstName": "Chen",
+            "lastName": "He",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gastroenterology, The Second Affiliated Hospital of Harbin Medical University, Harbin, 150086, Heilongjiang, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xiao Z",
+            "firstName": "Zhenghan",
+            "lastName": "Xiao",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gastroenterology, The Second Affiliated Hospital of Harbin Medical University, Harbin, 150086, Heilongjiang, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang Y",
+            "firstName": "Yanshun",
+            "lastName": "Zhang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Instrument Science and Opto-Electronic Engineering, Beijing University of Aeronautics and Astronautics, Beijing, 100191, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Qu B",
+            "firstName": "Bo",
+            "lastName": "Qu",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gastroenterology, The Second Affiliated Hospital of Harbin Medical University, Harbin, 150086, Heilongjiang, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "30",
+        "journalIssueId": 3906918,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "European journal of medical research",
+          "medlineAbbreviation": "Eur J Med Res",
+          "essn": "2047-783X",
+          "issn": "0949-2321",
+          "isoabbreviation": "Eur J Med Res",
+          "nlmid": "9517857"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "154",
+      "abstractText": "The advantage of endoscopic submucosal dissection (ESD) is the ability to achieve high R0 resection and a low local recurrence rate (Oyama in Gastrointest Endosc Clin N Am 24:201-212, 2014;Cai et al. in Gastrointest Endosc 88:160-167, 2018;). Endoscopic full-thickness resection (EFTR) compensates for the deficiency of ESD, and it can treat more ailments (Aslanian et al. in VideoGIE 4:343-350, 2019). However, due to the requirements of EFTR for endoscopic resection experience and defect closure skills, the operation is relatively difficult, which is the greatest obstacle to the widespread clinical use of EFTR (Chu and Xu in Am J Gastroenterol 115:1972-1973, 2020). Here, we propose a useful method-a magnetic anchor with line guidance (MALG-EFTR). In addition, the device provides satisfactory tissue tension within the submucosa, facilitates visualization of the dissection plane, strengthens counter traction, and reduces the difficulty of surgery during EFTR. MALG-EFTR can effectively prevent the magnetic anchor from falling off or remaining in the abdominal cavity or digestive tract, which facilitates the recovery of specimens. Therefore, this technique might reduce procedure time and increase the stabilization and safety of operations.",
+      "affiliation": "Department of Gastroenterology, The Second Affiliated Hospital of Harbin Medical University, Harbin, 150086, Heilongjiang, China. zxyzxyhyd@sina.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gastric Mucosa",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Stomach Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Endoscopic Mucosal Resection",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IS",
+                  "qualifierName": "instrumentation",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s40001-025-02408-7"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-07",
+      "dateOfCreation": "2025-03-06",
+      "firstIndexDate": "2025-03-07",
+      "dateOfRevision": "2025-03-06",
+      "electronicPublicationDate": "2025-03-06",
+      "firstPublicationDate": "2025-03-06"
+    },
+    {
+      "id": "40053502",
+      "source": "MED",
+      "pmid": "40053502",
+      "doi": "10.1093/jambio/lxaf058",
+      "title": "ADP-MoA-Pa: a platform for screening antibiotic activity and their mechanism of action in Pseudomonas aeruginosa. ",
+      "authorString": "Morante EYV, Nunes VA, Chambergo FS, Spira B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Morante EYV",
+            "firstName": "Estela Yn\u00e9s Valencia",
+            "lastName": "Morante",
+            "initials": "EYV",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Departamento de Microbiologia, Universidade de S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+                },
+                {
+                  "affiliation": "XYZ Molecular Target LTDA, S\u00e3o Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nunes VA",
+            "firstName": "Viviane Abreu",
+            "lastName": "Nunes",
+            "initials": "VA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Escola de Artes, Ci\u00eancias e Humanidades, Universidade de S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chambergo FS",
+            "firstName": "Felipe S",
+            "lastName": "Chambergo",
+            "initials": "FS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Escola de Artes, Ci\u00eancias e Humanidades, Universidade de S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Spira B",
+            "firstName": "Beny",
+            "lastName": "Spira",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Departamento de Microbiologia, Universidade de S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3909850,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Journal of applied microbiology",
+          "medlineAbbreviation": "J Appl Microbiol",
+          "essn": "1365-2672",
+          "issn": "1364-5072",
+          "isoabbreviation": "J Appl Microbiol",
+          "nlmid": "9706280"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "lxaf058",
+      "abstractText": "The emergence of multidrug-resistant bacteria poses a significant threat to global public health. To address this crisis, there is an urgent need to identify and characterize novel antibacterial molecules. This study aimed to develop the ADP-MoA-Pa platform to facilitate the discovery of new antibiotics and provide preliminary insights into their mechanisms of action (MoA). The ADP-MoA-Pa platform enables the simultaneous visualization of antibiotic activity (growth inhibition) alongside one of three classic mechanisms of action in P. aeruginosa: DNA damage/inhibition of DNA replication, protein synthesis inhibition, or cell wall damage. To construct the platform, the promoter regions of recA, ampC and armZ of P. aeruginosa PA14 strain were each amplified and fused to a promoterless luxCDABE operon in vector pUC18T-mini-Tn7T-lux-Gm. The constructs were electrotransformed into strain PA14 where they integrated in the chromosome. Each promoter fusion was activated by the expected antibiotics on plates and in liquid media, thereby demonstrating proof of concept. The armZ:: luxCDABE fusion responded to protein synthesis inhibitors such as macrolides, chloramphenicol, tetracyclines, and aminoglycosides. The ampC:: luxCDABE fusion was induced by \u03b2-lactams, while the recA:: luxCDABE fusion was activated by quinolones and nitrofurantoin. Interestingly, under some conditions, ciprofloxacin also activated ampC and armZ, though to a lesser extent. The ADP-MoA-Pa platform is a low-cost, readily implementable tool with significant potential for high-throughput screening of antimicrobials. It offers a promising avenue for identifying and characterizing novel antibiotics against Pseudomonas aeruginosa and other bacterial species, contributing to the global effort to combat multidrug-resistant pathogens.",
+      "affiliation": "Departamento de Microbiologia, Universidade de S\u00e3o Paulo, S\u00e3o Paulo, Brazil.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1093/jambio/lxaf058"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-07",
+      "firstIndexDate": "2025-03-08",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-07",
+      "firstPublicationDate": "2025-03-07"
+    },
+    {
+      "id": "40038307",
+      "source": "MED",
+      "pmid": "40038307",
+      "doi": "10.1038/s41598-025-85323-5",
+      "title": "Breast cancer prediction based on gene expression data using interpretable machine learning techniques.",
+      "authorString": "Kallah-Dagadu G, Mohammed M, Nasejje JB, Mchunu NN, Twabi HS, Batidzirai JM, Singini GC, Nevhungoni P, Maposa I.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kallah-Dagadu G",
+            "firstName": "Gabriel",
+            "lastName": "Kallah-Dagadu",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Statistics and Actuarial Science, University of Ghana, Accra, Ghana."
+                },
+                {
+                  "affiliation": "School of Mathematics, Statistics, and Computer Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mohammed M",
+            "firstName": "Mohanad",
+            "lastName": "Mohammed",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mathematics, Statistics, and Computer Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nasejje JB",
+            "firstName": "Justine B",
+            "lastName": "Nasejje",
+            "initials": "JB",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Statistics and Actuarial Science, University of the Witwatersrand, Johannesburg-Braamfontein, South Africa."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mchunu NN",
+            "firstName": "Nobuhle Nokubonga",
+            "lastName": "Mchunu",
+            "initials": "NN",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biostatistics Research Unit, South African Medical Research Council, Durban, South Africa."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Twabi HS",
+            "firstName": "Halima S",
+            "lastName": "Twabi",
+            "initials": "HS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mathematical Sciences, University of Malawi, Zomba, Malawi."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Batidzirai JM",
+            "firstName": "Jesca Mercy",
+            "lastName": "Batidzirai",
+            "initials": "JM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mathematics, Statistics, and Computer Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Singini GC",
+            "firstName": "Geoffrey Chiyuzga",
+            "lastName": "Singini",
+            "initials": "GC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mathematical Sciences, University of Malawi, Zomba, Malawi."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nevhungoni P",
+            "firstName": "Portia",
+            "lastName": "Nevhungoni",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biostatistics Research Unit, South African Medical Research Council, Pretoria, South Africa."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Maposa I",
+            "firstName": "Innocent",
+            "lastName": "Maposa",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Epidemiology and Biostatistics, Department of Global Health, Faculty of Medicine and Health Sciences, Stellenbosch University, Tygerberg, Cape Town, South Africa. imaposa@sun.ac.za."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "15",
+        "journalIssueId": 3906907,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Scientific reports",
+          "medlineAbbreviation": "Sci Rep",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "7594",
+      "abstractText": "Breast cancer remains a global health burden, with an increase in deaths related to this particular cancer. Accurately predicting and diagnosing breast cancer is important for treatment development and survival of patients. This study aimed to accurately predict breast cancer using a dataset comprising 1208 observations and 3602 genes. The study employed feature selection techniques to identify the most influential predictive genes for breast cancer using machine learning (ML) models. The study used K-nearest Neighbors (KNN), random forests (RF), and a support vector machine (SVM). Furthermore, the study employed feature- and model-based importance and explainable ML methods, including Shapley values, Partial dependency (PDPS), and Accumulated Local Effects (ALE) plots, to explain the genes' importance ranking from the ML methods. Shapley values highlighted the significance of some of the genes in predicting cancer presence. Model-based feature ranking techniques, particularly the Leaving-One-Covariate-In (LOCI) method, identified the ten most critical genes for predicting tumor cases. The LOCI rankings from the SVM and RF methods were aligned. Additionally, visualization methods such as PDPS and ALE plots demonstrated how individual feature changes affect predictions and interactions with other genes. By combining feature selection techniques and explainable ML methods, this study has demonstrated the interpretability and reliability of machine learning models for breast cancer prediction, emphasizing the importance of incorporating explainable ML approaches for medical decision-making.",
+      "affiliation": "Department of Statistics and Actuarial Science, University of Ghana, Accra, Ghana.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Breast Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Expression Profiling",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Expression Regulation, Neoplastic"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Machine Learning"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biomarkers, Tumor",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Support Vector Machine"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Prediction",
+          "Breast cancer",
+          "Machine Learning",
+          "Interpretable Machine Learning"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Biomarkers, Tumor",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1038/s41598-025-85323-5"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-025-85323-5"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-04",
+      "dateOfCreation": "2025-03-04",
+      "firstIndexDate": "2025-03-06",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-04",
+      "firstPublicationDate": "2025-03-04"
+    },
+    {
+      "id": "40024927",
+      "source": "MED",
+      "pmid": "40024927",
+      "doi": "10.4103/aam.aam_258_24",
+      "title": "Trends and Insights in Cognitive Impairment and Depression Research: A Comprehensive Bibliometric Analysis. ",
+      "authorString": "Alsulaiman F, Alabdali M, Aljaafari D, Alsulaiman AA, Alzahrani SI, Alyahya RM, Alshurem M, Alsulaiman A, Al Ghamdi O.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Alsulaiman F",
+            "firstName": "Feras",
+            "lastName": "Alsulaiman",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alabdali M",
+            "firstName": "Majed",
+            "lastName": "Alabdali",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Aljaafari D",
+            "firstName": "Danah",
+            "lastName": "Aljaafari",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alsulaiman AA",
+            "firstName": "Arwa A",
+            "lastName": "Alsulaiman",
+            "initials": "AA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alzahrani SI",
+            "firstName": "Safa I",
+            "lastName": "Alzahrani",
+            "initials": "SI",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Psychiatry, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alyahya RM",
+            "firstName": "Rawan M",
+            "lastName": "Alyahya",
+            "initials": "RM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alshurem M",
+            "firstName": "Mohammed",
+            "lastName": "Alshurem",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alsulaiman A",
+            "firstName": "Abdulla",
+            "lastName": "Alsulaiman",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Al Ghamdi O",
+            "firstName": "Omar",
+            "lastName": "Al Ghamdi",
+            "initials": "O",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3907223,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Annals of African medicine",
+          "medlineAbbreviation": "Ann Afr Med",
+          "essn": "0975-5764",
+          "issn": "1596-3519",
+          "isoabbreviation": "Ann Afr Med",
+          "nlmid": "101231417"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Cognitive impairment and depression are widespread, debilitating conditions that significantly impact quality of life and present major public health challenges. This study aimed to explore the intersection of cognitive impairment and depression, identifying trends, major contributors, influential studies, and emerging research subjects. We conducted a bibliometric analysis using the Scopus database on July 21, 2024, covering the literature from 2000 to 2024. Data were extracted and analyzed using R (version 4.3.3) with the bibliometrix package and \"biblioshiny\" web interface for visualization. The analysis included assessing publication trends, identifying the leading authors, evaluating major journals, and tracking institutional contributions. Keyword co-occurrence and thematic tracking were used to explore the research focus subjects and evolving trends. Two thousand and fifty-one articles were identified, with annual scientific production showing a 7.71% growth rate, from 18 articles in 2000 to 195 articles in 2022. The average number of citations per article fluctuated, previously increasing but declining in recent years. The leading journals included the Journal of Affective Disorders and the American Journal of Geriatric Psychiatry. The leading authors were Zhang Y and Li Y, with significant contributions from the University of Toronto and the University of California. The USA led in article production, followed by China and Canada, with extensive international collaboration. The most cited document was that of Rock etal.,with 1336 citations. The keyword analysis highlighted \"depression\" as the most frequent term, and thematic tracking revealed distinct clusters of nonhuman and human research. This study's results inform future research guidelines and underscore the importance of interdisciplinary collaboration to address these interrelated conditions. It contributes to the existing literature by tracking the evolution and current state of research and guiding future studies toward emerging themes and gaps in this faculty.",
+      "affiliation": "Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia.",
+      "publicationStatus": "aheadofprint",
+      "language": "fre",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.4103/aam.aam_258_24"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-02",
+      "firstIndexDate": "2025-03-03",
+      "dateOfRevision": "2025-03-02",
+      "electronicPublicationDate": "2025-03-03",
+      "firstPublicationDate": "2025-03-03"
+    },
+    {
+      "id": "39928123",
+      "source": "MED",
+      "pmid": "39928123",
+      "doi": "10.2196/64016",
+      "title": "MetaAnalysisOnline.com: Web-Based Tool for the Rapid Meta-Analysis of Clinical and Epidemiological Studies.",
+      "authorString": "Fekete JT, Gy\u0151rffy B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Fekete JT",
+            "firstName": "J\u00e1nos Tibor",
+            "lastName": "Fekete",
+            "initials": "JT",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6672-6563"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Bioinformatics, Semmelweis University, Budapest, Hungary."
+                },
+                {
+                  "affiliation": "Cancer Biomarker Research Group, Institute of Molecular Life Sciences, HUN-REN Research Centre for Natural Sciences, Budapest, Hungary."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gy\u0151rffy B",
+            "firstName": "Bal\u00e1zs",
+            "lastName": "Gy\u0151rffy",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5772-3766"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Bioinformatics, Semmelweis University, Budapest, Hungary."
+                },
+                {
+                  "affiliation": "Cancer Biomarker Research Group, Institute of Molecular Life Sciences, HUN-REN Research Centre for Natural Sciences, Budapest, Hungary."
+                },
+                {
+                  "affiliation": "Department of Biophysics, Medical School, University of Pecs, Pecs, Hungary."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5772-3766"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6672-6563"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "volume": "27",
+        "journalIssueId": 3911772,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Journal of medical Internet research",
+          "medlineAbbreviation": "J Med Internet Res",
+          "essn": "1438-8871",
+          "issn": "1439-4456",
+          "isoabbreviation": "J Med Internet Res",
+          "nlmid": "100959882"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e64016",
+      "abstractText": "<h4>Background</h4>A meta-analysis is a quantitative, formal study design in epidemiology and clinical medicine that systematically integrates and quantitatively synthesizes findings from multiple independent studies. This approach not only enhances statistical power but also enables the exploration of effects across diverse populations and helps resolve controversies arising from conflicting studies.<h4>Objective</h4>This study aims to develop and implement a user-friendly tool for conducting meta-analyses, addressing the need for an accessible platform that simplifies the complex statistical procedures required for evidence synthesis while maintaining methodological rigor.<h4>Methods</h4>The platform available at MetaAnalysisOnline.com enables comprehensive meta-analyses through an intuitive web interface, requiring no programming expertise or command-line operations. The system accommodates diverse data types including binary (total and event numbers), continuous (mean and SD), and time-to-event data (hazard rates with CIs), while implementing both fixed-effect and random-effect models using established statistical approaches such as DerSimonian-Laird, Mantel-Haenszel, and inverse variance methods for effect size estimation and heterogeneity assessment.<h4>Results</h4>In addition to statistical tests, graphical representations including the forest plot, the funnel plot, and the z score plot can be drawn. A forest plot is highly effective in illustrating heterogeneity and pooled results. The risk of publication bias can be revealed by a funnel plot. A z score plot provides a visual assessment of whether more research is needed to establish a reliable conclusion. All the discussed models and visualization options are integrated into the registration-free web-based portal. Leveraging MetaAnalysisOnline.com's capabilities, we examined treatment-related adverse events in patients with cancer receiving perioperative anti-PD-1 immunotherapy through a systematic review encompassing 10 studies with 8099 total participants. Meta-analysis revealed that anti-PD-1 therapy doubled the risk of adverse events (risk ratio 2.15, 95% CI 1.39-3.32), with significant between-study heterogeneity (I<sup>2</sup>=95%) and publication bias detected through the Egger test (P=.02). While these findings suggest increased toxicity associated with anti-PD-1 treatment, the z score analysis indicated that additional studies are needed for definitive conclusions.<h4>Conclusions</h4>In summary, the web-based tool aims to bridge the void for clinical and life science researchers by offering a user-friendly alternative for the swift and reproducible meta-analysis of clinical and epidemiological trials.",
+      "affiliation": "Department of Bioinformatics, Semmelweis University, Budapest, Hungary.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Epidemiologic Studies"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Internet"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Software"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Meta-Analysis as Topic"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Pharmacology",
+          "Treatment",
+          "Statistics",
+          "epidemiology",
+          "Random effect model",
+          "Clinical Trial",
+          "Response Rate",
+          "Funnel Plot",
+          "Fixed Effect Model",
+          "Hazard Rate",
+          "Z Score Plot"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.2196/64016"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/64016"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-07",
+      "dateOfCreation": "2025-02-10",
+      "firstIndexDate": "2025-02-11",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-06",
+      "firstPublicationDate": "2025-03-06"
+    },
+    {
+      "id": "39973213",
+      "source": "MED",
+      "pmid": "39973213",
+      "doi": "10.1039/d4ay01973c",
+      "title": "A fast, accurate strategy based on LAMP-NALF for detecting human adenovirus serotype 3 in children.",
+      "authorString": "Yun Q, Xia WH, Ma SF, Lu DM, Gu M, Zhu AS.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yun Q",
+            "firstName": "Qi",
+            "lastName": "Yun",
+            "initials": "Q",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0007-8831-5304"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Changzhou Children's Hospital Affiliated to Nantong University, Changzhou, Jiangsu Province, 213003, China. yunqiwork@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xia WH",
+            "firstName": "Wen Hui",
+            "lastName": "Xia",
+            "initials": "WH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Changzhou Children's Hospital Affiliated to Nantong University, Changzhou, Jiangsu Province, 213003, China. yunqiwork@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ma SF",
+            "firstName": "Si Fei",
+            "lastName": "Ma",
+            "initials": "SF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Changzhou Blood Center, Changzhou, Jiangsu Province, 213000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lu DM",
+            "firstName": "Dong Ming",
+            "lastName": "Lu",
+            "initials": "DM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Changzhou Children's Hospital Affiliated to Nantong University, Changzhou, Jiangsu Province, 213003, China. yunqiwork@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gu M",
+            "firstName": "Meng",
+            "lastName": "Gu",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Changzhou Children's Hospital Affiliated to Nantong University, Changzhou, Jiangsu Province, 213003, China. yunqiwork@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhu AS",
+            "firstName": "Ao Shuang",
+            "lastName": "Zhu",
+            "initials": "AS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Changzhou Children's Hospital Affiliated to Nantong University, Changzhou, Jiangsu Province, 213003, China. yunqiwork@126.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0007-8831-5304"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "10",
+        "volume": "17",
+        "journalIssueId": 3910818,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Analytical methods : advancing methods and applications",
+          "medlineAbbreviation": "Anal Methods",
+          "essn": "1759-9679",
+          "issn": "1759-9660",
+          "isoabbreviation": "Anal Methods",
+          "nlmid": "101519733"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "2295-2301",
+      "abstractText": "<i>Objective</i>: To establish a rapid, convenient and accurate visual detection protocol for human adenovirus serotype 3 in children's respiratory infections based on LAMP-NALF. <i>Methods</i>: Adenovirus serotypes prevalent in the region (Changzhou City, Jiangsu Province, China) were analyzed by assessing the results of tNGS analysis of respiratory pathogens in children. On this basis, multiple sets of LAMP primers were designed for the adenovirus hexon gene as the detection target. Optimal primer combinations were further screened, and the composition of the reagent system and amplification procedures were improved to achieve efficient amplification. To realize an instrument-independent, fast-testing strategy, by combining NALF, which is based on the principle of lateral chromatography, small molecule antigens were modified for primers. Moreover, amplification products were bound to the corresponding antibodies on nucleic acid chromatography test strips for visualization. Finally, a series of tests were performed to validate the sensitivity, specificity, and methodological consistency of the LAMP-NALF assay. <i>Results</i>: Adenovirus infections in children in this region during this period were mainly caused by serotype 3. The optimal amplification temperature for optimal primers of LAMP was 65 \u00b0C. The combination of LAMP and NALF could detect femtogram-grade positive plasmid of the hexon gene; besides, there was no cross-reactivity with five other types of common respiratory pathogens in children. The agreement between the LAMP-NALF assay and tNGS/qPCR for detecting the adenovirus in 100 respiratory clinical specimens was 98%. <i>Conclusion</i>: The combination of LAMP and NALF can achieve rapid, convenient and accurate detection of human adenovirus type 3, which can provide a powerful support for the pathogenic diagnosis of adenoviral infections in children, thus contributing to the promotion of the development of point-of-care testing for pathogens.",
+      "affiliation": "Changzhou Children's Hospital Affiliated to Nantong University, Changzhou, Jiangsu Province, 213003, China. yunqiwork@126.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Adenoviruses, Human",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Respiratory Tract Infections",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "VI",
+                  "qualifierName": "virology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Adenovirus Infections, Human",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "VI",
+                  "qualifierName": "virology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Capsid Proteins"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Molecular Diagnostic Techniques",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sensitivity and Specificity"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Nucleic Acid Amplification Techniques",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child, Preschool"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Infant"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Serogroup"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "hexon capsid protein, Adenovirus",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Capsid Proteins",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1039/d4ay01973c"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-06",
+      "dateOfCreation": "2025-02-20",
+      "firstIndexDate": "2025-02-20",
+      "dateOfRevision": "2025-03-06",
+      "electronicPublicationDate": "2025-03-06",
+      "firstPublicationDate": "2025-03-06"
+    },
+    {
+      "id": "40053710",
+      "source": "MED",
+      "pmid": "40053710",
+      "doi": "10.2196/56254",
+      "title": "Daily Treatment Monitoring for Patients Receiving Home-Based Peritoneal Dialysis and Prediction of Heart Failure Risk: mHealth Tool Development and Modeling Study. ",
+      "authorString": "Wu J, Zeng Y, Yang J, Yao Y, Xu X, Song G, Yi W, Wang T, Zheng Y, Jia Z, Yan X.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wu J",
+            "firstName": "Jia",
+            "lastName": "Wu",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0004-8317-845X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zeng Y",
+            "firstName": "Youjia",
+            "lastName": "Zeng",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1276-7746"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang J",
+            "firstName": "Jun",
+            "lastName": "Yang",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0006-3092-8354"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yao Y",
+            "firstName": "Yutong",
+            "lastName": "Yao",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0008-0076-0276"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu X",
+            "firstName": "Xiuling",
+            "lastName": "Xu",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0007-7155-857X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Song G",
+            "firstName": "Gaofeng",
+            "lastName": "Song",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-8779-8627"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yi W",
+            "firstName": "Wuyong",
+            "lastName": "Yi",
+            "initials": "W",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0004-0667-226X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang T",
+            "firstName": "Taifen",
+            "lastName": "Wang",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0000-3920-0980"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zheng Y",
+            "firstName": "Yihou",
+            "lastName": "Zheng",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0004-3401-0853"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jia Z",
+            "firstName": "Zhongwei",
+            "lastName": "Jia",
+            "initials": "Z",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5362-7339"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Global Health, School of Public Health, Peking University, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yan X",
+            "firstName": "Xiangyu",
+            "lastName": "Yan",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1496-0358"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Disaster and Emergency Medicine, Tianjin University, Tianjin, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Medical Rescue Key Technology and Equipment, Ministry of Emergency Management, Tianjin, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1496-0358"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5362-7339"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1276-7746"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0000-3920-0980"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-8779-8627"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0004-0667-226X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0004-3401-0853"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0004-8317-845X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0006-3092-8354"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0007-7155-857X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0008-0076-0276"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 3908130,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "JMIR formative research",
+          "medlineAbbreviation": "JMIR Form Res",
+          "essn": "2561-326X",
+          "issn": "2561-326X",
+          "isoabbreviation": "JMIR Form Res",
+          "nlmid": "101726394"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e56254",
+      "abstractText": "Peritoneal dialysis is one of the major renal replacement modalities for patients with end-stage renal disease. Heart failure is a common adverse event among patients who undergo peritoneal dialysis treatment, especially for those who undergo continuous ambulatory peritoneal dialysis at home, because of the lack of professional input-output volume monitoring and management during treatment. This study aims to develop novel mobile health (mHealth) tools to improve the quality of home-based continuous ambulatory peritoneal dialysis treatment and to build a prediction model of heart failure based on the system's daily treatment monitoring data. The mHealth tools with a 4-layer system were designed and developed using Spring Boot, MyBatis Plus, MySQL, and Redis as backend technology stack, and Vue, Element User Interface, and WeChat Mini Program as front-end technology stack. Patients were recruited to use the tool during daily peritoneal dialysis treatment from January 1, 2017, to April 20, 2023. Logistic regression models based on real-time treatment monitoring data were used for heart failure prediction. The sensitivity, specificity, accuracy, and Youden index were calculated to evaluate the performance of the prediction model. In the sensitivity analysis, the ratio of patients with and without heart failure was set to 1:4 and 1:10, respectively, to better evaluate the stability of the prediction model. A WeChat Mini Program named Futou Bao for patients and a patient data management platform for doctors was developed. Futou Bao included an intelligent data upload function module and an auxiliary function module. The doctor's data management platform consisted of 4 function modules, that is, patient management, data visualization and marking, data statistics, and system management. During the study period, the records of 6635 patients who received peritoneal dialysis treatment were uploaded in Futou Bao, with 0.71% (47/6635) of them experiencing heart failure. The prediction model that included sex, age, and diastolic blood pressure was considered as the optimal model, wherein the sensitivity, specificity, accuracy, and Youden index were 0.75, 0.91, 0.89, and 0.66, respectively, with an area under the curve value of 0.879 (95% CI 0.772-0.986) using the validation dataset. The sensitivity analysis showed stable results. This study provides a new home-based peritoneal dialysis management paradigm that enables the daily monitoring and early warning of heart failure risk. This novel paradigm is of great value for improving the efficiency, security, and personalization of peritoneal dialysis.",
+      "affiliation": "Shenzhen Hospital of Traditional Chinese Medicine, Shenzen, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Kidney Failure, Chronic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Monitoring, Physiologic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Peritoneal Dialysis, Continuous Ambulatory",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AE",
+                  "qualifierName": "adverse effects",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Peritoneal Dialysis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AE",
+                  "qualifierName": "adverse effects",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Risk Assessment",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Telemedicine"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Heart Failure",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/56254"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-07",
+      "dateOfCreation": "2025-03-07",
+      "firstIndexDate": "2025-03-08",
+      "dateOfRevision": "2025-03-07",
+      "electronicPublicationDate": "2025-03-03",
+      "firstPublicationDate": "2025-03-03"
+    }
+  ]
+}
