@@ -1,0 +1,2024 @@
+{
+  "start_date": "2025-03-24",
+  "end_date": "2025-03-31",
+  "records_fetched": 9,
+  "articles": [
+    {
+      "id": "40129116",
+      "source": "MED",
+      "pmid": "40129116",
+      "doi": "10.1111/phn.13557",
+      "title": "A Bibliometric Analysis of Global Research Trends in Elderly Population Diseases.",
+      "authorString": "Wu H, Zhao Z.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wu H",
+            "firstName": "Hao",
+            "lastName": "Wu",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Respiratory and Endocrinology, Liaoning Electric Power Center Hospital, Shenyang, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao Z",
+            "firstName": "Zining",
+            "lastName": "Zhao",
+            "initials": "Z",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0009-7567-0846"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Critical Care Medicine, The First Hospital of China Medical University, Shenyang, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0009-7567-0846"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3908072,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Public health nursing (Boston, Mass.)",
+          "medlineAbbreviation": "Public Health Nurs",
+          "isoabbreviation": "Public Health Nurs",
+          "nlmid": "8501498",
+          "essn": "1525-1446",
+          "issn": "0737-1209"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background</h4>The global population is undergoing rapid aging, resulting in a significant increase in scientific publications addressing diseases and health challenges in the elderly population.<h4>Methods</h4>A literature search for publications on diseases in the elderly population was conducted using PubMed, Web of Science Core Collection, and Embase from January 1, 2000, to January 1, 2024. Bibliometric and visualization analyses were performed using VOSviewer software.<h4>Results</h4>A total of 16,862 publications were retrieved, with a notable increase in publication output after 2016. The United States led in both publication numbers (n = 6502, 38.56%) and citations (342,586), underscoring its substantial contribution to this field. Influential institutions such as the University of Pittsburgh and Karolinska Institute played key roles. Keywords analysis identified 631 meaningful topics, classified into five clusters, with research hotspots focusing on cardiovascular diseases, dementia, frailty, and quality of life. Emerging keywords in public health and nursing, such as \"mild cognitive impairment,\" \"multimorbidity,\" and \"frailty,\" have been frequently highlighted in recent studies, indicating critical priorities for future research in elderly care.<h4>Conclusions</h4>This study provides a comprehensive bibliometric and visualization analysis of global research trends on diseases in the elderly population. It highlights key research areas and offers valuable insights to guide future directions in public health and nursing strategies, emphasizing the importance of interdisciplinary approaches to address aging-related challenges.",
+      "affiliation": "Department of Respiratory and Endocrinology, Liaoning Electric Power Center Hospital, Shenyang, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2022YFC3602300",
+            "agency": "China Postdoctoral Science Foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Diseases",
+          "Elderly Population",
+          "Pubmed",
+          "Vosviewer",
+          "Web Of Science",
+          "Embase"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/phn.13557"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-25",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-25",
+      "electronicPublicationDate": "2025-03-24",
+      "firstPublicationDate": "2025-03-24"
+    },
+    {
+      "id": "40127300",
+      "source": "MED",
+      "pmid": "40127300",
+      "doi": "10.1289/ehp14696",
+      "title": "Improving Methodologies for Cumulative Risk Assessment: A Case Study of Noncarcinogenic Health Risks from Volatile Organic Compounds in Fenceline Communities in Southeastern Pennsylvania.",
+      "authorString": "Chiger AA, Gigot C, Robinson ES, Tehrani MW, Claflin M, Fortner E, Stark H, Krechmer J, Canagaratna MR, Herndon S, Yacovitch TI, Koehler K, Rule AM, Burke TA, Fox MA, DeCarlo PF, Nachman KE.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chiger AA",
+            "firstName": "Andrea A",
+            "lastName": "Chiger",
+            "initials": "AA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8865-8573"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                },
+                {
+                  "affiliation": "Risk Sciences and Public Policy Institute, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gigot C",
+            "firstName": "Carolyn",
+            "lastName": "Gigot",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Robinson ES",
+            "firstName": "Ellis S",
+            "lastName": "Robinson",
+            "initials": "ES",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tehrani MW",
+            "firstName": "Mina W",
+            "lastName": "Tehrani",
+            "initials": "MW",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Claflin M",
+            "firstName": "Megan",
+            "lastName": "Claflin",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Aerodyne Research Inc., Billerica, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fortner E",
+            "firstName": "Edward",
+            "lastName": "Fortner",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Aerodyne Research Inc., Billerica, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Stark H",
+            "firstName": "Harald",
+            "lastName": "Stark",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Aerodyne Research Inc., Billerica, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Krechmer J",
+            "firstName": "Jordan",
+            "lastName": "Krechmer",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Aerodyne Research Inc., Billerica, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Canagaratna MR",
+            "firstName": "Manjula R",
+            "lastName": "Canagaratna",
+            "initials": "MR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Aerodyne Research Inc., Billerica, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Herndon S",
+            "firstName": "Scott",
+            "lastName": "Herndon",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Aerodyne Research Inc., Billerica, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yacovitch TI",
+            "firstName": "Tara I",
+            "lastName": "Yacovitch",
+            "initials": "TI",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Aerodyne Research Inc., Billerica, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Koehler K",
+            "firstName": "Kirsten",
+            "lastName": "Koehler",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rule AM",
+            "firstName": "Ana M",
+            "lastName": "Rule",
+            "initials": "AM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Burke TA",
+            "firstName": "Thomas A",
+            "lastName": "Burke",
+            "initials": "TA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                },
+                {
+                  "affiliation": "Risk Sciences and Public Policy Institute, Johns Hopkins University, Baltimore, MD, USA."
+                },
+                {
+                  "affiliation": "Department of Health Policy and Management, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fox MA",
+            "firstName": "Mary A",
+            "lastName": "Fox",
+            "initials": "MA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                },
+                {
+                  "affiliation": "Risk Sciences and Public Policy Institute, Johns Hopkins University, Baltimore, MD, USA."
+                },
+                {
+                  "affiliation": "Department of Health Policy and Management, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "DeCarlo PF",
+            "firstName": "Peter F",
+            "lastName": "DeCarlo",
+            "initials": "PF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nachman KE",
+            "firstName": "Keeve E",
+            "lastName": "Nachman",
+            "initials": "KE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA."
+                },
+                {
+                  "affiliation": "Risk Sciences and Public Policy Institute, Johns Hopkins University, Baltimore, MD, USA."
+                },
+                {
+                  "affiliation": "Department of Health Policy and Management, Johns Hopkins University, Baltimore, MD, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8865-8573"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3908988,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Environmental health perspectives",
+          "medlineAbbreviation": "Environ Health Perspect",
+          "isoabbreviation": "Environ Health Perspect",
+          "nlmid": "0330411",
+          "essn": "1552-9924",
+          "issn": "0091-6765"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background</h4>Cumulative risk assessment (CRA) is key to characterizing health risks in fenceline and disadvantaged communities, which face environmental pollution and challenging socioeconomic conditions. Traditional approaches for inclusion of mixtures in CRA are limited and only assess the most sensitive target organ system for each chemical.<h4>Methods</h4>We developed an expanded approach to cumulative risk assessment that considers all known target organ systems associated with a chemical. Specifically, we created a multi-effects toxicity database by 1) compiling toxicological and epidemiological data from the Agency for Toxic Substances and Disease Registry's (ATSDR) Toxicological Profiles and the Environmental Protection Agency's (EPA) CompTox Chemicals Dashboard; 2) developing a tiering system to prioritize identified data for use in developing toxicity values; and 3) accounting for uncertainty to create toxicity values for additional target organ systems. We demonstrated differences between the traditional approach and our expanded approach by using state-of-the-art mobile monitoring data from our Southeastern Pennsylvania Hazardous Air Pollutant Monitoring and Assessment Project (SEPA HAP-MAP) to conduct a cumulative risk assessment.<h4>Results</h4>Of the 32 chemicals quantified in SEPA HAP-MAP, 28 were represented in our multi-effects toxicity database, whereas only 16 were included using a traditional approach. In total, we derived toxicity values for 172 chemical-target organ system combinations. Our expanded approach found neurological, renal, respiratory, endocrine, and systemic risks (hazard index >1) in SEPA HAP-MAP fenceline communities, whereas no risks were identified using a traditional approach limited to the most sensitive target organ systems only.<h4>Conclusion</h4>Our results suggest that traditional approaches to CRA underestimate health risks in fenceline and other highly exposed communities and highlight the need for improved methods to inform health-protective and just risk management decisions. https://doi.org/10.1289/EHP14696.",
+      "affiliation": "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1289/EHP14696"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-24",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-24",
+      "electronicPublicationDate": "2025-03-24",
+      "firstPublicationDate": "2025-03-24"
+    },
+    {
+      "id": "40123304",
+      "source": "MED",
+      "pmid": "40123304",
+      "doi": "10.1002/adma.202501378",
+      "title": "Non-Invasive Diagnosis of Early Colorectal Cancerization via Amplified Sensing of MicroRNA-21 in NIR-II Window. ",
+      "authorString": "Zhai F, Yun B, Ming J, Yu T, Li B, Liu X, Wang X, Chen ZH, Song C, Zhao M, Li W, Liu Z, Liang A, Li J, Zhang F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhai F",
+            "firstName": "Fuheng",
+            "lastName": "Zhai",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oncology, Huadong Hospital, Fudan University, Shanghai, 200040, P. R. China."
+                },
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yun B",
+            "firstName": "Baofeng",
+            "lastName": "Yun",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ming J",
+            "firstName": "Jiang",
+            "lastName": "Ming",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yu T",
+            "firstName": "Tianyu",
+            "lastName": "Yu",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oncology, Huadong Hospital, Fudan University, Shanghai, 200040, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li B",
+            "firstName": "Benhao",
+            "lastName": "Li",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu X",
+            "firstName": "Xiao",
+            "lastName": "Liu",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang X",
+            "firstName": "Xusheng",
+            "lastName": "Wang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen ZH",
+            "firstName": "Zi-Han",
+            "lastName": "Chen",
+            "initials": "ZH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Song C",
+            "firstName": "Changfeng",
+            "lastName": "Song",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oncology, Huadong Hospital, Fudan University, Shanghai, 200040, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao M",
+            "firstName": "Mengyao",
+            "lastName": "Zhao",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li W",
+            "firstName": "Wenlin",
+            "lastName": "Li",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cell Biology, Naval Medical University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu Z",
+            "firstName": "Zhebin",
+            "lastName": "Liu",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Breast Cancer in Shanghai, Department of Breast Surgery, Fudan University Shanghai Cancer Center, Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, 200433, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liang A",
+            "firstName": "Aibin",
+            "lastName": "Liang",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Hematology, Shanghai Tongji Hospital, Tongji University School of Medicine, Shanghai, 200065, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li J",
+            "firstName": "Jiyu",
+            "lastName": "Li",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oncology, Huadong Hospital, Fudan University, Shanghai, 200040, P. R. China."
+                },
+                {
+                  "affiliation": "Department of Oncology, Pudong Hospital, Fudan University, Shanghai, 201399, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang F",
+            "firstName": "Fan",
+            "lastName": "Zhang",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7886-6144"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oncology, Huadong Hospital, Fudan University, Shanghai, 200040, P. R. China."
+                },
+                {
+                  "affiliation": "Department of Chemistry, State Key Laboratory of Molecular Engineering of Polymers, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials and iChem, Fudan University, Shanghai, 200433, P. R. China."
+                },
+                {
+                  "affiliation": "Department of Hematology, Shanghai Tongji Hospital, Tongji University School of Medicine, Shanghai, 200065, P. R. China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7886-6144"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3907493,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Advanced materials (Deerfield Beach, Fla.)",
+          "medlineAbbreviation": "Adv Mater",
+          "isoabbreviation": "Adv Mater",
+          "nlmid": "9885358",
+          "essn": "1521-4095",
+          "issn": "0935-9648"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e2501378",
+      "abstractText": "Accurate, sensitive, and in situ visualization of aberrant expression level of low-abundant biomolecules is crucial for early colorectal cancer (CRC) detection ahead of tumor morphology change. However, the clinical used colonoscopy and biopsy methods are invasive and lack of sensitivity at early-stage of cancerization. Here, an amplified sensing strategy is developed in the second near-infrared long-wavelength subregion (NIR-II-L, 1500-1900\u00a0nm) by integrating DNAzyme-triggered signal amplification technology and lanthanide-dye hybrid system. In the early-stage of CRC, the overexpressed biomarker microRNA-21 initiates the NIR-II-L luminescence ratiometric signal amplification of the CRCsensor. The high sensitivity with a limit of detection (LOD) of 1.26 pm allows non-invasive visualization of orthotopic colorectal cancerization via rectal administration, which achieves early and accurate in situ diagnosis at 2 weeks ahead of the in vitro histological results. This innovative approach offers a promising tool for early diagnosis and long-term monitoring of carcinogenesis progression, with potential applications in other cancer-related biomarkers.",
+      "affiliation": "Department of Oncology, Huadong Hospital, Fudan University, Shanghai, 200040, P. R. China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "New Cornerstone Science Foundation through the XPLORER PRIZE",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2023YFB3507100",
+            "agency": "National Key R&D Program of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "21142201000",
+            "agency": "Research Program of Science and Technology Commission of Shanghai Municipality",
+            "orderIn": 0
+          },
+          {
+            "grantId": "20490710600",
+            "agency": "Research Program of Science and Technology Commission of Shanghai Municipality",
+            "orderIn": 0
+          },
+          {
+            "grantId": "22JC1400400",
+            "agency": "Research Program of Science and Technology Commission of Shanghai Municipality",
+            "orderIn": 0
+          },
+          {
+            "grantId": "24QA2706400",
+            "agency": "Research Program of Science and Technology Commission of Shanghai Municipality",
+            "orderIn": 0
+          },
+          {
+            "grantId": "22S31905200",
+            "agency": "Natural Science Foundation of Shanghai",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2023ZKZD08",
+            "agency": "Innovation Program of Shanghai Municipal Education Commission",
+            "orderIn": 0
+          },
+          {
+            "grantId": "22104017;22088101;22474026",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/adma.202501378"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-24",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-24",
+      "electronicPublicationDate": "2025-03-24",
+      "firstPublicationDate": "2025-03-24"
+    },
+    {
+      "id": "40136076",
+      "source": "MED",
+      "pmid": "40136076",
+      "doi": "10.1002/smtd.202401303",
+      "title": "DNA-Encoded Fluorescence Signals for Imaging Analysis. ",
+      "authorString": "Cao X, Fu W, Li X, Chen F, Zhao Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cao X",
+            "firstName": "Xiaowen",
+            "lastName": "Cao",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Analytical Chemistry and Instrument for Life Science, The Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fu W",
+            "firstName": "Wenhao",
+            "lastName": "Fu",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Analytical Chemistry and Instrument for Life Science, The Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li X",
+            "firstName": "Xinyin",
+            "lastName": "Li",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Analytical Chemistry and Instrument for Life Science, The Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen F",
+            "firstName": "Feng",
+            "lastName": "Chen",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Analytical Chemistry and Instrument for Life Science, The Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao Y",
+            "firstName": "Yongxi",
+            "lastName": "Zhao",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1796-7651"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Analytical Chemistry and Instrument for Life Science, The Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, China."
+                },
+                {
+                  "affiliation": "Frontier Institute of Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1796-7651"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3907576,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Small methods",
+          "medlineAbbreviation": "Small Methods",
+          "isoabbreviation": "Small Methods",
+          "nlmid": "101724536",
+          "essn": "2366-9608",
+          "issn": "2366-9608"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e2401303",
+      "abstractText": "Fluorescence imaging has been a powerful technique for the visualization of interest biomolecules. It is widely used in basic biological research, clinical medicine, and other fields. However, the fluorescence signals are often too weak for detecting with simple devices or in complex environments. Besides, fluorescence signals are limited to about four to six dyes, restricting to the spectral overlap of organic fluorophores. DNA nanotechnology including structured and dynamic DNA nanotechnology emerges as a promising material to encode fluorophores, holding great potential to improve the properties of fluorescence signals. Substantial progresses have been achieved in the DNA-encoded fluorescence signals, exhibiting novel characteristics and applications. This review summarizes various DNA encoding strategies with fluorescence signals and their performance in imaging analysis. In this review, different DNA encoding methods and their impacts on the fluorescence signals in imaging is reported, such as brightness, photostability, kinetics, and multiplexing. Besides, the biological application of DNA-encoded signals are reviewed. Finally, potential solutions to address current challenges in DNA-encoded fluorescence signals are suggested, encouraging the future development of this area.",
+      "affiliation": "Institute of Analytical Chemistry and Instrument for Life Science, The Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "22125404",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "92068118",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/smtd.202401303"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-26",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-26",
+      "electronicPublicationDate": "2025-03-26",
+      "firstPublicationDate": "2025-03-26"
+    },
+    {
+      "id": "40126785",
+      "source": "MED",
+      "pmid": "40126785",
+      "doi": "10.1007/s13239-025-00779-w",
+      "title": "Optimizing the Radiopacity of an Injectable Polymer on Fluoroscopy used for Treatment of Type II Endoleak After Endovascular Aneurysm Repair.",
+      "authorString": "Nagel JR, Groot Jebbink E, Smorenburg SPM, Hoksbergen AWJ, Lely RJ, Versluis M, Reijnen MMPJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nagel JR",
+            "firstName": "Jeffrey R",
+            "lastName": "Nagel",
+            "initials": "JR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4816-9214"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multi-Modality Medical Imaging group, University of Twente, Enschede, The Netherlands."
+                },
+                {
+                  "affiliation": "Physics of Fluids group, University of Twente, Enschede, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Groot Jebbink E",
+            "firstName": "Erik",
+            "lastName": "Groot Jebbink",
+            "initials": "E",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7041-8603"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multi-Modality Medical Imaging group, University of Twente, Enschede, The Netherlands. e.grootjebbink@utwente.nl."
+                },
+                {
+                  "affiliation": "Department of Surgery, Rijnstate, Arnhem, The Netherlands. e.grootjebbink@utwente.nl."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Smorenburg SPM",
+            "firstName": "Stefan P M",
+            "lastName": "Smorenburg",
+            "initials": "SPM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4754-3016"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Amsterdam UMC location Vrije Universiteit, Amsterdam, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hoksbergen AWJ",
+            "firstName": "Arjan W J",
+            "lastName": "Hoksbergen",
+            "initials": "AWJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3140-5225"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Amsterdam UMC location Vrije Universiteit, Amsterdam, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lely RJ",
+            "firstName": "Rutger J",
+            "lastName": "Lely",
+            "initials": "RJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1741-9126"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Amsterdam UMC location Vrije Universiteit, Amsterdam, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Versluis M",
+            "firstName": "Michel",
+            "lastName": "Versluis",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2296-1860"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Physics of Fluids group, University of Twente, Enschede, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Reijnen MMPJ",
+            "firstName": "Michel M P J",
+            "lastName": "Reijnen",
+            "initials": "MMPJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5021-1768"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multi-Modality Medical Imaging group, University of Twente, Enschede, The Netherlands."
+                },
+                {
+                  "affiliation": "Department of Surgery, Rijnstate, Arnhem, The Netherlands."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7041-8603"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2296-1860"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3140-5225"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4754-3016"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4816-9214"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5021-1768"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1741-9126"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3918699,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Cardiovascular engineering and technology",
+          "medlineAbbreviation": "Cardiovasc Eng Technol",
+          "isoabbreviation": "Cardiovasc Eng Technol",
+          "nlmid": "101531846",
+          "essn": "1869-4098",
+          "issn": "1869-408X"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Purpose</h4>Type II endoleaks (T2EL) are a common complication after endovascular aneurysm repair. AneuFix is a newly designed elastic polymer for T2EL. AneuFix contains tantalum for visualization during fluoroscopy, which is crucial for monitoring the polymer in the side branches. The purpose of this study was to find the lowest concentration tantalum that is sufficient for safe injection in the aneurysmal sac.<h4>Methods</h4>AneuFix polymer with tantalum concentrations between 0 and 30% was injected into endoleak phantoms, connected to a pulsatile flow setup and with a realistic background for fluoroscopy. Furthermore, the radiopacity was investigated on fluoroscopic systems from three different vendors, using static phantoms. Results from both the dynamic and static phantoms were qualitatively evaluated by 10 clinical experts.<h4>Results</h4>Concentrations of\u2009\u2265\u200920% tantalum were consistently detected within the first 5 mm after entering the side branch, with a corresponding contrast-to-noise ratio of 2.23\u2009\u00b1\u20090.21. Furthermore, sufficient detectability scores (of at least 3 out of 5) were given to\u2009\u2265\u200915% tantalum. Significant differences were found in detectability scores on different fluoroscopic systems, using the default lowest-radiation-dose scan protocol for each system.<h4>Conclusions</h4>This study showed that tantalum concentrations\u2009\u2265\u200920% are consistently detected on fluoroscopy in the specified region. Compared to the original 30%, this would reduce imaging artifacts from high attenuation and scattering on follow-up imaging, while retaining sufficient detectability during injection. However, because of differences in fluoroscopic systems and scan protocols between hospitals, the combination of tantalum concentration and scan protocol should be optimized for each clinical setting.",
+      "affiliation": "Multi-Modality Medical Imaging group, University of Twente, Enschede, The Netherlands.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Abdominal aortic aneurysm",
+          "Tantalum",
+          "Radiopacity",
+          "Endoleak",
+          "Injectable Embolic Agent"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s13239-025-00779-w"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-24",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-24",
+      "electronicPublicationDate": "2025-03-24",
+      "firstPublicationDate": "2025-03-24"
+    },
+    {
+      "id": "40128566",
+      "source": "MED",
+      "pmid": "40128566",
+      "doi": "10.1038/s41420-025-02391-2",
+      "title": "Comprehensive analysis of cellular metrics: From proliferation to mitochondrial membrane potential and cell death in a single sample.",
+      "authorString": "Sabirova S, Sharapova G, Budyukova A, Gomzikova M, Brichkina A, Barlev NA, Rizvanov A, Markov N, Simon HU.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Sabirova S",
+            "firstName": "Sirina",
+            "lastName": "Sabirova",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                },
+                {
+                  "affiliation": "Laboratory of Intercellular Communication, Kazan Federal University, Kazan, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sharapova G",
+            "firstName": "Gulnaz",
+            "lastName": "Sharapova",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                },
+                {
+                  "affiliation": "OpenLab Gene and Cell Technology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Budyukova A",
+            "firstName": "Aida",
+            "lastName": "Budyukova",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                },
+                {
+                  "affiliation": "Laboratory of Intercellular Communication, Kazan Federal University, Kazan, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gomzikova M",
+            "firstName": "Marina",
+            "lastName": "Gomzikova",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                },
+                {
+                  "affiliation": "Laboratory of Intercellular Communication, Kazan Federal University, Kazan, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Brichkina A",
+            "firstName": "Anna",
+            "lastName": "Brichkina",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8707-9900"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                },
+                {
+                  "affiliation": "Institute of Systems Immunology, Center for Tumor Biology and Immunology, Philipps University of Marburg, Marburg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Barlev NA",
+            "firstName": "Nick A",
+            "lastName": "Barlev",
+            "initials": "NA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                },
+                {
+                  "affiliation": "Institute of Cytology of the Russian Academy of Sciences, St. Petersburg, Russia."
+                },
+                {
+                  "affiliation": "Department of Biomedical Sciences, School of Medicine, Nazarbayev University, Astana, Kazakhstan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rizvanov A",
+            "firstName": "Albert",
+            "lastName": "Rizvanov",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "OpenLab Gene and Cell Technology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia."
+                },
+                {
+                  "affiliation": "Division of Medical and Biological Sciences, Tatarstan Academy of Sciences, Kazan, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Markov N",
+            "firstName": "Nikita",
+            "lastName": "Markov",
+            "initials": "N",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1121-973X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Pharmacology, University of Bern, Bern, Switzerland. nikita.markov@unibe.ch."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Simon HU",
+            "firstName": "Hans-Uwe",
+            "lastName": "Simon",
+            "initials": "HU",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia. hans-uwe.simon@unibe.ch."
+                },
+                {
+                  "affiliation": "Institute of Pharmacology, University of Bern, Bern, Switzerland. hans-uwe.simon@unibe.ch."
+                },
+                {
+                  "affiliation": "Institute of Biochemistry, Brandenburg Medical School, Neuruppin, Germany. hans-uwe.simon@unibe.ch."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8707-9900"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1121-973X"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "11",
+        "journalIssueId": 3907291,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Cell death discovery",
+          "medlineAbbreviation": "Cell Death Discov",
+          "isoabbreviation": "Cell Death Discov",
+          "nlmid": "101665035",
+          "essn": "2058-7716",
+          "issn": "2058-7716"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "119",
+      "abstractText": "Changes in cell number during in vitro experiments and pharmacological screenings primarily depend on two factors: cell death and proliferation. The dynamics of these processes determine whether cell populations expand and accumulate or, conversely, decrease over time. Understanding the biological mechanisms governing these changes is crucial for deciphering the mode of action of any pharmacological or genetic treatment in fundamental research and pre-clinical trials. In this context, we introduce a robust and efficient flow cytometry-based methodology that enables comprehensive analysis of key cellular parameters that indicate changes in cell numbers. This approach encompasses the assessment of cell count along with critical maintenance parameters including proliferation, cell cycle dynamics, apoptosis, cell permeability, and mitochondrial depolarization. These parameters are intricately linked, offering a detailed view of the cellular state. The described methodology is versatile and adaptable for analyzing various cell types, whether at steady state or in response to treatments. To develop this workflow, we integrated and optimised multiple flow cytometry-based stainings such as annexin V, propidium iodide, bromodeoxyuridine, CellTrace Violet, and JC-1 into a unified protocol. This article offers a detailed, step-by-step guide to the entire method, covering aspects such as timing, sample preparation techniques, and the reagents used. Additionally, it includes examples of the data that can be obtained with this technique and illustrates its multiparametric visualization. Collectively, this methodology facilitates the rapid acquisition of up to eight different parameters from a single sample in one experiment.",
+      "affiliation": "Laboratory of Molecular Immunology, Institute of Fundamental Medicine and Biology, Kazan Federal University, Kazan, Russia.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "310030_184816 (HUS)",
+            "agency": "Swiss National Science Foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41420-025-02391-2"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-25",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-25",
+      "electronicPublicationDate": "2025-03-24",
+      "firstPublicationDate": "2025-03-24"
+    },
+    {
+      "id": "40135819",
+      "source": "MED",
+      "pmid": "40135819",
+      "doi": "10.1080/21645515.2025.2483022",
+      "title": "Fundamental knowledge and research regarding the role of immunity in triple-negative breast cancer from 2014-2024: A bibliometric analysis. ",
+      "authorString": "Li X, Lou C, Ren H, Cui L, Chen K.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li X",
+            "firstName": "Xudong",
+            "lastName": "Li",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lou C",
+            "firstName": "Chun",
+            "lastName": "Lou",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ren H",
+            "firstName": "He",
+            "lastName": "Ren",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cui L",
+            "firstName": "Lina",
+            "lastName": "Cui",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen K",
+            "firstName": "Kexin",
+            "lastName": "Chen",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, Harbin Medical University Cancer Hospital, Harbin, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "21",
+        "journalIssueId": 3873219,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Human vaccines & immunotherapeutics",
+          "medlineAbbreviation": "Hum Vaccin Immunother",
+          "isoabbreviation": "Hum Vaccin Immunother",
+          "nlmid": "101572652",
+          "essn": "2164-554X",
+          "issn": "2164-5515"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "2483022",
+      "abstractText": "Immunity has vital research value and promising applications in triple-negative breast cancer (TNBC). Nevertheless, few bibliometric analyses have systematically investigated this area. This study aimed to comprehensively review the collaboration and impact of countries, institutions, authors, and journals on the role of immunity in TNBC from a bibliometric perspective, evaluate the keyword co-occurrence of the knowledge structure, and identify hot trends and emerging topics. Articles and reviews related to immunity in TNBC were retrieved from the Web of Science core collection using subject search. A bibliometric study was conducted primarily using CiteSpace and VOSviewer. A total of 3,104 articles and reviews were included from January 1, 2014, through December 31, 2024. The number of articles on immunization in TNBC is rising. These publications are mainly from 415 institutions in 82 countries, led by China and the USA. Among these publications, Lajos Pusztai published the most papers, while Peter Schmid was co-cited the most. The most productive journals focused on molecular biology, biological immunology, and clinical medicine. Furthermore, co-citation analysis revealed that tumor microenvironment, biomarkers, and immune checkpoint inhibitors are current and developing research areas. The keywords \"immunotherapy\" and \"nanoparticles\" are also likely to be new trends and focal points for future research. This study adopted bibliometric and visualization methods to provide a comprehensive review of the research on immunization in TNBC. This article will help researchers better understand the dynamic evolution of the role of immunity in TNBC and identify areas for future research.",
+      "affiliation": "Department of Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cancer Vaccines",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Immunotherapy",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biomedical Research",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TD",
+                  "qualifierName": "trends",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "SN",
+                  "qualifierName": "statistics & numerical data",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bibliometrics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tumor Microenvironment",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Triple Negative Breast Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Cancer Vaccines",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/21645515.2025.2483022"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-03-26",
+      "dateOfCreation": "2025-03-26",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-26",
+      "electronicPublicationDate": "2025-03-26",
+      "firstPublicationDate": "2025-03-26"
+    },
+    {
+      "id": "40126960",
+      "source": "MED",
+      "pmid": "40126960",
+      "doi": "10.1109/jbhi.2025.3554189",
+      "title": "Hepatic Vessel Roadmap Prediction Using Adaptive Tracking and Bending Energy Modeling in X-Ray Fluoroscopy.",
+      "authorString": "Yang S, Xiao D, Geng H, Ai D, Fan J, Fu T, Song H, Duan F, Yang J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yang S",
+            "firstName": "Shuo",
+            "lastName": "Yang",
+            "initials": "S"
+          },
+          {
+            "fullName": "Xiao D",
+            "firstName": "Deqiang",
+            "lastName": "Xiao",
+            "initials": "D"
+          },
+          {
+            "fullName": "Geng H",
+            "firstName": "Haixiao",
+            "lastName": "Geng",
+            "initials": "H"
+          },
+          {
+            "fullName": "Ai D",
+            "firstName": "Danni",
+            "lastName": "Ai",
+            "initials": "D"
+          },
+          {
+            "fullName": "Fan J",
+            "firstName": "Jingfan",
+            "lastName": "Fan",
+            "initials": "J"
+          },
+          {
+            "fullName": "Fu T",
+            "firstName": "Tianyu",
+            "lastName": "Fu",
+            "initials": "T"
+          },
+          {
+            "fullName": "Song H",
+            "firstName": "Hong",
+            "lastName": "Song",
+            "initials": "H"
+          },
+          {
+            "fullName": "Duan F",
+            "firstName": "Feng",
+            "lastName": "Duan",
+            "initials": "F"
+          },
+          {
+            "fullName": "Yang J",
+            "firstName": "Jian",
+            "lastName": "Yang",
+            "initials": "J"
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "PP",
+        "journalIssueId": 3908817,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "IEEE journal of biomedical and health informatics",
+          "medlineAbbreviation": "IEEE J Biomed Health Inform",
+          "isoabbreviation": "IEEE J Biomed Health Inform",
+          "nlmid": "101604520",
+          "essn": "2168-2208",
+          "issn": "2168-2194"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Dynamic visualization of the hepatic vessel is crucial in X-ray image-guided transjugular intrahepatic portosystemic shunt (TIPS) procedures. However, intraoperative breathing and the presence of guidewires complicate the prediction of the vessel position and posture without contrast agents. The respiration compensation technique aims to utilize the intraoperative respiration modeling to deform the initial vessel roadmap, thereby achieving the dynamic vessel prediction in the X-ray image sequence for the interventional guidance. Therefore, we propose a novel respiration compensation framework utilizing the adaptive tracking and bending energy modeling to achieve the stable vessel roadmap prediction under free breathing. First, we introduce the inter-frame rigid displacement compensation module based on the domain adaptation and adaptive centroid tracking. This module fits the respiratory curve from the X-ray images, providing the temporal motion priors for aligning roadmaps across frames. Second, we propose the novel deformation compensation module based on the bending energy modeling to correct the respiratory motion, wherein we utilize the energy features of the guidewires to drive the non-rigid registration. The control points sampled by the bending energy guide the local image to form the deformation field, facilitating the dynamic overlap of the deformed vessel roadmaps in X-ray images. Experimental results on simulated and clinical datasets show an average tracking error of 0.95 0.26\u00a0mm and 1.49 0.40\u00a0mm, respectively. The effective and fast (mean 57\u00a0ms per frame) compensation achieved by our framework has the potential for improving the outcome of liver intervention and reducing the reliance on contrast agents.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1109/JBHI.2025.3554189"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-24",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-24",
+      "electronicPublicationDate": "2025-03-24",
+      "firstPublicationDate": "2025-03-24"
+    },
+    {
+      "id": "40126099",
+      "source": "MED",
+      "pmid": "40126099",
+      "doi": "10.1021/acs.analchem.4c06871",
+      "title": "Uncovering the Mechanism of Protein Sulfination in Regulating Atherosclerotic Plaque Calcification via Fluorescence Imaging.",
+      "authorString": "Gao W, Zhou Y, Li G, Zhang S, Huang X, Tang B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Gao W",
+            "firstName": "Wen",
+            "lastName": "Gao",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Chemistry, Chemical Engineering and Materials Science, Collaborative Innovation Center of Functionalized Probes for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular and Nano Probes, Ministry of Education, Institute of Biomedical Sciences, Shandong Normal University, Jinan 250014, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou Y",
+            "firstName": "Yinkao",
+            "lastName": "Zhou",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Chemistry, Chemical Engineering and Materials Science, Collaborative Innovation Center of Functionalized Probes for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular and Nano Probes, Ministry of Education, Institute of Biomedical Sciences, Shandong Normal University, Jinan 250014, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li G",
+            "firstName": "Guanghan",
+            "lastName": "Li",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Chemistry, Chemical Engineering and Materials Science, Collaborative Innovation Center of Functionalized Probes for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular and Nano Probes, Ministry of Education, Institute of Biomedical Sciences, Shandong Normal University, Jinan 250014, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang S",
+            "firstName": "Shengyue",
+            "lastName": "Zhang",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Chemistry, Chemical Engineering and Materials Science, Collaborative Innovation Center of Functionalized Probes for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular and Nano Probes, Ministry of Education, Institute of Biomedical Sciences, Shandong Normal University, Jinan 250014, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang X",
+            "firstName": "Xiaoqing",
+            "lastName": "Huang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Chemistry, Chemical Engineering and Materials Science, Collaborative Innovation Center of Functionalized Probes for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular and Nano Probes, Ministry of Education, Institute of Biomedical Sciences, Shandong Normal University, Jinan 250014, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tang B",
+            "firstName": "Bo",
+            "lastName": "Tang",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8712-7025"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Chemistry, Chemical Engineering and Materials Science, Collaborative Innovation Center of Functionalized Probes for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular and Nano Probes, Ministry of Education, Institute of Biomedical Sciences, Shandong Normal University, Jinan 250014, P. R. China."
+                },
+                {
+                  "affiliation": "Laoshan Laboratory, Qingdao 266237, P. R. China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8712-7025"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3907001,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Analytical chemistry",
+          "medlineAbbreviation": "Anal Chem",
+          "isoabbreviation": "Anal Chem",
+          "nlmid": "0370536",
+          "essn": "1520-6882",
+          "issn": "0003-2700"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Atherosclerotic plaque calcification is an oxidative-stress-dependent process involved in the onset of plaque disruption and subsequent atherothrombotic events. Excessive reactive oxygen species (ROS) production determines the structural modification of protein cysteine sulfhydryl (Cys-SH), leading to the alteration of protein functions and redox signaling outputs. Although these redox-centered signaling pathways have been found to play important roles in plaque calcification, the extent of protein Cys-SH modifications and the regulatory regions of specific proteins remains unclear. This is due to the lack of tools that can visually distinguish and characterize the oxidation products of different Cys-SH proteins, especially protein sulfination (Cys-SO<sub>2</sub>H). Herein, we present a novel \"turn-on\" fluorescent probe (Z-1) for the in situ visualization of Cys-SO<sub>2</sub>H modifications and investigate its effects on the initiation of vascular smooth muscle cell (VSMC) calcification. In vitro and in vivo imaging with Z-1, cigarette smoking-induced VSMC calcification, display a significant increase in protein Cys-SO<sub>2</sub>H levels. Protein spectrum analysis reveals that Cys-SO<sub>2</sub>H modification occurred at the sulfhydryl active sites of the Kelch-like ECH-associated protein (Keap1). These oxidative modifications are desired to dysregulate the ROS/Keap1/nuclear factor-E2-related factor 2 (Nrf2) antioxidant signaling pathway and accelerate the calcification process. Furthermore, elevated levels of Cys-SO<sub>2</sub>H observed in serum samples from patients with acute myocardial infarction and cerebral infarction give clinical evidence of the relevance of protein Cys-SO<sub>2</sub>H modification in pathological calcification.",
+      "affiliation": "College of Chemistry, Chemical Engineering and Materials Science, Collaborative Innovation Center of Functionalized Probes for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular and Nano Probes, Ministry of Education, Institute of Biomedical Sciences, Shandong Normal University, Jinan 250014, P. R. China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1021/acs.analchem.4c06871"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-24",
+      "firstIndexDate": "2025-03-26",
+      "dateOfRevision": "2025-03-24",
+      "electronicPublicationDate": "2025-03-24",
+      "firstPublicationDate": "2025-03-24"
+    }
+  ]
+}
