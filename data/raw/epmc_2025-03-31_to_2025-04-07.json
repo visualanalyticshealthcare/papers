@@ -1,0 +1,2053 @@
+{
+  "start_date": "2025-03-31",
+  "end_date": "2025-04-07",
+  "records_fetched": 9,
+  "articles": [
+    {
+      "id": "40165098",
+      "source": "MED",
+      "pmid": "40165098",
+      "doi": "10.1186/s12882-025-04076-5",
+      "title": "Enhancing access to nephrology care: telenephrology dashboard optimization via human-centered design.",
+      "authorString": "Swee M, Kumar B, Sanders ML, Thumann A, Phisitkul K, Griffin BR, Yamada M, Sambharia M, Vaughan-Sarrazin M, Reisinger HS, Dixon BS, Jalal DI.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Swee M",
+            "firstName": "Melissa",
+            "lastName": "Swee",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Nephrology, University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, IA, 52245, USA. Melissa-Swee@UIowa.edu."
+                },
+                {
+                  "affiliation": "Center for Access Delivery & Research and Evaluation (CADRE) Center, Iowa City VA Health Care System, Iowa City, IA, USA. Melissa-Swee@UIowa.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kumar B",
+            "firstName": "Bharat",
+            "lastName": "Kumar",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Immunology, University of Iowa Carver College of Medicine, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sanders ML",
+            "firstName": "M Lee",
+            "lastName": "Sanders",
+            "initials": "ML",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Nephrology, University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, IA, 52245, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Thumann A",
+            "firstName": "Angie",
+            "lastName": "Thumann",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Iowa City Veterans Affairs Health Care System, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Phisitkul K",
+            "firstName": "Kantima",
+            "lastName": "Phisitkul",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Iowa City Veterans Affairs Health Care System, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Griffin BR",
+            "firstName": "Benjamin R",
+            "lastName": "Griffin",
+            "initials": "BR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Nephrology, University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, IA, 52245, USA."
+                },
+                {
+                  "affiliation": "Center for Access Delivery & Research and Evaluation (CADRE) Center, Iowa City VA Health Care System, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yamada M",
+            "firstName": "Masaaki",
+            "lastName": "Yamada",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Nephrology, University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, IA, 52245, USA."
+                },
+                {
+                  "affiliation": "Center for Access Delivery & Research and Evaluation (CADRE) Center, Iowa City VA Health Care System, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sambharia M",
+            "firstName": "Meenakshi",
+            "lastName": "Sambharia",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Nephrology, University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, IA, 52245, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vaughan-Sarrazin M",
+            "firstName": "Mary",
+            "lastName": "Vaughan-Sarrazin",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Access Delivery & Research and Evaluation (CADRE) Center, Iowa City VA Health Care System, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Reisinger HS",
+            "firstName": "Heather S",
+            "lastName": "Reisinger",
+            "initials": "HS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Access Delivery & Research and Evaluation (CADRE) Center, Iowa City VA Health Care System, Iowa City, IA, USA."
+                },
+                {
+                  "affiliation": "Institute for Clinical and Translational Science, University of Iowa, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dixon BS",
+            "firstName": "Bradley S",
+            "lastName": "Dixon",
+            "initials": "BS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Iowa City Veterans Affairs Health Care System, Iowa City, IA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jalal DI",
+            "firstName": "Diana I",
+            "lastName": "Jalal",
+            "initials": "DI",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Nephrology, University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, IA, 52245, USA."
+                },
+                {
+                  "affiliation": "Center for Access Delivery & Research and Evaluation (CADRE) Center, Iowa City VA Health Care System, Iowa City, IA, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "26",
+        "journalIssueId": 3909129,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "BMC nephrology",
+          "medlineAbbreviation": "BMC Nephrol",
+          "issn": "1471-2369",
+          "essn": "1471-2369",
+          "isoabbreviation": "BMC Nephrol",
+          "nlmid": "100967793"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "164",
+      "abstractText": "<h4>Background</h4>Ensuring that patients, especially those in underserved areas, have access to specialized nephrology care is essential to addressing the increasing burden of chronic kidney disease. To address this, we developed the Telenephrology Dashboard for the 150,000 Veterans served by the Iowa City Veterans Affairs Health Care System (ICVAHCS). Our goal was to optimize the dashboard as a comprehensive and practical tool for end-users in order to monitor kidney health and facilitate remote nephrology consultations.<h4>Methods</h4>The optimization process adhered to the Human-Centered Design (HCD) framework, encompassing five stages: Empathize, Define, Ideate, Prototype and Test. Research team members spent 10\u00a0h observing nephrologists during remote consultations and supplemented these observations with semi-structured interviews with clinicians to gain insights into existing workflows and challenges. A rapid ideation workshop was then held to propose innovative solutions that balanced technical needs with user preferences. Subsequent prototyping and testing helped refine and evaluate the proposed designs, identifying key areas for improvement.<h4>Results</h4>The iterative design process identified three critical needs: (1) improved clarity in visual data representation, (2) enhanced data accuracy, and (3) a balance between standardized features and customization options. Five dashboard prototypes were created, tested, and iteratively refined into a final version. The completed Telenephrology Dashboard includes five core features: (1) graphical representation of kidney function trends, (2) tables summarizing key lab data, (3) functionality to examine specific events in detail, (4) customizable views tailored to user workflows, and (5) integration of predictive kidney disease progression models.<h4>Conclusion</h4>The Telenephrology Dashboard was developed using a Human-Centered Design approach to improve remote nephrology consultations. Future efforts will focus on evaluating its impact on user satisfaction, referring clinician satisfaction, access to nephrology care, and patient care outcomes.<h4>Clinical trial number</h4>Not applicable, as this is not a clinical trial.",
+      "affiliation": "Division of Nephrology, University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, IA, 52245, USA. Melissa-Swee@UIowa.edu.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "K12TR004382",
+            "agency": "National Center for Advancing the Translational Sciences",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Nephrology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Telemedicine"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Remote Consultation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "User-Computer Interface"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Health Services Accessibility"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Renal Insufficiency, Chronic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "User-Centered Design"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Quality improvement",
+          "Chronic Kidney Disease",
+          "Clinical Decision Support",
+          "Telehealth",
+          "Dashboard",
+          "Telenephrology"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12882-025-04076-5"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-04-01",
+      "dateOfCreation": "2025-04-01",
+      "firstIndexDate": "2025-04-02",
+      "dateOfRevision": "2025-04-01",
+      "electronicPublicationDate": "2025-03-31",
+      "firstPublicationDate": "2025-03-31"
+    },
+    {
+      "id": "40172850",
+      "source": "MED",
+      "pmid": "40172850",
+      "doi": "10.3233/wor-230595",
+      "title": "Looking at WORK journal: Findings from a bibliometric analysis and visualization from 1990 to 2022.",
+      "authorString": "Giti A, Golchin M, Fattahi A, Rahmani R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Giti A",
+            "firstName": "Anahita",
+            "lastName": "Giti",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Medical Librarian and Information Sciences, School of Public Health, Hamadan University of Medical Sciences, Hamadan, Iran."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Golchin M",
+            "firstName": "Marzieh",
+            "lastName": "Golchin",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Knowledge and Information Science, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fattahi A",
+            "firstName": "Ala",
+            "lastName": "Fattahi",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Occupational Health and Safety Engineering, School of Public Health, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rahmani R",
+            "firstName": "Ramin",
+            "lastName": "Rahmani",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5882-3825"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Occupational Health and Safety Engineering, Student Research Committee, School of Public Health, Hamadan University of Medical Sciences, Hamadan, Iran."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5882-3825"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "80",
+        "journalIssueId": 3922569,
+        "dateOfPublication": "2025 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-02-01",
+        "journal": {
+          "title": "Work (Reading, Mass.)",
+          "medlineAbbreviation": "Work",
+          "issn": "1051-9815",
+          "essn": "1875-9270",
+          "isoabbreviation": "Work",
+          "nlmid": "9204382"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "539-547",
+      "abstractText": "<h4>Background</h4>\u2002The bibliometric and visualization of a journal informs the editorial team about its current situation. As an interesting and popular journal in the field of Occupational Health and Safety (OHS), <i>WORK</i> is a good target for bibliometric analysis and visualization.<h4>Objective</h4>\u2002To conduct an overview of <i>WORK</i> from a bibliometric perspective.<h4>Methods</h4>\u2002Using the Scopus database, the present bibliometric study was carried out to evaluate <i>WORK</i> from its whole life (1990-2022). Data extraction was performed on May 8, 2023. Using Microsoft Excel and VOSviewer software, bibliometric analysis and visualization approaches were conducted. Related findings such as various indices trends, co-authorship as well as most cited and most productive authors, highly cited papers, and most productive countries were introduced and discussed.<h4>Results</h4>\u2002Overall, positive trends were observed in published documents and received citations by <i>WORK</i>. The top-cited paper in <i>WORK</i> had 478 citations. Straker, Innes, and Jacobs were the most cited authors with nearly 500 citations. American and European countries had more contributions to <i>WORK</i>. The same findings were obtained regarding international cooperation. The co-occurrence of keywords showed that <i>WORK</i> covers all aspects of OHS with more emphasis on the Ergonomics issues.<h4>Conclusions</h4>\u2002The positive trends in published papers as well as its impacts proved the fact that <i>WORK</i> is progressing year by year. The findings of the present study can be useful both for audiences and the editorial team of <i>WORK</i>.",
+      "affiliation": "Medical Librarian and Information Sciences, School of Public Health, Hamadan University of Medical Sciences, Hamadan, Iran.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bibliometrics"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Occupational Health"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Periodicals as Topic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TD",
+                  "qualifierName": "trends",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "SN",
+                  "qualifierName": "statistics & numerical data",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Ergonomics",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Citation",
+          "Visualization",
+          "Work",
+          "Vosviewer",
+          "Scopus",
+          "Bibliometric Analysis"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3233/WOR-230595"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-04-02",
+      "dateOfCreation": "2025-04-02",
+      "firstIndexDate": "2025-04-03",
+      "dateOfRevision": "2025-04-02",
+      "electronicPublicationDate": "2025-04-02",
+      "firstPublicationDate": "2025-02-01"
+    },
+    {
+      "id": "40175970",
+      "source": "MED",
+      "pmid": "40175970",
+      "doi": "10.1186/s12884-025-07442-1",
+      "title": "Development and validation of a prediction model for gestational diabetes mellitus risk among women from 8 to 14 weeks of gestation in Western China. ",
+      "authorString": "Zhang J, Cao Q, Mao C, Xu J, Li Y, Mu Y, Huang G, Chen D, Deng X, Xu T, Zhou F, Wang X.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhang J",
+            "firstName": "Jiani",
+            "lastName": "Zhang",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cao Q",
+            "firstName": "Qi",
+            "lastName": "Cao",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Department of Reproductive Medical Center, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mao C",
+            "firstName": "Chihui",
+            "lastName": "Mao",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu J",
+            "firstName": "Jinfeng",
+            "lastName": "Xu",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Y",
+            "firstName": "Yaqian",
+            "lastName": "Li",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mu Y",
+            "firstName": "Yi",
+            "lastName": "Mu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "National Office for Maternal and Child Health Surveillance, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang G",
+            "firstName": "Guiqiong",
+            "lastName": "Huang",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen D",
+            "firstName": "Daijuan",
+            "lastName": "Chen",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Deng X",
+            "firstName": "Xixi",
+            "lastName": "Deng",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu T",
+            "firstName": "Tingting",
+            "lastName": "Xu",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou F",
+            "firstName": "Fan",
+            "lastName": "Zhou",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang X",
+            "firstName": "Xiaodong",
+            "lastName": "Wang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China. wangxd_scu@sina.com."
+                },
+                {
+                  "affiliation": "Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University), Ministry of Education, Chengdu, Sichuan, China. wangxd_scu@sina.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "25",
+        "journalIssueId": 3922296,
+        "dateOfPublication": "2025 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-04-01",
+        "journal": {
+          "title": "BMC pregnancy and childbirth",
+          "medlineAbbreviation": "BMC Pregnancy Childbirth",
+          "issn": "1471-2393",
+          "essn": "1471-2393",
+          "isoabbreviation": "BMC Pregnancy Childbirth",
+          "nlmid": "100967799"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "385",
+      "abstractText": "To develop a clinically applicable and promotable prediction model for assessing the risk of gestational diabetes mellitus (GDM) within the context of primary healthcare institutions. The construction and the internal validation of the prediction model involved a cohort of 6,216 pregnant women observed from January 2019 to June 2019 in a Class A tertiary hospital in western China. External validation was subsequently conducted with 443 pregnant women from October 2020 to June 2021. Core characteristics were identified and the model was established using the least absolute shrinkage and selection operator (LASSO) regression. Internal validation was performed using the Bootstrap method. Model evaluation included discrimination and calibration tests, decision curve analysis (DCA), and the clinical impact curve. Visualization of the model was achieved through a static nomogram and a risk-scoring model. The simplified prediction model possessed seven variables, including age, prepregnancy body mass index (BMI), polycystic ovary syndrome (PCOS), history of GDM, family history of diabetes, fasting plasma glucose (FPG), and urine glucose. This model exhibited a predictive accuracy, as reflected by a C-index of 0.736 (95% CI: 0.720\u2009~\u20090.753) in the training set. The C-indexes were 0.735 and 0.694 in the internal and external testing set. Well-fitted calibration curves, the DCA curve, and the clinical impact curve demonstrated the feasibility of the simplified prediction model. For enhanced clinical application, the static nomogram and the risk-scoring model were employed to visualize the model. This study developed a prediction model for assessing the risk of GDM among women from 8 to 14\u00a0weeks of gestation in western China. The model demonstrated moderate discriminatory ability, well-fitted calibration, and convenient visualization, suggesting its suitability for implementation and widespread adoption, particularly within the context of primary healthcare institutions.",
+      "affiliation": "Department of Obstetrics and Gynecology, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2022YF0042",
+            "agency": "Science Foundation of science and technology program key project of Sichuan Province",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12884-025-07442-1"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-04-02",
+      "firstIndexDate": "2025-04-03",
+      "dateOfRevision": "2025-04-02",
+      "electronicPublicationDate": "2025-04-02",
+      "firstPublicationDate": "2025-04-02"
+    },
+    {
+      "id": "40169164",
+      "source": "MED",
+      "pmid": "40169164",
+      "doi": "10.24920/004462",
+      "title": "Formula-S: Situated Visualization for Traditional Chinese Medicine Formula Learning.",
+      "authorString": "Wu ZY, Peng SY, Zhu Y, Zhou L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wu ZY",
+            "firstName": "Zhi-Yue",
+            "lastName": "Wu",
+            "initials": "ZY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Medical Technology, Peking University Health Science Center, Beijing 100191, China."
+                },
+                {
+                  "affiliation": "National Institute of Health Data Science, Peking University, Beijing 100191, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Peng SY",
+            "firstName": "Su-Yuan",
+            "lastName": "Peng",
+            "initials": "SY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Information on Traditional Chinese Medicine, China Academy of Chinese Medical Sciences, Beijing 100700, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhu Y",
+            "firstName": "Yan",
+            "lastName": "Zhu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Information on Traditional Chinese Medicine, China Academy of Chinese Medical Sciences, Beijing 100700, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou L",
+            "firstName": "Liang",
+            "lastName": "Zhou",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Institute of Health Data Science, Peking University, Beijing 100191, China. zhoulng@pku.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3920956,
+        "dateOfPublication": "2025 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-04-01",
+        "journal": {
+          "title": "Chinese medical sciences journal = Chung-kuo i hsueh k'o hsueh tsa chih",
+          "medlineAbbreviation": "Chin Med Sci J",
+          "issn": "1001-9294",
+          "isoabbreviation": "Chin Med Sci J",
+          "nlmid": "9112559"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "1-12",
+      "abstractText": "<h4>Objectives</h4>The study of medicine formulas is a core component of traditional Chinese medicine (TCM), yet traditional learning methods often lack interactivity and contextual understanding, making it challenging for beginners to grasp the intricate composition rules of formulas. To address this gap, we introduce Formula-S, a situated visualization method for TCM formula learning in augmented reality (AR) and evaluate its performance. This study aims to evaluate the effectiveness of Formula-S in enhancing TCM formula learning for beginners by comparing it with traditional text-based formula learning and web-based visualization.<h4>Methods</h4>Formula-S is an interactive AR tool designed for TCM formula learning, featuring three modes (3D, Web, and Table). The dataset included TCM formulas and herb properties extracted from authoritative references, including textbook and the SymMap database. In Formula-S, the hierarchical visualization of the formulas as herbal medicine compositions, is linked to the multidimensional herb attribute visualization and embedded in the real world, where real herb samples are presented. To evaluate its effectiveness, a controlled study (<i>n</i>=30) was conducted.Participants who had no formal TCM knowledge were tasked with herbal medicine identification, formula composition, and recognition. In the study, participants interacted with the AR tool through HoloLens 2. Data were collected on both task performance (accuracy and response time) and user experience, with a focus on task efficiency, accuracy, and user preference across the different learning modes. <b>Results</b> The situated visualization method of Formula-S had comparable accuracy to other methods but shorter response time for herbal formula learning tasks. Regarding user experience, our new approach demonstrated the highest system usability and lowest task load, effectively reducing cognitive load and allowing users to complete tasks with greater ease and efficiency. Participants reported that Formula-S enhanced their learning experience through its intuitive interface and immersive AR environment, suggesting this approach offers usability advantages for TCM education.<h4>Conclusions</h4>The situated visualization method in Formula-S offers more efficient and accurate searching capabilities compared to traditional and web-based methods. Additionally, it provides superior contextual understanding of TCM formulas, making it a promising new solution for TCM learning.",
+      "affiliation": "Institute of Medical Technology, Peking University Health Science Center, Beijing 100191, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "62372012",
+            "agency": "the National Nature Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "ZZ170320 and ZZ18-XRZ-069",
+            "agency": "This work was supported by the Fundamental Research Funds for the Central Public Welfare Research Institutes",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Traditional Chinese medicine",
+          "formula",
+          "Health Informatics",
+          "Situated Visualization Augmented Reality"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.24920/004462"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-04-01",
+      "firstIndexDate": "2025-04-02",
+      "dateOfRevision": "2025-04-01",
+      "electronicPublicationDate": "2025-04-01",
+      "firstPublicationDate": "2025-04-01"
+    },
+    {
+      "id": "40163718",
+      "source": "MED",
+      "pmid": "40163718",
+      "doi": "10.1093/bioinformatics/btaf143",
+      "title": "XPRS: A Tool for Interpretable and Explainable Polygenic Risk Score.",
+      "authorString": "Kim NY, Lee S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kim NY",
+            "firstName": "Na Yeon",
+            "lastName": "Kim",
+            "initials": "NY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Graduate School of Data Science, Seoul National University, Seoul, South Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lee S",
+            "firstName": "Seunggeun",
+            "lastName": "Lee",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Graduate School of Data Science, Seoul National University, Seoul, South Korea."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3909723,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Bioinformatics (Oxford, England)",
+          "medlineAbbreviation": "Bioinformatics",
+          "issn": "1367-4803",
+          "essn": "1367-4811",
+          "isoabbreviation": "Bioinformatics",
+          "nlmid": "9808944"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "btaf143",
+      "abstractText": "<h4>Summary</h4>The polygenic risk score (PRS) is an important method for assessing genetic susceptibility to diseases; however, its clinical utility is limited by a lack of interpretability tools. To address this problem, we introduce eXplainable PRS (XPRS), an interpretation and visualization tool that decomposes PRSs into genes/regions and single nucleotide polymorphism (SNP) contribution scores via Shapley additive explanations (SHAPs), which provide insights into specific genes and SNPs that significantly contribute to the PRS of an individual. This software features a multilevel visualization approach, including Manhattan plots, LocusZoom-like plots and tables at the population and individual levels, to highlight important genes and SNPs. By implementing with a user-friendly web interface, XPRS allows for straightforward data input and interpretation. By bridging the gap between complex genetic data and actionable clinical insights, XPRS can improve communication between clinicians and patients.<h4>Availability and implementation</h4>The XPRS software is publicly available on GitHub at https://github.com/nayeonkim93/XPRS and can see the demo through our cloud-based web service at https://xprs.leelabsg.org/.<h4>Supplementary information</h4>Supplementary data are available at Bioinformatics online.",
+      "affiliation": "Graduate School of Data Science, Seoul National University, Seoul, South Korea.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1093/bioinformatics/btaf143"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "PPR929976",
+            "source": "PPR",
+            "type": "Preprint in",
+            "note": "Link created based on a title-first author match",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-03-31",
+      "firstIndexDate": "2025-04-02",
+      "dateOfRevision": "2025-03-31",
+      "electronicPublicationDate": "2025-03-31",
+      "firstPublicationDate": "2025-03-31"
+    },
+    {
+      "id": "40169397",
+      "source": "MED",
+      "pmid": "40169397",
+      "doi": "10.5009/gnl240541",
+      "title": "Comparative Study of MiroCam MC2000 and PillCam SB3 in Detecting Small Bowel Bleeding: A Multicenter Prospective Randomized Crossover Study.",
+      "authorString": "Kim JE, Kim ER, Park JJ, Kim KO, Park Y, Yang YJ, Jang HJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kim JE",
+            "firstName": "Ji Eun",
+            "lastName": "Kim",
+            "initials": "JE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2149-7979"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kim ER",
+            "firstName": "Eun Ran",
+            "lastName": "Kim",
+            "initials": "ER",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0495-2565"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Park JJ",
+            "firstName": "Jae Jun",
+            "lastName": "Park",
+            "initials": "JJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9974-1658"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Gastroenterology, Department of Internal Medicine, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kim KO",
+            "firstName": "Kyeong Ok",
+            "lastName": "Kim",
+            "initials": "KO",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5799-7436"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine, Yeungnam University College of Medicine, Daegu, Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Park Y",
+            "firstName": "Yehyun",
+            "lastName": "Park",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8811-0631"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine, Ewha Womans University Seoul Hospital, Seoul, Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang YJ",
+            "firstName": "Young Joo",
+            "lastName": "Yang",
+            "initials": "YJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6325-1104"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine, Hallym University College of Medicine, Chuncheon, Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jang HJ",
+            "firstName": "Hyun Joo",
+            "lastName": "Jang",
+            "initials": "HJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4424-1968"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Hallym University Dongtan Sacred Heart Hospital, Hallym University College of Medicine, Hwaseong, Korea."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5799-7436"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6325-1104"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8811-0631"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9974-1658"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0495-2565"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2149-7979"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4424-1968"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3922080,
+        "dateOfPublication": "2025 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-04-01",
+        "journal": {
+          "title": "Gut and liver",
+          "medlineAbbreviation": "Gut Liver",
+          "issn": "1976-2283",
+          "essn": "2005-1212",
+          "isoabbreviation": "Gut Liver",
+          "nlmid": "101316452"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background/aims</h4>The MiroCam MC2000 (MC2000) is a double-tip capsule with a camera on each side. It is designed to provide more extensive visualization of the small bowel mucosa, potentially reducing the chance of missing lesions. This study aimed to compare the detection rates for lesions in the ampulla of Vater (AoV) and the small bowel of the MC2000 and the PillCam SB3 (SB3) for patients with suspected small bowel bleeding.<h4>Methods</h4>This prospective, multicenter, randomized crossover trial compared the lesion detection capabilities of the MC2000 and SB3 capsules, ingested one hour apart by patients with suspected small bowel bleeding. The primary outcome was the detection of lesions in the AoV, while the secondary outcome was the assessment of the detection of P1 and P2 lesions, known underlying causes of small bowel bleeding.<h4>Results</h4>There was no significant difference in AoV lesion detection rates between the devices. However, MC2000 demonstrated significantly greater detection of red spots in patients with visible bleeding (p=0.018) and tended to detect a greater number of small bowel lesions, including P2 lesions. Minor complications included device stasis, with fewer incidents with the MC2000 than with the SB3, and one instance of small bowel retention due to ulcers.<h4>Conclusions</h4>The MC2000's dual-camera system appears to enhance the detection of small bowel lesions over the SB3, especially for more important lesions. These findings suggest that the MC2000 may offer superior diagnostic capabilities for patients with suspected small bowel bleeding, potentially leading to better clinical outcomes (this trial registered KCT0005591).",
+      "affiliation": "Department of Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Capsule endoscopy",
+          "Diverticulum",
+          "Obscure Gastrointestinal Bleeding",
+          "Ampulla Of Vater",
+          "Angioectasia"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.5009/gnl240541"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-04-01",
+      "firstIndexDate": "2025-04-02",
+      "dateOfRevision": "2025-04-01",
+      "electronicPublicationDate": "2025-04-01",
+      "firstPublicationDate": "2025-04-01"
+    },
+    {
+      "id": "40175203",
+      "source": "MED",
+      "pmid": "40175203",
+      "doi": "10.1016/j.acra.2025.03.010",
+      "title": "Multiparametric MRI-based Interpretable Machine Learning Radiomics Model for Distinguishing Between Luminal and Non-luminal Tumors in Breast Cancer: A Multicenter Study. ",
+      "authorString": "Zhou Y, Lin G, Chen W, Chen Y, Shi C, Peng Z, Chen L, Cai S, Pan Y, Chen M, Lu C, Ji J, Chen S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhou Y",
+            "firstName": "Yi",
+            "lastName": "Zhou",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Breast Surgery, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lin G",
+            "firstName": "Guihan",
+            "lastName": "Lin",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Radiology, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen W",
+            "firstName": "Weiyue",
+            "lastName": "Chen",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Radiology, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen Y",
+            "firstName": "Yongjun",
+            "lastName": "Chen",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, The Sixth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shi C",
+            "firstName": "Changsheng",
+            "lastName": "Shi",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Interventional Vascular Surgery, The Third Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Peng Z",
+            "firstName": "Zhiyi",
+            "lastName": "Peng",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou 310009, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen L",
+            "firstName": "Ling",
+            "lastName": "Chen",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cai S",
+            "firstName": "Shibin",
+            "lastName": "Cai",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Breast Surgery, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pan Y",
+            "firstName": "Ying",
+            "lastName": "Pan",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Breast Surgery, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen M",
+            "firstName": "Minjiang",
+            "lastName": "Chen",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Radiology, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lu C",
+            "firstName": "Chenying",
+            "lastName": "Lu",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Radiology, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ji J",
+            "firstName": "Jiansong",
+            "lastName": "Ji",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Radiology, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen S",
+            "firstName": "Shuzheng",
+            "lastName": "Chen",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Breast Surgery, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China. Electronic address: dr_susan@wmu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3923247,
+        "dateOfPublication": "2025 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-04-01",
+        "journal": {
+          "title": "Academic radiology",
+          "medlineAbbreviation": "Acad Radiol",
+          "issn": "1076-6332",
+          "essn": "1878-4046",
+          "isoabbreviation": "Acad Radiol",
+          "nlmid": "9440159"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "S1076-6332(25)00207-7",
+      "abstractText": "To construct and validate an interpretable machine learning (ML) radiomics model derived from multiparametric magnetic resonance imaging (MRI) images to differentiate between luminal and non-luminal breast cancer (BC) subtypes. This study enrolled 1098 BC participants from four medical centers, categorized into a training cohort (n = 580) and validation cohorts 1-3 (n = 252, 89, and 177, respectively). Multiparametric MRI-based radiomics features, including T1-weighted imaging (T1WI), T2-weighted imaging (T2WI), diffusion-weighted imaging (DWI), apparent diffusion coefficient (ADC), and dynamic contrast-enhanced (DCE) imaging, were extracted. Five ML algorithms were applied to develop various radiomics models, from which the best performing model was identified. A ML-based combined model including optimal radiomics features and clinical predictors was constructed, with performance assessed through receiver operating characteristic (ROC) analysis. The Shapley additive explanation (SHAP) method was utilized to assess model interpretability. Tumor size and MR-reported lymph node status were chosen as significant clinical variables. Thirteen radiomics features were identified from multiparametric MRI images. The extreme gradient boosting (XGBoost) radiomics model performed the best, achieving area under the curves (AUCs) of 0.941, 0.903, 0.862, and 0.894 across training and validation cohorts 1-3, respectively. The XGBoost combined model showed favorable discriminative power, with AUCs of 0.956, 0.912, 0.894, and 0.906 in training and validation cohorts 1-3, respectively. The SHAP visualization facilitated global interpretation, identifying \"ADC_wavelet-HLH_glszm_ZoneEntropy\" and \"DCE_wavelet-HLL_gldm_DependenceVariance\" as the most significant features for the model's predictions. The XGBoost combined model derived from multiparametric MRI may proficiently differentiate between luminal and non-luminal BC and aid in treatment decision-making. An interpretable machine learning radiomics model can preoperatively predict luminal and non-luminal subtypes in breast cancer, thereby aiding therapeutic decision-making.",
+      "affiliation": "Zhejiang Key Laboratory of Imaging and Interventional Medicine, Zhejiang Engineering Research Center of Interventional Medicine Engineering and Biotechnology, Key Laboratory of Precision Medicine of Lishui City, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China; Department of Breast Surgery, The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui 323000, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.acra.2025.03.010"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-04-02",
+      "firstIndexDate": "2025-04-03",
+      "dateOfRevision": "2025-04-02",
+      "electronicPublicationDate": "2025-04-01",
+      "firstPublicationDate": "2025-04-01"
+    },
+    {
+      "id": "40165224",
+      "source": "MED",
+      "pmid": "40165224",
+      "doi": "10.1186/s13052-025-01908-w",
+      "title": "Establishment and validation of a predictive model for coronary artery lesions in children with KDSS.",
+      "authorString": "Zhao Z, Yuan Y, Gao L, Li H, Li Q, Zhen Z, Zhao S, Xiao Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhao Z",
+            "firstName": "Zhihui",
+            "lastName": "Zhao",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yuan Y",
+            "firstName": "Yue",
+            "lastName": "Yuan",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao L",
+            "firstName": "Lu",
+            "lastName": "Gao",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Hongxia",
+            "lastName": "Li",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Q",
+            "firstName": "Qirui",
+            "lastName": "Li",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhen Z",
+            "firstName": "Zhen",
+            "lastName": "Zhen",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao S",
+            "firstName": "Shunying",
+            "lastName": "Zhao",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China. zhaoshunying2001@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xiao Y",
+            "firstName": "Yanyan",
+            "lastName": "Xiao",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China. xiaoyanyan00@sina.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "51",
+        "journalIssueId": 3907465,
+        "dateOfPublication": "2025 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-03-01",
+        "journal": {
+          "title": "Italian journal of pediatrics",
+          "medlineAbbreviation": "Ital J Pediatr",
+          "issn": "1824-7288",
+          "essn": "1824-7288",
+          "isoabbreviation": "Ital J Pediatr",
+          "nlmid": "101510759"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "106",
+      "abstractText": "<h4>Background</h4>Kawasaki Disease Shock Syndrome (KDSS) represents a severe manifestation of Kawasaki Disease (KD). In recent years, logistic regression prediction models have gained widespread application in forecasting the occurrence probabilities of various diseases. The objective of this study is to explore the clinical characteristics of pediatric patients with KDSS complicated by coronary artery lesions (CALs) and to develop and validate a logistic regression model for predicting the likelihood of CALs in children with KDSS.<h4>Methods</h4>Our study enrolled 102 pediatric patients diagnosed with KDSS at the Cardiology Department of our hospital between January 2020 and March 2024, all of whom had comprehensive medical histories and physical examination results. Logistic regression analysis was employed to identify the most predictive variables. Utilizing a training set (n\u2009=\u200972), we constructed a logistic regression model to predict CALs in children with KDSS. The model's predictive capabilities were further assessed using logistic regression. The Receiver Operating Characteristic (ROC) curve served as a tool to evaluate the performance of the logistic regression model. Additionally, a nomogram model was developed through the visualization of the calibration curve using a 1000-bootstrap resampling method. The efficacy of these results was validated in an independent validation set (n\u2009=\u200930).<h4>Results</h4>Univariate analysis revealed nine variables that exhibited significant differences between the CAL and normal coronary artery groups. Further logistic regression analysis identified fever duration, low hemoglobin levels, and low serum phosphorus as independent predictors of CALs in KDSS. The training set demonstrated an area under the ROC curve of 0.837, with a sensitivity of 83.3% and a specificity of 81.2%. The calibration curve indicated a strong agreement between the predicted values of the logistic regression model and the actual observed values in both the training and validation sets.<h4>Conclusion</h4>We have successfully established a feasible and highly accurate logistic regression model for predicting CALs in patients with KDSS. This model holds potential for early prediction of CALs and possesses significant clinical implications.",
+      "affiliation": "Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Validation Study",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Mucocutaneous Lymph Node Syndrome",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CO",
+                  "qualifierName": "complications",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Logistic Models"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Nomograms"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retrospective Studies"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Predictive Value of Tests"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "ROC Curve"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child, Preschool"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Infant"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Coronary Artery Disease",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Children",
+          "Kawasaki disease",
+          "Kawasaki Disease Shock Syndrome",
+          "Coronary Artery Lesions Prediction Model"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13052-025-01908-w"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-04-01",
+      "dateOfCreation": "2025-04-01",
+      "firstIndexDate": "2025-04-02",
+      "dateOfRevision": "2025-04-02",
+      "electronicPublicationDate": "2025-03-31",
+      "firstPublicationDate": "2025-03-31"
+    },
+    {
+      "id": "40169960",
+      "source": "MED",
+      "pmid": "40169960",
+      "doi": "10.1186/s12874-025-02536-y",
+      "title": "Understanding multimorbidity: insights with graphical models.",
+      "authorString": "Banzato E, Roverato A, Buja A, Boccuzzo G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Banzato E",
+            "firstName": "Erika",
+            "lastName": "Banzato",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Statistical Sciences, University of Padova, via C. Battisti 241, 35121, Padova, Italy. erika.banzato@unipd.it."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Roverato A",
+            "firstName": "Alberto",
+            "lastName": "Roverato",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Statistical Sciences, University of Padova, via C. Battisti 241, 35121, Padova, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Buja A",
+            "firstName": "Alessandra",
+            "lastName": "Buja",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cardiologic, Vascular, and Thoracic Sciences and Public Health, University of Padova, via L. Loredan 18, 35131, Padova, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Boccuzzo G",
+            "firstName": "Giovanna",
+            "lastName": "Boccuzzo",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Statistical Sciences, University of Padova, via C. Battisti 241, 35121, Padova, Italy."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "25",
+        "journalIssueId": 3922223,
+        "dateOfPublication": "2025 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-04-01",
+        "journal": {
+          "title": "BMC medical research methodology",
+          "medlineAbbreviation": "BMC Med Res Methodol",
+          "issn": "1471-2288",
+          "essn": "1471-2288",
+          "isoabbreviation": "BMC Med Res Methodol",
+          "nlmid": "100968545"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "84",
+      "abstractText": "<h4>Background</h4>The use of graphical models in the multimorbidity context is increasing in popularity due to their intuitive visualization of the results. A comprehensive understanding of the model itself is essential for its effective utilization and optimal application. This article is a practical guide on the use of graphical models to better understand multimorbidity. It provides a tutorial with a focus on the interpretation of the model structure and of the parameter values. In this study, we analyze data related to a cohort of 214,401 individuals, who were assisted by the Local Health Unit of the\u00a0province of Padova (north-eastern Italy), collecting information from hospital discharge forms.<h4>Methods</h4>We explain some fundamental concepts, with special attention to the difference between marginal and conditional associations. We emphasize the importance of considering multimorbidity as a network, where the variables involved are part of an interconnected system of interactions, to correct for spurious effects in the analysis. We show how to analyze the network structure learned from the data by introducing and explaining some centrality measures. Finally, we compare the model obtained by adjusting for population characteristics with the results of a stratified analysis.<h4>Results</h4>Using examples from the estimated model, we demonstrate the key differences between marginal and conditional associations. Specifically, we show that, marginally, all variables appear associated, while this is not the case when considering conditional associations, where many variables appear to be conditionally independent given the others. We present the results from the analysis of centrality indices, revealing that cardiovascular diseases occupy a central position in the network, unlike more peripheral conditions such as sensory organ diseases. Finally, we illustrate the differences between networks estimated in subpopulations, highlighting how disease associations vary across different groups.<h4>Conclusion</h4>Graphical models are a versatile tool for analyzing multimorbidity, offering insights into disease associations while controlling for the effects of other variables. This paper provides an overview of graphical models without focusing on detailed methodology, highlighting their utility in understanding network structures and potential subgroup differences, such as gender-related variations in multimorbidity patterns.",
+      "affiliation": "Department of Statistical Sciences, University of Padova, via C. Battisti 241, 35121, Padova, Italy. erika.banzato@unipd.it.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2022SMNNKY (CUP C53D23002580006)",
+            "agency": "Ministero dell&apos;Universit\u00e0 e della Ricerca",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2020KHSSKE (CUP C93C22000270001)",
+            "agency": "Ministero dell'Universit\u00e0 e della Ricerca",
+            "orderIn": 0
+          },
+          {
+            "agency": "Universit\u00e0 degli Studi di Padova",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2020KHSSKE (CUP C93C22000270001)",
+            "agency": "Ministero dell&apos;Universit\u00e0 e della Ricerca",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2022SMNNKY (CUP C53D23002580006)",
+            "agency": "Ministero dell'Universit\u00e0 e della Ricerca",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Models, Statistical"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Models, Theoretical"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Italy",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EP",
+                  "qualifierName": "epidemiology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Multimorbidity"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Odds Ratio",
+          "Graphical Model",
+          "Multimorbidity",
+          "Conditional Independence",
+          "Marginal And Conditional Associations"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12874-025-02536-y"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-04-02",
+      "dateOfCreation": "2025-04-01",
+      "firstIndexDate": "2025-04-02",
+      "dateOfRevision": "2025-04-01",
+      "electronicPublicationDate": "2025-04-01",
+      "firstPublicationDate": "2025-04-01"
+    }
+  ]
+}
