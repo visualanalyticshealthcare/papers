@@ -1,0 +1,759 @@
+{
+  "start_date": "2025-05-12",
+  "end_date": "2025-05-19",
+  "records_fetched": 4,
+  "articles": [
+    {
+      "id": "40351114",
+      "source": "MED",
+      "pmid": "40351114",
+      "doi": "10.4274/dir.2025.253191",
+      "title": "Comparison of the novel simultaneous biplane versus in-plane imaging technique in ultrasound-guided biopsy: a prospective randomized multi-operator cross-over phantom study.",
+      "authorString": "Akca B, Vafai-Tabrizi F, Bielecki M, Funk GC.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Akca B",
+            "firstName": "Baki",
+            "lastName": "Akca",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-3730-0261"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Klinik Ottakring - Wiener Gesundheitsverbund, Medical Department II, Division of Pneumology, Vienna, Austria."
+                },
+                {
+                  "affiliation": "Karl-Landsteiner-Institute, Department of Lung Research and Pulmonary Oncology, St. P\u00f6lten, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vafai-Tabrizi F",
+            "firstName": "Florian",
+            "lastName": "Vafai-Tabrizi",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5872-1140"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Klinik Ottakring - Wiener Gesundheitsverbund, Medical Department II, Division of Pneumology, Vienna, Austria."
+                },
+                {
+                  "affiliation": "Karl-Landsteiner-Institute, Department of Lung Research and Pulmonary Oncology, St. P\u00f6lten, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bielecki M",
+            "firstName": "Michel",
+            "lastName": "Bielecki",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7360-4521"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Zurich Faculty of Medicine, Department of Epidemiology, Biostatistics and Prevention, Zurich, Switzerland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Funk GC",
+            "firstName": "Georg-Christian",
+            "lastName": "Funk",
+            "initials": "GC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2891-0271"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Klinik Ottakring - Wiener Gesundheitsverbund, Medical Department II, Division of Pneumology, Vienna, Austria."
+                },
+                {
+                  "affiliation": "Karl-Landsteiner-Institute, Department of Lung Research and Pulmonary Oncology, St. P\u00f6lten, Austria."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5872-1140"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2891-0271"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7360-4521"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-3730-0261"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3935861,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Diagnostic and interventional radiology (Ankara, Turkey)",
+          "medlineAbbreviation": "Diagn Interv Radiol",
+          "essn": "1305-3612",
+          "issn": "1305-3825",
+          "isoabbreviation": "Diagn Interv Radiol",
+          "nlmid": "101241152"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Purpose</h4>To evaluate and compare the in-plane and novel biplane imaging techniques in ultrasound-guided biopsies (USBx). USBx are effective for obtaining tissue samples in suspected malignancy or infection. The in-plane technique is the gold standard, offering continuous needle visualization. The biplane technique enables simultaneous in-plane and out-of-plane visualization, potentially improving biopsy outcomes. A study was conducted using gel phantoms to simulate USBx, with the goal of determining whether one technique offers distinct advantages over the other.<h4>Methods</h4>A total of 30 participants (mean age: 30 \u00b1 7 years; 20 men) were recruited, primarily consisting of physicians in training with varying levels of experience. Each participant performed biopsies on gel phantoms using both the in-plane and biplane techniques in a randomized order after watching a standardized tutorial video. Procedure-related parameters were analyzed, and post-intervention questionnaires, including the NASA task load index (NASA-TLX), were collected to assess cognitive workload and personal preferences.<h4>Results</h4>All participants achieved successful biopsies with both techniques. The first-puncture success rate was significantly higher with the biplane technique (83% vs. 63%; <i>P</i> = 0.01). The biplane technique required significantly fewer biopsy attempts than the in-plane approach (37 vs. 43; <i>P</i> = 0.03). Although the biplane technique had a longer \"mean time to first successful biopsy\" (120 seconds vs. 72 seconds), this difference was not statistically significant (<i>P</i> = 0.09), likely due to high variability. No significant differences were found in safety-related parameters, including the number of skin punctures, needle retractions, percentage of time the needle tip was visible, and the number of biopsy attempts without needle tip visualization. The NASA-TLX indicated higher mental demand with the biplane technique (<i>P</i> = 0.013), but other dimensions showed no significant differences. Overall, 83% of participants, including 88% of more experienced operators, preferred the biplane technique, citing enhanced visualization and perceived safety.<h4>Conclusion</h4>In this study, the biplane technique in USBx was substantially superior in terms of total biopsy attempts and first-puncture success rate compared with the in-plane approach. It may offer safety and efficiency advantages, particularly for less-experienced operators. Further studies with larger sample sizes and experienced operators, especially in clinical settings, are needed to determine clear superiority.<h4>Clinical significance</h4>These findings suggest that biplane imaging may be especially beneficial for training less-experienced operators and in cases with elevated complication risk.",
+      "affiliation": "Klinik Ottakring - Wiener Gesundheitsverbund, Medical Department II, Division of Pneumology, Vienna, Austria.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "ultrasound",
+          "Phantom Study",
+          "Ultrasound Guided Biopsy",
+          "Biplane Imaging",
+          "Handheld Ultrasound Device",
+          "In-plane Vs Biplane"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.4274/dir.2025.253191"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-12",
+      "firstIndexDate": "2025-05-12",
+      "dateOfRevision": "2025-05-12",
+      "electronicPublicationDate": "2025-05-12",
+      "firstPublicationDate": "2025-05-12"
+    },
+    {
+      "id": "40354007",
+      "source": "MED",
+      "pmid": "40354007",
+      "doi": "10.1186/s11671-025-04259-x",
+      "title": "Feasibility analysis and development trend of nanomaterials for the treatment of pancreatic cancer.",
+      "authorString": "Zhu J, Li Y, Li X, Wang Y, Liu Q, Yang Y, Guan H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhu J",
+            "firstName": "Jingyao",
+            "lastName": "Zhu",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, 133000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Y",
+            "firstName": "Yue",
+            "lastName": "Li",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, 133000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li X",
+            "firstName": "Xiaoqing",
+            "lastName": "Li",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, 133000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang Y",
+            "firstName": "Yong",
+            "lastName": "Wang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Stroke Center, Department of Neurology, Yanbian University Hospital (Yanbian Hospital), Ju Zi Road No.1327, Yanbian, 133000, Jilin, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, 133000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu Q",
+            "firstName": "Qixiang",
+            "lastName": "Liu",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Vascular Surgery Department of Jilin Provincial Vanguard Hospital, No. 1445 Qianjin Street, Chaoyang District, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang Y",
+            "firstName": "Yang",
+            "lastName": "Yang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Stroke Center, Department of Neurology, Yanbian University Hospital (Yanbian Hospital), Ju Zi Road No.1327, Yanbian, 133000, Jilin, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, 133000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guan H",
+            "firstName": "HongJian",
+            "lastName": "Guan",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Stroke Center, Department of Neurology, Yanbian University Hospital (Yanbian Hospital), Ju Zi Road No.1327, Yanbian, 133000, Jilin, China. hjguan@ybu.edu.cn."
+                },
+                {
+                  "affiliation": "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, 133000, China. hjguan@ybu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "20",
+        "journalIssueId": 3936315,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Discover nano",
+          "medlineAbbreviation": "Discov Nano",
+          "essn": "2731-9229",
+          "issn": "2731-9229",
+          "isoabbreviation": "Discov Nano",
+          "nlmid": "9918540788706676"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "78",
+      "abstractText": "Pancreatic cancer is a highly aggressive disease that poses a significant threat to human health. Although conventional chemotherapy remains an effective treatment, it is often associated with severe side effects, underscoring the need for more effective cancer therapies. In this study, we analyzed the keywords of past studies, the countries with the highest number of publications, the leading journals, prominent authors, and collaborations between countries, authors, and journals, as well as the impact factors of relevant literature. The aim was to explore the trends in the use of nanomaterials for the treatment of pancreatic cancer, enabling researchers to review past achievements and gain a better understanding of future research directions. Relevant research articles were sourced from core Web of Science databases, and VOSviewer and CiteSpace visualization tools were employed to reveal the intrinsic links between the information. Research on the use of nanomaterials for the therapy of pancreatic cancer has been growing since the twenty-first century, particularly from 2018 to the present. The United States has become a leader in this field, with the highest number of publications and the most published authors. Additionally, a 2018 study published in Nature demonstrated that patients with insufficient CD8\u2009+\u2009T-cell infiltration in the pancreatic cancer tumor microenvironment (TME) had significantly lower survival rates (HR\u2009=\u20092.5, p\u2009<\u20090.001). And CSF1R inhibitors combined with a PD-1 antibody resulted in 60% tumor shrinkage in a mouse model. These findings suggest that research on the tumor microenvironment and immunotherapy is poised to be a key focus of future studies, offering new hope for pancreatic cancer patients.",
+      "affiliation": "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, 133000, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "YDZJ202201ZYTS225",
+            "agency": "National Natural Science Foundation of Jilin Province",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Pancreatic cancer",
+          "nanomaterials",
+          "Visual Analysis",
+          "Future Research Trends",
+          "Past Hotspot"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s11671-025-04259-x"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-12",
+      "firstIndexDate": "2025-05-13",
+      "dateOfRevision": "2025-05-12",
+      "electronicPublicationDate": "2025-05-12",
+      "firstPublicationDate": "2025-05-12"
+    },
+    {
+      "id": "40350508",
+      "source": "MED",
+      "pmid": "40350508",
+      "doi": "10.1186/s40662-025-00435-3",
+      "title": "Early diagnosis of keratoconus using corneal biomechanics and OCT derived technologies.",
+      "authorString": "Wang X, Maeno S, Wang Y, Koh S, Chen S, Quantock AJ, Morgan SR, Hayes S, McAlinden C.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wang X",
+            "firstName": "Xiaorui",
+            "lastName": "Wang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Structural Biophysics Group, School of Optometry and Vision Sciences, Cardiff University, Cardiff, Wales, UK."
+                },
+                {
+                  "affiliation": "the First Affiliated Hospital of Northwest University, Xi'an, Shaanxi, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Maeno S",
+            "firstName": "Sayo",
+            "lastName": "Maeno",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang Y",
+            "firstName": "Yixin",
+            "lastName": "Wang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Structural Biophysics Group, School of Optometry and Vision Sciences, Cardiff University, Cardiff, Wales, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Koh S",
+            "firstName": "Shizuka",
+            "lastName": "Koh",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen S",
+            "firstName": "Shihao",
+            "lastName": "Chen",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wenzhou Medical University, Wenzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Quantock AJ",
+            "firstName": "Andrew J",
+            "lastName": "Quantock",
+            "initials": "AJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Structural Biophysics Group, School of Optometry and Vision Sciences, Cardiff University, Cardiff, Wales, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Morgan SR",
+            "firstName": "Si\u00e2n R",
+            "lastName": "Morgan",
+            "initials": "SR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Structural Biophysics Group, School of Optometry and Vision Sciences, Cardiff University, Cardiff, Wales, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hayes S",
+            "firstName": "Sally",
+            "lastName": "Hayes",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Structural Biophysics Group, School of Optometry and Vision Sciences, Cardiff University, Cardiff, Wales, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "McAlinden C",
+            "firstName": "Colm",
+            "lastName": "McAlinden",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4517-4616"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wenzhou Medical University, Wenzhou, China. colm.mcalinden@gmail.com."
+                },
+                {
+                  "affiliation": "Eye & ENT Hospital of Fudan University, Shanghai, China. colm.mcalinden@gmail.com."
+                },
+                {
+                  "affiliation": "School of Optometry and Vision Sciences, Cardiff University, Cardiff, Wales, UK. colm.mcalinden@gmail.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4517-4616"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "12",
+        "journalIssueId": 3941085,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Eye and vision (London, England)",
+          "medlineAbbreviation": "Eye Vis (Lond)",
+          "essn": "2326-0254",
+          "issn": "2326-0254",
+          "isoabbreviation": "Eye Vis (Lond)",
+          "nlmid": "101664982"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "18",
+      "abstractText": "<h4>Background</h4>Early detection of keratoconus is essential for maximizing the potential of cross-linking treatments designed to halt keratoconus progression, minimizing the risks of iatrogenic ectasia as well as reducing the need for corneal transplantation. This review focuses on the progress that has been made in the early detection of keratoconus using biomechanical and topographical properties derived from three different technologies, namely the ocular response analyser (ORA), corneal visualization Scheimpflug tonometer (Corvis ST) and optical coherence tomography (OCT).<h4>Method</h4>A PubMed search was performed using the keywords of 'early keratoconus', 'subclinical keratoconus', 'forme fruste keratoconus', 'very asymmetric ectasia with normal topography/tomography' and 'ocular response analyser' and/or 'Corvis ST'/'corneal visualized Scheimpflug tomographer/tomography' and/or 'optical coherence tomography/tomographer'.<h4>Results</h4>The integration of biomechanical parameters and corneal morphological data from the topography/tomography or OCT, or the assessment of bilateral asymmetry, has demonstrated improvement in the accuracy of diagnosing early-stage keratoconus.<h4>Conclusions</h4>As measurement principles differ depending on the technique used for keratoconus assessment, comprehensive metrics may be needed to reflect subtle anterior or posterior corneal changes and help identify eyes with very early ectasia. Although clinical experts have always, and will most likely, continue to play a pivotal role in decision-making for early keratoconus diagnosis, future developments in technology and AI may lead to enhanced early detection in the future.",
+      "affiliation": "Structural Biophysics Group, School of Optometry and Vision Sciences, Cardiff University, Cardiff, Wales, UK.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "MR/S037829/1",
+            "agency": "Medical Research Council",
+            "acronym": "MRC_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2022SF-404",
+            "agency": "Social Science Foundation of Shaanxi Province",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Early stage",
+          "Keratoconus",
+          "Oct",
+          "corneal topography",
+          "Corneal Biomechanics",
+          "Corneal Tomography"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s40662-025-00435-3"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-11",
+      "firstIndexDate": "2025-05-12",
+      "dateOfRevision": "2025-05-11",
+      "electronicPublicationDate": "2025-05-12",
+      "firstPublicationDate": "2025-05-12"
+    },
+    {
+      "id": "40353420",
+      "source": "MED",
+      "pmid": "40353420",
+      "doi": "10.2174/0109298673358646250421023339",
+      "title": "Prognostic Implications and Therapeutic Potential of MXD Genes in Gastric Cancer.",
+      "authorString": "Li D, Lyu G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li D",
+            "firstName": "Dongbing",
+            "lastName": "Li",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5227-9643"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Scientific Research Center, Beijing ChosenMed Clinical Laboratory Co., Ltd. Beijing, 100176, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lyu G",
+            "firstName": "Guizhen",
+            "lastName": "Lyu",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9284-7318"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Scientific Research Center, Dongguan Labway Medical Testing Laboratory Co., Ltd., Dongguan, 523429, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5227-9643"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9284-7318"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3938588,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Current medicinal chemistry",
+          "medlineAbbreviation": "Curr Med Chem",
+          "essn": "1875-533X",
+          "issn": "0929-8673",
+          "isoabbreviation": "Curr Med Chem",
+          "nlmid": "9440157"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background</h4>MAX dimerization (MXD) genes play integral roles in various types of tumors. The expression patterns, prognostic value, potential mechanisms, and roles in immunotherapy of MXD genes in gastric cancer (GC) remain not fully elucidated.<h4>Objective</h4>We aimed to explore the role of MXDs in GC.<h4>Methods</h4>The Wilcoxon rank sum test and t-test were employed to evaluate the differential expression of the MXD gene family members in GC tissues compared to non-paired normal gastric tissues. cBioPortal was utilized for examining genetic alterations within the MXD gene family. R software, specifically version 3.6.3, was used to scrutinize the expression patterns of MXD genes in GC, their correlation with clinical parameters, and to generate a correlation heat map. The survival package (v3.2-10) and the Cox regression model were implemented to evaluate the prognostic significance of the MXD gene family. The pROC package (v1.17.0.1) was applied to assess the diagnostic potential of the MXD gene family. R software (v3.6.3) was also used to explore potential regulatory networks involving members of the MXD gene family and related genes. The GSVA package (v1.34.0) was leveraged to investigate the link between the expression of the MXD gene family and immune cell infiltration. Visualization was facilitated by the ggplot2 (v3.3.3), survminer (v0.4.9), and clusterProfiler (v3.14.3) packages. Gene Set Cancer Analysis (GSCA) was employed to determine the sensitivity of the MXD gene family's expression to drugs from the GDSC database. The expression levels of MXD genes were validated across various cell lines using quantitative real-time PCR (qRT-PCR).<h4>Results</h4>MXD1 was significantly upregulated in GC, while MXD3 and MXD4 were significantly downregulated. Significant correlations were identified between the expression levels of MXD3 and the T stage (p = 0.041) and age (p = 0.001) of GC patients. Additionally, a notable association was observed between MXD4 expression and the histologic grade (p = 0.006) in GC patients. Low MXD3 expression was associated with a poor prognosis in GC. Low MXD3 expression was an independent prognostic factor for poor outcomes in GC patients. MXD3 demonstrated some accuracy in predicting tumor and normal tissue outcomes (AUC = 0.884). MXDs mediate gastric carcinogenesis and progression by regulating immune cells and pathways, including endocytosis, cell cycle, and apoptosis. The expression of the MXD gene family was associated with immune cell infiltration and drug sensitivity. MXD3 and MXD4 expression levels were significantly downregulated in GC cell lines, while MXD1 expression was significantly upregulated.<h4>Conclusion</h4>The MXD gene family may serve as novel biomarkers of poor prognosis and as potential immunotherapeutic targets for GC.",
+      "affiliation": "Scientific Research Center, Beijing ChosenMed Clinical Laboratory Co., Ltd. Beijing, 100176, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Gastric cancer",
+          "Prognosis",
+          "Immune Infiltration",
+          "Mxd3",
+          "Drug Sensitivity.",
+          "Mxd Gene Family"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2174/0109298673358646250421023339"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-12",
+      "firstIndexDate": "2025-05-13",
+      "dateOfRevision": "2025-05-12",
+      "electronicPublicationDate": "2025-05-12",
+      "firstPublicationDate": "2025-05-12"
+    }
+  ]
+}
