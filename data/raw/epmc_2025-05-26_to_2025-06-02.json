@@ -1,0 +1,4483 @@
+{
+  "start_date": "2025-05-26",
+  "end_date": "2025-06-02",
+  "records_fetched": 18,
+  "articles": [
+    {
+      "id": "40425195",
+      "source": "MED",
+      "pmid": "40425195",
+      "pmcid": "PMC12105991",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12105991"
+        ]
+      },
+      "doi": "10.3346/jkms.2025.40.e163",
+      "title": "Leveraging Hospital Information Data for Effective Antibiotic Stewardship.",
+      "authorString": "Park SY.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Park SY",
+            "firstName": "Se Yoon",
+            "lastName": "Park",
+            "initials": "SY",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4538-7371"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine, Hanyang University College of Medicine, Seoul, Korea. livinwill2@gmail.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4538-7371"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "20",
+        "volume": "40",
+        "journalIssueId": 3948030,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Journal of Korean medical science",
+          "medlineAbbreviation": "J Korean Med Sci",
+          "isoabbreviation": "J Korean Med Sci",
+          "essn": "1598-6357",
+          "issn": "1598-6357",
+          "nlmid": "8703518"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e163",
+      "abstractText": "Clinical informatics has emerged as a valuable approach to enhance antimicrobial stewardship programs in healthcare settings. By integrating information technology with healthcare services, hospitals can systematically collect, store, and utilize medical data to improve antibiotic management. Studies have demonstrated that information technology interventions improve antibiotic prescription appropriateness and patient outcomes. The implementation of effective antimicrobial stewardship employs a multifaceted approach that incorporates diagnostic tools, laboratory findings, and clinical situations through advanced dashboard systems and rule-based feedback mechanisms. Recent advances in artificial intelligence have shown promising results in predicting antibiotic resistance, and the integration of hospital information systems with clinical informatics offers sustainable solutions for enhancing antimicrobial stewardship programs in clinical practice.",
+      "affiliation": "Department of Internal Medicine, Hanyang University College of Medicine, Seoul, Korea. livinwill2@gmail.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "HY-202500000001280",
+            "agency": "Hanyang University",
+            "acronym": "HYU",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Anti-Bacterial Agents",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TU",
+                  "qualifierName": "therapeutic use",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Artificial Intelligence"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Medical Informatics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hospitals"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Antimicrobial Stewardship"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Artificial intelligence",
+          "Antibiotic Stewardship",
+          "Clinical Informatics"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Anti-Bacterial Agents",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3346/jkms.2025.40.e163"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12105991"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12105991?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-27",
+      "dateOfCreation": "2025-05-27",
+      "firstIndexDate": "2025-05-28",
+      "fullTextReceivedDate": "2025-05-31",
+      "dateOfRevision": "2025-05-27",
+      "electronicPublicationDate": "2025-05-26",
+      "firstPublicationDate": "2025-05-26"
+    },
+    {
+      "id": "40419730",
+      "source": "MED",
+      "pmid": "40419730",
+      "doi": "10.1007/s10198-025-01796-1",
+      "title": "Investment gaps in antimicrobial resistance research &amp; development: trends in Europe, 2017-2021.",
+      "authorString": "Fabbro E, Lamichhane U, Sudbrak R, Ogilvie L, Vitiello A, Zovi A, Sabbatucci M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Fabbro E",
+            "firstName": "Elisa",
+            "lastName": "Fabbro",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Area Science Park, Padriciano 99, 34149, Trieste, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lamichhane U",
+            "firstName": "Usha",
+            "lastName": "Lamichhane",
+            "initials": "U",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Global AMR R&D Hub, Schl\u00fcterstrasse 39, 10629, Berlin, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sudbrak R",
+            "firstName": "Ralf",
+            "lastName": "Sudbrak",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Global AMR R&D Hub, Schl\u00fcterstrasse 39, 10629, Berlin, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ogilvie L",
+            "firstName": "Lesley",
+            "lastName": "Ogilvie",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Global AMR R&D Hub, Schl\u00fcterstrasse 39, 10629, Berlin, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vitiello A",
+            "firstName": "Antonio",
+            "lastName": "Vitiello",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Ministry of Health, Viale Giorgio Ribotta 5, 00144, Rome, Italy. avitiello@hotmail.it."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zovi A",
+            "firstName": "Andrea",
+            "lastName": "Zovi",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6528-2171"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Ministry of Health, Viale Giorgio Ribotta 5, 00144, Rome, Italy. zovi.andrea@gmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sabbatucci M",
+            "firstName": "Michela",
+            "lastName": "Sabbatucci",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Institute of Health, Viale Regina Elena 299, 00161, Rome, Italy."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6528-2171"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3940511,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "The European journal of health economics : HEPAC : health economics in prevention and care",
+          "medlineAbbreviation": "Eur J Health Econ",
+          "isoabbreviation": "Eur J Health Econ",
+          "essn": "1618-7601",
+          "issn": "1618-7598",
+          "nlmid": "101134867"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Introduction</h4>Antimicrobial resistance (AMR) remains one of the world's most pressing health, economic, and social challenges. To combat this crisis, innovative tools have been developed to enhance research and development (R&D) efforts like the Global AMR R&D Hub's Dynamic Dashboard. By aggregating data from projects worldwide, the Dynamic Dashboard highlights trends and gaps in AMR R&D investments, totalling more than 8.22 billion Euros in the period 2017-2021 across the One Health continuum - human, animal, plant and environment. Launched in March 2020, the Dynamic Dashboard supports global priority setting and decision-making in AMR research, fostering strategic planning to promote efficient use of international resources and cross sectoral collaboration in AMR R&D.<h4>Methods</h4>Recognizing the urgent need for innovative diagnostics, treatments, and prevention strategies against AMR, here we presented a comprehensive analysis of public and philanthropic investments in AMR R&D obtained from January 2017 to December 2021 across Europe.<h4>Results</h4>We calculated the investments by One Health sector, year of funding, gross domestic product (GDP), research area, type of project, and infectious agent to raise awareness and promote global visibility of the R&D landscape in Europe. Our analysis revealed limited AMR R&D investments in the non-human sectors and non-bacterial topics, geographical polarization of funders, and some unaligned trends between the amount of investments and number of projects funded over the study period.<h4>Discussion</h4>Harnessing these data-driven insights, we aimed to inform stakeholders and optimize the allocation of economic resources for AMR R&D. Prioritizing unmet needs with the greatest potential for impact in this field will expedite the development of effective solutions to mitigate the global threat of AMR.",
+      "affiliation": "Area Science Park, Padriciano 99, 34149, Trieste, Italy.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Europe",
+          "Investments",
+          "R&d",
+          "Amr",
+          "Antimicrobial-resistance",
+          "Dynamic Dashboard",
+          "Global Amr R&d Hub"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s10198-025-01796-1"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-26",
+      "firstIndexDate": "2025-05-27",
+      "dateOfRevision": "2025-05-26",
+      "electronicPublicationDate": "2025-05-26",
+      "firstPublicationDate": "2025-05-26"
+    },
+    {
+      "id": "40359961",
+      "source": "MED",
+      "pmid": "40359961",
+      "doi": "10.1088/2057-1976/add7e2",
+      "title": "Rational design of alternative natural-based coupling media for diagnostic ultrasound imaging: a review.",
+      "authorString": "Nimoh D, Acquah I, Wordui E.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nimoh D",
+            "firstName": "Dennis",
+            "lastName": "Nimoh",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0007-7215-2336"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biomedical Engineering Program, College of Engineering, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Acquah I",
+            "firstName": "Isaac",
+            "lastName": "Acquah",
+            "initials": "I",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2539-7361"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biomedical Engineering Program, College of Engineering, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wordui E",
+            "firstName": "Elizabeth",
+            "lastName": "Wordui",
+            "initials": "E",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0005-1054-935X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Radiological and Medical Sciences Research Institute, Ghana Atomic Energy Commission, Accra, Ghana."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2539-7361"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0005-1054-935X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0007-7215-2336"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "4",
+        "volume": "11",
+        "journalIssueId": 3947861,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Biomedical physics & engineering express",
+          "medlineAbbreviation": "Biomed Phys Eng Express",
+          "isoabbreviation": "Biomed Phys Eng Express",
+          "essn": "2057-1976",
+          "issn": "2057-1976",
+          "nlmid": "101675002"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Ultrasound imaging is an indispensable diagnostic and screening tool in healthcare, renowned for its non-invasive nature, real-time visualization, and use of non-ionizing radiation. It plays a vital role in obstetrics and gynaecology by significantly reducing maternal mortality and enhancing patient care. In addition to its use in obstetrics, ultrasound is used to guide biopsies and to evaluate various diseases such as liver cirrhosis, thyroid disorders, and kidney stones. Point-of-care ultrasonography has proven to be increasingly beneficial in low-resource settings. However, the availability and cost of commercial ultrasound gels pose significant challenges. Alternative natural-based gels formulated from locally sourced materials have emerged as viable substitutes. This review critically examines alternative natural-based ultrasound gels, focusing on their physicochemical properties, formulation procedures, and the limitations associated with their use in diagnostic imaging. Furthermore, it presents a rational design approach that methodically selects the ingredients based on their properties and interactions to formulate these gels for imaging applications. This offers a promising pathway for indigenous manufacturers to develop gels that meet ideal performance criteria, ensuring better imaging outcomes and wider acceptability in clinical practice.",
+      "affiliation": "Biomedical Engineering Program, College of Engineering, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gels",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Contrast Media",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Ultrasonography",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Point-of-Care Systems"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Physicochemical properties",
+          "Ultrasound Imaging",
+          "rational design",
+          "Ultrasound Gel",
+          "Low-resource Settings",
+          "Local Materials",
+          "Natural-based"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Contrast Media",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Gels",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1088/2057-1976/add7e2"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-28",
+      "dateOfCreation": "2025-05-13",
+      "firstIndexDate": "2025-05-21",
+      "dateOfRevision": "2025-05-28",
+      "electronicPublicationDate": "2025-05-27",
+      "firstPublicationDate": "2025-05-27"
+    },
+    {
+      "id": "40420213",
+      "source": "MED",
+      "pmid": "40420213",
+      "pmcid": "PMC12107920",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12107920"
+        ]
+      },
+      "doi": "10.1186/s13073-025-01484-y",
+      "title": "Closing the gap in the clinical adoption of computational pathology: a standardized, open-source framework to integrate deep-learning models into the laboratory information system.",
+      "authorString": "Angeloni M, Rizzi D, Schoen S, Caputo A, Merolla F, Hartmann A, Ferrazzi F, Fraggetta F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Angeloni M",
+            "firstName": "Miriam",
+            "lastName": "Angeloni",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Pathology, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany."
+                },
+                {
+                  "affiliation": "Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), Erlangen, Germany."
+                },
+                {
+                  "affiliation": "Bavarian Cancer Research Center (BZKF), Erlangen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rizzi D",
+            "firstName": "Davide",
+            "lastName": "Rizzi",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "TESI Group/GPI, Milan, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schoen S",
+            "firstName": "Simon",
+            "lastName": "Schoen",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Pathology, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Caputo A",
+            "firstName": "Alessandro",
+            "lastName": "Caputo",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, University Hospital of Salerno, Salerno, Italy."
+                },
+                {
+                  "affiliation": "Department of Medicine and Surgery, University of Salerno, Salerno, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Merolla F",
+            "firstName": "Francesco",
+            "lastName": "Merolla",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine and Health Sciences \"Vincenzo Tiberio\", University of Molise, Campobasso, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hartmann A",
+            "firstName": "Arndt",
+            "lastName": "Hartmann",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Pathology, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany."
+                },
+                {
+                  "affiliation": "Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), Erlangen, Germany."
+                },
+                {
+                  "affiliation": "Bavarian Cancer Research Center (BZKF), Erlangen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ferrazzi F",
+            "firstName": "Fulvia",
+            "lastName": "Ferrazzi",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Pathology, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany. fulvia.ferrazzi@uk-erlangen.de."
+                },
+                {
+                  "affiliation": "Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), Erlangen, Germany. fulvia.ferrazzi@uk-erlangen.de."
+                },
+                {
+                  "affiliation": "Bavarian Cancer Research Center (BZKF), Erlangen, Germany. fulvia.ferrazzi@uk-erlangen.de."
+                },
+                {
+                  "affiliation": "Department of Nephropathology, Institute of Pathology, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Krankenhausstr. 8-10, Erlangen, 91054, Germany. fulvia.ferrazzi@uk-erlangen.de."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fraggetta F",
+            "firstName": "Filippo",
+            "lastName": "Fraggetta",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Unit of Pathology, Gravina Hospital, Via Portosalvo 1, Caltagirone, 95041, Italy. filippofra@hotmail.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "17",
+        "journalIssueId": 3939108,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Genome medicine",
+          "medlineAbbreviation": "Genome Med",
+          "isoabbreviation": "Genome Med",
+          "essn": "1756-994X",
+          "issn": "1756-994X",
+          "nlmid": "101475844"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "60",
+      "abstractText": "<h4>Background</h4>Digital pathology (DP) has revolutionized cancer diagnostics and enabled the development of deep-learning (DL) models aimed at supporting pathologists in their daily work and improving patient care. However, the clinical adoption of such models remains challenging. Here, we describe a proof-of-concept framework that, leveraging Health Level 7 (HL7) standard and open-source DP resources, allows a seamless integration of both publicly available and custom developed DL models in the clinical workflow.<h4>Methods</h4>Development and testing of the framework were carried out in a fully digitized Italian pathology department. A Python-based server-client architecture was implemented to interconnect through HL7 messaging the anatomic pathology laboratory information system (AP-LIS) with an external artificial intelligence-based decision support system (AI-DSS) containing 16 pre-trained DL models. Open-source toolboxes for DL model deployment were used to run DL model inference, and QuPath was used to provide an intuitive visualization of model predictions as colored heatmaps.<h4>Results</h4>A default deployment mode runs continuously in the background as each new slide is digitized, choosing the correct DL model(s) on the basis of the tissue type and staining. In addition, pathologists can initiate the analysis on-demand by selecting a specific DL model from the virtual slide tray. In both cases, the AP-LIS transmits an HL7 message to the AI-DSS, which processes the message, runs DL model inference, and creates the appropriate visualization style for the employed classification model. The AI-DSS transmits model inference results to the AP-LIS, where pathologists can visualize the output in QuPath and/or directly as slide description in the virtual slide tray.<h4>Conclusions</h4>Taken together, the developed integration framework through the use of the HL7 standard and freely available DP resources offers a standardized, portable, and open-source solution that lays the groundwork for the future widespread adoption of DL models in pathology diagnostics.",
+      "affiliation": "Institute of Pathology, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "3 Project PE_00000019 \"HEAL ITALIA\" CUP: B33C22001030006",
+            "agency": "European Union-NextGenerationEU through the Italian Ministry of University and Research under PNRR-M4C2-I1.3",
+            "orderIn": 0
+          },
+          {
+            "grantId": "TRR 305",
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "orderIn": 0
+          },
+          {
+            "grantId": "BayIntAn_FAU_2024_19",
+            "agency": "Bavarian Funding Programme for the Initiation of International Projects (BayIntAn)",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Pathology, Clinical",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ST",
+                  "qualifierName": "standards",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Clinical Laboratory Information Systems",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ST",
+                  "qualifierName": "standards",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Deep Learning"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Integration",
+          "HL7",
+          "Digital Pathology",
+          "Computational Pathology",
+          "Anatomic Pathology Laboratory Information System",
+          "Deep-learning Models"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13073-025-01484-y"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12107920"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12107920?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-27",
+      "dateOfCreation": "2025-05-26",
+      "firstIndexDate": "2025-05-27",
+      "fullTextReceivedDate": "2025-05-30",
+      "dateOfRevision": "2025-05-26",
+      "electronicPublicationDate": "2025-05-26",
+      "firstPublicationDate": "2025-05-26"
+    },
+    {
+      "id": "40418788",
+      "source": "MED",
+      "pmid": "40418788",
+      "doi": "10.2196/53617",
+      "title": "Clinician-Focused Connected Health Requirements Gathering for Attention-Deficit/Hyperactivity Disorder Through Clinical Journey Mapping: Design Science Study.",
+      "authorString": "Harris R, Murray D, McSweeney A, Adam F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Harris R",
+            "firstName": "Richard",
+            "lastName": "Harris",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6610-4580"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Business Information Systems, Cork University Business School, University College Cork, 2.125 O'Rahilly Building, Cork, T12 K8AF, Ireland, 353212021110."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Murray D",
+            "firstName": "Deirdre",
+            "lastName": "Murray",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2201-9912"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics and Child Health, College of Medicine & Health, University College Cork, Cork, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "McSweeney A",
+            "firstName": "Angela",
+            "lastName": "McSweeney",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0004-1796-6490"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Health Service Executive, Limerick, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Adam F",
+            "firstName": "Frederic",
+            "lastName": "Adam",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5895-8981"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Business Information Systems, Cork University Business School, University College Cork, 2.125 O'Rahilly Building, Cork, T12 K8AF, Ireland, 353212021110."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5895-8981"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6610-4580"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2201-9912"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0004-1796-6490"
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 3935533,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "JMIR formative research",
+          "medlineAbbreviation": "JMIR Form Res",
+          "isoabbreviation": "JMIR Form Res",
+          "essn": "2561-326X",
+          "issn": "2561-326X",
+          "nlmid": "101726394"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e53617",
+      "abstractText": "<h4>Background</h4>Many health care systems globally face severe capacity issues, with lengthening waiting lists and stretched resources. Connected health has been proposed as a game changer for health care. However, the development of connected health apps is difficult and requires multidisciplinary development teams. Patient journey mapping presents an opportunity to streamline the requirements-gathering process for such apps by clearly showing the patient journey to team members who are not familiar with relevant clinical practices. This research project focuses on attention-deficit/hyperactivity disorder (ADHD) as a case study for using clinical journey mapping to represent the \"gold standard\" care pathway for ADHD treatment; the Dundee Clinical Care Pathway. This pathway was analyzed in detail and was further explored in discussions with stakeholders to produce a patient journey map.<h4>Objective</h4>The objective of this paper is to answer three research questions: (1) visualizing the Dundee ADHD clinical care pathway using integrated patient journey mapping and exploring how its use benefits multidisciplinary development teams; (2) optimizing the integrated patient journey map arising from the Dundee Clinical Care Pathway, in line with the underlying clinical realities of Child and Adolescent Mental Health Service in Ireland; and (3) proposing areas where connected health integration can deliver efficiency and substantial gains for Child and Adolescent Mental Health Services.<h4>Methods</h4>This study uses a design science approach where a sample artifact is presented to a relevant audience for review and feedback and is then leveraged to work iteratively toward an improved, final artifact. This paper presents the feedback collected from both information systems and clinical professionals at each iteration of the map.<h4>Results</h4>This research delivers a comprehensive clinical patient journey map based on the Dundee clinical care pathway. Using unified modeling language concepts and color coding, multiple patient personas are mapped onto a streamlined diagram, allowing the diagram, at an abstract level, to cover the most typical clinical scenarios.<h4>Conclusions</h4>Clinical journey mapping provides a way for team members to get up to speed on clinical practices, while also presenting a way for development teams to identify key gaps where connected health systems can be embedded in clinical pathways to optimize the use of clinical resources and ultimately deliver better patient outcomes.",
+      "affiliation": "Department of Business Information Systems, Cork University Business School, University College Cork, 2.125 O'Rahilly Building, Cork, T12 K8AF, Ireland, 353212021110.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Attention Deficit Disorder with Hyperactivity",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Mental Health Services",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "OG",
+                  "qualifierName": "organization & administration",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Research Design"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adolescent"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Critical Pathways"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Ireland"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mobile Applications"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Integration",
+          "MAP",
+          "Mapping",
+          "Design",
+          "Information system",
+          "ADHD",
+          "Implementation",
+          "Visualization",
+          "Diagram",
+          "Care Pathway",
+          "Attention-deficit/hyperactivity Disorder",
+          "Neurodevelopmental",
+          "Attention Deficit",
+          "Connected Health",
+          "Journey",
+          "Design Science",
+          "Dundee Clinical Care Pathway",
+          "Integrated Patient Journey Mapping Tool"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/53617"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-26",
+      "dateOfCreation": "2025-05-26",
+      "firstIndexDate": "2025-05-26",
+      "dateOfRevision": "2025-05-26",
+      "electronicPublicationDate": "2025-05-26",
+      "firstPublicationDate": "2025-05-26"
+    },
+    {
+      "id": "40437406",
+      "source": "MED",
+      "pmid": "40437406",
+      "doi": "10.1186/s12885-025-14238-1",
+      "title": "High-frequency contrast-enhanced ultrasound in discriminating benign and malignant superficial lymph nodes: a diagnostic comparison.",
+      "authorString": "Liang S, Han P, Fei X, Zhu L, Peng L, Xie F, Luo Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Liang S",
+            "firstName": "Shuyuan",
+            "lastName": "Liang",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Han P",
+            "firstName": "Peng",
+            "lastName": "Han",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fei X",
+            "firstName": "Xiang",
+            "lastName": "Fei",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhu L",
+            "firstName": "Lianhua",
+            "lastName": "Zhu",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Peng L",
+            "firstName": "Liuqing",
+            "lastName": "Peng",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xie F",
+            "firstName": "Fang",
+            "lastName": "Xie",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luo Y",
+            "firstName": "Yukun",
+            "lastName": "Luo",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China. lyk301@163.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "25",
+        "journalIssueId": 3935628,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "BMC cancer",
+          "medlineAbbreviation": "BMC Cancer",
+          "isoabbreviation": "BMC Cancer",
+          "essn": "1471-2407",
+          "issn": "1471-2407",
+          "nlmid": "100967800"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "961",
+      "abstractText": "<h4>Background</h4>Lymph nodes are critical immune system components, filtering harmful substances and acting as indicators in various disease states, including cancer. Accurate differentiation between benign and malignant superficial lymph nodes is essential for diagnosis and treatment planning. However, conventional diagnostic methods often lack the required precision. High-frequency contrast-enhanced ultrasound (H-CEUS) offers improved temporal resolution and visualization of microvascular structures, potentially providing better diagnostic accuracy than standard contrast-enhanced ultrasound (CEUS).<h4>Methods</h4>This study included 77 patients with suspected abnormalities in superficial lymph nodes. Each patient underwent H-CEUS and CEUS examinations, with diagnoses confirmed through biopsy or surgical resection. The diagnostic performance of H-CEUS and CEUS was evaluated using sensitivity, specificity, positive predictive value, negative predictive value, and accuracy. Chi-square tests and ROC curve analysis were employed to compare the efficacy of H-CEUS and CEUS in differentiating benign from malignant lymph nodes.<h4>Results</h4>H-CEUS demonstrated superior diagnostic performance over CEUS, with higher sensitivity (95.92% vs. 83.67%), specificity (92.86% vs. 57.14%), and accuracy (94.80% vs. 74.03%). H-CEUS enhanced microvascular morphology visualization, facilitating more accurate differentiation between benign and metastatic lymph nodes. The area under the ROC curve for H-CEUS (0.944) was significantly greater than that for CEUS (0.704), indicating improved diagnostic capability.<h4>Conclusion</h4>H-CEUS offers enhanced accuracy in diagnosing the nature of superficial lymph nodes, potentially improving clinical decision-making for patients with suspected lymph node malignancies. These findings support the integration of H-CEUS into routine clinical practice to achieve better diagnostic outcomes.",
+      "affiliation": "Department of Ultrasound Diagnosis, The First Medical Center, Chinese PLA General Hospital, Beijing, 100853, P. R. China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Comparative Study",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Lymph Nodes",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Lymphatic Metastasis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Contrast Media",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AD",
+                  "qualifierName": "administration & dosage",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Diagnosis, Differential"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Ultrasonography",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sensitivity and Specificity"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "ROC Curve"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged, 80 and over"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Young Adult"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Contrast-enhanced Ultrasound",
+          "Diagnostic Efficacy",
+          "Superficial Lymph Nodes",
+          "High-frequency Contrast-enhanced Ultrasound",
+          "Microvascular Visualization",
+          "Benign And Malignant Differentiation"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Contrast Media",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12885-025-14238-1"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-28",
+      "dateOfCreation": "2025-05-28",
+      "firstIndexDate": "2025-05-31",
+      "dateOfRevision": "2025-05-28",
+      "electronicPublicationDate": "2025-05-28",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40425545",
+      "source": "MED",
+      "pmid": "40425545",
+      "pmcid": "PMC12117065",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12117065"
+        ]
+      },
+      "doi": "10.1038/s41392-025-02256-1",
+      "title": "China Protocol for early screening, precise diagnosis, and individualized treatment of lung cancer.",
+      "authorString": "Wang C, Chen B, Liang S, Shao J, Li J, Yang L, Ren P, Wang Z, Luo W, Zhang L, Liu D, Li W.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wang C",
+            "firstName": "Chengdi",
+            "lastName": "Wang",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5284-2889"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China. chengdi_wang@scu.edu.cn."
+                },
+                {
+                  "affiliation": "Frontiers Medical Center, Tianfu Jincheng Laboratory, Chengdu, China. chengdi_wang@scu.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen B",
+            "firstName": "Bojiang",
+            "lastName": "Chen",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liang S",
+            "firstName": "Shufan",
+            "lastName": "Liang",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shao J",
+            "firstName": "Jun",
+            "lastName": "Shao",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li J",
+            "firstName": "Jingwei",
+            "lastName": "Li",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang L",
+            "firstName": "Liuqing",
+            "lastName": "Yang",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ren P",
+            "firstName": "Pengwei",
+            "lastName": "Ren",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang Z",
+            "firstName": "Zhoufeng",
+            "lastName": "Wang",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luo W",
+            "firstName": "Wenxin",
+            "lastName": "Luo",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang L",
+            "firstName": "Li",
+            "lastName": "Zhang",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu D",
+            "firstName": "Dan",
+            "lastName": "Liu",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li W",
+            "firstName": "Weimin",
+            "lastName": "Li",
+            "initials": "W",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0985-0311"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China. weimi003@scu.edu.cn."
+                },
+                {
+                  "affiliation": "Frontiers Medical Center, Tianfu Jincheng Laboratory, Chengdu, China. weimi003@scu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5284-2889"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0985-0311"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "10",
+        "journalIssueId": 3935675,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Signal transduction and targeted therapy",
+          "medlineAbbreviation": "Signal Transduct Target Ther",
+          "isoabbreviation": "Signal Transduct Target Ther",
+          "essn": "2059-3635",
+          "issn": "2095-9907",
+          "nlmid": "101676423"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "175",
+      "abstractText": "Early screening, diagnosis, and treatment of lung cancer are pivotal in clinical practice since the tumor stage remains the most dominant factor that affects patient survival. Previous initiatives have tried to develop new tools for decision-making of lung cancer. In this study, we proposed the China Protocol, a complete workflow of lung cancer tailored to the Chinese population, which is implemented by steps including early screening by evaluation of risk factors and three-dimensional thin-layer image reconstruction technique for low-dose computed tomography (Tre-LDCT), accurate diagnosis via artificial intelligence (AI) and novel biomarkers, and individualized treatment through non-invasive molecule visualization strategies. The application of this protocol has improved the early diagnosis and 5-year survival rates of lung cancer in China. The proportion of early-stage (stage I) lung cancer has increased from 46.3% to 65.6%, along with a 5-year survival rate of 90.4%. Moreover, especially for stage IA1 lung cancer, the diagnosis rate has improved from 16% to 27.9%; meanwhile, the 5-year survival rate of this group achieved 97.5%. Thus, here we defined stage IA1 lung cancer, which cohort benefits significantly from early diagnosis and treatment, as the \"ultra-early stage lung cancer\", aiming to provide an intuitive description for more precise management and survival improvement. In the future, we will promote our findings to multicenter remote areas through medical alliances and mobile health services with the desire to move forward the diagnosis and treatment of lung cancer.",
+      "affiliation": "Department of Pulmonary and Critical Care Medicine, State Key Laboratory of Respiratory Health and Multimorbidity, Targeted Tracer Research and Development Laboratory, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, China. chengdi_wang@scu.edu.cn.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Lung Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tomography, X-Ray Computed"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Survival Rate"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Artificial Intelligence"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EP",
+                  "qualifierName": "epidemiology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Early Detection of Cancer",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Precision Medicine"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41392-025-02256-1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12117065"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12117065?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-27",
+      "dateOfCreation": "2025-05-27",
+      "firstIndexDate": "2025-05-28",
+      "fullTextReceivedDate": "2025-05-31",
+      "dateOfRevision": "2025-05-27",
+      "electronicPublicationDate": "2025-05-27",
+      "firstPublicationDate": "2025-05-27"
+    },
+    {
+      "id": "40308181",
+      "source": "MED",
+      "pmid": "40308181",
+      "doi": "10.1039/d5an00316d",
+      "title": "A near-infrared fluorescent probe selectively recognizing cysteine to release H&lt;sub&gt;2&lt;/sub&gt;S and its applications.",
+      "authorString": "Wang X, Wang N, Ren Y, Wang J, Bai J, Hua H, Li D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wang X",
+            "firstName": "Xuan",
+            "lastName": "Wang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang N",
+            "firstName": "Nianwei",
+            "lastName": "Wang",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ren Y",
+            "firstName": "Yikun",
+            "lastName": "Ren",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang J",
+            "firstName": "Jicheng",
+            "lastName": "Wang",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bai J",
+            "firstName": "Jiao",
+            "lastName": "Bai",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hua H",
+            "firstName": "Huiming",
+            "lastName": "Hua",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0258-3647"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li D",
+            "firstName": "Dahong",
+            "lastName": "Li",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6964-4619"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0258-3647"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6964-4619"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "11",
+        "volume": "150",
+        "journalIssueId": 3947852,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "The Analyst",
+          "medlineAbbreviation": "Analyst",
+          "isoabbreviation": "Analyst",
+          "essn": "1364-5528",
+          "issn": "0003-2654",
+          "nlmid": "0372652"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "2251-2258",
+      "abstractText": "Cysteine, a pivotal biothiol vital for human health, exhibits strong associations with various diseases, yet its concentration assessment is often confounded by structurally and functionally similar biothiols. Hydrogen sulfide (H<sub>2</sub>S), an endogenous gasotransmitter with therapeutic potential, faces challenges in achieving pharmacological effects due to the unpredictable presence of inorganic H<sub>2</sub>S donors. To address these issues, we developed TMN-ONCS, a near-infrared fluorescent probe that integrates a <i>p</i>-tolyl isothiocyanate with a dicyanoisophorone fluorophore through a self-immolative spacer. TMN-ONCS demonstrates high selectivity and analytical performance for cysteine, avoids the generation of multiple fluorophores seen in conventional isothiocyanate probes, and functions as a cysteine-activated fluorescent H<sub>2</sub>S donor with concurrent visualization. Furthermore, it mitigates lipopolysaccharide-induced inflammation in RAW 264.7 cells, highlighting its potential for treating inflammation.",
+      "affiliation": "Key Laboratory of Structure-Based Drug Design & Discovery, Ministry of Education, and School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, P. R. China. lidahong0203@163.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2022-YQ-17",
+            "agency": "Natural Science Foundation of Liaoning Province",
+            "orderIn": 0
+          },
+          {
+            "grantId": "LJ222410163050",
+            "agency": "Department of Education of Liaoning Province",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mice"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Inflammation",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CI",
+                  "qualifierName": "chemically induced",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "DT",
+                  "qualifierName": "drug therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Hydrogen Sulfide",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Isothiocyanates",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Cysteine",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Lipopolysaccharides",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Fluorescent Dyes",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CS",
+                  "qualifierName": "chemical synthesis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "TO",
+                  "qualifierName": "toxicity",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Infrared Rays"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Optical Imaging"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "RAW 264.7 Cells"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Lipopolysaccharides",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Fluorescent Dyes",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Isothiocyanates",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Cysteine",
+            "registryNumber": "K848JZ4886"
+          },
+          {
+            "name": "Hydrogen Sulfide",
+            "registryNumber": "YY9FVM7NSN"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1039/d5an00316d"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-27",
+      "dateOfCreation": "2025-05-01",
+      "firstIndexDate": "2025-05-01",
+      "dateOfRevision": "2025-05-27",
+      "electronicPublicationDate": "2025-05-27",
+      "firstPublicationDate": "2025-05-27"
+    },
+    {
+      "id": "40443946",
+      "source": "MED",
+      "pmid": "40443946",
+      "doi": "10.1117/1.jbo.30.s3.s34102",
+      "title": "Reduction of photobleaching effects in photoacoustic imaging using noise agnostic, platform-flexible deep-learning methods. ",
+      "authorString": "Paul A, Nguyen C, Hasan T, Mallidi S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Paul A",
+            "firstName": "Avijit",
+            "lastName": "Paul",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Tufts University, Department of Biomedical Engineering, Medford, Massachusetts, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nguyen C",
+            "firstName": "Christopher",
+            "lastName": "Nguyen",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Tufts University, Department of Biomedical Engineering, Medford, Massachusetts, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hasan T",
+            "firstName": "Tayyaba",
+            "lastName": "Hasan",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0871-6057"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mallidi S",
+            "firstName": "Srivalleesha",
+            "lastName": "Mallidi",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1547-1764"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Tufts University, Department of Biomedical Engineering, Medford, Massachusetts, United States."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0871-6057"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1547-1764"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "Suppl 3",
+        "volume": "30",
+        "journalIssueId": 3948909,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Journal of biomedical optics",
+          "medlineAbbreviation": "J Biomed Opt",
+          "isoabbreviation": "J Biomed Opt",
+          "essn": "1560-2281",
+          "issn": "1083-3668",
+          "nlmid": "9605853"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "S34102",
+      "abstractText": "Molecular photoacoustic (PA) imaging with exogenous dyes faces a significant challenge due to the photobleaching of the dye that can compromise tissue visualization, particularly in 3D imaging. Addressing this limitation can revolutionize the field by enabling safer, more reliable imaging and improve real-time visualization, quantitative analysis, and clinical decision-making in various molecular PA imaging applications such as image-guided surgeries. We tackle photobleaching in molecular PA imaging by introducing a platform-flexible deep learning framework that enhances SNR from single-laser pulse data, preserving contrast and signal integrity without requiring averaging of signals from multiple laser pulses. The generative deep learning network was trained with an LED-illuminated PA image dataset and tested on acoustic resolution PA microscopy images obtained with single-laser pulse illumination. In vitro and ex vivo samples were first tested for demonstrating SNR improvement, and then, a 3D-scanning experiment with an ICG-filled tube was conducted to depict the usability of the technique in reducing the impact of photobleaching during PA imaging. Our generative deep learning model outperformed traditional nonlearning, filter-based algorithms and the U-Net deep learning network when tested with in vitro and ex vivo single pulse-illuminated images, showing superior performance in terms of signal-to-noise ratio ( 93.54\u00b16.07 , and 92.77\u00b110.74 compared with 86.35\u00b13.97 , and 84.52\u00b111.82 with U-Net for kidney, and tumor, respectively) and contrast-to-noise ratio ( 11.82\u00b14.42 , and 9.9\u00b14.41 compared with 7.59\u00b10.82 , and 6.82\u00b12.12 with U-Net for kidney, and tumor respectively). The use of cGAN with single-pulse rapid imaging has the potential to prevent photobleaching ( 9.51\u00b13.69% with cGAN, and 35.14\u00b15.38% with long-time laser exposure by averaging 30 pulses), enabling accurate, quantitative imaging suitable for real-time implementation, and improved clinical decision support. We demonstrate the potential of a platform-flexible generative deep learning-based approach to mitigate the effects of photobleaching in PA imaging by enhancing signal-to-noise ratio from single pulse-illuminated data, thereby improving image quality and preserving contrast in real time.",
+      "affiliation": "Tufts University, Department of Biomedical Engineering, Medford, Massachusetts, United States.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mice"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Imaging, Three-Dimensional",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Photobleaching"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Image Processing, Computer-Assisted",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Signal-To-Noise Ratio"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Photoacoustic Techniques",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Deep Learning"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1117/1.JBO.30.S3.S34102"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-30",
+      "dateOfCreation": "2025-05-30",
+      "firstIndexDate": "2025-05-31",
+      "dateOfRevision": "2025-05-30",
+      "electronicPublicationDate": "2025-05-28",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40432561",
+      "source": "MED",
+      "pmid": "40432561",
+      "doi": "10.1002/advs.202417295",
+      "title": "Dual-Energy CT-Based Assessment of Thrombotic Heterogeneity for Predicting Stroke Source and Response to Machine Thrombectomy: A Step Toward Visualization Thrombus Treatment.",
+      "authorString": "Jiang J, Wang S, Xiao F, Gu H, Wang M, Tian H, Guan B, Sheng K, Xiong Y, Zhao H, Li M, Xu L, Sun Z, Du H, Du W, Li Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Jiang J",
+            "firstName": "Jingxuan",
+            "lastName": "Jiang",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                },
+                {
+                  "affiliation": "Department of Radiology, Affiliated Hospital of Nantong University, Nanton, 226001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang S",
+            "firstName": "Sijia",
+            "lastName": "Wang",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xiao F",
+            "firstName": "Fan",
+            "lastName": "Xiao",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gu H",
+            "firstName": "Hongmei",
+            "lastName": "Gu",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Affiliated Hospital of Nantong University, Nanton, 226001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang M",
+            "firstName": "Mingkang",
+            "lastName": "Wang",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wuhan United Imaging Life Science Instruments Ltd., Wuhan, 430206, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tian H",
+            "firstName": "Hao",
+            "lastName": "Tian",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Affiliated Hospital of Nantong University, Nanton, 226001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guan B",
+            "firstName": "Baohui",
+            "lastName": "Guan",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sheng K",
+            "firstName": "Kai",
+            "lastName": "Sheng",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xiong Y",
+            "firstName": "Yijia",
+            "lastName": "Xiong",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao H",
+            "firstName": "Huilin",
+            "lastName": "Zhao",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Renji Hospital, School of Medicine, Shanghai Jiaotong University, Shanghai, 200001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li M",
+            "firstName": "Minda",
+            "lastName": "Li",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, Affiliated Hospital of Nantong University, Nanton, 226001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu L",
+            "firstName": "Li",
+            "lastName": "Xu",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Jiangsu Key Laboratory of Integrated Traditional Chinese and Western Medicine for Prevention and Treatment of Senile Diseases, Institute of Translational Medicine, Medical College, Yangzhou University, Yangzhou, 225001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sun Z",
+            "firstName": "Zheng",
+            "lastName": "Sun",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Du H",
+            "firstName": "Haiyan",
+            "lastName": "Du",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Du W",
+            "firstName": "Wenxian",
+            "lastName": "Du",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Y",
+            "firstName": "Yuehua",
+            "lastName": "Li",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4982-2737"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4982-2737"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3936882,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+          "medlineAbbreviation": "Adv Sci (Weinh)",
+          "isoabbreviation": "Adv Sci (Weinh)",
+          "essn": "2198-3844",
+          "issn": "2198-3844",
+          "nlmid": "101664569"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e17295",
+      "abstractText": "The viability of using thrombus heterogeneity (TH) data derived from dual-energy CT (DECT) as a visual thrombotic biomarker is unclear. The first aim of this study is to develop a quantitative measure of TH on DECT and test its performance for predicting the stroke source (cardiogenic vs. non-cardiogenic) and clinical outcomes (functional status assessed by the modified Rankin Scale score at 90 days) following machine thrombectomy (MT). The second aim is to associate thrombus subregions with the thrombus composition to facilitate visualization of thrombus constituents. Radiomics data are extracted from the whole thrombus and subregions in CT/DECT to construct predictive models. The performances of all models are evaluated and compared in the validation and comparative cohorts. Histopathologic analysis is performed to correlate the subregion data with the actual thrombus composition. This study included 221 and 255 participants who underwent DECT and CT examinations, respectively. DECT outperformed CT in predicting stroke source and clinical outcomes, with the TH-related models showing the highest performance in the validation and comparative cohorts. Thrombus composition is correlated with the different CT/DECT-based subregions, with DECT-habitat_c showing the strongest association. Thrombus subregion analyses may help visualize the related constituents.",
+      "affiliation": "Institute of Diagnostic and Interventional Radiology, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "8225024",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "32401157",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "82402364",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Habitat",
+          "Thrombus",
+          "Stroke",
+          "Radiomics",
+          "Dual\u2010Energy Ct"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/advs.202417295"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-28",
+      "firstIndexDate": "2025-05-28",
+      "dateOfRevision": "2025-05-28",
+      "electronicPublicationDate": "2025-05-28",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40425411",
+      "source": "MED",
+      "pmid": "40425411",
+      "doi": "10.1016/j.jfma.2025.05.036",
+      "title": "Endoscopic and novel approaches for evaluation of indeterminate biliary strictures.",
+      "authorString": "Lin TY, Chen CC, Kuo YT, Liao WC.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lin TY",
+            "firstName": "Tung-Yen",
+            "lastName": "Lin",
+            "initials": "TY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan; Internal Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen CC",
+            "firstName": "Chieh-Chang",
+            "lastName": "Chen",
+            "initials": "CC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan; Internal Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kuo YT",
+            "firstName": "Yu-Ting",
+            "lastName": "Kuo",
+            "initials": "YT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan; Division of Endoscopy, Department of Integrated Diagnostics and Therapeutics, National Taiwan University Hospital, Taipei, Taiwan. Electronic address: david.ntuh@gmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liao WC",
+            "firstName": "Wei-Chih",
+            "lastName": "Liao",
+            "initials": "WC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan; Internal Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan; Division of Endoscopy, Department of Integrated Diagnostics and Therapeutics, National Taiwan University Hospital, Taipei, Taiwan."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3937110,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+          "medlineAbbreviation": "J Formos Med Assoc",
+          "isoabbreviation": "J Formos Med Assoc",
+          "issn": "0929-6646",
+          "nlmid": "9214933"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "S0929-6646(25)00266-9",
+      "abstractText": "Indeterminate biliary strictures are defined as strictures which evade definitive diagnosis after endoscopic retrograde cholangiopancreatography (ERCP)-assisted sampling with brush cytology and/or forceps biopsy and pose significant clinical challenges. While most indeterminate biliary strictures are attributed to malignancies, up to one-third are benign strictures. False-negative and false-positive diagnoses lead to delayed or inappropriate treatment with untoward clinical consequences. Peroral cholangioscopy (POC) and single-operator cholangioscopy (SOC) have demonstrated superior diagnostic accuracy over traditional ERCP-based techniques through enhanced visualization and targeted biopsy. Endoscopic ultrasound (EUS)-guided tissue sampling also achieves superior sensitivity and diagnostic accuracy compared with ERCP-based tissue sampling. The 2025 ESGE guideline proposes an algorithm for optimizing the utilization of ERCP-based and EUS-guided tissue sampling and cholangioscopy with consideration of the stricture location. Furthermore, molecular diagnostic tools such as fluorescence in situ hybridization (FISH) and next-generation sequencing (NGS) enable the detection of chromosomal and genetic alterations commonly associated with biliary malignancies, thereby enhancing the sensitivity for malignancy. This review summarizes recent advances in the diagnostic work-up of indeterminate biliary strictures and emerging diagnostic strategies and modalities.",
+      "affiliation": "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan; Internal Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Cholangiocarcinoma",
+          "Pancreatic cancer",
+          "Indeterminate Biliary Stricture"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.jfma.2025.05.036"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-27",
+      "firstIndexDate": "2025-05-28",
+      "dateOfRevision": "2025-05-27",
+      "electronicPublicationDate": "2025-05-27",
+      "firstPublicationDate": "2025-05-27"
+    },
+    {
+      "id": "40434557",
+      "source": "MED",
+      "pmid": "40434557",
+      "doi": "10.1007/s00701-025-06564-x",
+      "title": "BrainStereo: clinical application and efficiency evaluation of an open-source stereotactic planning tool.",
+      "authorString": "Shi Z, Li D, Chen S, Gao X, Li H, Liu X, Li Z, Wang Z.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Shi Z",
+            "firstName": "Zhongjie",
+            "lastName": "Shi",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Medicine, Xiamen University, Xiamen, 361000, China."
+                },
+                {
+                  "affiliation": "The First Affiliated Hospital of Xiamen University, Xiamen, 361000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li D",
+            "firstName": "Dongfeng",
+            "lastName": "Li",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Sanya Hospital of Traditional Chinese Medicine, Sanya, 572000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen S",
+            "firstName": "Sifang",
+            "lastName": "Chen",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The First Affiliated Hospital of Xiamen University, Xiamen, 361000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao X",
+            "firstName": "Xin",
+            "lastName": "Gao",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The First Affiliated Hospital of Xiamen University, Xiamen, 361000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Hongjia",
+            "lastName": "Li",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The First Affiliated Hospital of Xiamen University, Xiamen, 361000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu X",
+            "firstName": "Xiyao",
+            "lastName": "Liu",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The First Affiliated Hospital of Xiamen University, Xiamen, 361000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Z",
+            "firstName": "Zhangyu",
+            "lastName": "Li",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The First Affiliated Hospital of Xiamen University, Xiamen, 361000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang Z",
+            "firstName": "Zhanxiang",
+            "lastName": "Wang",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The First Affiliated Hospital of Xiamen University, Xiamen, 361000, China. wzxcn@foxmail.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "167",
+        "journalIssueId": 3935276,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Acta neurochirurgica",
+          "medlineAbbreviation": "Acta Neurochir (Wien)",
+          "isoabbreviation": "Acta Neurochir (Wien)",
+          "essn": "0942-0940",
+          "issn": "0001-6268",
+          "nlmid": "0151000"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "156",
+      "abstractText": "<h4>Objective</h4>To develop a flexible and open-source stereotactic surgical planning toolkit, validated through clinical data to assess its performance in frame registration and stereotactic neurosurgical planning.<h4>Methods</h4>BrainStereo was developed based on the Leksell stereotactic frame principles and the 3D Slicer platform. It features an interactive interface for frame registration based on the custom-designed Layerwise Max Intensity Tracking (LMIT) algorithm, automated target/entry point calculation, and real-time 3D visualization. A retrospective analysis of stereotactic CT data from two hospitals was conducted, comparing BrainStereo with standard planning software to evaluate accuracy and efficiency.<h4>Results</h4>BrainStereo was developed as a comprehensive toolkit integrating frame registration, target and entry point computation, and dynamic 3D visualization. A total of 86 CT datasets from two hospitals were included. The root mean square error (RMSE) for frame registration was 0.56\u2009\u00b1\u20090.23\u00a0mm. Computation time for BrainStereo was 5.54\u2009\u00b1\u20091.16\u00a0min, significantly longer than the standard toolkit (4.75\u2009\u00b1\u20090.83\u00a0min, 95% CI: 4.57-4.92 min, p\u2009=\u20090.001), but showed a steeper learning curve. The mean Euclidean distance between target points from both toolkits was 0.82\u2009\u00b1\u20090.21\u00a0mm (95% CI: 0.74-0.90 mm), with no significant differences along the X, Y, and Z axes. Entry point deviations were 0.47\u00b0\u2009\u00b1\u20090.37\u00b0 (p\u2009=\u20090.07 for arc and p\u2009=\u20090.06 for ring). Bland-Altman analysis confirmed strong agreement, supporting BrainStereo's reliability for stereotactic neurosurgical planning.<h4>Conclusions</h4>BrainStereo is an open-source stereotactic planning tool that provides neurosurgeons and researchers with a flexible alternative to proprietary software. Integrated within 3D Slicer, it allows for adjustable parameters and modular functionality, addressing some of the limitations commonly associated with commercial solutions, such as hardware restrictions and limited adaptability. By offering open-source access, BrainStereo fosters transparency, collaboration, and broader accessibility, potentially advancing the field of stereotactic neurosurgery.",
+      "affiliation": "School of Medicine, Xiamen University, Xiamen, 361000, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2022GGB010",
+            "agency": "Young and Middle-aged Backbone Talent Training Project of Fujian Provincial Health Commission",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2022J011355",
+            "agency": "National Natural Science Foundation of Fujian Province",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Brain",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Brain Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tomography, X-Ray Computed"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Imaging, Three-Dimensional",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Stereotaxic Techniques"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retrospective Studies"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Algorithms"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Software"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Stereotactic",
+          "Neurosurgery",
+          "Leksell Frame",
+          "Open-Source Toolkit"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s00701-025-06564-x"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-28",
+      "dateOfCreation": "2025-05-28",
+      "firstIndexDate": "2025-05-28",
+      "dateOfRevision": "2025-05-28",
+      "electronicPublicationDate": "2025-05-28",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40336276",
+      "source": "MED",
+      "pmid": "40336276",
+      "doi": "10.1039/d5tb00745c",
+      "title": "HD-ALP fluorescent probe: a high-sensitivity tool for alkaline phosphatase imaging and preclinical diagnosis in three ovarian cancer models.",
+      "authorString": "Shi Y, Dong R, Huang H, Wang G, Gao J, Wang K, Zhang T.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Shi Y",
+            "firstName": "Yingxian",
+            "lastName": "Shi",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wuxi Maternity and Child Health Care Hospital, Affiliated Women's Hospital of Jiangnan University, Wuxi 214002, China. 9862022078@jiangnan.edu.cn."
+                },
+                {
+                  "affiliation": "Wuxi School of Medicine, Jiangnan University, Wuxi 214122, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dong R",
+            "firstName": "Ruirui",
+            "lastName": "Dong",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wuxi Maternity and Child Health Care Hospital, Affiliated Women's Hospital of Jiangnan University, Wuxi 214002, China. 9862022078@jiangnan.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang H",
+            "firstName": "Huan",
+            "lastName": "Huang",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wuxi Maternity and Child Health Care Hospital, Affiliated Women's Hospital of Jiangnan University, Wuxi 214002, China. 9862022078@jiangnan.edu.cn."
+                },
+                {
+                  "affiliation": "Wuxi School of Medicine, Jiangnan University, Wuxi 214122, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang G",
+            "firstName": "Gaoying",
+            "lastName": "Wang",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wuxi Maternity and Child Health Care Hospital, Affiliated Women's Hospital of Jiangnan University, Wuxi 214002, China. 9862022078@jiangnan.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao J",
+            "firstName": "Jianyi",
+            "lastName": "Gao",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wuxi Maternity and Child Health Care Hospital, Affiliated Women's Hospital of Jiangnan University, Wuxi 214002, China. 9862022078@jiangnan.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang K",
+            "firstName": "Kai",
+            "lastName": "Wang",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8326-7178"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Affiliated Children's Hospital of Jiangnan University, Wuxi, 214023, China. hyxj0309@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang T",
+            "firstName": "Ting",
+            "lastName": "Zhang",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3175-4409"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wuxi Maternity and Child Health Care Hospital, Affiliated Women's Hospital of Jiangnan University, Wuxi 214002, China. 9862022078@jiangnan.edu.cn."
+                },
+                {
+                  "affiliation": "Wuxi School of Medicine, Jiangnan University, Wuxi 214122, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3175-4409"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8326-7178"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "21",
+        "volume": "13",
+        "journalIssueId": 3948156,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Journal of materials chemistry. B",
+          "medlineAbbreviation": "J Mater Chem B",
+          "isoabbreviation": "J Mater Chem B",
+          "essn": "2050-7518",
+          "issn": "2050-750X",
+          "nlmid": "101598493"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "6117-6127",
+      "abstractText": "Ovarian cancer (OC) remains a prevalent gynecological malignancy, posing significant threats to women's health globally. Emerging evidence underscores the critical involvement of alkaline phosphatase (ALP) in OC pathogenesis, prompting the development of targeted diagnostic tools. Herein, we report the successful application of a novel fluorescent probe, HD-ALP, for fluorescence imaging of ALP in ovarian cancer cells and preclinical models. After being triggered by ALP, HD-ALP responded in the fluorescence signal reporting manner. More importantly, the fluorescence signal showed a reliable linear correlation with ALP levels in the range of 0-10\u2009000 U L<sup>-1</sup>. The HD-ALP probe demonstrated high sensitivity, selectivity, and stability under necessary biological conditions. The intracellular imaging results indicated that HD-ALP enabled the visualization of ALP levels within ovarian cancer cells. The <i>in vivo</i> experiments demonstrated that HD-ALP could accurately differentiate between healthy and cancerous models (subcutaneous transplantation tumor model of ovarian cancer, orthotopic ovarian cancer model, and primary ovarian cancer model). Notably, in cellular and <i>in vivo</i> imaging, HD-ALP could effectively reflect the decrease in the fluorescence signal after the addition of ALP inhibitors. By integrating ALP detection, which utilizes the HD-ALP fluorescence mode, with traditional methods like immunohistochemistry staining and serum biomarker detection, potential strategies for more accurate diagnosis of OC may be developed for preclinical trials in the future. According to the research, this is also one of the few developments of fluorescence detection tools for measuring ALP levels in ovarian cancer models.",
+      "affiliation": "Wuxi Maternity and Child Health Care Hospital, Affiliated Women's Hospital of Jiangnan University, Wuxi 214002, China. 9862022078@jiangnan.edu.cn.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "Z2022066",
+            "agency": "Jiangsu Commission of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K20221032",
+            "agency": "Wuxi Municipal Bureau on Science and Technology",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cell Line, Tumor"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mice"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mice, Nude"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Ovarian Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Alkaline Phosphatase",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "AI",
+                  "qualifierName": "antagonists & inhibitors",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Fluorescent Dyes",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CS",
+                  "qualifierName": "chemical synthesis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Optical Imaging"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Alkaline Phosphatase",
+            "registryNumber": "EC 3.1.3.1"
+          },
+          {
+            "name": "Fluorescent Dyes",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1039/d5tb00745c"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-28",
+      "dateOfCreation": "2025-05-08",
+      "firstIndexDate": "2025-05-09",
+      "dateOfRevision": "2025-05-28",
+      "electronicPublicationDate": "2025-05-28",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40436780",
+      "source": "MED",
+      "pmid": "40436780",
+      "doi": "10.1253/circj.cj-24-1031",
+      "title": "Deep Learning-Based Fully Automated Aortic Valve Leaflets and Root Measurement From Computed Tomography Images\u3000- A Feasibility Study.",
+      "authorString": "Yamauchi H, Aoyama G, Tsukihara H, Ino K, Tomii N, Takagi S, Fujimoto K, Sakaguchi T, Sakuma I, Ono M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yamauchi H",
+            "firstName": "Haruo",
+            "lastName": "Yamauchi",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cardiovascular Surgery, Graduate School of Medicine, The University of Tokyo."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Aoyama G",
+            "firstName": "Gakuto",
+            "lastName": "Aoyama",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research and Development Center, Canon Medical Systems Corporation."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tsukihara H",
+            "firstName": "Hiroyuki",
+            "lastName": "Tsukihara",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cardiovascular Surgery, Graduate School of Medicine, The University of Tokyo."
+                },
+                {
+                  "affiliation": "Medical Device Development and Regulation Research Center, Graduate School of Engineering, The University of Tokyo."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ino K",
+            "firstName": "Kenji",
+            "lastName": "Ino",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Radiology Center, The University of Tokyo Hospital."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tomii N",
+            "firstName": "Naoki",
+            "lastName": "Tomii",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Precision Engineering, Graduate School of Engineering, The University of Tokyo."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Takagi S",
+            "firstName": "Shu",
+            "lastName": "Takagi",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mechanical Engineering, Graduate School of Engineering, The University of Tokyo."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fujimoto K",
+            "firstName": "Katsuhiko",
+            "lastName": "Fujimoto",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research and Development Center, Canon Medical Systems Corporation."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sakaguchi T",
+            "firstName": "Takuya",
+            "lastName": "Sakaguchi",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research and Development Center, Canon Medical Systems Corporation."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sakuma I",
+            "firstName": "Ichiro",
+            "lastName": "Sakuma",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Medical Device Development and Regulation Research Center, Graduate School of Engineering, The University of Tokyo."
+                },
+                {
+                  "affiliation": "Department of Precision Engineering, Graduate School of Engineering, The University of Tokyo."
+                },
+                {
+                  "affiliation": "Department of Bioengineering, Graduate School of Engineering, The University of Tokyo."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ono M",
+            "firstName": "Minoru",
+            "lastName": "Ono",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cardiovascular Surgery, Graduate School of Medicine, The University of Tokyo."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3939621,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Circulation journal : official journal of the Japanese Circulation Society",
+          "medlineAbbreviation": "Circ J",
+          "isoabbreviation": "Circ J",
+          "essn": "1347-4820",
+          "issn": "1346-9843",
+          "nlmid": "101137683"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background</h4>The aim of this study was to retrain our existing deep learning-based fully automated aortic valve leaflets/root measurement algorithm, using computed tomography (CT) data for root dilatation (RD), and assess its clinical feasibility.<h4>Methods and results</h4>67 ECG-gated cardiac CT scans were retrospectively collected from 40 patients with RD to retrain the algorithm. An additional 100 patients' CT data with aortic stenosis (AS, n=50) and aortic regurgitation (AR) with/without RD (n=50) were collected to evaluate the algorithm. 45 AR patients had RD. The algorithm provided patient-specific 3-dimensional aortic valve/root visualization. The measurements of 100 cases automatically obtained by the algorithm were compared with an expert's manual measurements. Overall, there was a moderate-to-high correlation, with differences of 6.1-13.4 mm<sup>2</sup>for the virtual basal ring area, 1.1-2.6 mm for sinus diameter, 0.1-0.6 mm for coronary artery height, 0.2-0.5 mm for geometric height, and 0.9 mm for effective height, except for the sinotubular junction of the AR cases (10.3 mm) with an indefinite borderline over the dilated sinuses, compared with 2.1 mm in AS cases. The measurement time (122 s) per case by the algorithm was significantly shorter than those of the experts (618-1,126 s).<h4>Conclusions</h4>This fully automated algorithm can assist in evaluating aortic valve/root anatomy for planning surgical and transcatheter treatments while saving time and minimizing workload.",
+      "affiliation": "Department of Cardiovascular Surgery, Graduate School of Medicine, The University of Tokyo.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Aortic valve",
+          "computed tomography",
+          "Deep Neural Networks",
+          "Valve-sparing Root Replacement",
+          "Transcatheter Aortic Valve Replacement/implantation"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1253/circj.CJ-24-1031"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-28",
+      "firstIndexDate": "2025-05-31",
+      "dateOfRevision": "2025-05-28",
+      "electronicPublicationDate": "2025-05-28",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40443312",
+      "source": "MED",
+      "pmid": "40443312",
+      "doi": "10.3760/cma.j.cn112144-20250409-00126",
+      "title": "[Clinical effectiveness and challenges of digital tooth preparation guidance protocols]. ",
+      "authorString": "Yu HY.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yu HY",
+            "firstName": "H Y",
+            "lastName": "Yu",
+            "initials": "HY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Prosthodontics, West China Hospital of Stomatology, Sichuan University & State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, Chengdu 610041, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "6",
+        "volume": "60",
+        "journalIssueId": 3948869,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+          "medlineAbbreviation": "Zhonghua Kou Qiang Yi Xue Za Zhi",
+          "isoabbreviation": "Zhonghua Kou Qiang Yi Xue Za Zhi",
+          "issn": "1002-0098",
+          "nlmid": "8711066"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "589-595",
+      "abstractText": "Tooth preparation, as an irreversible surgical procedure, critically determines the long-term efficacy of dental restorations. Traditional preparation techniques, heavily reliant on operators' unaided visual estimation and empirical skills, suffer from inherent subjectivity and the inability to quantitatively verify preparation dimensions. These limitations render them inadequate to meet the sub-100-micron linear precision required for contemporary minimally invasive and esthetic restorations, which often feature maximum preparation depths below 1 mm. Emerging digital solutions--such as depth-specific preparation guides based on target restorative space analysis--have achieved reported preparation accuracies of approximately 50 \u03bcm by integrating arithmetic calculations and real-time verification of preparation depth as the pivotal geometric parameter. Further advancements, including real-time intraoral scanning-based preparation monitoring systems, are now being applied to ultra-thin and extreme-thin veneer restorations, offering a more precise and efficient paradigm for depth control. To comprehensively evaluate the efficacy of current digital tooth preparation protocols, this article systematically compares digital guidance technologies with conventional methods across three dimensions: time efficiency, economic cost, and clinical efficacy. It critically examines the synergistic use of visual magnification tools, emphasizing the necessity of concurrently addressing\" visual clarity\" and \"enhancement of manual skill stability and precision\". Notably, the target restorative space (TRS)-guided digital preparation technique under dental microscopy employs preparation depth as the master geometric parameter throughout multi-stage workflows. By combining microscopic visualization with rigid depth-specific guides, this method enables real-time verification of preparation depth, achieving unprecedented intraoperative precision. The integration of next-generation non-contact high-precision intraoral scanning systems further elevates accuracy from the sub-100-micron level to a tens-of-microns precision scale, paving the way for ultra-precise tooth preparation. These innovations in digital guidance systems not only redefine clinical standards but also herald the evolution of \"digitally guided prosthodontics\"as a transformative frontier in restorative dentistry.",
+      "affiliation": "Department of Prosthodontics, West China Hospital of Stomatology, Sichuan University & State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, Chengdu 610041, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "chi",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Journal Article",
+          "English Abstract"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "23LCYJ017",
+            "agency": "Science and Technology Project of Sichuan Provincial Health Commission",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3760/cma.j.cn112144-20250409-00126"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-30",
+      "firstIndexDate": "2025-05-31",
+      "dateOfRevision": "2025-05-30",
+      "electronicPublicationDate": "2025-05-29",
+      "firstPublicationDate": "2025-05-29"
+    },
+    {
+      "id": "40434286",
+      "source": "MED",
+      "pmid": "40434286",
+      "doi": "10.1002/jum.16721",
+      "title": "A Novel Prenatal Pipeline for Three-Dimensional Hemodynamic Modeling of the Fetal Aorta.",
+      "authorString": "Sarsam J, Desmond A, Roustaei M, Satou G, Afshar Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Sarsam J",
+            "firstName": "Joanne",
+            "lastName": "Sarsam",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0009-8628-6487"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Computational and Systems Biology, UCLA, Los Angeles, California, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Desmond A",
+            "firstName": "Angela",
+            "lastName": "Desmond",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0008-4132-9140"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Neonatal-Perinatal Medicine, Department of Pediatrics, UCLA, Los Angeles, California, USA."
+                },
+                {
+                  "affiliation": "David Geffen School of Medicine, UCLA, Los Angeles, California, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Roustaei M",
+            "firstName": "Mehrdad",
+            "lastName": "Roustaei",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Bioengineering, UCLA Samueli School of Engineering, Los Angeles, California, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Satou G",
+            "firstName": "Gary",
+            "lastName": "Satou",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "David Geffen School of Medicine, UCLA, Los Angeles, California, USA."
+                },
+                {
+                  "affiliation": "Division of Cardiology, Department of Pediatrics, UCLA, Los Angeles, California, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Afshar Y",
+            "firstName": "Yalda",
+            "lastName": "Afshar",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3807-7022"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, UCLA, Los Angeles, California, USA."
+                },
+                {
+                  "affiliation": "Molecular Biology Institute, UCLA, Los Angeles, California, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3807-7022"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0008-4132-9140"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0009-8628-6487"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3935227,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Journal of ultrasound in medicine : official journal of the American Institute of Ultrasound in Medicine",
+          "medlineAbbreviation": "J Ultrasound Med",
+          "isoabbreviation": "J Ultrasound Med",
+          "essn": "1550-9613",
+          "issn": "0278-4297",
+          "nlmid": "8211547"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Objective</h4>Congenital heart disease (CHD) is the most common birth defect and the leading cause of infant death from congenital anomalies. Limitations in standard-of-care fetal echocardiography lack hemodynamic insight. Cardiovascular computational\u00a0modeling methods have been developed to simulate patient-specific morphology and hemodynamics, but are limited in applications for fetal diagnosis, as existing pipelines depend upon 3D CMR imaging data. There is no existing workflow for converting 2D echocardiograms into models of the fetal aorta. We aim to develop a methodology to create pulsatile 3D-aortic models from standard-of-care 2D echocardiograms to supplement fetal imaging with noninvasive predictions of hemodynamics in CHD diagnosis.<h4>Methods</h4>Utilizing 2D fetal echocardiograms, edge detection algorithms are applied to delineate vessel boundaries. Cross-sectional diameters along the aortic arch and branch centerlines were segmented, integrated into 3D geometric models, and reconstructed using SimVascular. Patient-specific simulations were developed for three false-positive coarctation of the aorta (CoA) fetuses and 3 true positive CoA fetuses (postnatally confirmed), using echocardiogram and Doppler source data.<h4>Results</h4>We propose a modeling methodology and set of boundary conditions that generate physiologically reasonable and cross-validated quantifications of fetal hemodynamics. Noninvasive predictions of fetal aortic pressures, flow streamlines, and vessel displacement offer insight into real-time hemodynamics and the stress of abnormal morphology on flow directions in the prenatal aorta.<h4>Conclusions</h4>We present a clinically useful pipeline for generating simulations of flow in the fetal aorta that capture fluid-structure interactions and generate noninvasive predictions of diagnostic hemodynamic indicators that could not previously be captured prenatally. This pipeline integrates into clinical diagnosis and offers insight into patient-specific physiology beyond a visualization of cardiac morphology alone, offering the potential to enhance the diagnostic precision of CHDs.",
+      "affiliation": "Department of Computational and Systems Biology, UCLA, Los Angeles, California, USA.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "A.D. is supported by the National Library of Medicine of the National Institutes of Health under Award Number T15LM013976. Y.A. is supported by National Institute of Health K12 HD000849 by the Eunice Kennedy Shriver National Institute of Child Health & Human Development and American College of Obstetricians and Gynecologists, as part of the Reproductive Scientist Development Program and the Burroughs Wellcome Fund. J.S. received funding from the UCLA Center of Reproductive Science, Health and Education.",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Hemodynamics",
+          "Congenital heart disease",
+          "Fetal",
+          "Echocardiogram",
+          "Computational Modeling",
+          "Coarctation"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/jum.16721"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-28",
+      "firstIndexDate": "2025-05-28",
+      "dateOfRevision": "2025-05-28",
+      "electronicPublicationDate": "2025-05-28",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40441350",
+      "source": "MED",
+      "pmid": "40441350",
+      "doi": "10.1016/j.cmi.2025.05.028",
+      "title": "Diagnosis and Management of Candida Endophthalmitis and Chorioretinitis. ",
+      "authorString": "Permpalung N, Sedik S, Pappas PG, Hoenigl M, Ostrosky-Zeichner L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Permpalung N",
+            "firstName": "Nitipong",
+            "lastName": "Permpalung",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA; Department of Microbiology, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand. Electronic address: npermpa1@jhmi.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sedik S",
+            "firstName": "Sarah",
+            "lastName": "Sedik",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine, Medical University of Graz, ECMM Excellence Center, Graz, Austria; Translational Mycology, Medical University of Graz, Graz, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pappas PG",
+            "firstName": "Peter G",
+            "lastName": "Pappas",
+            "initials": "PG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, University of Alabama at Birmingham, Birmingham, Alabama, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hoenigl M",
+            "firstName": "Martin",
+            "lastName": "Hoenigl",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine, Medical University of Graz, ECMM Excellence Center, Graz, Austria; Translational Mycology, Medical University of Graz, Graz, Austria; BioTechMed-Graz, Graz, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ostrosky-Zeichner L",
+            "firstName": "Luis",
+            "lastName": "Ostrosky-Zeichner",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine, University of Texas Health Science Center at Houston, Memorial Hermann Healthcare System, Houston, Texas, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3940301,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+          "medlineAbbreviation": "Clin Microbiol Infect",
+          "isoabbreviation": "Clin Microbiol Infect",
+          "essn": "1469-0691",
+          "issn": "1198-743X",
+          "nlmid": "9516420"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "S1198-743X(25)00259-9",
+      "abstractText": "Candida endophthalmitis and chorioretinitis are uncommon but potentially devastating complications of candidemia, associated with significant risks of vision loss and long-term morbidity. Effective management relies on timely diagnosis and targeted antifungal therapy. However, diagnostic and therapeutic approaches are hindered by inconsistent guidelines, limited evidence, and variations in clinical practice. This review synthesizes current knowledge on Candida endophthalmitis and chorioretinitis to provide a comprehensive framework for clinicians. It addresses diagnostic challenges, including ophthalmoscopy, imaging, and microbiological diagnostics, and therapeutic strategies such as systemic and intravitreal antifungal therapies, surgical interventions, and serial ophthalmic evaluations. An extensive literature search was conducted using PubMed, Embase, and Scopus, with a focus on epidemiology, pathogenesis, diagnostics, treatment, and outcomes. Guidelines from the Infectious Diseases Society of America (IDSA), European Confederation for Medical Mycology (ECMM), and American Academy of Ophthalmology (AAO) were reviewed. The prevalence of CE among candidemia patients has increased from 1.2% in the pre-echinocandin era to 2.1% following the introduction of echinocandins. Diagnosis relies primarily on indirect ophthalmoscopy, the gold standard for retinal visualization. In selected cases, optical coherence tomography or fundus photography may support lesion assessment. Microbiological confirmation via vitreous sampling remains definitive but is often limited by low organism burden. Emerging diagnostics-such as CRISPR-based fungal DNA assays-have shown promise. While AI-assisted imaging tools are well established in other retinal diseases, they have not yet been validated for Candida ocular infections. Fluconazole and voriconazole remain first-line systemic therapies, with intravitreal injections and vitrectomy reserved for severe cases. Improving outcomes in Candida endophthalmitis requires harmonized screening protocols, timely access to ophthalmologic care, and multidisciplinary collaboration. Future research should aim to define optimal treatment durations, clarify the role of emerging diagnostics, and leverage telemedicine and imaging technologies to improve early detection and longitudinal monitoring.",
+      "affiliation": "Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA; Department of Microbiology, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand. Electronic address: npermpa1@jhmi.edu.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "IM",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.cmi.2025.05.028"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-29",
+      "firstIndexDate": "2025-05-31",
+      "dateOfRevision": "2025-05-29",
+      "electronicPublicationDate": "2025-05-27",
+      "firstPublicationDate": "2025-05-27"
+    },
+    {
+      "id": "40425755",
+      "source": "MED",
+      "pmid": "40425755",
+      "doi": "10.1007/s00330-025-11611-3",
+      "title": "ESUR consensus MRI for endometriosis: protocol, lexicon, and compartment-based analysis.",
+      "authorString": "Thomassin-Naggara I, Dolciami M, Chamie LP, Guerra A, Bharwani N, Freeman S, Rousset P, Manganaro L, ESUR endometriosis working group.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Thomassin-Naggara I",
+            "firstName": "Isabelle",
+            "lastName": "Thomassin-Naggara",
+            "initials": "I",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0919-0133"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Imageries Radiologiques et Interventionnelles Sp\u00e9cialis\u00e9es (IRIS), APHP Sorbonne Universit\u00e9 Hopital Tenon, Paris, France. Isabelle.thomassin@aphp.fr."
+                },
+                {
+                  "affiliation": "GRC Endometriose, Sorbonne Universit\u00e9, Paris, France. Isabelle.thomassin@aphp.fr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dolciami M",
+            "firstName": "Miriam",
+            "lastName": "Dolciami",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Imaging and Radiation Oncology, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Rome, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chamie LP",
+            "firstName": "Luciana P",
+            "lastName": "Chamie",
+            "initials": "LP",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Chamie Imagem da Mulher, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guerra A",
+            "firstName": "Adalgisa",
+            "lastName": "Guerra",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Imaging Department of Hospital da Luz Lisboa, Lisboa, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bharwani N",
+            "firstName": "Nishat",
+            "lastName": "Bharwani",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Imaging, Imperial College Healthcare NHS Trust, London, UK."
+                },
+                {
+                  "affiliation": "Department of Surgery & Cancer, Imperial College London, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Freeman S",
+            "firstName": "Sue",
+            "lastName": "Freeman",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Cambridge University Hospitals, Cambridge, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rousset P",
+            "firstName": "Pascal",
+            "lastName": "Rousset",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of radiology, Hospices Civils de Lyon, Lyon Sud University Hospital, Lyon 1 Claude Bernard University, EMR 3738, Pierre B\u00e9nite, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Manganaro L",
+            "firstName": "Lucia",
+            "lastName": "Manganaro",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiological, Pathological and Oncological Sciences, Sapienza University of Rome, Rome, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "collectiveName": "ESUR endometriosis working group"
+          }
+        ]
+      },
+      "investigatorList": {
+        "investigator": [
+          {
+            "fullName": "Guerra A",
+            "firstName": "Adalgisa",
+            "lastName": "Guerra",
+            "initials": "A"
+          },
+          {
+            "fullName": "Avesani G",
+            "firstName": "Giacomo",
+            "lastName": "Avesani",
+            "initials": "G"
+          },
+          {
+            "fullName": "Bazot M",
+            "firstName": "Marc",
+            "lastName": "Bazot",
+            "initials": "M"
+          },
+          {
+            "fullName": "Cunha TM",
+            "firstName": "Teresa Margarida",
+            "lastName": "Cunha",
+            "initials": "TM"
+          },
+          {
+            "fullName": "Franco PN",
+            "firstName": "Paolo Niccol\u00f2",
+            "lastName": "Franco",
+            "initials": "PN"
+          },
+          {
+            "fullName": "Forstner R",
+            "firstName": "Rosemarie",
+            "lastName": "Forstner",
+            "initials": "R"
+          },
+          {
+            "fullName": "Gui B",
+            "firstName": "Benedetta",
+            "lastName": "Gui",
+            "initials": "B"
+          },
+          {
+            "fullName": "Kermarrec E",
+            "firstName": "Edith",
+            "lastName": "Kermarrec",
+            "initials": "E"
+          },
+          {
+            "fullName": "Rizzo S",
+            "firstName": "Stefania",
+            "lastName": "Rizzo",
+            "initials": "S"
+          },
+          {
+            "fullName": "Sahin H",
+            "firstName": "Hilal",
+            "lastName": "Sahin",
+            "initials": "H"
+          },
+          {
+            "fullName": "Mansournia S",
+            "firstName": "Shiwa",
+            "lastName": "Mansournia",
+            "initials": "S"
+          },
+          {
+            "fullName": "Thomassin-Naggara I",
+            "firstName": "Isabelle",
+            "lastName": "Thomassin-Naggara",
+            "initials": "I"
+          },
+          {
+            "fullName": "Villalba LB",
+            "firstName": "Laura Bu\u00f1esch",
+            "lastName": "Villalba",
+            "initials": "LB"
+          },
+          {
+            "fullName": "Woitek R",
+            "firstName": "Ramona",
+            "lastName": "Woitek",
+            "initials": "R"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0919-0133"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 3934815,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-05-01",
+        "journal": {
+          "title": "European radiology",
+          "medlineAbbreviation": "Eur Radiol",
+          "isoabbreviation": "Eur Radiol",
+          "essn": "1432-1084",
+          "issn": "0938-7994",
+          "nlmid": "9114774"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Objective</h4>To propose an update of ESUR endometriosis guidelines to reflect advances in MRI protocol and lexicon.<h4>Methods</h4>A literature search was followed by a DELPHI process among 20 experts.<h4>Results</h4>Pre-imaging preparation, including fasting, antiperistaltic agents, moderate bladder filling, and bowel preparation, is recommended. A comprehensive magnetic resonance imaging (MRI) protocol should include multiplanar T2W, T1W, and sequences covering the kidneys. Superficial endometriosis should be described on T1WFS as high signal intensity foci on the peritoneal surface. Endometriomas should be described in terms of multiplicity, signal intensity, central or peripheral location, and bilaterality. MRI evaluation of deep pelvic endometriosis (DE) should be performed by dividing the pelvis into compartments using two horizontal and vertical lines. A bladder nodule should be described according to location, size, and the distance to the ureteric orifice provided. A uterosacral ligament must be considered abnormal if a nodule or spiculation is visible in at least two planes or if a bright T1W spot is detected. A posterior vaginal wall nodule should be measured. External adenomyosis should be described according to location and size. The description of a rectosigmoid nodule includes location, number of nodules, longitudinal extent, distance to the anal verge, and wall thickening. The lateral compartment includes the anterior distal round ligament, the mediolateral and posterolateral parametrium. Abdominal wall nodules, ileocaecal junction, appendiceal nodules, and sigmoid nodules, must be systematically described.<h4>Conclusion</h4>A standardized MRI protocol and lexicon based on compartmental analysis are crucial for improving communication and management of patients referred with endometriosis.<h4>Key points</h4>Question ESUR's endometriosis guidelines were last published in 2017; an update is provided to reflect advances in MRI techniques and the need for a standardized lexicon. Findings MRI protocol must include multiplanar T2W sequences, a T1W sequence, and a kidney visualization sequence. A standardized report based on a compartmental analysis is recommended. Clinical relevance Using a standard MRI protocol with compartmental analysis of endometriotic nodule locations and adopting a standardized vocabulary is crucial for comprehensive mapping and effective communication with both the patient and the surgeon.",
+      "affiliation": "Imageries Radiologiques et Interventionnelles Sp\u00e9cialis\u00e9es (IRIS), APHP Sorbonne Universit\u00e9 Hopital Tenon, Paris, France. Isabelle.thomassin@aphp.fr.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Magnetic Resonance Imaging",
+          "Consensus",
+          "Endometriosis (Pelvis)"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s00330-025-11611-3"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-05-27",
+      "firstIndexDate": "2025-05-28",
+      "dateOfRevision": "2025-05-27",
+      "electronicPublicationDate": "2025-05-27",
+      "firstPublicationDate": "2025-05-27"
+    }
+  ]
+}
