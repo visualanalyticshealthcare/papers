@@ -1,0 +1,3544 @@
+{
+  "start_date": "2025-12-29",
+  "end_date": "2026-01-05",
+  "records_fetched": 15,
+  "articles": [
+    {
+      "id": "41469701",
+      "source": "MED",
+      "pmid": "41469701",
+      "pmcid": "PMC12754963",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12754963"
+        ]
+      },
+      "doi": "10.1186/s13643-025-03000-0",
+      "title": "Artificial intelligence in the workplace: a living systematic review protocol on worker safety, health, and well-being implications.",
+      "authorString": "Jetha A, Crouch M, Vold K, Peters SE, Vietas J, Sriharan A, Irvin E.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Jetha A",
+            "firstName": "Arif",
+            "lastName": "Jetha",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0322-7027"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Work & Health, Toronto, ON, Canada. AJetha@iwh.on.ca."
+                },
+                {
+                  "affiliation": "Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada. AJetha@iwh.on.ca."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Crouch M",
+            "firstName": "Meghan",
+            "lastName": "Crouch",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Work & Health, Toronto, ON, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vold K",
+            "firstName": "Karina",
+            "lastName": "Vold",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for the History and Philosophy of Science and Technology, University of Toronto, Toronto, ON, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Peters SE",
+            "firstName": "Susan Elizabeth",
+            "lastName": "Peters",
+            "initials": "SE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Work, Health and Well-Being, Harvard T.H. Chan School of Public Health, Harvard University, Cambridge, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vietas J",
+            "firstName": "Jay",
+            "lastName": "Vietas",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Safety Council, Itasca, Illinois, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sriharan A",
+            "firstName": "Abi",
+            "lastName": "Sriharan",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Krembil Centre for Health Management and Leadership, Schulich School of Business, York University, Toronto, ON, Canada."
+                },
+                {
+                  "affiliation": "Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, ON, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Irvin E",
+            "firstName": "Emma",
+            "lastName": "Irvin",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Work & Health, Toronto, ON, Canada."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0322-7027"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "14",
+        "journalIssueId": 4061671,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Systematic reviews",
+          "medlineAbbreviation": "Syst Rev",
+          "essn": "2046-4053",
+          "issn": "2046-4053",
+          "isoabbreviation": "Syst Rev",
+          "nlmid": "101580575"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "255",
+      "abstractText": "<h4>Background</h4>Advancements in artificial intelligence (AI) are transforming employment and working conditions in ways that shape the safety, health, and well-being of workers. We describe a protocol for a living systematic review (LSR) that will examine the interrelationship between AI systems, employment and working conditions, and worker safety, health, and well-being. Research questions are: 1. What types of AI systems are being used within workplaces and how do their design and adoption impact worker safety, health, and well-being? 2. How\u00a0do a worker's\u00a0employment and working conditions affect the relationship between the adoption of AI systems and worker safety, health, and well-being? 3. How does a\u00a0worker's social position (e.g., age, gender, race, disability)\u00a0shape the interrelationship between AI systems at work, employment and working conditions, and their safety, health, and well-being?<h4>Methods</h4>A comprehensive search of primary qualitative and quantitative research will be conducted. MEDLINE, Embase (OVID), PsycINFO (OVID), and Web of Science will be searched every six to twelve months using database-specific terms and keywords. Title/abstract and full-text screening will be completed independently by two reviewers. Relevant articles will be quality appraised using a mixed method assessment tool adapted for studies of AI. Medium and high-quality studies will be synthesized using a best evidence synthesis approach. To ensure relevancy, applied workplace and AI stakeholders will provide feedback at all stages of the LSR process through dissemination excluding quality appraisal. Annually, we will evaluate the appropriateness of the review process (e.g., frequency of searches, requirement to refine research questions, utility of continuing LSR). Any amendments to protocols will be documented.<h4>Discussion</h4>This LSR will provide timely and evolving evidence on the implications of AI in the workplace that will be disseminated through a publicly available living review dashboard. We will capture the emerging impact AI has on workers. Findings can be used to develop strategies to minimize AI's potential workplace harms while amplifying its potential benefits, address emerging worker inequities, and inform ongoing discussions regarding responsible and safe AI adoption.<h4>Systematic review registration</h4>PROSPERO CRD42024625501.",
+      "affiliation": "Institute for Work & Health, Toronto, ON, Canada. AJetha@iwh.on.ca.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "U19 OH008861",
+            "agency": "NIOSH CDC HHS",
+            "acronym": "OH",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Artificial Intelligence"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Occupational Health"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Employment"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Workplace"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Systematic Reviews as Topic"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Artificial intelligence",
+          "OCCUPATIONAL HEALTH",
+          "Employment",
+          "Systematic Reviews",
+          "Working Conditions"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13643-025-03000-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12754963"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12754963?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-12-30",
+      "dateOfCreation": "2025-12-30",
+      "firstIndexDate": "2026-01-02",
+      "fullTextReceivedDate": "2026-01-03",
+      "dateOfRevision": "2026-01-03",
+      "electronicPublicationDate": "2025-12-30",
+      "firstPublicationDate": "2025-12-30"
+    },
+    {
+      "id": "41478542",
+      "source": "MED",
+      "pmid": "41478542",
+      "doi": "10.1016/j.contraception.2025.111356",
+      "title": "Clinical evaluation of a low-cost and high-fidelity animal model for palpable and nonpalpable implant removal.",
+      "authorString": "Chene G, Atallah A, Ohannessian A, Moret S, Cerruto E, Agostini A, Nohuz E.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chene G",
+            "firstName": "Gautier",
+            "lastName": "Chene",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gynecology, H\u00f4pital Femme M\u00e8re Enfant, HFME, 59 boulevard Pinel, University hospital of Lyon, 69500 Bron, France; EMR 3738 CICLY, University Claude Bernard of Lyon 1, 69000 Lyon, France. Electronic address: chenegautier@yahoo.fr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Atallah A",
+            "firstName": "Anthony",
+            "lastName": "Atallah",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gynecology, H\u00f4pital Femme M\u00e8re Enfant, HFME, 59 boulevard Pinel, University hospital of Lyon, 69500 Bron, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ohannessian A",
+            "firstName": "Alexandra",
+            "lastName": "Ohannessian",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gynecology, Medipole Lyon-Villeurbanne, 173 rue Leon Blum, 69100 Villeurbanne, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moret S",
+            "firstName": "Stephanie",
+            "lastName": "Moret",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gynecology, H\u00f4pital Femme M\u00e8re Enfant, HFME, 59 boulevard Pinel, University hospital of Lyon, 69500 Bron, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cerruto E",
+            "firstName": "Emanuele",
+            "lastName": "Cerruto",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gynecology, H\u00f4pital Femme M\u00e8re Enfant, HFME, 59 boulevard Pinel, University hospital of Lyon, 69500 Bron, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Agostini A",
+            "firstName": "Aubert",
+            "lastName": "Agostini",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gynecology, Assistance Publique - H\u00f4pitaux de Marseille, La Conception Hospital, Aix Marseille Universit\u00e9, Marseille, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nohuz E",
+            "firstName": "Erdogan",
+            "lastName": "Nohuz",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Gynecology, H\u00f4pital Femme M\u00e8re Enfant, HFME, 59 boulevard Pinel, University hospital of Lyon, 69500 Bron, France."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4067745,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Contraception",
+          "medlineAbbreviation": "Contraception",
+          "essn": "1879-0518",
+          "issn": "0010-7824",
+          "isoabbreviation": "Contraception",
+          "nlmid": "0234361"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "111356",
+      "abstractText": "<h4>Objective(s)</h4>Deeper contraceptive implant removal remains a difficult skill. Clinicians involved in the care of women need trainings and expertise in advanced techniques to localize and remove contraceptive implants. We developed a low-cost high-fidelity animal model as a new model training for deep contraceptive implant removal. We aimed to evaluate the chicken leg model by experts from French centers of experience and non-experts interested in deep implant removal.<h4>Study design</h4>In this training study, 34 gynecologists were invited to participate in the training program for both superficial and deep implant localization and removal in chicken leg model using ultrasonography (US). Each part of the training program was timed from the moment when the probe was placed on the model to the location of the implant and self-evaluated using a five-point Likert scale.<h4>Results</h4>The participants were able to locate superficial or deep implants in all cases. US detection for superficial and deep implants in the transverse view was easier than US visualization in the longitudinal axis although it took more time for participants to find the deep implant in transverse view. Surgical removal was always possible. There was no statistically significant difference between experts and non-experts.<h4>Conclusions</h4>Our chicken leg model could be relevant, effective and useful as a training program for healthcare professionals involved in deep implant removal.<h4>Implication(s) statement</h4>Our results seem to confirm that our chicken leg model may be an easy-to-use, useful and reproducible training program for healthcare professionals involved in deep implant removal.",
+      "affiliation": "Department of Gynecology, H\u00f4pital Femme M\u00e8re Enfant, HFME, 59 boulevard Pinel, University hospital of Lyon, 69500 Bron, France; EMR 3738 CICLY, University Claude Bernard of Lyon 1, 69000 Lyon, France. Electronic address: chenegautier@yahoo.fr.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Animal model",
+          "Training",
+          "ultrasound",
+          "Contraceptive Implant",
+          "Etonogestrel Implant",
+          "Nexplanon\u00ae Removal"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.contraception.2025.111356"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-01-01",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2026-01-01",
+      "electronicPublicationDate": "2025-12-30",
+      "firstPublicationDate": "2025-12-30"
+    },
+    {
+      "id": "41483265",
+      "source": "MED",
+      "pmid": "41483265",
+      "doi": "10.1007/s10895-025-04567-6",
+      "title": "High-Photostability Perylene-Derived Probe Enables Accurate Dual-Modality Imaging of Mitochondrial Membrane Potential.",
+      "authorString": "Peng F, Ai X, Chai R, Hao B, Gao B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Peng F",
+            "firstName": "Fei",
+            "lastName": "Peng",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of New Materials and Chemical Engineering, Tangshan University, Tangshan, 063000, China. peng_fei2011@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ai X",
+            "firstName": "Xiangnan",
+            "lastName": "Ai",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Chemistry and Materials Science, Hebei University, Baoding, 071002, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chai R",
+            "firstName": "Ran",
+            "lastName": "Chai",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences and Food Engineering, Hebei University of Engineering, Handan, 056000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hao B",
+            "firstName": "Bin",
+            "lastName": "Hao",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of New Materials and Chemical Engineering, Tangshan University, Tangshan, 063000, China. tsxyhhx@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao B",
+            "firstName": "Baoxiang",
+            "lastName": "Gao",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Chemistry and Materials Science, Hebei University, Baoding, 071002, China. bxgao@hbu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4082614,
+        "dateOfPublication": "2026 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-01-01",
+        "journal": {
+          "title": "Journal of fluorescence",
+          "medlineAbbreviation": "J Fluoresc",
+          "essn": "1573-4994",
+          "issn": "1053-0509",
+          "isoabbreviation": "J Fluoresc",
+          "nlmid": "9201341"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "Mitochondrial membrane potential (MMP) is a key indicator of mitochondrial function and cellular health. Fluorescence intensity-based methods are widely used for MMP monitoring, where probe photostability is critical for accurate quantification. To improve imaging reliability, we developed a photostable mitochondrial-targeted probe, PDI-TPP, by linking perylene diimide (PDI) with triphenylphosphonium (TPP). To the best of our knowledge, this is the first report of PDI being rationally designed and synthesized as a FRET donor for MMP sensing. Acting as a FRET donor, PDI-TPP pairs with SiR-BA, which is synthesized by conjugating silicon-rhodamine with butyric acid, to achieve dual-modality imaging through both fluorescence intensity ratio and lifetime. Compared to our previous donor OR-C8, PDI-TPP shows significantly enhanced photostability, reducing photobleaching artifacts and enabling dynamic visualization of MMP changes. This work provides a more accurate tool for mitochondrial imaging and functional studies.",
+      "affiliation": "School of New Materials and Chemical Engineering, Tangshan University, Tangshan, 063000, China. peng_fei2011@163.com.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "22177024",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "B2019201231",
+            "agency": "Natural Science Foundation of Hebei Province",
+            "orderIn": 0
+          },
+          {
+            "grantId": "246Z1302G",
+            "agency": "Central Government Guidance Fund for Local Science and Technology Development",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Fluorescence lifetime",
+          "FRET",
+          "fluorescence intensity",
+          "mitochondrial membrane potential",
+          "Dual-modality",
+          "Perylene Diimide"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s10895-025-04567-6"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-01-03",
+      "firstIndexDate": "2026-01-04",
+      "dateOfRevision": "2026-01-03",
+      "electronicPublicationDate": "2026-01-03",
+      "firstPublicationDate": "2026-01-03"
+    },
+    {
+      "id": "41475030",
+      "source": "MED",
+      "pmid": "41475030",
+      "doi": "10.1016/j.jpba.2025.117329",
+      "title": "Rapid one-tube sputum processing for tuberculosis diagnosis via azide-functionalized magnetic nanoplatforms with selective bacterial capture.",
+      "authorString": "Tural B, Bilden A, Erta\u015f E, Tural E, Temiz H, \u00d6zbek E, Tural S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tural B",
+            "firstName": "Bilsen",
+            "lastName": "Tural",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nanotechnology, Institute of Science, Dicle University, Diyarbakir 21280, Turkey; Department of Chemistry, Institute of Science, Dicle University, Diyarbakir 21280, Turkey. Electronic address: btural@dicle.edu.tr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bilden A",
+            "firstName": "Alican",
+            "lastName": "Bilden",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Parasitology, Medical Faculty, K\u0131r\u015fehir Ahi Evran University, K\u0131r\u015fehir, Turkey; Department of Medical Microbiology, Faculty of Medicine, Dicle University, Diyarbakir, Turkey. Electronic address: alican.bilden@ahievran.edu.tr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Erta\u015f E",
+            "firstName": "Erdal",
+            "lastName": "Erta\u015f",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, Institute of Science, Dicle University, Diyarbakir 21280, Turkey; Department of Food Processing, Technical Sciences Vocational School, Batman University, Batman, Turkey. Electronic address: erdal.ertas@batman.edu.tr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tural E",
+            "firstName": "Emre",
+            "lastName": "Tural",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Medicine, Department of Child Health and Diseases, Istanbul University-Cerrahpasa, Istanbul, Turkey. Electronic address: emre.tural@iuc.edu.tr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Temiz H",
+            "firstName": "Hakan",
+            "lastName": "Temiz",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Microbiology, Faculty of Medicine, Dicle University, Diyarbakir, Turkey. Electronic address: hakan.temiz@dicle.edu.tr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "\u00d6zbek E",
+            "firstName": "Erdal",
+            "lastName": "\u00d6zbek",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Microbiology, Faculty of Medicine, Dicle University, Diyarbakir, Turkey. Electronic address: erdal.ozbek@dicle.edu.tr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tural S",
+            "firstName": "Servet",
+            "lastName": "Tural",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nanotechnology, Institute of Science, Dicle University, Diyarbakir 21280, Turkey; Department of Chemistry, Institute of Science, Dicle University, Diyarbakir 21280, Turkey. Electronic address: stural@dicle.edu.tr."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "271",
+        "journalIssueId": 4075003,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Journal of pharmaceutical and biomedical analysis",
+          "medlineAbbreviation": "J Pharm Biomed Anal",
+          "essn": "1873-264X",
+          "issn": "0731-7085",
+          "isoabbreviation": "J Pharm Biomed Anal",
+          "nlmid": "8309336"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "117329",
+      "abstractText": "Tuberculosis (TB) remains a global health challenge requiring rapid and reliable diagnostic tools. Here, azide-functionalized magnetic nanoparticles (MNPs-N\u2083) were synthesized, characterized, and applied for one-tube detection of Mycobacterium tuberculosis (Mtb) in sputum. Structural analyses including Fourier-transform infrared (FT-IR), transmission electron microscopy (TEM), scanning electron microscopy (SEM), dynamic light scattering (DLS), and vibrating sample magnetometry (VSM) confirmed successful functionalization, uniform morphology, and preserved superparamagnetism. MNPs-N\u2083 were integrated into modified Ehrlich-Ziehl-Neelsen (MNPs-N\u2083-assisted EZN staining) and auramine-rhodamine (MNPs-N\u2083-assisted AR staining) staining protocols to enhance bacterial capture and visualization without decontamination or centrifugation. Control experiments using non-functionalized magnetic nanoparticles showed no bacterial co-localization, supporting the specificity of the azide-mediated interaction. The entire process was completed within one hour, offering a rapid alternative to conventional culture requiring \u2265\u202f41 days. Using Mycobacterial Growth Indicator Tube (MGIT) culture as the reference, MNPs-N\u2083-assisted AR staining achieved 99\u202f% sensitivity and 97\u202f% specificity, outperforming MNPs-N\u2083-assisted EZN staining (95\u202f% and 96\u202f%, respectively). Diagnostic indices, including Youden index (0.96) and F1-score (0.98), demonstrated excellent agreement with culture results. These findings establish MNPs-N\u2083 as a fast, efficient, and cost-effective tool for Mtb diagnosis. The single-tube workflow minimizes contamination risk and simplifies laboratory handling, supporting potential application in resource-limited settings. Further optimization and large-scale clinical validation are still warranted.",
+      "affiliation": "Department of Nanotechnology, Institute of Science, Dicle University, Diyarbakir 21280, Turkey; Department of Chemistry, Institute of Science, Dicle University, Diyarbakir 21280, Turkey. Electronic address: btural@dicle.edu.tr.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Magnetic Nanoparticles",
+          "Magnetic Separation",
+          "Tuberculosis Diagnosis",
+          "Sputum Analysis",
+          "Rapid Tb Detection",
+          "Auramine-rhodamine Staining",
+          "Azide-functionalization",
+          "Ehrlich-ziehl-neelsen Staining"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.jpba.2025.117329"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-12-31",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2025-12-31",
+      "electronicPublicationDate": "2025-12-29",
+      "firstPublicationDate": "2025-12-29"
+    },
+    {
+      "id": "41479018",
+      "source": "MED",
+      "pmid": "41479018",
+      "doi": "10.1093/molbev/msaf334",
+      "title": "MicrobeTrace 2.0: The enhanced visualization multitool for molecular epidemiology and bioinformatics.",
+      "authorString": "Shankar A, Moscoso E, Cowan D, Kelly R, Cintron R, Al-Naimi OA, Switzer WM.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Shankar A",
+            "firstName": "Anupama",
+            "lastName": "Shankar",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4453-818X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory Branch, Division of HIV Prevention, National Center for HIV, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta, GA, 30329."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moscoso E",
+            "firstName": "Evan",
+            "lastName": "Moscoso",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "General Dynamics Information Technology, Atlanta, GA 30329."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cowan D",
+            "firstName": "David",
+            "lastName": "Cowan",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory Branch, Division of HIV Prevention, National Center for HIV, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta, GA, 30329."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kelly R",
+            "firstName": "Reagan",
+            "lastName": "Kelly",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "General Dynamics Information Technology, Atlanta, GA 30329."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cintron R",
+            "firstName": "Roxana",
+            "lastName": "Cintron",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory Branch, Division of HIV Prevention, National Center for HIV, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta, GA, 30329."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Al-Naimi OA",
+            "firstName": "Omar Ali",
+            "lastName": "Al-Naimi",
+            "initials": "OA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory Branch, Division of HIV Prevention, National Center for HIV, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta, GA, 30329."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Switzer WM",
+            "firstName": "William M",
+            "lastName": "Switzer",
+            "initials": "WM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4591-8731"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory Branch, Division of HIV Prevention, National Center for HIV, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta, GA, 30329."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4453-818X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4591-8731"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4081145,
+        "dateOfPublication": "2026 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-01-01",
+        "journal": {
+          "title": "Molecular biology and evolution",
+          "medlineAbbreviation": "Mol Biol Evol",
+          "essn": "1537-1719",
+          "issn": "0737-4038",
+          "isoabbreviation": "Mol Biol Evol",
+          "nlmid": "8501455"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "msaf334",
+      "abstractText": "MicrobeTrace is a free, secure, browser-based bioinformatics tool to integrate and visualize epidemiologic, laboratory, and molecular data for outbreak investigations with over 14,000 users from 127 countries. Regular testing, user feedback, and comparison with other bioinformatics tools identified areas for improvement, prompting major architectural and functional upgrades. In MicrobeTrace 2.0 we refactored the codebase using Angular to improve scalability, performance, and usability. We also replaced the D3.js visualization engine with Cytoscape.js for faster, more efficient rendering of large networks. The update adds enhanced visualizations, new analytical tools, and expanded functionality within existing views. It also supports seamless integration with external phylogenetic platforms, such as Nextstrain and UShER (Ultrafast Sample Placement on Existing Trees), enabling users to import phylogenetic trees, visualize them as genetic networks, and securely enrich them with epidemiological and demographic metadata. These enhancements position MicrobeTrace as a next-generation, interoperable tool for genomic epidemiology and data-driven public health response.",
+      "affiliation": "Laboratory Branch, Division of HIV Prevention, National Center for HIV, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta, GA, 30329.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Bioinformatics",
+          "Software",
+          "Molecular epidemiology",
+          "Outbreak Investigations",
+          "Data Analytics And Visualization",
+          "Platform Interoperability"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1093/molbev/msaf334"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-01-01",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2026-01-01",
+      "electronicPublicationDate": "2026-01-02",
+      "firstPublicationDate": "2026-01-02"
+    },
+    {
+      "id": "41460424",
+      "source": "MED",
+      "pmid": "41460424",
+      "doi": "10.1007/s13402-025-01139-5",
+      "title": "Single-cell and spatial transcriptome sequencing analysis reveals characteristics of a unique subpopulation in high-grade IDH-mutant astrocytoma.",
+      "authorString": "Chen W, Zheng M, An JY, Huang GH, Liu JP, Yang L, Ren P, Wang TT, Hugnot JP, Lv SQ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chen W",
+            "firstName": "Wei",
+            "lastName": "Chen",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zheng M",
+            "firstName": "Min",
+            "lastName": "Zheng",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Jinfeng Laboratory, No. 313, Jinyue Road, Chongqing High-tech Zone, Chongqing, 401329, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "An JY",
+            "firstName": "Jia-Yin",
+            "lastName": "An",
+            "initials": "JY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China."
+                },
+                {
+                  "affiliation": "Emergency Department, Naval Hospital of Eastern Theater, Zhejiang, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang GH",
+            "firstName": "Guo-Hao",
+            "lastName": "Huang",
+            "initials": "GH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu JP",
+            "firstName": "Jing-Peng",
+            "lastName": "Liu",
+            "initials": "JP",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China."
+                },
+                {
+                  "affiliation": "Jinfeng Laboratory, No. 313, Jinyue Road, Chongqing High-tech Zone, Chongqing, 401329, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang L",
+            "firstName": "Lin",
+            "lastName": "Yang",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ren P",
+            "firstName": "Peng",
+            "lastName": "Ren",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang TT",
+            "firstName": "Ting-Ting",
+            "lastName": "Wang",
+            "initials": "TT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hugnot JP",
+            "firstName": "Jean-Philippe",
+            "lastName": "Hugnot",
+            "initials": "JP",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "IGF, Univ Montpellier, CNRS, Inserm, Montpellier, France."
+                },
+                {
+                  "affiliation": "Jinfeng Laboratory, No. 313, Jinyue Road, Chongqing High-tech Zone, Chongqing, 401329, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lv SQ",
+            "firstName": "Sheng-Qing",
+            "lastName": "Lv",
+            "initials": "SQ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China. lvsq0518@tmmu.edu.cn."
+                },
+                {
+                  "affiliation": "Jinfeng Laboratory, No. 313, Jinyue Road, Chongqing High-tech Zone, Chongqing, 401329, China. lvsq0518@tmmu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "49",
+        "journalIssueId": 4076932,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Cellular oncology (Dordrecht, Netherlands)",
+          "medlineAbbreviation": "Cell Oncol (Dordr)",
+          "essn": "2211-3436",
+          "issn": "2211-3428",
+          "isoabbreviation": "Cell Oncol (Dordr)",
+          "nlmid": "101552938"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "8",
+      "abstractText": "<h4>Introduction</h4>(Isocitrate dehydrogenase) IDH-mutant astrocytoma is classified as World Health Organization (WHO) grade 2-4 and is second only to IDH wild-type glioblastoma in the incidence of adult glioma. However, few studies use single-cell and spatial transcriptome sequencing to analyze its malignant progression.<h4>Methods</h4>Intraoperative navigation and yellow fluorescence visualization were utilized to accurately isolate high-grade (WHO grade 3-4) and low-grade (WHO grade 2) samples of IDH-mutant astrocytoma for single-cell and spatial transcriptome sequencing. By combining single-cell, spatial transcriptome, The Cancer Genome Atlas (TCGA), and The Chinese Glioma Genome Atlas (CGGA) data, analyses of survival, enriched pathways, transcription factors, intercellular communication, differentiation trajectories, and immune response were performed to identify the characteristics of a unique subpopulation of high-grade IDH-mutant astrocytoma.<h4>Results</h4>Our single-cell RNA sequencing analysis identified a distinct subpopulation (Cluster 7) present in high-grade IDH-mutant astrocytoma, which was localized to the terminus of the pseudotime trajectory. Importantly, this cluster not only exhibited an immunosuppressive phenotype correlated with poor clinical prognosis, but also demonstrated significant enrichment in Developmental Biology and Calcium Signaling pathways. Furthermore, this subpopulation engaged in prominent ligand-receptor interactions, particularly through PTN_PTPRZ1 and MIF_CD74 pairs. Notably, comparative analysis revealed that high-grade astrocytoma displayed both quantitatively and qualitatively enhanced communication networks when compared to their low-grade counterparts.<h4>Conclusions</h4>Our single-cell RNA sequencing analysis identifies a distinct tumor cell subpopulation present in high-grade (WHO grade 3-4) adult IDH-mutant astrocytoma. This cluster, which likely arises from malignant progression in adult astrocytoma, may provide new insights for developing therapeutic strategies against this clinically challenging disease.",
+      "affiliation": "Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "JFLKYXM202503AZ-301",
+            "agency": "Jinfeng Lab",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2024F036",
+            "agency": "Xinqiao Hospital",
+            "orderIn": 0
+          },
+          {
+            "grantId": "JFLKYXM202303AZ-207",
+            "agency": "Jinfeng Lab",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Astrocytoma",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Brain Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Isocitrate Dehydrogenase",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Gene Expression Profiling"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Expression Regulation, Neoplastic"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Mutation",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Single-Cell Analysis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Neoplasm Grading"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Transcriptome",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Malignant Progression",
+          "Single-cell Sequencing",
+          "Idh-mutant Astrocytoma",
+          "Spatial Transcriptome Sequencing"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Isocitrate Dehydrogenase",
+            "registryNumber": "EC 1.1.1.41"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s13402-025-01139-5"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-12-29",
+      "dateOfCreation": "2025-12-29",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2026-01-01",
+      "electronicPublicationDate": "2025-12-29",
+      "firstPublicationDate": "2025-12-29"
+    },
+    {
+      "id": "41472605",
+      "source": "MED",
+      "pmid": "41472605",
+      "doi": "10.1111/pin.70074",
+      "title": "Micro-Computed Tomography Based Whole Block Imaging of Asthma-Associated Airway Remodeling With Mycobacterium avium-Induced Cavity Formation: 3-Dimensional Nondestructive Analysis.",
+      "authorString": "Tsukamoto T, Hoshikawa Y, Teplov A, Sakurai E, Matsuda Y, Ishizawa H, Yanagita E, Ushida K, Asai N, Imaizumi K, Yagi Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tsukamoto T",
+            "firstName": "Tetsuya",
+            "lastName": "Tsukamoto",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7502-8724"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology & Lab Medicine, Memorial Sloan Kettering Cancer Center, New York City, New York, USA."
+                },
+                {
+                  "affiliation": "Division of Analytical Pathology, Oncology Innovation Center, Fujita Health University, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hoshikawa Y",
+            "firstName": "Yasushi",
+            "lastName": "Hoshikawa",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Thoracic Surgery, Fujita Health University School of Medicine, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Teplov A",
+            "firstName": "Alexei",
+            "lastName": "Teplov",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology & Lab Medicine, Memorial Sloan Kettering Cancer Center, New York City, New York, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sakurai E",
+            "firstName": "Eiko",
+            "lastName": "Sakurai",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, Fujita Health University School of Medicine, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Matsuda Y",
+            "firstName": "Yasushi",
+            "lastName": "Matsuda",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Thoracic Surgery, Fujita Health University School of Medicine, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ishizawa H",
+            "firstName": "Hisato",
+            "lastName": "Ishizawa",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Thoracic Surgery, Fujita Health University School of Medicine, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yanagita E",
+            "firstName": "Emmy",
+            "lastName": "Yanagita",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology & Lab Medicine, Memorial Sloan Kettering Cancer Center, New York City, New York, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ushida K",
+            "firstName": "Kaori",
+            "lastName": "Ushida",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, Fujita Health University School of Medicine, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Asai N",
+            "firstName": "Naoya",
+            "lastName": "Asai",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, Fujita Health University School of Medicine, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Imaizumi K",
+            "firstName": "Kazuyoshi",
+            "lastName": "Imaizumi",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Respiratory Medicine, Fujita Health University School of Medicine, Toyoake, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yagi Y",
+            "firstName": "Yukako",
+            "lastName": "Yagi",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology & Lab Medicine, Memorial Sloan Kettering Cancer Center, New York City, New York, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7502-8724"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4061330,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Pathology international",
+          "medlineAbbreviation": "Pathol Int",
+          "essn": "1440-1827",
+          "issn": "1320-5463",
+          "isoabbreviation": "Pathol Int",
+          "nlmid": "9431380"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Asthma is a recognized risk factor for nontuberculous mycobacterial (NTM) pulmonary infections, yet the precise routes of infection and dissemination remain visually unclear. We analyzed a rare surgical case of asthma complicated by Mycobacterium avium-associated lung cavity formation in a young adult. Following antibiotic treatment, the patient underwent left upper segmentectomy, with successful subsequent treatment of residual lesions using amikacin liposome inhalation suspension. To precisely visualize the infection route, we utilized a three-dimensional merged whole block imaging (WBI) technique. Fifteen formalin-fixed paraffin-embedded tissue blocks from the resected lung were individually scanned using a custom-built micro-computed tomography system, reconstructed, and combined to generate merged-WBI. Three core merged-WBIs revealed that the remodeled asthma-associated airway ascended from the proximal hilar region, intertwined with surrounding epithelioid granulomatous tissue, and then descended into a subpleural cavity composed of epithelioid granulomas with central caseous necrosis containing acid-fast bacilli. Besides the distinct airway path, the WBI delineated the distribution of minor epithelioid granulomas and calcifications. This report provides the first three-dimensional visualization of a continuous airway route extending from the hilum to a subpleural cavity using merged-WBI, suggesting bronchial spread as a probable mechanism of NTM dissemination in the setting of chronic airway disease. Clinical trial registration: No clinical trials.",
+      "affiliation": "Department of Pathology & Lab Medicine, Memorial Sloan Kettering Cancer Center, New York City, New York, USA.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article",
+          "Case Reports"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Budapest, Hungary",
+            "orderIn": 0
+          },
+          {
+            "grantId": "3DHISTECH",
+            "agency": "Cancer Center Support Grant of the National Institutes of Health/National Cancer Institute",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P30CA008748",
+            "agency": "Cancer Center Support Grant of the National Institutes of Health/National Cancer Institute",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Asthma",
+          "Mycobacterium avium",
+          "airway remodeling",
+          "Nontuberculous Mycobacterial Infection",
+          "Bronchial Remodeling",
+          "Micro\u2010computed Tomography",
+          "Merged Whole Block Imaging",
+          "Whole Block Imaging"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/pin.70074"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-12-31",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2025-12-31",
+      "electronicPublicationDate": "2025-12-31",
+      "firstPublicationDate": "2025-12-31"
+    },
+    {
+      "id": "41474223",
+      "source": "MED",
+      "pmid": "41474223",
+      "doi": "10.2214/ajr.25.34072",
+      "title": "Advanced Endoscopic Approaches for Skull Base Surgery: A Contemporary Imaging-Focused Review, From the &lt;i&gt;AJR&lt;/i&gt; Special Series on Critical Anatomy.",
+      "authorString": "Khanpara S, Calle S, Jo M, Su SY, Hanna EY, Raza SM, Wintermark M, Learned KO.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Khanpara S",
+            "firstName": "Shekhar",
+            "lastName": "Khanpara",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas MD Anderson Cancer Center."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Calle S",
+            "firstName": "Susana",
+            "lastName": "Calle",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas MD Anderson Cancer Center."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jo M",
+            "firstName": "Minhee",
+            "lastName": "Jo",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas Health Science Center at Houston."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Su SY",
+            "firstName": "Shirley Y",
+            "lastName": "Su",
+            "initials": "SY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas MD Anderson Cancer Center."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hanna EY",
+            "firstName": "Ehab Y",
+            "lastName": "Hanna",
+            "initials": "EY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas MD Anderson Cancer Center."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Raza SM",
+            "firstName": "Shaan M",
+            "lastName": "Raza",
+            "initials": "SM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas MD Anderson Cancer Center."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wintermark M",
+            "firstName": "Max",
+            "lastName": "Wintermark",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas MD Anderson Cancer Center."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Learned KO",
+            "firstName": "Kim O",
+            "lastName": "Learned",
+            "initials": "KO",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The University of Texas MD Anderson Cancer Center."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4062149,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "AJR. American journal of roentgenology",
+          "medlineAbbreviation": "AJR Am J Roentgenol",
+          "essn": "1546-3141",
+          "issn": "0361-803X",
+          "isoabbreviation": "AJR Am J Roentgenol",
+          "nlmid": "7708173"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Endoscopic skull base surgery has become widely accepted due to the advantages of the minimally invasive approach and achievement of outcomes that are comparable to those from open approaches. Given limited visualization of this region on clinical examination, preoperative planning relies heavily on diagnostic imaging to determine the optical surgical approach and the intended extent of resection. Within this context, high-resolution CT and MRI provide valuable information regarding the pathology, its relationship to critical structures, and other pertinent anatomic considerations. This Special Series Review describes the role of imaging in advanced endoscopic endonasal skull base surgeries, addressing clinically relevant normal and variant anatomy, key surgical landmarks, and pertinent red flags that serve as cautionary imaging findings. We discuss common pathologies occurring along these anatomic corridors and outline the core steps for specific surgical approaches. It is essential for interpreting radiologists to have a thorough understanding of the key anatomic structures and their relationships to pathology, to help surgeons select the appropriate EEA corridor, optimize the extent of resection, minimize surgical risk, and determine reconstruction options.",
+      "affiliation": "The University of Texas MD Anderson Cancer Center.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2214/AJR.25.34072"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-12-31",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2025-12-31",
+      "electronicPublicationDate": "2025-12-31",
+      "firstPublicationDate": "2025-12-31"
+    },
+    {
+      "id": "41469404",
+      "source": "MED",
+      "pmid": "41469404",
+      "doi": "10.1038/s41597-025-06439-x",
+      "title": "GAITEX: Human motion dataset of impaired gait and rehabilitation exercises using inertial and optical sensors.",
+      "authorString": "Spilz A, Oppel H, Werner J, Stucke-Straub K, Capanni F, Munz M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Spilz A",
+            "firstName": "Andreas",
+            "lastName": "Spilz",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "AI for Sensor Data Analytics Research Group, Ulm University of Applied Sciences, Ulm, 89081, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Oppel H",
+            "firstName": "Heiko",
+            "lastName": "Oppel",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "AI for Sensor Data Analytics Research Group, Ulm University of Applied Sciences, Ulm, 89081, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Werner J",
+            "firstName": "Jochen",
+            "lastName": "Werner",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biomechatronic Research Group, Ulm University of Applied Sciences, Ulm, 89081, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Stucke-Straub K",
+            "firstName": "Kathrin",
+            "lastName": "Stucke-Straub",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Computer Science, Ulm University of Applied Sciences, Ulm, 89081, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Capanni F",
+            "firstName": "Felix",
+            "lastName": "Capanni",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biomechatronic Research Group, Ulm University of Applied Sciences, Ulm, 89081, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Munz M",
+            "firstName": "Michael",
+            "lastName": "Munz",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "AI for Sensor Data Analytics Research Group, Ulm University of Applied Sciences, Ulm, 89081, Germany. Michael.Munz@thu.de."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4060286,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Scientific data",
+          "medlineAbbreviation": "Sci Data",
+          "essn": "2052-4463",
+          "issn": "2052-4463",
+          "isoabbreviation": "Sci Data",
+          "nlmid": "101640192"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "Wearable inertial measurement units (IMUs) provide a cost-effective approach to assessing human movement in clinical and everyday environments. However, developing the associated classification models for robust assessment of physiotherapeutic exercise and gait analysis requires large, diverse datasets that are costly and time-consuming to collect. We present a multimodal dataset of physiotherapeutic and gait-related exercises, including correct and clinically relevant variants, recorded from 19 healthy subjects using synchronized IMUs and optical marker-based motion capture (MoCap). It contains data from nine IMUs and 68 markers tracking full-body kinematics. Four markers per IMU allow direct comparison between IMU- and MoCap-derived orientations. We additionally provide processed IMU orientations aligned to common segment coordinate systems, subject-specific OpenSim models, inverse kinematics outputs, and visualization tools for IMU-derived orientations. The dataset is fully annotated with movement quality ratings and timestamped segmentations. It supports various machine learning tasks such as exercise evaluation, gait classification, temporal segmentation, and biomechanical parameter estimation. Code for postprocessing, alignment, inverse kinematics, and technical validation is provided to promote reproducibility.",
+      "affiliation": "AI for Sensor Data Analytics Research Group, Ulm University of Applied Sciences, Ulm, 89081, Germany.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41597-025-06439-x"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-12-30",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2025-12-30",
+      "electronicPublicationDate": "2025-12-30",
+      "firstPublicationDate": "2025-12-30"
+    },
+    {
+      "id": "41481954",
+      "source": "MED",
+      "pmid": "41481954",
+      "doi": "10.1016/j.saa.2025.127409",
+      "title": "Rapid identification of adulteration in American ginseng powder using near-infrared spectroscopy combined with machine learning.",
+      "authorString": "Zhai D, Zhou J, Ma J, Liu A, Liu J, Meng Z, Qiu C, Yang Y, Zhang N, Li P.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhai D",
+            "firstName": "Dandan",
+            "lastName": "Zhai",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Henan Provincial Key Laboratory of Grain Resources Conservation and Utilization\uff0cSchool of Biological Engineering, Henan University of Technology, Zhengzhou 450001, China; Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou J",
+            "firstName": "Junjun",
+            "lastName": "Zhou",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Henan Provincial Key Laboratory of Grain Resources Conservation and Utilization\uff0cSchool of Biological Engineering, Henan University of Technology, Zhengzhou 450001, China; Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ma J",
+            "firstName": "Jiayi",
+            "lastName": "Ma",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of International Education, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu A",
+            "firstName": "Anqi",
+            "lastName": "Liu",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Henan Provincial Key Laboratory of Grain Resources Conservation and Utilization\uff0cSchool of Biological Engineering, Henan University of Technology, Zhengzhou 450001, China; Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu J",
+            "firstName": "Jinfeng",
+            "lastName": "Liu",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China; College of Information Science and Engineering, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meng Z",
+            "firstName": "Zibo",
+            "lastName": "Meng",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Henan Provincial Key Laboratory of Grain Resources Conservation and Utilization\uff0cSchool of Biological Engineering, Henan University of Technology, Zhengzhou 450001, China; Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Qiu C",
+            "firstName": "Chenglong",
+            "lastName": "Qiu",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China; College of Information Science and Engineering, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang Y",
+            "firstName": "Yu",
+            "lastName": "Yang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China; College of Information Science and Engineering, Henan University of Technology, Zhengzhou 450001, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang N",
+            "firstName": "Nana",
+            "lastName": "Zhang",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Pharmacy, Kaifeng Hospital of Traditional Chinese Medicine, Kaifeng 475000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li P",
+            "firstName": "Peng",
+            "lastName": "Li",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China. Electronic address: lipeng@haut.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "350",
+        "journalIssueId": 4080917,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+          "medlineAbbreviation": "Spectrochim Acta A Mol Biomol Spectrosc",
+          "essn": "1873-3557",
+          "issn": "1386-1425",
+          "isoabbreviation": "Spectrochim Acta A Mol Biomol Spectrosc",
+          "nlmid": "9602533"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "127409",
+      "abstractText": "Rapid and reliable detection of adulteration in American ginseng (Panax quinquefolius L.) is essential for ensuring product integrity and safeguarding consumer health, as the powder is frequently adulterated with low-cost herbal substitutes. This study proposes a novel analytical framework integrating near-infrared (NIR) spectroscopy with machine learning modeling to identify adulteration involving Panax quinquefolius L, Angelica dahurica, Astragalus membranaceus, Panax notoginseng, and wheat flour. A total of 1680 samples were prepared, including 6 types of adulterants and 4 adulteration levels (20\u00a0%, 40\u00a0%, 60\u00a0%, and 80\u00a0%, w/w). Spectral data were preprocessed using noise reduction, baseline drift correction, and scatter correction. Principal component analysis (PCA) provided preliminary visualization of clustering trends, whereas four supervised classifiers-k-nearest neighbor (KNN), decision tree (DT), random forest (RF), and kernel extreme learning machine (KELM)-were comparatively assessed for classification performance. Among them, KELM achieved the best performance with an overall accuracy of 0.9560, precision/recall of 0.9629, and a Kappa coefficient of 0.9551 on the testing set. This study establishes an integrated NIR-chemometric framework using a hybrid-KELM for rapid, non-destructive, and interpretable authentication of American ginseng powder, where SHAP-based wavelength analysis highlights key spectral regions and provides practical guidance for developing simplified, application-specific NIR devices and broader detection of economically motivated adulteration in herbal products.",
+      "affiliation": "Henan Provincial Key Laboratory of Grain Resources Conservation and Utilization\uff0cSchool of Biological Engineering, Henan University of Technology, Zhengzhou 450001, China; Institute for Complexity Science, Henan University of Technology, Zhengzhou 450001, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "American ginseng",
+          "near-infrared spectroscopy",
+          "Machine Learning",
+          "Adulteration"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.saa.2025.127409"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-01-02",
+      "firstIndexDate": "2026-01-04",
+      "dateOfRevision": "2026-01-02",
+      "electronicPublicationDate": "2025-12-29",
+      "firstPublicationDate": "2025-12-29"
+    },
+    {
+      "id": "41470026",
+      "source": "MED",
+      "pmid": "41470026",
+      "doi": "10.1186/s13073-025-01593-8",
+      "title": "An integrated platform for concurrent structural and single-nucleotide variants improves copy-number detection and reveals pathogenic alleles in undiagnosed Mendelian families.",
+      "authorString": "Du H, Lun MY, Gagarina L, Bengtsson JD, Grochowski CM, Mehaffey MG, Hwang JP, Jhangiani SN, Bhamidipati SV, Muzny DM, Poli MC, Ochoa S, Chinn IK, Lindstrand A, Posey JE, Gibbs RA, Liu P, Lupski JR, Carvalho CMB.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Du H",
+            "firstName": "Haowei",
+            "lastName": "Du",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lun MY",
+            "firstName": "Ming Yin",
+            "lastName": "Lun",
+            "initials": "MY",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Pacific Northwest Research Institute, Seattle, WA, 98122, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gagarina L",
+            "firstName": "Lidiia",
+            "lastName": "Gagarina",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Pacific Northwest Research Institute, Seattle, WA, 98122, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bengtsson JD",
+            "firstName": "Jesse D",
+            "lastName": "Bengtsson",
+            "initials": "JD",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Pacific Northwest Research Institute, Seattle, WA, 98122, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Grochowski CM",
+            "firstName": "Christopher M",
+            "lastName": "Grochowski",
+            "initials": "CM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mehaffey MG",
+            "firstName": "Michele G",
+            "lastName": "Mehaffey",
+            "initials": "MG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Pacific Northwest Research Institute, Seattle, WA, 98122, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hwang JP",
+            "firstName": "James Paul",
+            "lastName": "Hwang",
+            "initials": "JP",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jhangiani SN",
+            "firstName": "Shalini N",
+            "lastName": "Jhangiani",
+            "initials": "SN",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bhamidipati SV",
+            "firstName": "Sravya V",
+            "lastName": "Bhamidipati",
+            "initials": "SV",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Muzny DM",
+            "firstName": "Donna M",
+            "lastName": "Muzny",
+            "initials": "DM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Poli MC",
+            "firstName": "M Cecilia",
+            "lastName": "Poli",
+            "initials": "MC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Program of Immunogenetics and Translational Immunology, Faculty of Medicine, Cl\u00ednica Alemana-Universidad del Desarrollo, 7610658, Santiago, Chile."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ochoa S",
+            "firstName": "Sebastian",
+            "lastName": "Ochoa",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, Section of Immunology, Allergy, and Retrovirology, Baylor College of Medicine and Texas Children's Hospital, Houston, TX, 77030, USA."
+                },
+                {
+                  "affiliation": "William T. Shearer Center for Human Immunobiology, Texas Children's Hospital, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chinn IK",
+            "firstName": "Ivan K",
+            "lastName": "Chinn",
+            "initials": "IK",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, Section of Immunology, Allergy, and Retrovirology, Baylor College of Medicine and Texas Children's Hospital, Houston, TX, 77030, USA."
+                },
+                {
+                  "affiliation": "William T. Shearer Center for Human Immunobiology, Texas Children's Hospital, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lindstrand A",
+            "firstName": "Anna",
+            "lastName": "Lindstrand",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Medicine and Surgery, Karolinska Institutet, 17176, Stockholm, Sweden."
+                },
+                {
+                  "affiliation": "Department of Clinical Genetics and Genomics, Karolinska University Hospital, 17176, Stockholm, Sweden."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Posey JE",
+            "firstName": "Jennifer E",
+            "lastName": "Posey",
+            "initials": "JE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gibbs RA",
+            "firstName": "Richard A",
+            "lastName": "Gibbs",
+            "initials": "RA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030, USA."
+                },
+                {
+                  "affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, 77030, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu P",
+            "firstName": "Pengfei",
+            "lastName": "Liu",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030, USA."
+                },
+                {
+                  "affiliation": "Medical Genetics and Multiomics Laboratory, Baylor College of Medicine, Houston, TX, 77030, USA."
+                },
+                {
+                  "affiliation": "Baylor Genetics, Houston, TX, 77021, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lupski JR",
+            "firstName": "James R",
+            "lastName": "Lupski",
+            "initials": "JR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030, USA. jlupski@bcm.edu."
+                },
+                {
+                  "affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, 77030, USA. jlupski@bcm.edu."
+                },
+                {
+                  "affiliation": "Department of Pediatrics, Baylor College of Medicine, Houston, TX, 77030, USA. jlupski@bcm.edu."
+                },
+                {
+                  "affiliation": "Texas Children's Hospital, Houston, TX, 77030, USA. jlupski@bcm.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Carvalho CMB",
+            "firstName": "Claudia M B",
+            "lastName": "Carvalho",
+            "initials": "CMB",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Pacific Northwest Research Institute, Seattle, WA, 98122, USA. ccarvalho@pnri.org."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4060563,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Genome medicine",
+          "medlineAbbreviation": "Genome Med",
+          "essn": "1756-994X",
+          "issn": "1756-994X",
+          "isoabbreviation": "Genome Med",
+          "nlmid": "101475844"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background</h4>Copy number variation (CNV) is a class of genomic structural variation (SV) that contributes to genomic disorders and can significantly impact health. Short-read genome sequencing (sr-GS) enables genome-wide SV calling which has been shown to increase diagnosis in unsolved rare disease families. The growing number of large sequencing cohort projects with sr-GS data available requires open free analytical tools that provide visualization of CNV and SV integrated calls associated with gene annotation, proband-parent trio analysis to enable prioritization of de novo variants, B-allele frequency (BAF) plots to support CNV calls, parent of origin assessment and mosaicism detection.<h4>Methods</h4>To support those needs, we developed VizCNV, an open-source platform that incorporates read depth and BAF to enable haplotype-aware CNV analysis. The tool incorporates multiple interactive view modes for SV concurrent calls and annotation tracks for analyzing chromosomal abnormalities [e.g., aneuploidy, segmental aneusomy, and chromosome translocations], gene exonic rearrangements and non-coding gene regulatory regions. In addition, VizCNV includes a built-in filter schema for trio genomes, prioritizing the detection of de novo CNVs. We optimized VizCNV using 1000 Genomes Project data and benchmarked its performance against a cohort containing CNVs validated by multiple technologies. Finally, we applied VizCNV to a molecularly unsolved primary immunodeficiency disease cohort (PIDD, n\u2009=\u200939) previously analyzed by exome sequencing.<h4>Results</h4>Upon computational optimization, VizCNV achieved approximately 82.3% recall and 76.3% precision for deletions\u2009>\u200910\u00a0kb. VizCNV accurately detected all 71 validated copy number gains and correctly indicated potential underlying genomic complexities. Haplotype-aware CNV analysis identified a meiosis I non-disjunction event (trisomy 21), three de novo CNVs at two unique loci and 48 inherited candidate CNVs in the PIDD cohort of which 42% (20/48) were validated by integrated CNV/BAF analysis. Moreover, genotype-phenotype analyses revealed that a compound heterozygous combination of a paternal 12.8\u00a0kb deletion of exon 5 and a maternal missense variant allele of DOCK8 are the molecular cause of one proband diagnosed with Hyper-IgE syndrome.<h4>Conclusions</h4>VizCNV provides a robust and flexible platform for identification of aneuploidies, CNV, SV discovery and visualization of CNV and BAF data. It is also a useful tool to investigate features of genomic rearrangements such as parental origin which has implications for genetic counseling and mechanistic studies. The tool is freely available through https://doi.org/10.6084/m9.figshare.25869523.",
+      "affiliation": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030, USA.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "R35 NS105078",
+            "agency": "NINDS NIH HHS",
+            "acronym": "NS",
+            "orderIn": 0
+          },
+          {
+            "grantId": "UM1 HG006542",
+            "agency": "NHGRI NIH HHS",
+            "acronym": "HG",
+            "orderIn": 0
+          },
+          {
+            "grantId": "U01 HG011758",
+            "agency": "NHGRI NIH HHS",
+            "acronym": "HG",
+            "orderIn": 0
+          },
+          {
+            "grantId": "UM1 HG006542",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 GM132589",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Trisomy 21",
+          "Deletions",
+          "Structural Variation",
+          "Duplications",
+          "Genomic Disorders",
+          "Runs Of Homozygosity",
+          "Mendelian Diseases"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13073-025-01593-8"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-12-31",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2025-12-31",
+      "electronicPublicationDate": "2025-12-31",
+      "firstPublicationDate": "2025-12-31"
+    },
+    {
+      "id": "41469923",
+      "source": "MED",
+      "pmid": "41469923",
+      "doi": "10.1186/s13019-025-03820-0",
+      "title": "Bibliometric and visual analysis of ferroptosis in cardiovascular diseases.",
+      "authorString": "Zhao X, Cao X, Lei L, Xu W, Guo Y, He Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhao X",
+            "firstName": "Xianghu",
+            "lastName": "Zhao",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Sports Medicine, Wuhan Sports University, Wuhan, 430079, Hubei Province, China."
+                },
+                {
+                  "affiliation": "Department of Rehabilitation Medicine, Zhongda Hospital, Southeast University, Nanjing, 210009, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cao X",
+            "firstName": "Xiaohan",
+            "lastName": "Cao",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Special Education and Rehabilitation, Binzhou Medical University, Yantai, 264000, Shandong Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lei L",
+            "firstName": "Lan",
+            "lastName": "Lei",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Rehabilitation Medicine, Nanjing Pukou District Hospital of Traditional Chinese Medicine, Nanjing, 210000, Jiangsu Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu W",
+            "firstName": "Wenyuan",
+            "lastName": "Xu",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Graduate School, Anhui University of Chinese Medicine, Heifei, 230000, Anhui Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guo Y",
+            "firstName": "Yujie",
+            "lastName": "Guo",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Graduate School, Anhui University of Chinese Medicine, Heifei, 230000, Anhui Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "He Y",
+            "firstName": "Yikang",
+            "lastName": "He",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Rehabilitation Medicine, Children's Hospital of Nanjing Medical University, Nanjing, 210008, Jiangsu Province, China. hantanger162@126.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4060490,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Journal of cardiothoracic surgery",
+          "medlineAbbreviation": "J Cardiothorac Surg",
+          "essn": "1749-8090",
+          "issn": "1749-8090",
+          "isoabbreviation": "J Cardiothorac Surg",
+          "nlmid": "101265113"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background</h4>Ferroptosis, an emerging form of cell death, holds substantial promise for elucidating the etiology and improving treatment methods for cardiovascular diseases (CVDs). This work aims to comprehensively analyze cutting-edge research and future trends in CVDs, guiding research progress and the development of new therapies.<h4>Methods</h4>We retrieved articles and reviews related to ferroptosis in CVDs from the Web of Science Core Collection database, spanning the period from January 1, 2016, to April 22, 2025. Visualization and statistical analysis were performed using CiteSpace (6.2.R3) and VOSviewer (1.6.19) software.<h4>Results</h4>The bibliometric analysis of ferroptosis in CVDs reveals a significant increase in research output since 2016, with a peak in publications in 2024. China leads in publication volume, with Southern Medical University being a key contributor. The International Journal of Molecular Sciences is the most prolific journal, and authors like Zhang Jing have the highest publication counts. Research focus has shifted over time, with recent emphasis on \"cardiovascular diseases,\" \"myocardial infarction,\" \"lipid metabolism,\" \"autophagy,\" and \"mitochondrial dysfunction.\"<h4>Conclusions</h4>Our bibliometric analysis reveals the rapid growth and evolving focus of ferroptosis research in CVDs, with China and the USA leading in output. Future work should prioritize developing biomarkers, multi-omics analyses, and the elucidation of specific molecular mechanisms to enhance clinical translation. Global collaboration remains key to accelerating innovation in this field.",
+      "affiliation": "College of Sports Medicine, Wuhan Sports University, Wuhan, 430079, Hubei Province, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "No. BE2023023-1",
+            "agency": "Jiangsu Provincial Key R&D Programme",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Cardiovascular diseases",
+          "Vosviewer",
+          "Bibliometric Analysis",
+          "Ferroptosis",
+          "Visual Analysis",
+          "Citespace"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13019-025-03820-0"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-12-31",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2025-12-31",
+      "electronicPublicationDate": "2025-12-30",
+      "firstPublicationDate": "2025-12-30"
+    },
+    {
+      "id": "41476218",
+      "source": "MED",
+      "pmid": "41476218",
+      "doi": "10.1186/s12936-025-05671-5",
+      "title": "Prevalence and associated risk factors of asymptomatic malaria in Nigeria: a systematic review and meta-analysis.",
+      "authorString": "Mukhtar A, Ismail M, Usman A, Odetokun IA, Ibrahim MA, Salman AA, Bawa-Sani HG, Nass SS, Goni BW, Shehu MN, Nuhu A, Zhang X, Isah MB.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Mukhtar A",
+            "firstName": "Alameen",
+            "lastName": "Mukhtar",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Joint Laboratory for Antibody Research and Application, Shaanxi International Cooperation Demonstration Base, Shaanxi University of Technology, Hanzhong, 723000, Shaanxi, China."
+                },
+                {
+                  "affiliation": "Department of Biochemistry, Umaru Musa Yar'adua University , Katsina, Nigeria."
+                },
+                {
+                  "affiliation": "Biomedical Science Research and Training Centre, Yobe State University, Damaturu, Yobe State, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ismail M",
+            "firstName": "Mubarak",
+            "lastName": "Ismail",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Joint Laboratory for Antibody Research and Application, Shaanxi International Cooperation Demonstration Base, Shaanxi University of Technology, Hanzhong, 723000, Shaanxi, China."
+                },
+                {
+                  "affiliation": "Department of Biochemistry, Umaru Musa Yar'adua University , Katsina, Nigeria."
+                },
+                {
+                  "affiliation": "Biomedical Science Research and Training Centre, Yobe State University, Damaturu, Yobe State, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Usman A",
+            "firstName": "Aminu",
+            "lastName": "Usman",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biochemistry, Umaru Musa Yar'adua University , Katsina, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Odetokun IA",
+            "firstName": "Ismail Ayoade",
+            "lastName": "Odetokun",
+            "initials": "IA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Veterinary Public Health and Preventive Medicine, University of Ilorin, Ilorin, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ibrahim MA",
+            "firstName": "Mohammed Auwal",
+            "lastName": "Ibrahim",
+            "initials": "MA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biochemistry, Ahmadu Bello University, Zaria, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Salman AA",
+            "firstName": "Abdulmalik Abdullahi",
+            "lastName": "Salman",
+            "initials": "AA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biochemistry, Ahmadu Bello University, Zaria, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bawa-Sani HG",
+            "firstName": "Hafsatu Garba",
+            "lastName": "Bawa-Sani",
+            "initials": "HG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Basic Clinical Sciences, Umaru Musa Yar'adua University, Katsina, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nass SS",
+            "firstName": "Shafique Sani",
+            "lastName": "Nass",
+            "initials": "SS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Open University of Nigeria, Abuja, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Goni BW",
+            "firstName": "Baba Waru",
+            "lastName": "Goni",
+            "initials": "BW",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biomedical Science Research and Training Centre, Yobe State University, Damaturu, Yobe State, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shehu MN",
+            "firstName": "Muhammad Nazir",
+            "lastName": "Shehu",
+            "initials": "MN",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Federal Teaching Hospital Katsina, Katsina, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nuhu A",
+            "firstName": "Abdulkadir",
+            "lastName": "Nuhu",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Federal Teaching Hospital Katsina, Katsina, Nigeria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang X",
+            "firstName": "Xiaoying",
+            "lastName": "Zhang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Joint Laboratory for Antibody Research and Application, Shaanxi International Cooperation Demonstration Base, Shaanxi University of Technology, Hanzhong, 723000, Shaanxi, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Isah MB",
+            "firstName": "Murtala Bindawa",
+            "lastName": "Isah",
+            "initials": "MB",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Joint Laboratory for Antibody Research and Application, Shaanxi International Cooperation Demonstration Base, Shaanxi University of Technology, Hanzhong, 723000, Shaanxi, China. isah.murtala@umyu.edu.ng."
+                },
+                {
+                  "affiliation": "Department of Biochemistry, Umaru Musa Yar'adua University , Katsina, Nigeria. isah.murtala@umyu.edu.ng."
+                },
+                {
+                  "affiliation": "Biomedical Science Research and Training Centre, Yobe State University, Damaturu, Yobe State, Nigeria. isah.murtala@umyu.edu.ng."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4060463,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-12-01",
+        "journal": {
+          "title": "Malaria journal",
+          "medlineAbbreviation": "Malar J",
+          "essn": "1475-2875",
+          "issn": "1475-2875",
+          "isoabbreviation": "Malar J",
+          "nlmid": "101139802"
+        }
+      },
+      "pubYear": "2025",
+      "abstractText": "<h4>Background</h4>Asymptomatic malaria presents a significant barrier to malaria elimination efforts, particularly in endemic countries like Nigeria. Despite its public health relevance, no national-level pooled estimate of its prevalence and associated risk factors currently exists for Nigeria. This systematic review and meta-analysis aimed to synthesize existing data to estimate the prevalence of asymptomatic malaria and identify affected populations and risk factors across Nigeria.<h4>Methods</h4>A systematic search of PubMed, Google Scholar, and Scopus was conducted to identify observational studies reporting the prevalence of asymptomatic malaria in Nigeria. The review protocol was registered with PROSPERO (CRD42024591788). Eligible studies were screened using Rayyan software, and relevant data were extracted into Microsoft Excel. Meta-analysis was performed using Stata version 15.0. A random-effects model was applied to estimate the pooled prevalence. Heterogeneity was assessed using meta-regression and subgroup analyses, while publication bias was evaluated using funnel plot visualization.<h4>Results</h4>A total of 25 studies were included in the meta-analysis. The pooled prevalence of asymptomatic malaria in Nigeria was estimated at 33% (95% CI 26-41). Prevalence varied by population subgroup, ranging from 25% in the general population to 52% in children. Risk factor analysis revealed an overall prevalence of 19% related to education level, 36% based on sex, and 39% associated with insecticide-treated net (ITN) usage.<h4>Conclusion</h4>This review highlights a high prevalence of asymptomatic malaria in Nigeria, particularly among children. While asymptomatic infections sustain transmission, current evidence underscores the need to prioritize proven transmission-reduction tools. With reduced transmission, the asymptomatic reservoir can then be more effectively addressed through complementary strategies.",
+      "affiliation": "Joint Laboratory for Antibody Research and Application, Shaanxi International Cooperation Demonstration Base, Shaanxi University of Technology, Hanzhong, 723000, Shaanxi, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Children",
+          "Prevalence",
+          "Pregnant women",
+          "risk factors",
+          "Nigeria",
+          "Malaria Control",
+          "Asymptomatic Malaria"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12936-025-05671-5"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-12-31",
+      "firstIndexDate": "2026-01-02",
+      "dateOfRevision": "2025-12-31",
+      "electronicPublicationDate": "2025-12-31",
+      "firstPublicationDate": "2025-12-31"
+    },
+    {
+      "id": "41482716",
+      "source": "MED",
+      "pmid": "41482716",
+      "doi": "10.1002/jcu.70167",
+      "title": "The Application Value of Transvaginal Three-Dimensional Ultrasonography in the Diagnosis of Adenomyosis of the Uterus.",
+      "authorString": "Li M, Zong Z, Wang X, Zhang H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li M",
+            "firstName": "Mengyu",
+            "lastName": "Li",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0007-3517-9361"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound, The Affiliated Hospital of Hangzhou Normal University, Hangzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zong Z",
+            "firstName": "Zhen",
+            "lastName": "Zong",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound, The Affiliated Hospital of Hangzhou Normal University, Hangzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang X",
+            "firstName": "Xiaoman",
+            "lastName": "Wang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound, The Affiliated Hospital of Hangzhou Normal University, Hangzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang H",
+            "firstName": "Hebin",
+            "lastName": "Zhang",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5459-9408"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound, The Affiliated Hospital of Hangzhou Normal University, Hangzhou, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5459-9408"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0007-3517-9361"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4081047,
+        "dateOfPublication": "2026 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-01-01",
+        "journal": {
+          "title": "Journal of clinical ultrasound : JCU",
+          "medlineAbbreviation": "J Clin Ultrasound",
+          "essn": "1097-0096",
+          "issn": "0091-2751",
+          "isoabbreviation": "J Clin Ultrasound",
+          "nlmid": "0401663"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Objective</h4>This study aimed to investigate the variations in junctional zone (JZ) ultrasonographic parameters using three-dimensional transvaginal ultrasound (3D-TVS) across different age groups and evaluate their diagnostic potential for adenomyosis.<h4>Methods</h4>We conducted a retrospective analysis of 120 patients who underwent 3D-TVS examinations. Participants were categorized into adenomyosis and healthy control groups, with the control group further stratified into three age-based subgroups (20+, 30+, and 40+ years). Quantitative JZ parameters were meticulously measured, including maximum thickness (JZmax), minimum thickness (JZmin), thickness difference (JZdif, calculated as JZmax\u2009-\u2009JZmin), myometrial thickness adjacent to JZmax, and the ratio of JZmax to adjacent myometrial thickness. Statistical comparisons were performed among groups, and receiver operating characteristic (ROC) curves were constructed to determine the area under the curve (AUC) m\u00fcllerian values for adenomyosis diagnosis.<h4>Results</h4>Age-stratified analysis revealed no statistically significant differences in JZ parameters among control subgroups (p\u2009>\u20090.05), indicating minimal age-related variations in JZ characteristics. Compared to healthy controls, adenomyosis patients demonstrated significantly elevated values in JZmax, JZmin, JZdif, and the myometrial thickness adjacent to JZmax (p\u2009<\u20090.05). ROC analysis yielded AUC values of 0.85 for JZmax, 0.84 for myometrial thickness adjacent to JZmax, 0.79 for JZdif, and 0.76 for JZmin. Optimal diagnostic performance was achieved at JZmax\u2009\u2265\u20090.45 cm, demonstrating 77% sensitivity and 89% specificity.<h4>Conclusion</h4>3D-TVS with 3D reconstruction technology enables clear visualization of uterine coronal section and accurate quantification of JZ parameters. These findings support the clinical utility of 3D-TVS in the diagnostic evaluation of adenomyosis.",
+      "affiliation": "Department of Ultrasound, The Affiliated Hospital of Hangzhou Normal University, Hangzhou, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2020KY707",
+            "agency": "the Zhejiang Provincial Medical and Health Science and Technology Project",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Adenomyosis",
+          "ultrasound",
+          "Junction Zone",
+          "Transvaginal Three\u2010dimensional Ultrasound"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/jcu.70167"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-01-03",
+      "firstIndexDate": "2026-01-04",
+      "dateOfRevision": "2026-01-03",
+      "electronicPublicationDate": "2026-01-02",
+      "firstPublicationDate": "2026-01-02"
+    },
+    {
+      "id": "41483205",
+      "source": "MED",
+      "pmid": "41483205",
+      "doi": "10.1007/s00330-025-12235-3",
+      "title": "Digital variance angiography enables up to 80% reduction in stationary acquisition radiation dose during prostatic artery embolization: a prospective randomized trial.",
+      "authorString": "Alizadeh LS, Vogl TJ, Rafi W, Caruso M, Elek R, Osvath S, Nica A, Gruenewald LD, Yel I, Goekduman A, Koch V, Dimitrova M, D'Angelo T, Booz C.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Alizadeh LS",
+            "firstName": "Leona S",
+            "lastName": "Alizadeh",
+            "initials": "LS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8141-7454"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany. Leona.alizadeh@outlook.de."
+                },
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, Bundeswehr Central Hospital Koblenz, Koblenz, Germany. Leona.alizadeh@outlook.de."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vogl TJ",
+            "firstName": "Thomas J",
+            "lastName": "Vogl",
+            "initials": "TJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rafi W",
+            "firstName": "Walid",
+            "lastName": "Rafi",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Caruso M",
+            "firstName": "Marta",
+            "lastName": "Caruso",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Elek R",
+            "firstName": "Rich\u00e1rd",
+            "lastName": "Elek",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Doctoral College of Theoretical and Translational Medicine, Semmelweis University, Budapest, Hungary."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Osvath S",
+            "firstName": "Szabolcs",
+            "lastName": "Osvath",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biophysics and Radiation Biology, Semmelweis University, Budapest, Hungary."
+                },
+                {
+                  "affiliation": "Scientific Department, Kinepict Health Ltd., Budapest, Hungary."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nica A",
+            "firstName": "Andreea",
+            "lastName": "Nica",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gruenewald LD",
+            "firstName": "Leon D",
+            "lastName": "Gruenewald",
+            "initials": "LD",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yel I",
+            "firstName": "Ibrahim",
+            "lastName": "Yel",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Goekduman A",
+            "firstName": "Aynur",
+            "lastName": "Goekduman",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Koch V",
+            "firstName": "Vitali",
+            "lastName": "Koch",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dimitrova M",
+            "firstName": "Mirela",
+            "lastName": "Dimitrova",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "D'Angelo T",
+            "firstName": "Tommaso",
+            "lastName": "D'Angelo",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Diagnostic and Interventional Radiology Unit, BIOMORF Department, University Ospital \"Policlinico G. Martino\", Messina, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Booz C",
+            "firstName": "Christian",
+            "lastName": "Booz",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8141-7454"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4082605,
+        "dateOfPublication": "2026 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-01-01",
+        "journal": {
+          "title": "European radiology",
+          "medlineAbbreviation": "Eur Radiol",
+          "essn": "1432-1084",
+          "issn": "0938-7994",
+          "isoabbreviation": "Eur Radiol",
+          "nlmid": "9114774"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Objectives</h4>Digital variance angiography (DVA) has demonstrated superior image quality compared to digital subtraction angiography (DSA), but its potential remains underexplored for complex procedures.<h4>Materials and methods</h4>This prospective randomized controlled trial enrolled 70 patients (mean\u2009\u00b1\u2009SD age: 69.23\u2009\u00b1\u20098.7, range 53-96) undergoing PAE between January and October 2023. Patients were randomized to normal dose (ND) DSA (n\u2009=\u200935) or ultra-low dose (ULD) DSA (n\u2009=\u200935), with the latter reducing target detector dose by 72% for stationary acquisitions only. Radiation dose analysis was limited to stationary acquisitions, as only these series were acquired using the modified low-dose protocol. Dose-area product (DAP), contrast-to-noise ratios (CNR), and visual image quality of DSA and DVA images were compared. Three experienced interventional radiologists conducted a randomized, blinded 5-point Likert evaluation of large and small vessels, tissue blush, and background noise. Statistical analysis included Mann-Whitney tests, Spearman correlation, Kendall Tau B, and Bangdiwala's B for interrater agreement.<h4>Results</h4>The ULD protocol reduced stationary acquisition-related DAP by up to 80% compared to controls (580\u2009\u00b1\u200966 vs 2872\u2009\u00b1\u2009396\u2009\u00b5Gym\u00b2/patient, p\u2009<\u20090.001). DVA showed significantly higher CNR in both groups, with median CNR<sub>DVA</sub>/CNR<sub>DSA</sub> ratios of 3.85 in ND and 4.60 in ULD. DVA images achieved significantly higher scores for small vessels and tissue blush visualization (p\u2009<\u20090.001; CNR: 4.10 vs 2.88; Likert rating: 2.79 vs 1.58).<h4>Conclusion</h4>DVA enables substantial radiation dose reduction in PAE while maintaining superior image quality versus DSA, potentially improving angiographic safety and efficacy.<h4>Key points</h4>Question DVA is useful in reducing dose and enhancing image quality, yet it was not validated for complex angiographic procedures. Findings DVA provides better qualitative and quantitative image quality than DSA with reduced dose for prostatic artery embolizations. Clinical relevance DVA significantly improves image quality in Prostatic Artery Embolization compared to DSA, which allows up to 80% reduction in radiation burden to patients and interventionalists alike, while it also maintains diagnostic image quality.",
+      "affiliation": "Department of Diagnostic and Interventional Radiology, University Hospital Frankfurt, Frankfurt, Germany. Leona.alizadeh@outlook.de.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "NKFIA; NVKP-16-1-2016-0017",
+            "agency": "National Research, Development and Innovation Office of Hungary",
+            "orderIn": 0
+          },
+          {
+            "grantId": "968430 KMIT-ACC",
+            "agency": "European Commission Accelerator Grant",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Radiation protection",
+          "Therapeutic Embolization",
+          "Digital Image Processing",
+          "Prostatic Disease",
+          "Image Quality Enhancement"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s00330-025-12235-3"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-01-03",
+      "firstIndexDate": "2026-01-04",
+      "dateOfRevision": "2026-01-03",
+      "electronicPublicationDate": "2026-01-03",
+      "firstPublicationDate": "2026-01-03"
+    }
+  ]
+}
