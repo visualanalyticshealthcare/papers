@@ -1,0 +1,2675 @@
+{
+  "start_date": "2026-02-02",
+  "end_date": "2026-02-09",
+  "records_fetched": 12,
+  "articles": [
+    {
+      "id": "41628163",
+      "source": "MED",
+      "pmid": "41628163",
+      "doi": "10.1371/journal.pgph.0005879",
+      "title": "Applying human-centered design to adapt a multifaceted implementation strategy for integrating HIV and NCD services in Lusaka, Zambia: Healthcare worker perspectives.",
+      "authorString": "Matenga TFL, Herce ME, Corbin JH, Zulu JM, Mwila C, Mandyata C, Frimpong C, Siame M, Shankalala P, Nachalwe N, Mbewe P, Chisenga P, Sichone P, Musheke M, Mutale W, Mweemba O.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Matenga TFL",
+            "firstName": "Tulani Francis L",
+            "lastName": "Matenga",
+            "initials": "TFL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2145-002X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Promotion and Education, School of Public Health, University of Zambia, Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Herce ME",
+            "firstName": "Michael E",
+            "lastName": "Herce",
+            "initials": "ME",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3629-3867"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                },
+                {
+                  "affiliation": "Institute for Global Health and Infectious Diseases, University of North Carolina, Chapel Hill, North Carolina, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Corbin JH",
+            "firstName": "J Hope",
+            "lastName": "Corbin",
+            "initials": "JH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health and Community Studies, Western Washington University, Bellingham, Washington, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zulu JM",
+            "firstName": "Joseph Mumba",
+            "lastName": "Zulu",
+            "initials": "JM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Policy and Management, School of Public Health, University of Zambia, Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mwila C",
+            "firstName": "Chilambwe",
+            "lastName": "Mwila",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2988-0094"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mandyata C",
+            "firstName": "Chomba",
+            "lastName": "Mandyata",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                },
+                {
+                  "affiliation": "Department of Health Policy and Management, School of Public Health, University of Zambia, Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Frimpong C",
+            "firstName": "Christiana",
+            "lastName": "Frimpong",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Siame M",
+            "firstName": "Mmamulatelo",
+            "lastName": "Siame",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Paediatrics and Child Health, School of Medicine, University of Zambia, Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shankalala P",
+            "firstName": "Perfect",
+            "lastName": "Shankalala",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                },
+                {
+                  "affiliation": "Department of Health Policy and Management, School of Public Health, University of Zambia, Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nachalwe N",
+            "firstName": "Namwinga",
+            "lastName": "Nachalwe",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mbewe P",
+            "firstName": "Peter",
+            "lastName": "Mbewe",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chisenga P",
+            "firstName": "Peter",
+            "lastName": "Chisenga",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sichone P",
+            "firstName": "Pendasambo",
+            "lastName": "Sichone",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0008-9547-6234"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Musheke M",
+            "firstName": "Maurice",
+            "lastName": "Musheke",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Infectious Disease Research in Zambia (CIDRZ), Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mutale W",
+            "firstName": "Wilbroad",
+            "lastName": "Mutale",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Policy and Management, School of Public Health, University of Zambia, Lusaka, Zambia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mweemba O",
+            "firstName": "Oliver",
+            "lastName": "Mweemba",
+            "initials": "O",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Health Promotion and Education, School of Public Health, University of Zambia, Lusaka, Zambia."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2988-0094"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3629-3867"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2145-002X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0008-9547-6234"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "6",
+        "journalIssueId": 4112584,
+        "dateOfPublication": "2026 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-01-01",
+        "journal": {
+          "title": "PLOS global public health",
+          "medlineAbbreviation": "PLOS Glob Public Health",
+          "essn": "2767-3375",
+          "issn": "2767-3375",
+          "isoabbreviation": "PLOS Glob Public Health",
+          "nlmid": "9918283779606676"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "e0005879",
+      "abstractText": "There has been limited research reporting approaches used in the adaptation of implementation strategies for integrating HIV and NCD services that involve healthcare providers in low- and middle-income country (LMIC) settings. This paper describes how human-centered design (HCD) was used to 1) adapt a multifaceted implementation strategy for integrating HIV and NCD services through end-user engagement and 2) share insights from the specific suggestions made through the HCD process with healthcare providers. As part of the TASKPEN an implementation science-driven intervention aimed at task shifting and integrating the evidence-based WHO Package of Essential NCDs Interventions (WHO-PEN) approach into routine healthcare settings for PLHIV, we co-designed implementation strategy components (i.e., \"sub-components\") to strengthen HIV/NCD integration in four HIV clinics in Lusaka, Zambia. The HCD process involved qualitative approaches with healthcare providers, namely lay and non-physician healthcare workers (NPHWs) such as nurses and community healthcare workers (CHWs). A four-phased approach of exploration through formative qualitative work, ideation with intervention deliverers, analysis, and refinement was used to develop strategy sub-components. Rapid thematic data analysis was used to synthesise the data. Applying HCD to a locally-informed intervention for screening and managing cardio-metabolic co-morbidities for Zambian PLHIV informed the addition of sub-components to the multi-faceted implementation strategy to improve adoption, appropriateness, and feasibility. Through co-design workshops, healthcare providers suggested specific sub-components be added to enhance the intervention. Specifically, four sub-component strategy ideas were produced: introducing NCD/HIV champions, circulating a weekly facility NCD medication bulletin, dashboard reporting of HIV/NCD cases, and community sensitization. The use of HCD in implementation science is a promising approach to refining implementation strategies that are likely to result in the success of HIV/NCD integration in Zambia and similar LMIC settings.",
+      "affiliation": "Department of Health Promotion and Education, School of Public Health, University of Zambia, Lusaka, Zambia.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1371/journal.pgph.0005879"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-02-02",
+      "dateOfCreation": "2026-02-02",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-02",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41622332",
+      "source": "MED",
+      "pmid": "41622332",
+      "doi": "10.1007/s00198-025-07834-1",
+      "title": "State sequence analysis for a deeper understanding of treatment adherence patterns in fragility fracture patients.",
+      "authorString": "Savar\u00e9 L, Porcu G, Tratsevich A, Ronco R, Ieva F, Corrao G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Savar\u00e9 L",
+            "firstName": "Laura",
+            "lastName": "Savar\u00e9",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Centre for Healthcare Research & Pharmacoepidemiology, University of Milano-Bicocca, Milan, Italy."
+                },
+                {
+                  "affiliation": "MOX - Laboratory for Modeling and Scientific Computing, Department of Mathematics, Politecnico Di Milano, Milan, Italy."
+                },
+                {
+                  "affiliation": "HDS - Health Data Science Centre, Human Technopole, Milan, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Porcu G",
+            "firstName": "Gloria",
+            "lastName": "Porcu",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Centre for Healthcare Research & Pharmacoepidemiology, University of Milano-Bicocca, Milan, Italy."
+                },
+                {
+                  "affiliation": "Unit of Biostatistics, Epidemiology and Public Health, Department of Statistics and Quantitative Methods, University of Milano-Bicocca, Milan, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tratsevich A",
+            "firstName": "Alina",
+            "lastName": "Tratsevich",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0005-3295-2959"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Centre for Healthcare Research & Pharmacoepidemiology, University of Milano-Bicocca, Milan, Italy. alina.tratsevich@unimib.it."
+                },
+                {
+                  "affiliation": "Unit of Biostatistics, Epidemiology and Public Health, Department of Statistics and Quantitative Methods, University of Milano-Bicocca, Milan, Italy. alina.tratsevich@unimib.it."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ronco R",
+            "firstName": "Raffaella",
+            "lastName": "Ronco",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Centre for Healthcare Research & Pharmacoepidemiology, University of Milano-Bicocca, Milan, Italy."
+                },
+                {
+                  "affiliation": "Unit of Biostatistics, Epidemiology and Public Health, Department of Statistics and Quantitative Methods, University of Milano-Bicocca, Milan, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ieva F",
+            "firstName": "Francesca",
+            "lastName": "Ieva",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "MOX - Laboratory for Modeling and Scientific Computing, Department of Mathematics, Politecnico Di Milano, Milan, Italy."
+                },
+                {
+                  "affiliation": "HDS - Health Data Science Centre, Human Technopole, Milan, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Corrao G",
+            "firstName": "Giovanni",
+            "lastName": "Corrao",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Centre for Healthcare Research & Pharmacoepidemiology, University of Milano-Bicocca, Milan, Italy."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0005-3295-2959"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4111437,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+          "medlineAbbreviation": "Osteoporos Int",
+          "essn": "1433-2965",
+          "issn": "0937-941X",
+          "isoabbreviation": "Osteoporos Int",
+          "nlmid": "9100105"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "We compared two methods to describe adherence to osteoporotic drugs after fragility fractures. While both similarly predicted refracture risk, a novel approach using sequence analysis provided a clearer picture of patient behavior, helping clinicians better understand and address adherence issues in osteoporosis care.<h4>Background</h4>Fragility fractures are common among individuals with osteoporosis, causing significant morbidity, mortality, and healthcare costs. Although effective pharmacological treatments exist, underdiagnosis and poor treatment adherence remain pervasive in clinical practice.<h4>Methods</h4>In order to select an effective methodology to describe and visually represent treatment adherence and correctly stratify patients with fragility fractures according to their adherence patterns, a conventional method using average PDC was compared to an alternative method, given by the state sequence analysis (SSA) and clustering procedure. Data on patients aged 50 or older who experienced fragility fractures between 2012 and 2017 were retrieved from healthcare utilization databases in Lombardy, Italy. Fine and Gray's model was employed to analyze the association between adherence (calculated by conventional and alternative methods) and refracture risk. Finally, the discriminatory power to predict outcomes was calculated for each approach.<h4>Results</h4>Out of the 8976 patients included in this observational study, four different adherence groups were considered using the conventional method (very poor, poor, intermediate, and optimal), while three clusters (non-adherence, short-term adherence, and long-term adherence) were obtained from the SSA. Compared with non-adherent patients, those with long-term adherence were found to have a significantly reduced risk of combined death and refracture with both methods. Regarding discriminatory performance, the two approaches showed similar AUC, 0.646 and 0.644 for conventional and alternative methods, respectively.<h4>Conclusions</h4>Based on the SSA and cluster analysis, the alternative method does not significantly modify the prediction of the refracture risk but enhances the description and visualization of the adherence patterns.",
+      "affiliation": "National Centre for Healthcare Research & Pharmacoepidemiology, University of Milano-Bicocca, Milan, Italy.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Adherence",
+          "Treatment",
+          "Fragility Fractures",
+          "Pharmacoepidemiology",
+          "State Sequence Analysis"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s00198-025-07834-1"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-01",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-01",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41627039",
+      "source": "MED",
+      "pmid": "41627039",
+      "doi": "10.1177/19375867251414968",
+      "title": "Environmental Influences on Blood Donation: Reducing Stress and Enhancing Motivation in Young Adults.",
+      "authorString": "Cerruti M, Kim Y, Vahdat V.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cerruti M",
+            "firstName": "Minyoung",
+            "lastName": "Cerruti",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0003-3994-5167"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Washington State University, Pullman, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kim Y",
+            "firstName": "Youngsoon",
+            "lastName": "Kim",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Gyeongsang National University, Jinju, Korea."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vahdat V",
+            "firstName": "Vahid",
+            "lastName": "Vahdat",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Washington State University, Pullman, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0003-3994-5167"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4112302,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "HERD",
+          "medlineAbbreviation": "HERD",
+          "essn": "2167-5112",
+          "issn": "1937-5867",
+          "isoabbreviation": "HERD",
+          "nlmid": "101537529"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "19375867251414968",
+      "abstractText": "ObjectiveThis study investigates how privacy, distraction, and comfort in blood donation environments affect donors' stress and motivation, addressing critical challenges posed by ongoing blood shortages.BackgroundThe reluctance to donate blood is associated with donors' experience exacerbated by stress during the donation process and the quality of the donation environment. Despite known physical environmental influences on patient well-being in healthcare settings, its influence within blood donation settings remains underexplored.MethodsUsing an online survey with a virtual visualization technique, 400 college-aged participants rated their preferences and emotional responses to eight simulated blood drive bus environment settings.ResultsSettings combining privacy, positive distraction, and comfort significantly reduced stress and increased motivation compared to those with fewer interventions. Female and less experienced donors (nondonors, first-timers) particularly benefited from enhanced comfort and distraction, reporting lower fear and greater positive emotions. Cultural differences also influenced experiences.ConclusionsFindings highlight the potential of well-designed blood donation environments to reduce stress and enhance motivation, especially among younger, female, and less experienced donors, improving donation experiences and addressing critical blood shortage.",
+      "affiliation": "Washington State University, Pullman, USA.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Public Health",
+          "Blood Donation",
+          "Restorative Environments",
+          "Donor Motivation",
+          "Stress Reduction"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1177/19375867251414968"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-02",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-02",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41631436",
+      "source": "MED",
+      "pmid": "41631436",
+      "doi": "10.3724/zdxbyxb-2025-0785",
+      "title": "[Spatial omics in pulmonary fibrosis: advancing mechanistic insights and therapeutic strategies].",
+      "authorString": "Peng Y, Xie Y, Yang F, Qiao X, Tian Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Peng Y",
+            "firstName": "Yunpeng",
+            "lastName": "Peng",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Collaborative Innovation Center for Chinese Medicine and Respiratory Diseases Co-constructed by Henan Province & Ministry of P.R. China, Henan University of Chinese Medicine, Zhengzhou 450003, China. 17596533146@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xie Y",
+            "firstName": "Yunyun",
+            "lastName": "Xie",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Collaborative Innovation Center for Chinese Medicine and Respiratory Diseases Co-constructed by Henan Province & Ministry of P.R. China, Henan University of Chinese Medicine, Zhengzhou 450003, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang F",
+            "firstName": "Fan",
+            "lastName": "Yang",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Collaborative Innovation Center for Chinese Medicine and Respiratory Diseases Co-constructed by Henan Province & Ministry of P.R. China, Henan University of Chinese Medicine, Zhengzhou 450003, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Qiao X",
+            "firstName": "Xin",
+            "lastName": "Qiao",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Collaborative Innovation Center for Chinese Medicine and Respiratory Diseases Co-constructed by Henan Province & Ministry of P.R. China, Henan University of Chinese Medicine, Zhengzhou 450003, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tian Y",
+            "firstName": "Yange",
+            "lastName": "Tian",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Collaborative Innovation Center for Chinese Medicine and Respiratory Diseases Co-constructed by Henan Province & Ministry of P.R. China, Henan University of Chinese Medicine, Zhengzhou 450003, China. yange0910@126.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4113054,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+          "medlineAbbreviation": "Zhejiang Da Xue Xue Bao Yi Xue Ban",
+          "issn": "1008-9292",
+          "isoabbreviation": "Zhejiang Da Xue Xue Bao Yi Xue Ban",
+          "nlmid": "100927946"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "1-10",
+      "abstractText": "Pulmonary fibrosis, a group of chronic interstitial lung diseases charac-terized by persistent inflammation and aberrant deposition of fibrous connective tissue, poses a significant therapeutic challenge, with idiopathic pulmonary fibrosis (IPF) being its most representative and severe form. Spatially resolved omics technologies-encompassing spatial metabolomics, transcriptomics, and proteomics-have emerged as transformative tools that preserve the architectural context of tissues while enabling high-throughput, visualization-capable analysis of metabolites, genes, and proteins. This review highlights how these technologies are reshaping our understanding of pulmonary fibrosis. Spatial metabolomics facilitates the visualization and intelligent annotation of metabolic landscapes; spatial transcriptomics deciphers regional heterogeneity and refines the molecular timeline of early disease events; and spatial proteomics elucidates protein interaction networks and uncovers novel drug-resistance mechanisms. Collectively, spatial omics provides unprecedented insights into disease pathogenesis, offering a powerful framework for advancing precision diagnosis, identifying therapeutic targets, and guiding drug develop-ment. This article synthesizes recent progress in applying spatial omics to pulmonary fibrosis research, underscoring its potential to translate into more effective clinical strategies.",
+      "affiliation": "Collaborative Innovation Center for Chinese Medicine and Respiratory Diseases Co-constructed by Henan Province & Ministry of P.R. China, Henan University of Chinese Medicine, Zhengzhou 450003, China. 17596533146@163.com.",
+      "publicationStatus": "aheadofprint",
+      "language": "chi",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article",
+          "English Abstract"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Review",
+          "Pulmonary fibrosis",
+          "Mass Spectrometry Imaging",
+          "Spatial Proteomics",
+          "Spatial Metabolomics",
+          "Spatial Transcriptomics"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3724/zdxbyxb-2025-0785"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-03",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-03",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41622431",
+      "source": "MED",
+      "pmid": "41622431",
+      "doi": "10.1097/pec.0000000000003562",
+      "title": "Point-of-Care Ultrasound Identification of Motile Enterobius vermicularis in the Appendix of a Toddler: The Youngest Reported Case and Successful Nonoperative Management of Early Appendicitis.",
+      "authorString": "Vorel ES.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Vorel ES",
+            "firstName": "Ethan S",
+            "lastName": "Vorel",
+            "initials": "ES",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatric Emergency Medicine, ChristianaCare, Newark, DE."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4111024,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "Pediatric emergency care",
+          "medlineAbbreviation": "Pediatr Emerg Care",
+          "essn": "1535-1815",
+          "issn": "0749-5161",
+          "isoabbreviation": "Pediatr Emerg Care",
+          "nlmid": "8507560"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Objectives</h4>To describe the youngest and second ever reported patient with real-time point-of-care ultrasound (POCUS) visualization of motile Enterobius vermicularis within the appendix and to demonstrate how real-time intraluminal motion aids in distinguishing parasitic infestation from typical obstructive appendicitis.<h4>Methods</h4>We present the clinical course, ultrasound findings, and management of a 23-month-old girl with acute intermittent abdominal pain.<h4>Results</h4>POCUS revealed a dilated, noncompressible appendix containing multiple linear echogenic structures demonstrating serpiginous, independent motion-highly suggestive of E. vermicularis. Mild periappendiceal echogenicity suggested early acute appendicitis. The patient was successfully managed nonoperatively with albendazole and intravenous antibiotics, experiencing complete symptom resolution within 24 hours. This represents the youngest and second-ever reported patient in whom real-time sonographic visualization of live appendiceal parasites has been reported.<h4>Conclusions</h4>True intraluminal motility is a critical sonographic discriminator of parasitic infestation and can fundamentally alter management decisions. In this case, early identification of E. vermicularis supported a safe, nonoperative strategy for early appendicitis. Incorporating POCUS early in the evaluation of atypical pediatric abdominal pain may prevent unnecessary surgical intervention.",
+      "affiliation": "Department of Pediatric Emergency Medicine, ChristianaCare, Newark, DE.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Appendicitis",
+          "ultrasound",
+          "Pinworm",
+          "Pocus",
+          null,
+          "Pediatric Abdominal Pain"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1097/PEC.0000000000003562"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-01",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-01",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41627707",
+      "source": "MED",
+      "pmid": "41627707",
+      "doi": "10.1007/s11548-026-03573-8",
+      "title": "BrightVAE: luminosity enhancement in underexposed endoscopic images.",
+      "authorString": "Koohestani F, Nabizadeh Z, Karimi N, Shirani S, Samavi S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Koohestani F",
+            "firstName": "Farzaneh",
+            "lastName": "Koohestani",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nabizadeh Z",
+            "firstName": "Zahra",
+            "lastName": "Nabizadeh",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran."
+                },
+                {
+                  "affiliation": "Department of Electrical and Computer Engineering, McMaster University, Hamilton, ON, L8S 4L8, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Karimi N",
+            "firstName": "Nader",
+            "lastName": "Karimi",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shirani S",
+            "firstName": "Shahram",
+            "lastName": "Shirani",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Electrical and Computer Engineering, McMaster University, Hamilton, ON, L8S 4L8, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Samavi S",
+            "firstName": "Shadrokh",
+            "lastName": "Samavi",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0000-2591-3453"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Computer Science Department, Seattle University, Seattle, WA, 98122, USA. samavishadro@seattleu.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0000-2591-3453"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4112500,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "International journal of computer assisted radiology and surgery",
+          "medlineAbbreviation": "Int J Comput Assist Radiol Surg",
+          "essn": "1861-6429",
+          "issn": "1861-6410",
+          "isoabbreviation": "Int J Comput Assist Radiol Surg",
+          "nlmid": "101499225"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Purpose</h4>Low-light endoscopic images often lack contrast and clarity, obscuring anatomical details and reducing diagnostic accuracy. This study develops a method to enhance image brightness and visibility, enabling clearer visualization of critical structures to support precise medical diagnoses and improve patient outcomes.<h4>Methods</h4>To specifically address nonuniform illumination, we propose BrightVAE, a model that uses a dual-receptive-field architecture to decouple global brightness correction from local texture preservation. Integrated attention-based modules (Attencoder and Attenquant) explicitly target and amplify underexposed regions while preventing over-saturation, thereby recovering human-evaluable details in shadowed areas. The model was trained and tested on a public endoscopic dataset, and its performance was evaluated against other techniques using quality metrics.<h4>Results</h4>The model outperformed alternatives, improving PSNR by 3.252 units, structural detail by 0.045, and perceptual quality by 0.014 compared to the best model before us, achieving a PSNR of 30.576, SSIM of 0.879, and LPIPS of 0.133, ensuring superior visibility of shadowed regions.<h4>Conclusion</h4>This approach advances endoscopic imaging by delivering sharper, reliable images, enhancing diagnostic precision in clinical practice. Improved visualization supports better detection of abnormalities, potentially leading to more effective treatment decisions and enhanced patient care.",
+      "affiliation": "Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Endoscopic Imaging",
+          "Attention Mechanisms",
+          "Diagnostic Precision",
+          "Low-light Enhancement"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11548-026-03573-8"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-02",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-02",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41630068",
+      "source": "MED",
+      "pmid": "41630068",
+      "doi": "10.1186/s40001-026-03924-w",
+      "title": "Nanoscopic long head of the biceps tendon tenotomy under suprascapular nerve block: a feasibility study.",
+      "authorString": "Lesman J, W\u00f3jtowicz B, Szufnara M, B\u0142och C, Dom\u017calski M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lesman J",
+            "firstName": "J\u0119drzej",
+            "lastName": "Lesman",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics, Medical University of \u0141\u00f3d\u017a, \u0141\u00f3d\u017a, Poland. jedreklesman@yahoo.pl."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "W\u00f3jtowicz B",
+            "firstName": "B\u0142a\u017cej",
+            "lastName": "W\u00f3jtowicz",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics, Medical University of \u0141\u00f3d\u017a, \u0141\u00f3d\u017a, Poland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Szufnara M",
+            "firstName": "Micha\u0142",
+            "lastName": "Szufnara",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics, Medical University of \u0141\u00f3d\u017a, \u0141\u00f3d\u017a, Poland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "B\u0142och C",
+            "firstName": "Cezary",
+            "lastName": "B\u0142och",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics, Medical University of \u0141\u00f3d\u017a, \u0141\u00f3d\u017a, Poland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dom\u017calski M",
+            "firstName": "Marcin",
+            "lastName": "Dom\u017calski",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics, Medical University of \u0141\u00f3d\u017a, \u0141\u00f3d\u017a, Poland."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4111585,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "European journal of medical research",
+          "medlineAbbreviation": "Eur J Med Res",
+          "essn": "2047-783X",
+          "issn": "0949-2321",
+          "isoabbreviation": "Eur J Med Res",
+          "nlmid": "9517857"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Background</h4>Pathology of the long head of the biceps tendon (LHBT) is a common source of anterior shoulder pain. Nanoscopic techniques allow minimally invasive tenotomy under local or regional anesthesia. Suprascapular nerve block (SSNB) provides targeted intraarticular analgesia and may facilitate awake shoulder procedures.<h4>Purpose</h4>To evaluate the feasibility, procedural tolerance, visualization quality, and short-term clinical outcomes of nanoscopic LHBT tenotomy performed under SSNB in elderly patients with isolated LHBT-related pain.<h4>Methods</h4>Eight patients (mean age 72.5\u2009\u00b1\u20092.7\u00a0years; range 68-76) with\u2009\u2265\u200912\u00a0months of isolated LHBT-related pain were included after screening 30 candidates. All had LHBT tendinopathy or partial tear confirmed by ultrasound or MRI and had failed\u2009\u2265\u20093 physiotherapy cycles and\u2009\u2265\u20092 corticosteroid injections. Procedures were performed with the Arthrex NanoScope under ultrasound-guided SSNB (6\u00a0mL). Pain (VAS) and function (Constant Score, CS) were recorded preoperatively and at 1\u00a0day, 2\u00a0weeks, and 6\u00a0weeks postoperatively. Exploratory one-way ANOVA was used to assess temporal improvements.<h4>Results</h4>All procedures were completed without sedation, conversion, or complications. Mean operative time was 12\u00a0min. VAS improved from 7.8 preoperatively to 4.2 (day 1), 4.0 (2\u00a0weeks), and 3.4 (6\u00a0weeks). CS improved from 51.5 to 68.4, 70.2, and 71.8, respectively. ANOVA demonstrated significant temporal change (VAS: F\u2009=\u2009158.4, p\u2009<\u20090.0001; CS: F\u2009=\u2009355.5, p\u2009<\u20090.0001). Visualization quality averaged 4.5/5. Mean patient satisfaction at 6\u00a0weeks was 4.6/5, with return to daily activity at 10\u00a0days. No Popeye deformity was observed.<h4>Conclusion</h4>Nanoscopic LHBT tenotomy under SSNB is feasible, safe, and well tolerated in elderly patients selected for isolated LHBT pathology. Early pain and function outcomes improved consistently. Larger comparative studies with longer follow-up are required.<h4>Level of evidence iv</h4>Trial registration RNN/60/25/KE.",
+      "affiliation": "Department of Orthopedics, Medical University of \u0141\u00f3d\u017a, \u0141\u00f3d\u017a, Poland. jedreklesman@yahoo.pl.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Biceps Tendon",
+          "Suprascapular Nerve Block",
+          "Minimally Invasive Shoulder Surgery",
+          "Needle Arthroscopy"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s40001-026-03924-w"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-03",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-03",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41630176",
+      "source": "MED",
+      "pmid": "41630176",
+      "doi": "10.1002/adhm.202504676",
+      "title": "Mucoadhesive Air Microbubbles With Sustained Antibiotic Release for Ultrasound-Guided Intrauterine Infusion Therapy of Endometritis.",
+      "authorString": "Tang T, Kong S, Ling M, Xie J, Yang X, Deng Q, Guo S, Zhou J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tang T",
+            "firstName": "Tianmin",
+            "lastName": "Tang",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kong S",
+            "firstName": "Shuying",
+            "lastName": "Kong",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ling M",
+            "firstName": "Meijuan",
+            "lastName": "Ling",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xie J",
+            "firstName": "Junyi",
+            "lastName": "Xie",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang X",
+            "firstName": "Xing",
+            "lastName": "Yang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center of Reproductive Medicine, The Sixth Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Deng Q",
+            "firstName": "Qiurong",
+            "lastName": "Deng",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guo S",
+            "firstName": "Shuanshuan",
+            "lastName": "Guo",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou J",
+            "firstName": "Jianhua",
+            "lastName": "Zhou",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9895-8679"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9895-8679"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4111676,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "Advanced healthcare materials",
+          "medlineAbbreviation": "Adv Healthc Mater",
+          "essn": "2192-2659",
+          "issn": "2192-2640",
+          "isoabbreviation": "Adv Healthc Mater",
+          "nlmid": "101581613"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "e04676",
+      "abstractText": "Endometritis, a common gynecological disease caused by ascending bacterial infection, is a leading cause of infertility. Currently, the clinical treatment relies primarily on antibiotic therapy, administered via intravenous injection, oral administration, or local delivery (e.g., intrauterine infusion). Nevertheless, intravenous injection aggravates hepatic and renal burdens, whereas oral administration elicits gastrointestinal reactions; intrauterine infusion suffers from drug leakage from the uterus due to gravity. Therefore, we developed mucoadhesive doxycycline hydrochloride-loaded air microbubbles (Mad-Doxy-MBs) for intrauterine infusion therapy of endometritis to overcome these limitations. The results showed that Mad-Doxy-MBs exhibited an ultrasound contrast-enhancement property so that they could be tracked by clinicians under ultrasound to achieve their precise localization on the endometrium when infused transvaginally. Subsequently, Mad-Doxy-MBs adhered to the endometrial surface and continuously released Doxy, exhibiting robust bactericidal and anti-inflammatory capacities. Compared with daily oral Doxy administration, two once-weekly intrauterine infusions of Mad-Doxy-MBs achieved superior therapeutic efficacy against endometritis while exhibiting markedly lower gastrointestinal toxicity. This drug delivery platform that integrates the properties of ultrasound visualization, mucoadhesion, and sustained drug release offers a clinically translatable strategy for intrauterine infusion therapy of endometritis and opens new avenues for precise and long-term drug delivery in other luminal diseases.",
+      "affiliation": "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2023YFF0714400",
+            "agency": "Key Research and Development of the Ministry of Science and Technology",
+            "orderIn": 0
+          },
+          {
+            "grantId": "JCYJ20230807111120043",
+            "agency": "Shenzhen Science and Technology Program",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Endometritis",
+          "Mucoadhesion",
+          "sustained release",
+          "Intrauterine Infusion",
+          "Air Microbubbles",
+          "Ultrasound Contrast\u2010enhancement"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/adhm.202504676"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-03",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-03",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41628053",
+      "source": "MED",
+      "pmid": "41628053",
+      "doi": "10.1097/rct.0000000000001813",
+      "title": "Multiscanner Comparison of UHCT for Small Airway Disease in Emphysema Patients Compared With Quantitative Expiratory CT Parameters.",
+      "authorString": "Yang WS, Li H, Gao Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yang WS",
+            "firstName": "Wei-Sen",
+            "lastName": "Yang",
+            "initials": "WS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, The Second Affiliated Hospital of Soochow University."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Hong",
+            "lastName": "Li",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, The Second Affiliated Hospital of Soochow University."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao Y",
+            "firstName": "Ya",
+            "lastName": "Gao",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Medical Ultrasound, Suzhou Municipal Hospital, The Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4111724,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "Journal of computer assisted tomography",
+          "medlineAbbreviation": "J Comput Assist Tomogr",
+          "essn": "1532-3145",
+          "issn": "0363-8715",
+          "isoabbreviation": "J Comput Assist Tomogr",
+          "nlmid": "7703942"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Objective</h4>To evaluate the diagnostic value of ultra-high-resolution computed tomography (UHCT) in assessing small airway disease (SAD) in patients with emphysema and analyse its correlation with quantitative expiratory CT parameters, while comparing the performance of different CT systems.<h4>Methods</h4>In this prospective study, 120 emphysema patients underwent CT scanning using 3 different systems: GE Revolution CT (256-slice), Philips IQon Elite Spectral CT, and GE Discovery CT750 HD (64-slice). Small airway measurements were performed from the third to seventh-generation airways, and quantitative CT parameters were analysed.<h4>Results</h4>The GE Revolution CT (256-slice) enabled visualization of airways up to the seventh generation in 82% of cases, compared with 68% using Philips IQon Elite Spectral CT and 53% using GE Discovery CT750 HD (P<0.001). Fourth-generation airway WA% showed strong negative correlation with FEV1% predicted (r=-0.72, P<0.001). The GE Revolution CT (256-slice) demonstrated superior reproducibility for wall-area measurements and lower radiation doses while maintaining superior image quality.<h4>Conclusion</h4>Ultra-high-resolution CT demonstrates superior capabilities in evaluating SAD in patients with emphysema, providing more precise and reproducible measurements compared with conventional CT systems. The strong correlations between structural and functional parameters validate the clinical relevance of these imaging biomarkers. The improved visualisation and quantification of distal airways, achieved with acceptable radiation exposure, represents an important advancement in SAD assessment.",
+      "affiliation": "Department of Radiology, The Second Affiliated Hospital of Soochow University.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Emphysema",
+          "Small airway disease",
+          "chronic obstructive pulmonary disease",
+          "Quantitative Computed Tomography Analysis",
+          "Ultra-high-resolution Computed Tomography"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1097/RCT.0000000000001813"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-02",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-02",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41623084",
+      "source": "MED",
+      "pmid": "41623084",
+      "doi": "10.1039/d5tb02216a",
+      "title": "Ratiometric near-infrared fluorescence probes for quantitative monitoring of mitochondrial pH dynamics in <i>Drosophila melanogaster</i> and HeLa cells during metformin treatment.",
+      "authorString": "Schwandt RJ, Campbell H, Baker LS, Pandey S, Kathuria I, Luck RL.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Schwandt RJ",
+            "firstName": "Ronald J",
+            "lastName": "Schwandt",
+            "initials": "RJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, Michigan Technological University, Houghton, MI 49931, USA. rluck@mtu.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Campbell H",
+            "firstName": "Hannah",
+            "lastName": "Campbell",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, Michigan Technological University, Houghton, MI 49931, USA. rluck@mtu.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Baker LS",
+            "firstName": "Lynsey S",
+            "lastName": "Baker",
+            "initials": "LS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, Michigan Technological University, Houghton, MI 49931, USA. rluck@mtu.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pandey S",
+            "firstName": "Subash",
+            "lastName": "Pandey",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, Michigan Technological University, Houghton, MI 49931, USA. rluck@mtu.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kathuria I",
+            "firstName": "Ishana",
+            "lastName": "Kathuria",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, Michigan Technological University, Houghton, MI 49931, USA. rluck@mtu.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luck RL",
+            "firstName": "Rudy L",
+            "lastName": "Luck",
+            "initials": "RL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5436-1942"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry, Michigan Technological University, Houghton, MI 49931, USA. rluck@mtu.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5436-1942"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4111830,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "Journal of materials chemistry. B",
+          "medlineAbbreviation": "J Mater Chem B",
+          "essn": "2050-7518",
+          "issn": "2050-750X",
+          "isoabbreviation": "J Mater Chem B",
+          "nlmid": "101598493"
+        }
+      },
+      "pubYear": "2026",
+      "abstractText": "This study introduces two new ratiometric probes, AH+ and BH+, designed to monitor mitochondrial pH dynamics. Derived from IR-780 iodide, these probes incorporate imidazole, hydroxy-xanthene, and hemicyanine groups. Owing to their positively charged hemicyanine groups, both probes selectively accumulate in mitochondria through electrostatic interactions. Their sensing mechanism is governed by deprotonation-induced \u03c0-conjugation rearrangements, enabling dual-emission fluorescence for real-time visualization of mitochondrial pH fluctuations. Monitoring of various cellular processes, including mitophagy, hypoxia, oxidative stress, and mitochondrial dysfunction induced by metformin, is reported. In their protonated states (AH+ and BH+), the probes exhibit large Stokes shifts (>90 nm) due to excited state intramolecular proton transfer (ESIPT). In contrast, the unprotonated forms (A and B) show anti-Stokes shifts. While theoretical calculations using the APFD/6-311+g(d,p) functional/basis set were conducted to simulate these effects, the results were inconsistent with experimental findings. The probes' suitability for measuring mitochondrial pH in HeLa cells was confirmed through a series of tests for photostability, selectivity, reversibility, and cytotoxicity. Colocalization experiments yielded high Pearson Correlation Coefficients (PCC) of 0.96 for AH+ and 0.93 for BH+, affirming their specific mitochondrial targeting. The probes successfully measured pH changes in HeLa cells under various conditions, including changes in buffer pH, starvation, oxygen deprivation, and chemical treatments with NAC, FCCP, and H<sub>2</sub>O<sub>2</sub>. Their ability to sense pH was also validated <i>in vivo</i> using <i>Drosophila melanogaster</i> larvae. Significantly, treatment with metformin was shown to alter mitochondrial pH levels, demonstrating the probes' utility in studying drug effects. Collectively, these findings establish AH+ and BH+ as powerful tools for probing mitochondrial function and cellular stress responses, offering new opportunities to explore fundamental mechanisms underlying health and disease.",
+      "affiliation": "Department of Chemistry, Michigan Technological University, Houghton, MI 49931, USA. rluck@mtu.edu.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1039/d5tb02216a"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-02-02",
+      "firstIndexDate": "2026-02-06",
+      "dateOfRevision": "2026-02-02",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41405283",
+      "source": "MED",
+      "pmid": "41405283",
+      "doi": "10.1039/d5an01112d",
+      "title": "Smartphone-assisted PEI@Eu-MOF lateral flow immunosensor for dual-modal POC detection of carbendazim.",
+      "authorString": "Li L, Lei D, Song P, Xu Q, Huang L, Ma X, Zhou L, Zhang P, Kong W.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li L",
+            "firstName": "Lingling",
+            "lastName": "Li",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China."
+                },
+                {
+                  "affiliation": "Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100193, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lei D",
+            "firstName": "Doudou",
+            "lastName": "Lei",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China."
+                },
+                {
+                  "affiliation": "Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100193, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Song P",
+            "firstName": "Pengyue",
+            "lastName": "Song",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100193, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu Q",
+            "firstName": "Qingbin",
+            "lastName": "Xu",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100193, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang L",
+            "firstName": "Lihua",
+            "lastName": "Huang",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ma X",
+            "firstName": "Xiao",
+            "lastName": "Ma",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou L",
+            "firstName": "Lidong",
+            "lastName": "Zhou",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100193, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang P",
+            "firstName": "Ping",
+            "lastName": "Zhang",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Medical Supplies Center of PLA General Hospital, Beijing 100039, PR China. zhp1231@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kong W",
+            "firstName": "Weijun",
+            "lastName": "Kong",
+            "initials": "W",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9943-7218"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China."
+                },
+                {
+                  "affiliation": "School of Traditional Chinese Medicine, Capital Medical University, Beijing 100069, China. kongwj302@126.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9943-7218"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "3",
+        "volume": "151",
+        "journalIssueId": 4111340,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "The Analyst",
+          "medlineAbbreviation": "Analyst",
+          "essn": "1364-5528",
+          "issn": "0003-2654",
+          "isoabbreviation": "Analyst",
+          "nlmid": "0372652"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "749-759",
+      "abstractText": "Sensitive detection of carbendazim (CBZ), a widely monitored bactericidal pesticide globally, is critical to reduce risks to human health. In this study, Eu ions were embedded into a rigid metal-organic framework (MOF), to prepare Eu-MOF as a fluorescence signal source, which was subsequently post-modified with polyethyleneimine (PEI) for efficient coupling with anti-CBZ monoclonal antibodies (mAbs). On this basis, a PEI@Eu-MOF-mAbs fluorescent probe-based lateral flow immunosensor (LFIS) was developed for CBZ analysis, enabling dual-mode detection: rapid visual qualitative observation by the naked eye and intelligent fluorescence quantitative analysis by using a smartphone. PEI modification not only effectively improved the zeta potential, fluorescence intensity, quantum yield, and biological coupling ability of the Eu-MOF to mAbs, but also significantly enhanced the stability and anti-interference performance of PEI@Eu-MOF. The introduction of PEI@Eu-MOF-mAbs probes characterized by strong fluorescence emission, long fluorescence lifetime, and low background interference, markedly improved the detection sensitivity of the LFIS platform for trace CBZ. Under optimal conditions, the detection limit for smartphone-assisted fluorescence analysis was as low as 1.3 pg mL<sup>-1</sup> with a wide linear detection range of 0.25-125 ng mL<sup>-1</sup> for CBZ. The recoveries in spiked <i>Panax notoginseng</i> samples were 93.40-106.0% with RSD <1.69%, indicating outstanding reliability of the newly developed LFIS platform for accurate detection of CBZ. In comparison with seven other common pesticides, CBZ produced significantly weakened and stable fluorescence, indicating good specificity and stability of the developed platform over 4 weeks. Compared with current analytical methods, the smartphone-assisted PEI@Eu-MOF-mAbs dual-modal LFIS platform exhibited advantages of simple construction, easy operation, rapid response, obvious visualization to the naked eye, and intelligent quantitative analysis, highlighting its broad application potential for rapid screening and accurate point-of-care detection of CBZ in a large number of foods and agricultural products.",
+      "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, Pharmacy College, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "7232265",
+            "agency": "Natural Science Foundation of Beijing Municipality",
+            "orderIn": 0
+          },
+          {
+            "grantId": "82474072",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "82274089",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "82474095",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Europium",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Carbamates",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Polyethyleneimine",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Benzimidazoles",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Antibodies, Monoclonal",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IM",
+                  "qualifierName": "immunology",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Fluorescent Dyes",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Immunoassay",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IS",
+                  "qualifierName": "instrumentation",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Limit of Detection"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Smartphone"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Metal-Organic Frameworks",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Carbamates",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Benzimidazoles",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Fluorescent Dyes",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Antibodies, Monoclonal",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Polyethyleneimine",
+            "registryNumber": "9002-98-6"
+          },
+          {
+            "name": "carbendazim",
+            "registryNumber": "H75J14AA89"
+          },
+          {
+            "name": "Europium",
+            "registryNumber": "444W947O8O"
+          },
+          {
+            "name": "Metal-Organic Frameworks",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1039/d5an01112d"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-02-02",
+      "dateOfCreation": "2025-12-17",
+      "firstIndexDate": "2025-12-17",
+      "dateOfRevision": "2026-02-02",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    },
+    {
+      "id": "41266254",
+      "source": "MED",
+      "pmid": "41266254",
+      "pmcid": "PMC12866391",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12866391"
+        ]
+      },
+      "doi": "10.2967/jnumed.125.270185",
+      "title": "Digital Biopsy and Network Analysis of Dynamic [<sup>68</sup>Ga]Ga-FAPI-46 Data in Patients with Malignant and Benign Pancreatic Lesions.",
+      "authorString": "R\u00f6hrich M, Glatting FM, Geisinger M, Spektor AM, Buchholz HG, Wessendorf J, von Goetze I, Hoppner J, Liermann J, Knoll M, Lang M, Heger U, Schreckenberger M, Loos M, Tavares A, Herfarth K, Debus J, Haberkorn U, Macaskill MG.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "R\u00f6hrich M",
+            "firstName": "Manuel",
+            "lastName": "R\u00f6hrich",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Glatting FM",
+            "firstName": "Frederik M",
+            "lastName": "Glatting",
+            "initials": "FM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology, University Medical Center Mannheim, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany; frederik.glatting@umm.de."
+                },
+                {
+                  "affiliation": "DKFZ-Hector Cancer Institute, University Medical Center Mannheim, Mannheim, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Geisinger M",
+            "firstName": "Magdalena",
+            "lastName": "Geisinger",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Spektor AM",
+            "firstName": "Anna-Maria",
+            "lastName": "Spektor",
+            "initials": "AM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Buchholz HG",
+            "firstName": "Hans-Georg",
+            "lastName": "Buchholz",
+            "initials": "HG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wessendorf J",
+            "firstName": "Joel",
+            "lastName": "Wessendorf",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "von Goetze I",
+            "firstName": "Isabelle",
+            "lastName": "von Goetze",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hoppner J",
+            "firstName": "Jorge",
+            "lastName": "Hoppner",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liermann J",
+            "firstName": "Jakob",
+            "lastName": "Liermann",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Knoll M",
+            "firstName": "Maximilian",
+            "lastName": "Knoll",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lang M",
+            "firstName": "Matthias",
+            "lastName": "Lang",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Heger U",
+            "firstName": "Ulrike",
+            "lastName": "Heger",
+            "initials": "U",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schreckenberger M",
+            "firstName": "Mathias",
+            "lastName": "Schreckenberger",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Loos M",
+            "firstName": "Martin",
+            "lastName": "Loos",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tavares A",
+            "firstName": "Adriana",
+            "lastName": "Tavares",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Cardiovascular Science, University of Edinburgh, Edinburgh, United Kingdom."
+                },
+                {
+                  "affiliation": "Edinburgh Imaging, University of Edinburgh, Edinburgh, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Herfarth K",
+            "firstName": "Klaus",
+            "lastName": "Herfarth",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Debus J",
+            "firstName": "J\u00fcrgen",
+            "lastName": "Debus",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiation Oncology, University Hospital Heidelberg, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Haberkorn U",
+            "firstName": "Uwe",
+            "lastName": "Haberkorn",
+            "initials": "U",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, University Hospital Heidelberg, Heidelberg, Germany."
+                },
+                {
+                  "affiliation": "German Center of Lung Research, Heidelberg, Germany; and."
+                },
+                {
+                  "affiliation": "Clinical Cooperation Unit Nuclear Medicine, German Cancer Research Center, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Macaskill MG",
+            "firstName": "Mark G",
+            "lastName": "Macaskill",
+            "initials": "MG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Cardiovascular Science, University of Edinburgh, Edinburgh, United Kingdom."
+                },
+                {
+                  "affiliation": "Edinburgh Imaging, University of Edinburgh, Edinburgh, United Kingdom."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "67",
+        "journalIssueId": 4111932,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-02-01",
+        "journal": {
+          "title": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
+          "medlineAbbreviation": "J Nucl Med",
+          "essn": "1535-5667",
+          "issn": "0161-5505",
+          "isoabbreviation": "J Nucl Med",
+          "nlmid": "0217410"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "304-312",
+      "abstractText": "The pathologies pancreatic ductal adenocarcinomas, inflammatory lesions of the pancreas, postpancreatectomy reactive tissue, and recurrent pancreatic ductal adenocarcinomas all express fibroblast activation protein and are hardly distinguishable by static PET using [<sup>68</sup>Ga]Ga-labeled fibroblast activation protein inhibitors (FAPIs) combined with CT. Dynamic imaging allows full [<sup>68</sup>Ga]-Ga-FAPI kinetic profile analysis, highlighting differences among these pathologies. Here, we applied a voxel-level digital biopsy approach combined with network analysis and clustering to characterize healthy, nonmalignant pathologic, and malignant pathologic kinetic signatures. <b>Methods:</b> This monocentric, retrospective study included 47 patients (>18 y) with morphologically unclear pancreatic lesions on CT or MRI and supplemental [<sup>68</sup>Ga]Ga-FAPI-46 PET/CT in a primary (31 patients) or recurrent (16 patients) setting. Lesions were classified according to biopsy results (primary cases) or CT appearance and clinical course (recurrent cases). Digital biopsy samples (300 voxels) of pancreatic lesions and control organs (muscle, fat, kidneys, liver, and blood) were taken and then masked and imported into an open source visual analytics application. Voxel networks were created with multiple digital biopsy samples from a single scan or digital biopsy samples combined from multiple scans, with a minimum Pearson correlation value of 0.7. A <i>k</i>-nearest-neighbor edge reduction was applied before Markov clustering. Datasets were then unmasked for interpretation. Static PET parameters (SUV<sub>max</sub> and SUV<sub>mean</sub>) and time to peak of pancreatic lesions and control tissues were extracted from isotropic volumes and analyzed by a <i>t</i> test (threshold for significance, <i>P</i> = 0.05). <b>Results:</b> This work created 47 individual networks and 2 combined networks. Within individual networks, voxels tended to arrange and cluster within the sampled volume of interest (VOI; left and right kidneys strongly coclustered). Networks typically arranged into healthy controls, elimination organs, and pathologic (malignant and nonmalignant) regions. Pathologies tended to cluster with high purity (>95% from the same VOI), with multiple clusters per VOI, indicating intralesional heterogeneity. Our analysis approach could differentiate between malignant and nonmalignant pathologies in the primary and recurrence settings. This differentiation was driven by slower FAPI clearance within malignant voxels. <b>Conclusion:</b> The kinetics of [<sup>68</sup>Ga]Ga-FAPI-46 across the different tissues, coupled with this sampling and analysis approach, allowed the separation and identification of healthy, nonmalignant pathologic, and malignant pathologic clusters and kinetic features that may facilitate diagnosis and warrant further investigation.",
+      "affiliation": "Department of Nuclear Medicine, University Hospital Mainz, Mainz, Germany.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Pancreatic Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gallium Radioisotopes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Quinolines"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Membrane Proteins"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biopsy"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retrospective Studies"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Image Processing, Computer-Assisted"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Positron Emission Tomography Computed Tomography"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Clustering",
+          "Pancreatic Ductal Adenocarcinoma",
+          "Dynamic Pet",
+          "[68Ga]ga-fapi"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Membrane Proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Quinolines",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Gallium Radioisotopes",
+            "registryNumber": "0"
+          },
+          {
+            "name": "68Ga-FAPI",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2967/jnumed.125.270185"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12866391"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12866391?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-02-02",
+      "dateOfCreation": "2025-11-20",
+      "firstIndexDate": "2025-11-21",
+      "fullTextReceivedDate": "2026-02-06",
+      "dateOfRevision": "2026-02-02",
+      "electronicPublicationDate": "2026-02-02",
+      "firstPublicationDate": "2026-02-02"
+    }
+  ]
+}
