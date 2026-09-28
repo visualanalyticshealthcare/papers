@@ -1,0 +1,3891 @@
+{
+  "start_date": "2026-09-21",
+  "end_date": "2026-09-28",
+  "records_fetched": 16,
+  "articles": [
+    {
+      "id": "42771875",
+      "source": "MED",
+      "pmid": "42771875",
+      "pmcid": "PMC13597014",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13597014"
+        ]
+      },
+      "doi": "10.2196/93006",
+      "title": "The Digital Diabetes Patient Reminder Tool for Adults With Type 2 Diabetes: Protocol for a Proof-of-Concept Randomized Controlled Trial.",
+      "authorString": "Annancy B, Van den Bulck S, Fieuws S, Van den Mooter L, Vangoitsenhoven R, Goderis G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Annancy B",
+            "lastName": "Annancy",
+            "firstName": "Barbara",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0001-4455-2873"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Academic Center for General Practice, Department of Public Health and Primary Care, KU Leuven, Kapucijnenvoer 7 blok g - bus 7001, Leuven, Flanders, 3000, Belgium, 32 16330078."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Van den Bulck S",
+            "lastName": "Van den Bulck",
+            "firstName": "Steve",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0744-3923"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Academic Center for General Practice, Department of Public Health and Primary Care, KU Leuven, Kapucijnenvoer 7 blok g - bus 7001, Leuven, Flanders, 3000, Belgium, 32 16330078."
+                },
+                {
+                  "affiliation": "Research Group Healthcare and Ethics, Faculty of Medicine and Life Sciences, UHasselt, Hasselt, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fieuws S",
+            "lastName": "Fieuws",
+            "firstName": "Steffen",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6875-8366"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Leuven Biostatistics and Statistical Bioinformatics Centre (L-BioStat), Department of Public Health and Primary Care, KU Leuven, Leuven, Flanders, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Van den Mooter L",
+            "lastName": "Van den Mooter",
+            "firstName": "Laura",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3427-6657"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Endocrinology, Department of Endocrinology And Diabetology, Regional Hospital of Tienen, Tienen, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vangoitsenhoven R",
+            "lastName": "Vangoitsenhoven",
+            "firstName": "Roman",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3523-669X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Endocrinology, Department of Endocrinology, University Hospital of Leuven, Leuven, Belgium."
+                },
+                {
+                  "affiliation": "Clinical and Experimental Endocrinology, Department of Chronic diseases and Metabolism, KU Leuven, Leuven, Flanders, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Goderis G",
+            "lastName": "Goderis",
+            "firstName": "Geert",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5303-2290"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Academic Center for General Practice, Department of Public Health and Primary Care, KU Leuven, Kapucijnenvoer 7 blok g - bus 7001, Leuven, Flanders, 3000, Belgium, 32 16330078."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5303-2290"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6875-8366"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0744-3923"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3427-6657"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3523-669X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0001-4455-2873"
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "15",
+        "journalIssueId": 4252155,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "JMIR Res Protoc",
+          "title": "JMIR research protocols",
+          "essn": "1929-0748",
+          "issn": "1929-0748",
+          "nlmid": "101599504",
+          "isoabbreviation": "JMIR Res Protoc"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "e93006",
+      "abstractText": "<h4>Background</h4>About 828 million adults were estimated to be living with diabetes, and this is projected to affect 1 in 9 adults by 2045. In Belgium, 7.6% of adults have been diagnosed with the disease; however, approximately 1 in 3 people remain unaware of their condition. Advances in information and communication technology (ICT) have improved care quality and health management, and facilitated communication between health care providers and patients. The Digital Diabetes Patient Reminder (DIPAR) tool was developed as an extension of the existing patient portal to support diabetes management through automated reminders for overdue monitoring, and a consultation dashboard that facilitates communication between patients and health care providers. This pilot study was conducted within the European Joint Action on Cardiovascular Diseases and Diabetes framework.<h4>Objective</h4>This trial aims to evaluate whether the implementation of the DIPAR tool improves adherence to recommended diabetes follow-up. The primary objective is to determine whether the intervention increases the proportion of adults with type 2 diabetes mellitus (T2DM) who receive at least one documented annual albuminuria measurement in the electronic medical records (EMR). The key secondary objective is to assess whether the intervention increases the proportion of patients with at least 2 documented hemoglobin A<sub>1c</sub> (HbA<sub>1c</sub>) measurements within 12 months. Exploratory objectives include evaluating changes in diabetes-related clinical parameters (HbA<sub>1c</sub>, albuminuria, low-density lipoprotein (LDL)-cholesterol, and systolic blood pressure), as well as the usability and acceptability of the intervention among patients and health care professionals.<h4>Methods</h4>This multicenter, pragmatic, parallel-group, proof-of-concept randomized controlled trial (RCT) will recruit approximately 200 adults with T2DM receiving outpatient diabetes care at 2 hospitals in Flanders, Belgium. Participants will be randomized (1:1), stratified only by study center, to receive either the DIPAR tool extension in addition to usual care or usual care alone using the standard patient portal. The intervention consists of automated reminders for timely follow-up and a consultation dashboard to be used by patients and physicians. The intervention will last 12 months. Clinical outcomes will be extracted from the EMR, while usability and acceptability will be evaluated using the Dutch and English versions of the Mobile Health App Usability Questionnaire (MAUQ), semistructured interviews, and focus group discussions. The primary analysis will follow the intention-to-treat principle using regression-based methods appropriate for each outcome.<h4>Results</h4>Recruitment started in October 2025 and was completed in December 2025. A total of 201 patients were recruited, with 100 participants allocated to the intervention group. Data extraction did not commence until March 2026, after the completion of the statistical analysis plan and the protocol submission. Data analysis has not started.<h4>Conclusions</h4>This study will provide insights into the potential added value of a digital reminder tool for T2DM management in a real-world setting as well as the usability and acceptability of this tool.",
+      "affiliation": "Academic Center for General Practice, Department of Public Health and Primary Care, KU Leuven, Kapucijnenvoer 7 blok g - bus 7001, Leuven, Flanders, 3000, Belgium, 32 16330078.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Clinical Trial Protocol",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Albuminuria",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DI",
+                  "qualifierName": "diagnosis"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Diabetes Mellitus, Type 2",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pilot Projects"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Reminder Systems",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "IS",
+                  "qualifierName": "instrumentation"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Belgium"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Randomized Controlled Trials as Topic"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proof of Concept Study"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Glycated Hemoglobin",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Dashboard Systems"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Digital Health"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adherence Interventions"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Diabetes",
+          "Type 2 diabetes mellitus",
+          "Self-management",
+          "Self-care",
+          "Ehealth",
+          "Mhealth",
+          "Digital Intervention",
+          "Mobile Health App",
+          "Digital Diabetes Patient Reminder (Dipar)",
+          "Joint Action For Cardiovascular Diseases And Diabetes (Jacardi)"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Glycated Hemoglobin",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/93006"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13597014"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13597014?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-09-22",
+      "dateOfCreation": "2026-09-22",
+      "dateOfRevision": "2026-09-24",
+      "electronicPublicationDate": "2026-09-22",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-23",
+      "fullTextReceivedDate": "2026-09-25",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42767133",
+      "source": "MED",
+      "pmid": "42767133",
+      "doi": "10.1016/j.ijmedinf.2026.106715",
+      "title": "The role and impact of hospital dashboards aligned to externally-driven quality care frameworks: A scoping review.",
+      "authorString": "Haryanto A, Ngo C, Cheng-Zarate D, Duncan G, Taylor D, Parsotam N, Wybrow M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Haryanto A",
+            "lastName": "Haryanto",
+            "firstName": "Agnes",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Information Technology, Monash University, Melbourne, Australia. Electronic address: Agnes.Haryanto@monash.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ngo C",
+            "lastName": "Ngo",
+            "firstName": "Cathy",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Medicine, Nursing and Health Sciences, Monash University, Melbourne, Australia. Electronic address: Cathy.Ngo@monash.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cheng-Zarate D",
+            "lastName": "Cheng-Zarate",
+            "firstName": "David",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Information Technology, Monash University, Melbourne, Australia. Electronic address: David.ChengZarate@monash.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Duncan G",
+            "lastName": "Duncan",
+            "firstName": "Gregory",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Medicine, Nursing and Health Sciences, Monash University, Melbourne, Australia. Electronic address: Gregory.Duncan@monash.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Taylor D",
+            "lastName": "Taylor",
+            "firstName": "David",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Eastern Health Institute, Eastern Health, Melbourne, Australia. Electronic address: David.Taylor@easternhealth.org.au."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Parsotam N",
+            "lastName": "Parsotam",
+            "firstName": "Nirasha",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Digital Health Cooperative Research Centre, Sydney, Australia. Electronic address: Nirasha.Parsotam@dhcrc.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wybrow M",
+            "lastName": "Wybrow",
+            "firstName": "Michael",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Information Technology, Monash University, Melbourne, Australia. Electronic address: Michael.Wybrow@monash.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "222",
+        "journalIssueId": 4257538,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Int J Med Inform",
+          "title": "International journal of medical informatics",
+          "essn": "1872-8243",
+          "issn": "1386-5056",
+          "nlmid": "9711057",
+          "isoabbreviation": "Int J Med Inform"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "106715",
+      "abstractText": "<h4>Background</h4>Quality assurance in hospitals is important to ensure patient safety and clinical care outcomes. As healthcare systems grow more complex, hospitals seek effective ways to monitor and improve care quality. Dashboards have emerged as valuable tools, providing real-time, data-driven insights for quality assurance and continuous improvement including demonstration of compliance with external regulatory and accreditation frameworks.<h4>Objective</h4>This scoping review aims to identify and summarise evidence for the role and impact of hospital dashboards aligned to regulatory quality care frameworks.<h4>Methods</h4>A scoping literature search was conducted on MEDLINE, Embase, Emcare, Global Health, and Web of Science databases, from each database's inception to October 2025. Studies were included if they described the implementation of dashboard(s) for inpatient hospital care, with measures aligned to an externally determined framework and outcome measures reported. Descriptive characteristics of dashboard purpose, quality measures, clinical setting and outcome measures were extracted.<h4>Results</h4>21 studies were included in the analysis. Most of these studies were conducted in the United States (81%) and one study each from Australia, India, Oman, and the United Kingdom. Dashboards were primarily implemented at a hospital-wide level (76%), with 2 studies focused on specific departments or sites. Most studies reported impacts on process outcomes, including improved data timeliness, identification of performance gaps, enhanced dissemination, strengthened governance, improved workflow integration, and greater transparency and accountability. Over half of the studies (57%) reported a change in outcomes for at least one clinical measure over time. Except for a few measures, improvement in clinical outcomes was a trend across all studies and dashboards.<h4>Conclusions</h4>Hospital dashboards aligned with externally driven quality care frameworks play a significant role in enhancing quality assurance processes and governance. While there was a trend for improvement in clinical outcomes, the observation is based on limited studies of low homogeneity.",
+      "affiliation": "Faculty of Information Technology, Monash University, Melbourne, Australia. Electronic address: Agnes.Haryanto@monash.edu.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Health Informatics",
+          "Regulatory Compliance",
+          "Quality And Safety",
+          "Dashboards",
+          "Digital Health",
+          "Hospital Quality Assurance"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.ijmedinf.2026.106715"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-21",
+      "dateOfRevision": "2026-09-21",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42773234",
+      "source": "MED",
+      "pmid": "42773234",
+      "doi": "10.1038/s41390-026-05515-1",
+      "title": "Management of peripheral venous access devices (PVADs): Neonatal European Vascular Access Team - ESPR Recommendation 5.",
+      "authorString": "van Rens M, van der Lee R, van den Hoogen A, Rodriguez-Perez C, Piersigilli F, Mader S, Geiger I, Barone G, Van Eenoo S, Hugill K, Pediatric and Neonatal Vascular Access Special Interest Group (SIG) of the European Society for Pediatric Research (ESPR) and Neonatal European Vascular Access Team (NEVAT).",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "van Rens M",
+            "lastName": "van Rens",
+            "firstName": "Matheus",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9359-0895"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neonatal Intensive Care Unit, Radboud University Medical Center, Amalia Children's Hospital, Nijmegen, The Netherlands. roland.vanrens@radboudumc.nl."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "van der Lee R",
+            "lastName": "van der Lee",
+            "firstName": "Robin",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4487-2962"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neonatal Intensive Care Unit, Radboud University Medical Center, Amalia Children's Hospital, Nijmegen, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "van den Hoogen A",
+            "lastName": "van den Hoogen",
+            "firstName": "Agnes",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2032-2472"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division Woman and Baby, Neonatology, Wilhelmina Children's Hospital University Medical Centre and Utrecht University, Utrecht, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rodriguez-Perez C",
+            "lastName": "Rodriguez-Perez",
+            "firstName": "Carmen",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1316-9388"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neonatal Intensive Care Unit, Children's Hospital ASST Spedale Civili, Brescia, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Piersigilli F",
+            "lastName": "Piersigilli",
+            "firstName": "Fiammetta",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6581-2822"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neonatal Intensive Care Unit, Louvain University, Saint Luc, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mader S",
+            "lastName": "Mader",
+            "firstName": "Silke",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "European Foundation for the Care of Newborn Infants (EFCNI), Munich, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Geiger I",
+            "lastName": "Geiger",
+            "firstName": "Isabel",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "European Foundation for the Care of Newborn Infants (EFCNI), Munich, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Barone G",
+            "lastName": "Barone",
+            "firstName": "Giovanni",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8015-7299"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neonatal Intensive Care Unit, Infermi Hospital, Rimini, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Van Eenoo S",
+            "lastName": "Van Eenoo",
+            "firstName": "Suzy",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-3558-0722"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "NEVAT, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hugill K",
+            "lastName": "Hugill",
+            "firstName": "Kevin",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3096-9635"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "NEVAT, Brussels, Belgium."
+                },
+                {
+                  "affiliation": "Formerly of Nursing and Midwifery Education, Hamad Medical Corporation, Doha, Qatar."
+                }
+              ]
+            }
+          },
+          {
+            "collectiveName": "Pediatric and Neonatal Vascular Access Special Interest Group (SIG) of the European Society for Pediatric Research (ESPR) and Neonatal European Vascular Access Team (NEVAT)"
+          }
+        ]
+      },
+      "investigatorList": {
+        "investigator": [
+          {
+            "fullName": "van Rens M",
+            "lastName": "van Rens",
+            "firstName": "Matheus",
+            "initials": "M"
+          },
+          {
+            "fullName": "Van Der Lee R",
+            "lastName": "Van Der Lee",
+            "firstName": "Robin",
+            "initials": "R"
+          },
+          {
+            "fullName": "van den Hoogen A",
+            "lastName": "van den Hoogen",
+            "firstName": "Agnes",
+            "initials": "A"
+          },
+          {
+            "fullName": "van Eenoo S",
+            "lastName": "van Eenoo",
+            "firstName": "Suzy",
+            "initials": "S"
+          },
+          {
+            "fullName": "Breschan C",
+            "lastName": "Breschan",
+            "firstName": "Christian",
+            "initials": "C"
+          },
+          {
+            "fullName": "Pittiruti M",
+            "lastName": "Pittiruti",
+            "firstName": "Mauro",
+            "initials": "M"
+          },
+          {
+            "fullName": "Oulego-Erroz I",
+            "lastName": "Oulego-Erroz",
+            "firstName": "Ignacio",
+            "initials": "I"
+          },
+          {
+            "fullName": "Werther T",
+            "lastName": "Werther",
+            "firstName": "Tobias",
+            "initials": "T"
+          },
+          {
+            "fullName": "Ouwehand T",
+            "lastName": "Ouwehand",
+            "firstName": "Tom",
+            "initials": "T"
+          },
+          {
+            "fullName": "Schwaberger B",
+            "lastName": "Schwaberger",
+            "firstName": "Bernhard",
+            "initials": "B"
+          },
+          {
+            "fullName": "Debuf MJ",
+            "lastName": "Debuf",
+            "firstName": "Marie-Julie",
+            "initials": "MJ"
+          },
+          {
+            "fullName": "Milan A",
+            "lastName": "Milan",
+            "firstName": "Anna",
+            "initials": "A"
+          },
+          {
+            "fullName": "Yousef N",
+            "lastName": "Yousef",
+            "firstName": "Nadya",
+            "initials": "N"
+          },
+          {
+            "fullName": "Boyadzhiev S",
+            "lastName": "Boyadzhiev",
+            "firstName": "Shteryu",
+            "initials": "S"
+          },
+          {
+            "fullName": "Singh Y",
+            "lastName": "Singh",
+            "firstName": "Yogen",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Romitti MG",
+            "lastName": "Romitti",
+            "firstName": "Maria Grazia",
+            "initials": "MG"
+          },
+          {
+            "fullName": "De Bisschop B",
+            "lastName": "De Bisschop",
+            "firstName": "Barbara",
+            "initials": "B"
+          },
+          {
+            "fullName": "Van Delft B",
+            "lastName": "Van Delft",
+            "firstName": "Brenda",
+            "initials": "B"
+          },
+          {
+            "fullName": "Mar\u00e7al M",
+            "lastName": "Mar\u00e7al",
+            "firstName": "M\u00f3nica",
+            "initials": "M"
+          },
+          {
+            "fullName": "Salazar A",
+            "lastName": "Salazar",
+            "firstName": "Anabela",
+            "initials": "A"
+          },
+          {
+            "fullName": "Tuna ML",
+            "lastName": "Tuna",
+            "firstName": "Madalena Lopo",
+            "initials": "ML"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9359-0895"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1316-9388"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3096-9635"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6581-2822"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8015-7299"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2032-2472"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4487-2962"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-3558-0722"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4252589,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Pediatr Res",
+          "title": "Pediatric research",
+          "essn": "1530-0447",
+          "issn": "0031-3998",
+          "nlmid": "0100714",
+          "isoabbreviation": "Pediatr Res"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Impact</h4>Vascular access is a pervasive facet of contemporary neonatal practice, yet it lacks standardization, and some practices lack supporting evidence. This recommendation introduces a structured, evidence-based approach to neonatal peripheral venous access, addressing longstanding challenges such as high failure rates and inconsistent clinical practices. Its novelty lies in integrating advanced visualization tools, standardized assessment protocols (RaSuVA, TLC), and modern securement strategies to optimize catheter longevity and safety. By shifting from habit-driven decisions to individualized vascular access planning, it sets a new standard for safer, more effective neonatal IV therapy.",
+      "affiliation": "Neonatal Intensive Care Unit, Radboud University Medical Center, Amalia Children's Hospital, Nijmegen, The Netherlands. roland.vanrens@radboudumc.nl.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41390-026-05515-1"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-22",
+      "dateOfRevision": "2026-09-22",
+      "electronicPublicationDate": "2026-09-22",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-23",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42747876",
+      "source": "MED",
+      "pmid": "42747876",
+      "doi": "10.55460/j.spec.oper.med.2026.4ylv-tx21",
+      "title": "Tactical Venous Access: Clinical and Operational Considerations of IV and IO Access in High-Acuity Environments.",
+      "authorString": "Gutierrez M, Menendez Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Gutierrez M",
+            "lastName": "Gutierrez",
+            "firstName": "Martrin",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Universidad Profesional Dr Carlos J Borrero Rios, San Juan, Puerto Rico."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Menendez Y",
+            "lastName": "Menendez",
+            "firstName": "Yisel",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Universidad Profesional Dr Carlos J Borrero Rios, San Juan, Puerto Rico."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4257927,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "J Spec Oper Med",
+          "title": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
+          "issn": "1553-9768",
+          "nlmid": "101158402",
+          "isoabbreviation": "J Spec Oper Med"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "J.Spec.Oper.Med.2026.4YLV-TX21",
+      "abstractText": "Peripheral intravenous (IV) access remains the standard route for the administration of critical medications in both hospital and military environments. However, under high-acuity and tactical conditions, its success may be affected by trauma physiology and operational constraints. Intraosseous (IO) access provides a reliable rescue pathway when IV access cannot be rapidly obtained; nevertheless, differences in pharmacokinetic performance between IO and IV routes may have clinical relevance in specific scenarios. This manuscript integrates available clinical and operational evidence to examine the challenges associated with vascular access in modern combat and other high-acuity environments. It highlights the variability in IV success rates, the physiological and operational factors that influence access, and the limitations of approaches based primarily on palpation techniques. Additionally, the analysis explores the role of visualization technologies in improving decision-making and access success, particularly in settings where time, mobility, and resource availability influence clinical practice. Rather than proposing a specific technological implementation, this work frames vascular access as a context-dependent challenge and identifies key factors that may influence its optimization in both tactical and civilian settings.",
+      "affiliation": "Universidad Profesional Dr Carlos J Borrero Rios, San Juan, Puerto Rico.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Vascular Access",
+          "Ultrasound Guidance",
+          "Austere Environments",
+          "Combat Medic",
+          "Emergency Resuscitation",
+          "Battlefield Medicine",
+          "Intraosseous Limitations",
+          "Intravenous Failure",
+          "Tactical Venous Access"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.55460/J.Spec.Oper.Med.2026.4YLV-TX21"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-16",
+      "dateOfRevision": "2026-09-25",
+      "electronicPublicationDate": "2026-09-25",
+      "firstPublicationDate": "2026-09-25",
+      "firstIndexDate": "2026-09-17",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42773270",
+      "source": "MED",
+      "pmid": "42773270",
+      "doi": "10.1007/s00062-026-01724-7",
+      "title": "Deep Learning Reconstruction Enables Substantial Radiation Dose Reduction in Ultra-High-Resolution Temporal Bone CT: a\u00a0Body Donor Study.",
+      "authorString": "Brockstedt L, Altmann S, Kim S, Beshr M, Kronfeld A, Schmeisser MJ, Schumann S, Pavlas F, Sanner A, Brockmann MA, Othman AE.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Brockstedt L",
+            "lastName": "Brockstedt",
+            "firstName": "Lavinia",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Altmann S",
+            "lastName": "Altmann",
+            "firstName": "Sebastian",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kim S",
+            "lastName": "Kim",
+            "firstName": "Suam",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8940-4076"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Beshr M",
+            "lastName": "Beshr",
+            "firstName": "Mohammed",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kronfeld A",
+            "lastName": "Kronfeld",
+            "firstName": "Andrea",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schmeisser MJ",
+            "lastName": "Schmeisser",
+            "firstName": "Michael J",
+            "initials": "MJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Anatomy, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schumann S",
+            "lastName": "Schumann",
+            "firstName": "Sven",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Anatomy, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                },
+                {
+                  "affiliation": "Department of Integrated Basic Medical Science, Macroscopic Anatomy, Medical University Lausitz - Carl Thiem, Cottbus, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pavlas F",
+            "lastName": "Pavlas",
+            "firstName": "Filip",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Anatomy, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sanner A",
+            "lastName": "Sanner",
+            "firstName": "Antoine",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4917-9529"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Brockmann MA",
+            "lastName": "Brockmann",
+            "firstName": "Marc A",
+            "initials": "MA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Othman AE",
+            "lastName": "Othman",
+            "firstName": "Ahmed E",
+            "initials": "AE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany. Ahmed.Othman@unimedizin-mainz.de."
+                },
+                {
+                  "affiliation": "Department of Diagnostic and Interventional Neuroradiology, Hannover Medical School, Hannover, Germany. Ahmed.Othman@unimedizin-mainz.de."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8940-4076"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4917-9529"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4259063,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Clin Neuroradiol",
+          "title": "Clinical neuroradiology",
+          "essn": "1869-1447",
+          "issn": "1869-1439",
+          "nlmid": "101526693",
+          "isoabbreviation": "Clin Neuroradiol"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Purpose</h4>Deep learning reconstruction may enable substantial radiation dose reduction in ultra-high-resolution (UHR) temporal bone CT, but its performance across clinically relevant dose levels remains insufficiently defined. This study evaluated vendor-specific deep learning reconstruction (DLR) compared with hybrid iterative reconstruction (HIR) in UHR volume-mode temporal bone CT and aimed to propose an indication-adapted framework for dose optimization.<h4>Methods</h4>In this single-center body donor study, 20\u00a0temporal bones from 10\u00a0donors without pathologic findings were scanned at\u202f11 dose levels (CTDI<sub>vol</sub>, 5.1-30.7\u202fmGy). Images were reconstructed using HIR at standard resolution (0.5\u202fmm, 512<sup>2</sup> matrix) and UHR (0.25\u202fmm, 1024<sup>2</sup> and 2048<sup>2</sup> matrices), as well as DLR (AiCE Inner Ear) at UHR (0.25\u202fmm, 1024<sup>2</sup> matrix). Three radiologists independently assessed 10\u202fanatomical structures using a\u00a05-point Likert scale. Signal-to-noise ratio was measured in predefined regions. Exploratory structure-specific generalized estimating equation models were used to estimate the probability of achieving optimal image quality as a\u00a0function of radiation dose and reconstruction technique.<h4>Results</h4>DLR significantly improved visualization of osseous structures compared with HIR (p\u202f<\u20090.001). The exploratory dose-response analysis demonstrated reconstruction-specific trajectories, with DLR achieving higher predicted probabilities of optimal image quality than HIR at lower dose levels. For routine clinical indications, diagnostically adequate image quality was achieved with DLR at a\u00a0CTDI<sub>vol</sub> of 13.3\u202fmGy, representing a\u00a048% dose reduction compared with HIR (CTDI<sub>vol</sub> 25.6\u202fmGy). For high-detail assessment of delicate microanatomical structures, including the stapes and cochlea, DLR achieved excellent visualization at a\u00a0CTDI<sub>vol</sub> of 17.4\u202fmGy, corresponding to a\u00a043% dose reduction compared with HIR (CTDI<sub>vol</sub> 30.7\u202fmGy).<h4>Conclusion</h4>Vendor-specific DLR enables substantial radiation dose reduction in UHR volume-mode temporal bone CT while maintaining high diagnostic image quality. These findings support an indication-adapted framework for dose optimization, suggesting a\u00a0routine clinical protocol at CTDI<sub>vol</sub> 13.3\u202fmGy and a\u00a0microanatomy-optimized protocol at CTDI<sub>vol</sub> 17.4\u202fmGy.",
+      "affiliation": "Department of Neuroradiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "computed tomography",
+          "Image Quality",
+          "Deep Learning",
+          "Ultra-high Resolution",
+          "Dose Reduction, Temporal Bone"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s00062-026-01724-7"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-22",
+      "dateOfRevision": "2026-09-22",
+      "electronicPublicationDate": "2026-09-22",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-23",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42767253",
+      "source": "MED",
+      "pmid": "42767253",
+      "doi": "10.1055/a-2938-7233",
+      "title": "[Ulnar carpometacarpal joint fracture luxation of fourth and fifth ray].",
+      "authorString": "Tenbrock A, Weber S, Lautenbach M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tenbrock A",
+            "lastName": "Tenbrock",
+            "firstName": "Arne",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0007-5355-6933"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Krankenhaus Waldfriede e V, Handchirurgie, obere Extremit\u00e4t und Fu\u00dfchirurgie, Zentrum f\u00fcr Orthop\u00e4die, Unfallchirurgie, Zentrum f\ufeff\u00fcr Rheumatologie und Rheumaorthop\u00e4die, Germany, Berlin-Zehlendorf."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Weber S",
+            "lastName": "Weber",
+            "firstName": "Stefan",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BG Klinikum Bergmannstrost Halle, Klinik f\u00fcr Plastische und Handchirurgie, Brandverletztenzentrum, Germany, Halle (Saale)."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lautenbach M",
+            "lastName": "Lautenbach",
+            "firstName": "Martin",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Krankenhaus Waldfriede e V, Handchirurgie, obere Extremit\u00e4t und Fu\u00dfchirurgie, Zentrum f\u00fcr Orthop\u00e4die, Unfallchirurgie, Zentrum f\ufeff\u00fcr Rheumatologie und Rheumaorthop\u00e4die, Germany, Berlin-Zehlendorf."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0007-5355-6933"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4260750,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Handchir Mikrochir Plast Chir",
+          "title": "Handchirurgie, Mikrochirurgie, plastische Chirurgie : Organ der Deutschsprachigen Arbeitsgemeinschaft fur Handchirurgie : Organ der Deutschsprachigen Arbeitsgemeinschaft fur Mikrochirurgie der Peripheren Nerven und Gefasse : Organ der V...",
+          "essn": "1439-3980",
+          "issn": "0722-1819",
+          "nlmid": "8302815",
+          "isoabbreviation": "Handchir Mikrochir Plast Chir"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Abstract</h4>Carpometacarpal fracture dislocations of the ulnar rays are rare but complex injuries of the hand and frequently pose a significant diagnostic and therapeutic challenge.<h4>Abstract</h4>Epidemiologically, affected patients are predominantly young males, with a high proportion of injuries resulting from punching mechanisms. Owing to the often unspecific clinical presentation and difficult visualization in conventional radiographs, there is a substantial risk of delayed diagnosis and treatment, which appears to be associated with inferior clinical outcomes. Early CT scans in cases of suspected injury are therefore considered essential.<h4>Abstract</h4>In addition to the consistent involvement of the fifth metacarpal (MC V), the fourth metacarpal (MC IV) and the hamate bone are frequently involved, either isolated or in combination. Conservative treatment appears to be sufficient only in rare cases, while surgical management is generally preferred. The choice of surgical approach and fixation technique, ranging from transfixing or reduction Kirschner wires to screw or plate osteosynthesis, depends on the specific injury pattern and should be determined on a case-by-case basis.<h4>Abstract</h4>Despite the complexity of these injuries, clinical outcomes after appropriate surgical management are generally favorable. However, robust long-term data addressing postoperative functional limitations and the development of post-traumatic osteoarthritis remain limited. In mid-term follow-up, hand therapy can achieve good results in terms of strength and function. In cases of post-traumatic osteoarthritis with persistent symptoms, various salvage procedures are available, each associated with distinct advantages and risks.",
+      "affiliation": "Krankenhaus Waldfriede e V, Handchirurgie, obere Extremit\u00e4t und Fu\u00dfchirurgie, Zentrum f\u00fcr Orthop\u00e4die, Unfallchirurgie, Zentrum f\ufeff\u00fcr Rheumatologie und Rheumaorthop\u00e4die, Germany, Berlin-Zehlendorf.",
+      "publicationStatus": "aheadofprint",
+      "language": "ger",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article",
+          "English Abstract"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1055/a-2938-7233"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-21",
+      "dateOfRevision": "2026-09-21",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42773932",
+      "source": "MED",
+      "pmid": "42773932",
+      "doi": "10.1080/00365513.2026.2734758",
+      "title": "Paired comparisons and regression to the mean - with emphasis on graphical illustrations.",
+      "authorString": "Kristensen B, Jensen ML, Nielsen M\u00d8, Ljoki A, Larsson J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kristensen B",
+            "lastName": "Kristensen",
+            "firstName": "Bent",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Herlev University Hospital, Herlev, Denmark."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jensen ML",
+            "lastName": "Jensen",
+            "firstName": "Mikkel Lausten",
+            "initials": "ML",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Herlev University Hospital, Herlev, Denmark."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nielsen M\u00d8",
+            "lastName": "Nielsen",
+            "firstName": "Marc \u00d8stergaard",
+            "initials": "M\u00d8",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Herlev University Hospital, Herlev, Denmark."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ljoki A",
+            "lastName": "Ljoki",
+            "firstName": "Arlinda",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Herlev University Hospital, Herlev, Denmark."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Larsson J",
+            "lastName": "Larsson",
+            "firstName": "Johan",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Herlev University Hospital, Herlev, Denmark."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4253520,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Scand J Clin Lab Invest",
+          "title": "Scandinavian journal of clinical and laboratory investigation",
+          "essn": "1502-7686",
+          "issn": "0036-5513",
+          "nlmid": "0404375",
+          "isoabbreviation": "Scand J Clin Lab Invest"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "1-18",
+      "abstractText": "To review methods for graphical illustration of paired comparisons in the pretest-posttest design and present a new and simple plot, based on the waterfall plot combined with evaluation of vertical symmetry. The plot includes changes in the raw data, median changes with confidence zones and allows easy visualization of correction for regression to the mean to guide subsequent analysis of covariance or mixed effects modeling and for final presentation. The methods are demonstrated using a publicly available clinical dataset and simulations of illustrative example data performed in R. Compared to previous methods such as 1) the simple scatter plot of pretest vs. change, 2) the tilted line-segment plot, 3) Galton's squeeze plot, and 4) a one-dimensional scatter plot, the waterfall plots have several advantages: no overlap of data, ease of interpretation, independence of sample size, and the ability to clearly visualize regression to the mean and a possible intervention effect. The combination of vertical symmetry, waterfall plots, box plot summaries, and confidence zones allows for quick decoding and comparison of pre- and post-test data. This approach effectively visualizes and helps evaluate the occurrence of regression to the mean and/or a possible intervention effect, regardless of sample size.",
+      "affiliation": "Department of Nuclear Medicine, Herlev University Hospital, Herlev, Denmark.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Comparison",
+          "Regression",
+          "Design",
+          "Symmetry",
+          "Waterfall",
+          "Mean",
+          "Galton",
+          "Paired",
+          "Post",
+          "Pre"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/00365513.2026.2734758"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-23",
+      "dateOfRevision": "2026-09-23",
+      "electronicPublicationDate": "2026-09-23",
+      "firstPublicationDate": "2026-09-23",
+      "firstIndexDate": "2026-09-23",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42773956",
+      "source": "MED",
+      "pmid": "42773956",
+      "doi": "10.1097/scs.0000000000013367",
+      "title": "Da Vinci Single-Port for Transoral Retropharyngeal Lymph Node Dissection in Oropharyngeal Cancer.",
+      "authorString": "Moretti C, Petruzzi G, Mazzola F, Borissova V, Campo F, Manciocco V, Pellini R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Moretti C",
+            "lastName": "Moretti",
+            "firstName": "Claudio",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Otolaryngology Head and Neck Surgery Department, IRCCS Regina Elena National Cancer Institute."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Petruzzi G",
+            "lastName": "Petruzzi",
+            "firstName": "Gerardo",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Otolaryngology Head and Neck Surgery Department, IRCCS Regina Elena National Cancer Institute."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mazzola F",
+            "lastName": "Mazzola",
+            "firstName": "Francesco",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Otolaryngology Head and Neck Surgery Department, IRCCS Regina Elena National Cancer Institute."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Borissova V",
+            "lastName": "Borissova",
+            "firstName": "Viktoria",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Oncological, reconstructive and Maxillofacial Surgery, Umberto I Hospital, La Sapienza University of Rome, Rome, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Campo F",
+            "lastName": "Campo",
+            "firstName": "Flaminia",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Otolaryngology Head and Neck Surgery Department, IRCCS Regina Elena National Cancer Institute."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Manciocco V",
+            "lastName": "Manciocco",
+            "firstName": "Valentina",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Otolaryngology Head and Neck Surgery Department, IRCCS Regina Elena National Cancer Institute."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pellini R",
+            "lastName": "Pellini",
+            "firstName": "Raul",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Otolaryngology Head and Neck Surgery Department, IRCCS Regina Elena National Cancer Institute."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4251640,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "J Craniofac Surg",
+          "title": "The Journal of craniofacial surgery",
+          "essn": "1536-3732",
+          "issn": "1049-2275",
+          "nlmid": "9010410",
+          "isoabbreviation": "J Craniofac Surg"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Background</h4>A step-by-step demonstration of the transoral robotic surgical technique for retropharyngeal lymph node dissection and lateral oropharyngectomy utilizing the novel flexible da Vinci Single-Port (SP) system.<h4>Methods</h4>This is a clinical human study of TORS retropharyngeal lymph node dissection with lateral oropharyngectomy utilizing the da Vinci Single-Port Robotic System (Intuitive Surgical, Sunnyvale, CA).<h4>Results</h4>The da Vinci SinglePort (SP) system provided sufficient access, reach and visualization for the successful resection of the oropharyngeal lesion and the retropharyngeal lymphadenopathy with negative surgical margins. Two surgical instruments and one 3D camera arm were deployed with minimal collision or restriction of arm movement.<h4>Conclusions</h4>The recent introduction of the Single Port (SP) robotic system enhances maneuverability, allowing the safer, less invasive removal of difficult-to-reach RPLNs, reducing complications and enabling a magnified mobile view of the surgical site. Using up to 3 working arms and a flexible endoscope is especially useful in confined surgical spaces such as the oropharynx, supraglottic larynx or parapharyngeal space. At present, the limited number of reported cases prevents direct comparison with multiport systems regarding surgical outcomes and morbidity. Further studies with larger patient cohorts are necessary to validate these findings and assess long-term oncologic and functional outcomes.",
+      "affiliation": "Otolaryngology Head and Neck Surgery Department, IRCCS Regina Elena National Cancer Institute.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Robotic Surgery",
+          "Oropharyngeal Cancer",
+          "Tors",
+          "Retropharyngeal Lymph Node",
+          "Da Vinci Single-Port"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1097/SCS.0000000000013367"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-23",
+      "dateOfRevision": "2026-09-23",
+      "electronicPublicationDate": "2026-09-23",
+      "firstPublicationDate": "2026-09-23",
+      "firstIndexDate": "2026-09-23",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42766862",
+      "source": "MED",
+      "pmid": "42766862",
+      "pmcid": "PMC13592291",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13592291"
+        ]
+      },
+      "doi": "10.3171/case26683",
+      "title": "Practical utility of ultrasound-guided brain shift correction during glioma: patient series.",
+      "authorString": "Sadhwani N, Moiyadi A.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Sadhwani N",
+            "lastName": "Sadhwani",
+            "firstName": "Nidhisha",
+            "initials": "N",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2044-7825"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neurosurgical Oncology Services, Department of Surgical Oncology, Tata Memorial Centre, Mumbai."
+                },
+                {
+                  "affiliation": "Division of Health Sciences, Homi Bhabha National Institute, Mumbai, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moiyadi A",
+            "lastName": "Moiyadi",
+            "firstName": "Aliasgar",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neurosurgical Oncology Services, Department of Surgical Oncology, Tata Memorial Centre, Mumbai."
+                },
+                {
+                  "affiliation": "Division of Health Sciences, Homi Bhabha National Institute, Mumbai, India."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2044-7825"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "12",
+        "volume": "12",
+        "journalIssueId": 4268822,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "J Neurosurg Case Lessons",
+          "title": "Journal of neurosurgery. Case lessons",
+          "essn": "2694-1902",
+          "issn": "2694-1902",
+          "nlmid": "9918227275606676",
+          "isoabbreviation": "J Neurosurg Case Lessons"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "CASE26683",
+      "abstractText": "<h4>Background</h4>In glioma surgery, intraoperative brain shift compromises navigational accuracy, especially at subcortical functional boundaries. When integrated with neuronavigation, intraoperative ultrasound (iUS) enables iterative image-based updates through rigid image fusion (RIF), restoring alignment with anatomical and functional landmarks. The authors present a 6-patient series demonstrating the clinical utility of navigated iUS-based brain shift correction. Serial iUS datasets acquired using the bk5000/bkActiv system integrated with the Brainlab Kick platform were updated using a rigid fusion algorithm to correct for accumulated brain shifts. The alignment of functional tracts was correlated with intraoperative subcortical mapping findings.<h4>Observations</h4>Application of RIF successfully realigned the anatomy and corrected for deviations in subcortical white matter tract location. This restored the functional anatomy and ensured that subcortical mapping efforts were appropriately directed. In select cases, corrected navigation remained concordant with functional anatomy even toward the end of resection.<h4>Lessons</h4>Navigated iUS with RIF-based brain shift correction provides a dual advantage in glioma surgery: it restores the spatial reliability of image guidance and offers real-time visualization for resection control. When used in conjunction with subcortical stimulation and neuromonitoring, this approach may improve intraoperative navigation accuracy and facilitate functional resections, particularly in resource-variable or nonawake settings. https://thejns.org/doi/10.3171/CASE26683.",
+      "affiliation": "Neurosurgical Oncology Services, Department of Surgical Oncology, Tata Memorial Centre, Mumbai.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-Print",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article",
+          "case-report"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Image-guided Surgery",
+          "Neuronavigation",
+          "Brain Shift",
+          "Intraoperative Ultrasound",
+          "Glioma Surgery"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3171/CASE26683"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13592291"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13592291?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-09-21",
+      "dateOfCreation": "2026-09-21",
+      "dateOfRevision": "2026-09-23",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22",
+      "fullTextReceivedDate": "2026-09-22",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42765694",
+      "source": "MED",
+      "pmid": "42765694",
+      "doi": "10.1515/jpm-2026-0398",
+      "title": "Global research trends in fetal venous Doppler and umbilical vein blood flow: a bibliometric and visualization analysis.",
+      "authorString": "Cicek S, Tavukcuoglu Z, Kaya Parspanci YB, Ayaz R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cicek S",
+            "lastName": "Cicek",
+            "firstName": "Sevil",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6147-8102"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, Goztepe Prof. Dr. Suleyman Yalcin City Hospital, Istanbul Medeniyet University, Istanbul, T\u00fcrkiye."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tavukcuoglu Z",
+            "lastName": "Tavukcuoglu",
+            "firstName": "Zehra",
+            "initials": "Z",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6951-4761"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, Goztepe Prof. Dr. Suleyman Yalcin City Hospital, Istanbul Medeniyet University, Istanbul, T\u00fcrkiye."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kaya Parspanci YB",
+            "lastName": "Kaya Parspanci",
+            "firstName": "Yasemin Beyza",
+            "initials": "YB",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9639-7484"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, Goztepe Prof. Dr. Suleyman Yalcin City Hospital, Istanbul Medeniyet University, Istanbul, T\u00fcrkiye."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ayaz R",
+            "lastName": "Ayaz",
+            "firstName": "Reyhan",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5261-1792"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, Goztepe Prof. Dr. Suleyman Yalcin City Hospital, Istanbul Medeniyet University, Istanbul, T\u00fcrkiye."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5261-1792"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6147-8102"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6951-4761"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9639-7484"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4260806,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "J Perinat Med",
+          "title": "Journal of perinatal medicine",
+          "essn": "1619-3997",
+          "issn": "0300-5577",
+          "nlmid": "0361031",
+          "isoabbreviation": "J Perinat Med"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Objectives</h4>Umbilical venous Doppler and umbilical vein blood flow assessment complement arterial Doppler indices by reflecting placental-fetal hemodynamics, venous return, and fetal cardiovascular adaptation. Despite decades of research on fetal venous Doppler, its scientific evolution and the position of umbilical vein blood flow within the field remain insufficiently mapped. This study evaluated global research trends in fetal venous Doppler, emphasizing umbilical venous Doppler and umbilical vein blood\u00a0flow.<h4>Methods</h4>A bibliometric and visualization analysis was conducted using the Web of Science Core Collection. English-language articles and reviews published between 1980 and 2025 were included. Data were analyzed using bibliometrix and Biblioshiny. Publication trends, citation patterns, leading contributors, collaboration networks, Bradford's Law, keyword co-occurrence, thematic structure, and temporal topic changes were examined.<h4>Results</h4>The final dataset included 787 documents from 230 sources, involving 2,692 authors and 12,887 cited references. Scientific output increased steadily, with an annual growth rate of 7.93\u202f%. Ultrasound in Obstetrics & Gynecology was the leading journal, while the United\u00a0States was the most productive country. Keyword, thematic, and trend analyses identified ductus venosus, umbilical vein, Doppler ultrasound, fetal growth restriction, placental function, perinatal outcome, and fetal hemodynamic adaptation as central themes, with recent trends indicating growing interest in quantitative umbilical vein flow assessment.<h4>Conclusions</h4>Fetal venous Doppler research has expanded steadily over four decades. The increasing focus on umbilical vein blood flow highlights the need for standardized measurement techniques, gestational age-specific reference ranges, reproducibility, and outcome-based validation to clarify its independent clinical value in high-risk pregnancies.",
+      "affiliation": "Department of Obstetrics and Gynecology, Goztepe Prof. Dr. Suleyman Yalcin City Hospital, Istanbul Medeniyet University, Istanbul, T\u00fcrkiye.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Doppler Ultrasonography",
+          "Bibliometric Analysis",
+          "Placental Insufficiency",
+          "Fetal Hemodynamics",
+          "Umbilical Vein Blood Flow",
+          "Fetal Venous Doppler"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1515/jpm-2026-0398"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-21",
+      "dateOfRevision": "2026-09-21",
+      "electronicPublicationDate": "2026-09-22",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-22",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42768236",
+      "source": "MED",
+      "pmid": "42768236",
+      "pmcid": "PMC13593647",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13593647"
+        ]
+      },
+      "doi": "10.1007/s10237-026-02115-0",
+      "title": "Impact of catheter angle on microsphere distribution in transarterial radioembolization: an in silico study based on ex vivo porcine liver data.",
+      "authorString": "Snoeijink TJ, Vlogman TG, van den Brekel A, van der Hoek JL, Roosen J, Groot Jebbink E, Jain K, Nijsen JFW.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Snoeijink TJ",
+            "lastName": "Snoeijink",
+            "firstName": "Tess J",
+            "initials": "TJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4403-7916"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The Netherlands. tess.snoeijink@radboudumc.nl."
+                },
+                {
+                  "affiliation": "Multi-Modality Medical Imaging Group, University of Twente, TechMed Center, Enschede, The Netherlands. tess.snoeijink@radboudumc.nl."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vlogman TG",
+            "lastName": "Vlogman",
+            "firstName": "Tristan G",
+            "initials": "TG",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8720-7949"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Engineering Technology, Department of Thermal and Fluid Engineering, University of Twente, Enschede, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "van den Brekel A",
+            "lastName": "van den Brekel",
+            "firstName": "Anne",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7875-9135"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "van der Hoek JL",
+            "lastName": "van der Hoek",
+            "firstName": "Jan L",
+            "initials": "JL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2383-1929"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multi-Modality Medical Imaging Group, University of Twente, TechMed Center, Enschede, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Roosen J",
+            "lastName": "Roosen",
+            "firstName": "Joey",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7965-6664"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Groot Jebbink E",
+            "lastName": "Groot Jebbink",
+            "firstName": "Erik",
+            "initials": "E",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7041-8603"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multi-Modality Medical Imaging Group, University of Twente, TechMed Center, Enschede, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jain K",
+            "lastName": "Jain",
+            "firstName": "Kartik",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6540-9304"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Engineering Technology, Department of Thermal and Fluid Engineering, University of Twente, Enschede, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nijsen JFW",
+            "lastName": "Nijsen",
+            "firstName": "J Frank W",
+            "initials": "JFW",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7625-2253"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The Netherlands."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7041-8603"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7625-2253"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2383-1929"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6540-9304"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7875-9135"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7965-6664"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8720-7949"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4403-7916"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "5",
+        "volume": "25",
+        "journalIssueId": 4258140,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Biomech Model Mechanobiol",
+          "title": "Biomechanics and modeling in mechanobiology",
+          "essn": "1617-7940",
+          "issn": "1617-7959",
+          "nlmid": "101135325",
+          "isoabbreviation": "Biomech Model Mechanobiol"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "108",
+      "abstractText": "Computational fluid dynamics (CFD) simulations were conducted to explore the impact of catheter angle on microsphere distribution in transarterial radioembolization (TARE). The models were designed to closely replicate conditions from previously conducted ex vivo machine-perfused porcine liver experiments and therefore improve the perspective on microsphere distribution patterns. TARE with holmium-loaded microspheres was performed on an ex vivo machine-perfused porcine liver. Catheter position was imaged using angiography and ultrasound, the hepatic arterial vasculature using 3D cone beam CT, and lobe-specific microsphere distributions using holmium-sensitive T2*-weighted MRI scans. An in-house CFD model based on lattice Boltzmann and discrete element methods was developed. Simulations were parameterized with ex vivo porcine liver geometry and flow conditions as input. To further explore\u00a0the role of catheter angles beyond experimental findings, four catheter angles (0\u00b0, 15\u00b0, 30\u00b0, and 45\u00b0), gradually directed toward the hepatic arterial wall, were evaluated using CFD. Ex vivo ultrasound imaging showed that the catheter was oriented at an angle of 25.2\u00b0 toward the hepatic arterial wall. The simulations revealed that catheter angle strongly influences microsphere distribution, particularly in the branches closest to the injection position (lobe 3-5). The correlation between ex vivo and simulated microsphere distributions increased with catheter angle: from poor at 0\u00b0 (r\u2009=\u20090.123), to moderate at 15\u00b0 (r\u2009=\u20090.511), to very strong at 30\u00b0 and 45\u00b0 (r\u2009=\u20090.809 and r\u2009=\u20090.807, respectively). A catheter angle directed toward the hepatic arterial wall can affect microsphere distribution. In current clinical practice, the radial catheter position is not routinely visualized, complicating the reproducibility of catheter tip positioning between scout and therapeutic doses. Future research could focus on improved catheter tip visualization and the development of more stable catheter designs to enhance the reproducibility and efficacy of TARE.",
+      "affiliation": "Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The Netherlands. tess.snoeijink@radboudumc.nl.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Dutch Research Council (NWO)",
+            "grantId": "18427",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Liver",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "BS",
+                  "qualifierName": "blood supply"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hepatic Artery",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Swine"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Microspheres"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Computer Simulation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hydrodynamics"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Catheters"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Radioembolization, Therapeutic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Distribution",
+          "Microspheres",
+          "Computational Fluid Dynamics",
+          "Ex Vivo",
+          "Radioembolization"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s10237-026-02115-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13593647"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13593647?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-09-22",
+      "dateOfCreation": "2026-09-22",
+      "dateOfRevision": "2026-09-24",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22",
+      "fullTextReceivedDate": "2026-09-25",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42768118",
+      "source": "MED",
+      "pmid": "42768118",
+      "doi": "10.1007/s00464-026-13356-6",
+      "title": "Are we gaining value? A national evaluation of robotic versus laparoscopic appendectomy.",
+      "authorString": "Noubani M, Miller V, Luo W, Diaz L, Charles A.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Noubani M",
+            "lastName": "Noubani",
+            "firstName": "Mohammad",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Trauma and Acute Care Surgery, UNC at Chapel Hill, Chapel Hill, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Miller V",
+            "lastName": "Miller",
+            "firstName": "Vanessa",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Obstetrics and Gynecology, UNC at Chapel Hill, Chapel Hill, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luo W",
+            "lastName": "Luo",
+            "firstName": "William",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Trauma and Acute Care Surgery, UNC at Chapel Hill, Chapel Hill, NC, USA."
+                },
+                {
+                  "affiliation": "WakeMed Health and Hospitals, Raleigh, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Diaz L",
+            "lastName": "Diaz",
+            "firstName": "Laritza",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Trauma and Acute Care Surgery, UNC at Chapel Hill, Chapel Hill, NC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Charles A",
+            "lastName": "Charles",
+            "firstName": "Anthony",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7332-4354"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Trauma/Acute Care Surgery, University of Vermont, Burlington, VT, USA. Anthony.Charles@uvmhealth.org."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7332-4354"
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4252643,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Surg Endosc",
+          "title": "Surgical endoscopy",
+          "essn": "1432-2218",
+          "issn": "0930-2794",
+          "nlmid": "8806653",
+          "isoabbreviation": "Surg Endosc"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Introduction</h4>Robotic appendectomy is increasingly used to treat acute appendicitis, yet its clinical benefits and resource implications remain unclear. We compared operative outcomes of robotic appendectomy and laparoscopic appendectomy.<h4>Methods</h4>We conducted a retrospective cohort analysis of adults undergoing minimally invasive appendectomy from 2022 to 2023 using the NSQIP database. The primary outcome was operative time. Secondary outcomes included surgical site infection, conversion to open surgery, and postoperative sepsis. We assessed the statistical interaction among operative approach, BMI, and perforation. Adjusted operative times were obtained using multivariable linear regression.<h4>Results</h4>Between 2022 and 2023, 85,774 patients with acute appendicitis met the inclusion criteria, and 807 (0.9%) underwent robotic appendectomy. Robotic appendectomy patients were older (42 vs 37\u00a0years, p<0.001) than laparoscopic appendectomy patients, had higher mean BMI (30.2 vs 29.1, p<0.001), and were less likely to be septic on presentation (19.3% vs 31.4%, p<0.001), but had higher rates of perforated/complicated appendicitis (32.2% vs 15.3%, p<0.001). Robotic appendectomy was associated with 2.4 times higher odds of conversion than laparoscopic appendectomy (OR 2.4, 95% CI 1.11-5.20, p<0.05). The median operative time was longer with robotic appendectomy (62 vs 44\u00a0min; p<0.001), corresponding to a median time penalty of approximately 18\u00a0min. Significant interaction effects showed that the operative time difference between robotic appendectomy and laparoscopic appendectomy widened progressively with increasing patient BMI and was most pronounced in cases of perforated appendicitis, where robotic appendectomy added the greatest incremental time.<h4>Conclusion</h4>Robotic appendectomy required longer operative times than laparoscopic appendectomy, particularly in obese patients and perforated cases. Although robotic appendectomy offers enhanced visualization and dexterity, the increased operative time in acute care surgery raises resource concerns. These findings challenge the value of robotic appendectomy for acute appendicitis and question whether its use truly benefits patients or simply reflects surgeon or institutional preference.",
+      "affiliation": "Department of Surgery, Trauma and Acute Care Surgery, UNC at Chapel Hill, Chapel Hill, NC, USA.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "grantId": "5T32GM008450-23",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Laparoscopic Appendectomy",
+          "Surgical Value",
+          "Robotic Appendectomy"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s00464-026-13356-6"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-22",
+      "dateOfRevision": "2026-09-22",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42767339",
+      "source": "MED",
+      "pmid": "42767339",
+      "doi": "10.1016/j.jare.2026.09.008",
+      "title": "Comparative diagnostic performance of robotic, electromagnetic navigation, and fluoroscopy bronchoscopy for lung cancer in peripheral pulmonary lesions: a prospective, multicenter, parallel-controlled trial.",
+      "authorString": "Zhong C, Huang J, Xu L, You Z, Wang F, Sun J, Jiang J, Liu D, Huang J, Zhang H, Li H, Li Z, He W, Lin Z, Zheng X, He L, Liu J, Chen D, Wang G, Li S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhong C",
+            "lastName": "Zhong",
+            "firstName": "Changhao",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; School of Biomedical Engineering, Tsinghua University, Beijing, China. Electronic address: vast1982@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang J",
+            "lastName": "Huang",
+            "firstName": "Junfeng",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: JimFun001@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu L",
+            "lastName": "Xu",
+            "firstName": "Li",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Public Health Clinical Center affiliated of Shandong University, Ji'nan, Shandong, China. Electronic address: xuliv2005@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "You Z",
+            "lastName": "You",
+            "firstName": "Zhending",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou National Laboratory, Guangzhou, Guangdong, China. Electronic address: youzhending@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang F",
+            "lastName": "Wang",
+            "firstName": "Feng",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Respiratory and Critical Care Medicine, Beijing Institute of Respiratory Medicine and Beijing Chao Yang Hospital, Capital Medical University, Beijing, China. Electronic address: tad2008@hotmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sun J",
+            "lastName": "Sun",
+            "firstName": "Jiayuan",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Respiratory Endoscopy and Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital, Shanghai, China. Electronic address: xkyyjysun@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jiang J",
+            "lastName": "Jiang",
+            "firstName": "Junhong",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, Dushu Lake Hospital Affiliated to Soochow University, Suzhou, China. Electronic address: jiangjunhong1969@suda.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu D",
+            "lastName": "Liu",
+            "firstName": "Dan",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China. Electronic address: liudan10965@wchscu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang J",
+            "lastName": "Huang",
+            "firstName": "Jian'an",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital of Soochow University, Suzhou, China. Electronic address: huang_jian_an@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang H",
+            "lastName": "Zhang",
+            "firstName": "Huaping",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pulmonary and Critical Care Medicine, the Second Affiliated Hospital of Fujian Medical University, Center of Respiratory Medicine of Fujian Province, Quanzhou, China. Electronic address: fmuzhp@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li H",
+            "lastName": "Li",
+            "firstName": "Hongjia",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou National Laboratory, Guangzhou, Guangdong, China. Electronic address: lhj980303011@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Z",
+            "lastName": "Li",
+            "firstName": "Zhaohui",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: lzh20220222@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "He W",
+            "lastName": "He",
+            "firstName": "Wei",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: hw2109346716@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lin Z",
+            "lastName": "Lin",
+            "firstName": "Zikai",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: lzk_linzikai@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zheng X",
+            "lastName": "Zheng",
+            "firstName": "Xiangyuan",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: xiangyuanzheng2021@hotmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "He L",
+            "lastName": "He",
+            "firstName": "Linzhi",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: 1090013116@qq.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu J",
+            "lastName": "Liu",
+            "firstName": "Jing",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: aliujing001@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen D",
+            "lastName": "Chen",
+            "firstName": "Difei",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: chendifei11@gmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang G",
+            "lastName": "Wang",
+            "firstName": "Guangzhi",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Tsinghua University, Beijing, China. Electronic address: wgz-dea@tsinghua.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li S",
+            "lastName": "Li",
+            "firstName": "Shiyue",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China. Electronic address: lishiyue@gird.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4257620,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "J Adv Res",
+          "title": "Journal of advanced research",
+          "essn": "2090-1224",
+          "issn": "2090-1232",
+          "nlmid": "101546952",
+          "isoabbreviation": "J Adv Res"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "S2090-1232(26)00707-1",
+      "abstractText": "<h4>Introduction</h4>Peripheral pulmonary lesions (PPLs) are difficult to access bronchoscopically due to their distal location. Although robotic, electromagnetic navigation, and fluoroscopy-guided systems have been developed, inconsistent study designs have limited direct comparison of their diagnostic performance.<h4>Objectives</h4>This study aimed to compare the diagnostic performance and lesion-specific advantages of robotic bronchoscopy system (RBS), electromagnetic navigation bronchoscopy(ENB), and fluoroscopy bronchoscopy(FB) for PPLs.<h4>Methods</h4>In this multicenter, prospective, parallel-controlled trial, consecutive patients with suspected PPLs from 7 centers were assigned to the RBS, ENB or FB groups according to a predefined cyclic sequence for biopsy between 2019 and 2023. Subgroup analyses of diagnostic yield were performed according to lesion characteristics. Machine-learning models and a web-based platform were developed for clinical evaluation.<h4>Results</h4>A total of 270 patients were included, with 90 patients in each group. RBS achieved a higher overall diagnostic yield than ENB and FB (87.8%, 83.3% and 63.3%, respectively; P\u202f<\u202f0.001). Strict diagnostic yield was also highest in the RBS group (81.1% vs 61.1% and 47.8%; P\u202f<\u202f0.001). In the subgroup analysis, RBS performed better for 15-30\u202fmm lesions and lesions within 15\u202fmm of the pleura (P\u202f<\u202f0.005), whereas ENB showed a diagnostic yield comparable to RBS for malignant, larger and solid lesions. Navigation and biopsy success rates in the RBS group were 100%, with more precise trajectories and lower displacement than the other two techniques (P\u202f<\u202f0.001). Based on lesion characteristics, internally developed models (all AUC\u202f>\u202f0.96) were integrated into a visualization platform to estimate the technique-specific diagnostic success for individualized PPLs.<h4>Conclusion</h4>This multicenter study demonstrates that RBS, ENB and FB have distinct diagnostic advantages across different PPL subgroups. RBS showed better diagnostic performance in selected challenging lesions, whereas ENB achieved comparable performance in malignant, solid, or larger lesions. The image-based prediction platforms may further support individualized selection of transbronchial navigation strategies for PPL or lung cancer diagnosis.",
+      "affiliation": "Guangzhou Institute of Respiratory Health, State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China; School of Biomedical Engineering, Tsinghua University, Beijing, China. Electronic address: vast1982@126.com.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Lung cancer",
+          "Diagnostic Strategy",
+          "Prediction Platform",
+          "Robotic Bronchoscopy System",
+          "Peripheralpulmonary Lesions"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.jare.2026.09.008"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-21",
+      "dateOfRevision": "2026-09-21",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42767571",
+      "source": "MED",
+      "pmid": "42767571",
+      "doi": "10.1016/j.bcp.2026.118494",
+      "title": "Non-invasive evaluation of early liver fibrosis process by targeting \u03b1&lt;sub&gt;v&lt;/sub&gt;\u03b2&lt;sub&gt;6&lt;/sub&gt; integrin PET imaging.",
+      "authorString": "Yan S, Qiu W, Tie Y, Feng W, Qin J, Chen H, Zhang Y, Zeng J, Wang L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yan S",
+            "lastName": "Yan",
+            "firstName": "Shuang",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Qiu W",
+            "lastName": "Qiu",
+            "firstName": "Wenxuan",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; School of Pharmacy, Southwest Medical University, Luzhou, Sichuan 646000, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tie Y",
+            "lastName": "Tie",
+            "firstName": "Yangye",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Feng W",
+            "lastName": "Feng",
+            "firstName": "Wanlu",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; School of Pharmacy, Southwest Medical University, Luzhou, Sichuan 646000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Qin J",
+            "lastName": "Qin",
+            "firstName": "Jinghui",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen H",
+            "lastName": "Chen",
+            "firstName": "Huanyu",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang Y",
+            "lastName": "Zhang",
+            "firstName": "Yu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ultrasound, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China. Electronic address: 842793410@qq.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zeng J",
+            "lastName": "Zeng",
+            "firstName": "Jie",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China. Electronic address: ZZJJJ6666@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang L",
+            "lastName": "Wang",
+            "firstName": "Li",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China. Electronic address: liwang_512@163.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "journalIssueId": 4252358,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Biochem Pharmacol",
+          "title": "Biochemical pharmacology",
+          "essn": "1873-2968",
+          "issn": "0006-2952",
+          "nlmid": "0101032",
+          "isoabbreviation": "Biochem Pharmacol"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "118494",
+      "abstractText": "Liver fibrosis is a key pathological stage in the progression of chronic liver diseases. Current diagnostic methods for early fibrosis detection are still limited. Therefore, there is an urgent need to develop non-invasive strategies that can detect and dynamically monitor early liver fibrosis. The integrin \u03b1<sub>v</sub>\u03b2<sub>6</sub> is significantly upregulated during fibrogenesis and has become a promising target for molecular imaging. In this study, we evaluated the potency of gallium-68-labeled \u03b1<sub>v</sub>\u03b2<sub>6\u2011</sub>targeted probe, [<sup>68</sup>Ga]Ga-DOTA-\u03b1<sub>v</sub>\u03b2<sub>6</sub>-BP, in liver fibrosis progression visualization and monitoring. In a CCl<sub>4</sub>-induced murine model, [<sup>68</sup>Ga]Ga-DOTA-\u03b1<sub>v</sub>\u03b2<sub>6</sub>-BP PET/CT imaging demonstrated hepatic uptake that correlated positively with fibrosis stage, as confirmed by histopathology and serum biochemistry. Significant uptake (2.32\u202f\u00b1\u202f0.33%ID/g, *p\u202f=\u202f0.0435) was detected as early as week 3 and increased with prolonged injury-well before changes on ultrasound elastography or FAPI-04 PET. Immunofluorescence revealed \u03b1<sub>v</sub>\u03b2<sub>6</sub> predominantly on CK19-positive cholangiocytes, with later spread to \u03b1-SMA-positive myofibroblasts, confirming its cellular source. Furthermore, in pirfenidone-treated mice, [<sup>68</sup>Ga]Ga-DOTA-\u03b1<sub>v</sub>\u03b2<sub>6</sub>-BP uptake declined markedly from 4.27\u202f\u00b1\u202f0.13%ID/g to 1.47\u202f\u00b1\u202f0.13%ID/g (p\u202f<\u202f0.01) after 3\u202fweeks, accompanied by histological improvement. To test cross-etiology utility, we validated the probe in MASH and MASH\u202f+\u202fCCl<sub>4</sub> models; uptake was 2.34\u202f\u00b1\u202f0.23%ID/g in MASH alone and increased to 2.51\u202f\u00b1\u202f0.13%ID/g with CCl<sub>4</sub> challenge (***p\u202f=\u202f0.0006), matching histological severity. These findings establish [<sup>68</sup>Ga]Ga-DOTA-\u03b1<sub>v</sub>\u03b2<sub>6</sub>-BP PET/CT as a sensitive, non-invasive tool for early detection and therapy monitoring across fibrotic etiologies, with dose estimates supporting clinical translation.",
+      "affiliation": "Department of Nuclear Medicine, Nuclear Medicine and Theranostics Key Laboratory of Sichuan Province, The Affiliated Hospital of Southwest Medical University, No. 25 Taiping St, Jiangyang District, Luzhou, Sichuan, China; Targeted Radiopharmaceuticals Creation Key Laboratory of Sichuan Province, Luzhou, Sichuan, China.",
+      "publicationStatus": "aheadofprint",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Molecular probe",
+          "Chronic Liver Disease",
+          "Gallium-68",
+          "Fibrosis Staging",
+          "Integrin \u0391(v)\u03b2(6)"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.bcp.2026.118494"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-21",
+      "dateOfRevision": "2026-09-21",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42773370",
+      "source": "MED",
+      "pmid": "42773370",
+      "pmcid": "PMC13597631",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13597631"
+        ]
+      },
+      "doi": "10.1007/s11306-026-02527-0",
+      "title": "Urinary metabolomics profile in children with ureteropelvic junction obstruction.",
+      "authorString": "da Silva LHF, Mello MF, Kataoka FGH, Amsei Filho UF, Farah JPS, Yamaguchi LF, Kato MJ, de Oliveira MAL, Faccio AT, Andrade L, D\u00e9nes FT, Lopes RI, Tavares MFM.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "da Silva LHF",
+            "lastName": "da Silva",
+            "firstName": "Lucas Henrique Ferreira",
+            "initials": "LHF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Multiplatform Metabolomics Studies (CEMM), Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mello MF",
+            "lastName": "Mello",
+            "firstName": "Marcos Figueiredo",
+            "initials": "MF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Multiplatform Metabolomics Studies (CEMM), Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil."
+                },
+                {
+                  "affiliation": "Division of Urology, Hospital das Cl\u00ednicas, University of S\u00e3o Paulo Medical School, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kataoka FGH",
+            "lastName": "Kataoka",
+            "firstName": "Felipe Guilherme Hamoy",
+            "initials": "FGH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Urology Unit, School of Medicine at the Federal, University of Paulo, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Amsei Filho UF",
+            "lastName": "Amsei Filho",
+            "firstName": "Umberto Fauze",
+            "initials": "UF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Farah JPS",
+            "lastName": "Farah",
+            "firstName": "Jo\u00e3o Pedro Simon",
+            "initials": "JPS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Multiplatform Metabolomics Studies (CEMM), Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yamaguchi LF",
+            "lastName": "Yamaguchi",
+            "firstName": "Lydia Fumiko",
+            "initials": "LF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil."
+                },
+                {
+                  "affiliation": "Instituto de Pesquisas Tecnol\u00f3gicas do Estado de S\u00e3o Paulo IPT NUTABES , Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kato MJ",
+            "lastName": "Kato",
+            "firstName": "Massuo Jorge",
+            "initials": "MJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "de Oliveira MAL",
+            "lastName": "de Oliveira",
+            "firstName": "Marcone Augusto Leal",
+            "initials": "MAL",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Federal University of Juiz de Fora, Juiz de Fora, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Faccio AT",
+            "lastName": "Faccio",
+            "firstName": "Andr\u00e9a Tedesco",
+            "initials": "AT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Multiplatform Metabolomics Studies (CEMM), Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil."
+                },
+                {
+                  "affiliation": "Grupo Fleury , Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Andrade L",
+            "lastName": "Andrade",
+            "firstName": "Lucia",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Nephrology, Hospital das Cl\u00ednicas, University of S\u00e3o Paulo Medical School, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "D\u00e9nes FT",
+            "lastName": "D\u00e9nes",
+            "firstName": "Francisco Tibor",
+            "initials": "FT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Urology, Hospital das Cl\u00ednicas, University of S\u00e3o Paulo Medical School, Sao Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lopes RI",
+            "lastName": "Lopes",
+            "firstName": "Roberto Iglesias",
+            "initials": "RI",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Urology, Hospital das Cl\u00ednicas, University of S\u00e3o Paulo Medical School, Sao Paulo, Brazil. roberto.iglesias@hc.fm.usp.br."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tavares MFM",
+            "lastName": "Tavares",
+            "firstName": "Marina Franco Maggi",
+            "initials": "MFM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Multiplatform Metabolomics Studies (CEMM), Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil. mfmtavar@iq.usp.br."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "5",
+        "volume": "22",
+        "journalIssueId": 4259056,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Metabolomics",
+          "title": "Metabolomics : Official journal of the Metabolomic Society",
+          "essn": "1573-3890",
+          "issn": "1573-3882",
+          "nlmid": "101274889",
+          "isoabbreviation": "Metabolomics"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "154",
+      "abstractText": "<h4>Introduction</h4>Fetal hydronephrosis (HN) is detected in about 0.25-1% of fetuses, where ureteropelvic junction obstruction (UPJO) is the most commonly found congenital urinary tract anomaly, remaining the leading cause of kidney failure in infants and children. Since it is a spectral disease, UPJO represents a particularly challenging management. Severe UPJO must be treated surgically to avoid impairment of renal function, but children with non-obstructive hydronephrosis can be treated conservatively. There has been controversy regarding the indication for surgical intervention in asymptomatic patients.<h4>Objectives</h4>This pilot study aimed at investigating urine samples from children with UPJO using gas- and high-performance liquid-chromatography coupled to mass spectrometry (GC- and HPLC-MS) via untargeted metabolomics to prospect discriminatory metabolites indicative of hydronephrosis spectral progression that may contribute to optimize clinical decision-making.<h4>Methods</h4>Thirty-seven patients, whose clinical characteristics were recorded upon visits, had urinary samples collected, processed and analyzed by both GC- and HPLC-MS analytical platforms. Three distinct age-matched groups (2-12 years old) were inspected: 10 children with obstructive HN (OHN) established at initial imaging diagnosis, 15 asymptomatic children with non-obstructive HN (NOHN), and 12 children without any urinary tract problems as control group (CTR). Univariate analysis (including distribution checking and goodness-of-fit testing using ANOVA, Tukey test, and Benjamini-Hochberg procedure for FDR estimation) and multivariate analysis (PLS-DA, using cross-validation and permutation testing) were applied to the metabolomics data. Exploratory ROC curve analyses were performed using combinations of PLS-DA ranked features with VIP\u2009>\u20091 to assess their discriminatory performance.<h4>Results</h4>Metabolomics profiling revealed distinct expression patterns upon selected group comparisons. The inspection of discriminatory metabolites across the different study groups allowed a clear visualization of the disease progression at the molecular level. Moreover, the discrimination of asymptomatic patients (NOHN group) from those requiring surgical intervention (OHN group) is of upmost relevance and could also be delineated here. All univariate and multivariate methods applied to both GC- and HPLC-MS data exhibited good statistical performance (adjusted p-values\u2009<\u20090.05, 0.04\u2009<\u2009q-values\u2009<\u20090.1, and 0.662\u2009<\u2009AUC\u2009<\u20090.882 for univariate analysis; p-value\u2009<\u20090.03, 3\u2009<\u2009F\u2009<\u200911.4, 0.984\u2009<\u2009R<sup>2</sup><0.996, 0.714\u2009<\u2009Q<sup>2</sup><0.859, and 0.923\u2009<\u2009AUC\u2009<\u20090.995 for multivariate analysis) resulting in a total of 94 discriminatory metabolites, suggesting strong potential clinical value as a diagnostic/prognostic signature. Worth mentioning cystine and methionine sulfoxide exhibiting the largest positive fold change scores, 156% and 152%, respectively (both from OHN vs. CTR group comparison). From the total of 94 discriminatory metabolites, 17 metabolites had particular statistical relevance since they were confirmed by both univariate and multivariate methods combined. Three metabolites, 1-methylhistidine-3-methylhistidine, 1-methyhistamine-3methylhistamine, and glutamyl-hydroxyproline (dipeptide), discriminate NOHN vs. CTR groups whereas nine metabolites, mandelic acid, pantothenic acid, furoylglicine, gluconic acid, 3-hydroxyphenylacetate, 4-hydroxyphenylacetate, glutamylhydroxyproline, 3-hydroxy-3-methylglutaric acid, ribitol/arabitol/xylitol (pentose alcohols) and tagalose discriminate OHN vs. CTR groups; those metabolites may serve as diagnostics purposes, being the first group comparison (NOHN vs. CTR) indicative of the initial metabolic perturbation caused by the UPJO and the latter group comparison (OHN vs. CTR) indicative of the impact UPJO had exerted on the children metabolism at long term. More importantly, five metabolites, ascorbic acid, furoylglycine, gluconic acid, and ribose/arabinose/xylose (pentoses), already discriminating OHN vs. CTR groups, appear again in the OHN vs. NOHN group comparison, in addition to threitol; those metabolites might be useful to support clinical decisions whether a patient should undergo surgery. Metabolomic pathway analyses revealed an alteration of the beta-alanine metabolism at early stages of HN, progressing to further compromising of tyrosine, phenylalanine, alanine/aspartate/glutamate, and amino sugar/nucleotide sugar metabolisms. Several other important metabolic pathways were further compromised at advanced stages of HN revealing the overall impact of UPJO at the basal metabolism of healthy children.<h4>Conclusion</h4>Despite the limited size and age spanning of the cohort evaluated here, the statistical quality of the present study, that certified 17 metabolites by both univariate and multivariate methods among 94 discriminant metabolites, deriving from NOHN, OHN, and CTR group comparisons, may contribute to pave the way into searching valuable biomarkers for the obstructive HN setting up and progression.",
+      "affiliation": "Center for Multiplatform Metabolomics Studies (CEMM), Institute of Chemistry, University of Sao Paulo, Sao Paulo, Brazil.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Hydronephrosis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "UR",
+                  "qualifierName": "urine"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Ureteral Obstruction",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "UR",
+                  "qualifierName": "urine"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Chromatography, High Pressure Liquid"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pilot Projects"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child, Preschool"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gas Chromatography-Mass Spectrometry"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Metabolomics",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Metabolome"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biomarkers",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "UR",
+                  "qualifierName": "urine"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Biomarker",
+          "Metabolomics",
+          "Ureteropelvic Junction Obstruction",
+          "Obstructive Hydronephrosis"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Biomarkers",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11306-026-02527-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13597631"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13597631?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "source": "PPR",
+            "id": "PPR1169484",
+            "type": "Preprint in",
+            "note": "Link created based on a title-first author match",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-09-22",
+      "dateOfCreation": "2026-09-22",
+      "dateOfRevision": "2026-09-25",
+      "electronicPublicationDate": "2026-09-22",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-23",
+      "fullTextReceivedDate": "2026-09-25",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42769756",
+      "source": "MED",
+      "pmid": "42769756",
+      "pmcid": "PMC13592662",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13592662"
+        ]
+      },
+      "doi": "10.2196/98090",
+      "title": "User Experience Comparison of a Traditional Mannequin-Based and an Augmented Reality Lumbar Puncture Simulator in Geriatric Medicine Training: Questionnaire Study.",
+      "authorString": "Combret E, Bourgeais A, Noublanche F, Annweiler C.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Combret E",
+            "lastName": "Combret",
+            "firstName": "Emma",
+            "initials": "E",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0004-3879-0455"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratoire de Psychologie des Pays de la Loire (UR4638), Angers, Pays de la Loire, France."
+                },
+                {
+                  "affiliation": "Department of Geriatric Medicine and Memory Clinic, Research Center on Autonomy and Longevity, Centre Hospitalier Universitaire d'Angers, 4 rue Larrey, Angers, Pays de la Loire, 49100, France, 33 0241354725."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bourgeais A",
+            "lastName": "Bourgeais",
+            "firstName": "Alexis",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7689-4694"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Geriatric Medicine and Memory Clinic, Research Center on Autonomy and Longevity, Centre Hospitalier Universitaire d'Angers, 4 rue Larrey, Angers, Pays de la Loire, 49100, France, 33 0241354725."
+                },
+                {
+                  "affiliation": "Health Faculty, Universit\u00e9 d'Angers, Angers, Pays de la Loire, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Noublanche F",
+            "lastName": "Noublanche",
+            "firstName": "Fr\u00e9d\u00e9ric",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6868-0346"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratoire de Psychologie des Pays de la Loire (UR4638), Angers, Pays de la Loire, France."
+                },
+                {
+                  "affiliation": "Department of Geriatric Medicine and Memory Clinic, Research Center on Autonomy and Longevity, Centre Hospitalier Universitaire d'Angers, 4 rue Larrey, Angers, Pays de la Loire, 49100, France, 33 0241354725."
+                },
+                {
+                  "affiliation": "Health Faculty, Universit\u00e9 d'Angers, Angers, Pays de la Loire, France."
+                },
+                {
+                  "affiliation": "G\u00e9rontop\u00f4le Autonomie Long\u00e9vit\u00e9 des Pays de la Loire, Nantes, Pays de la Loire, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Annweiler C",
+            "lastName": "Annweiler",
+            "firstName": "C\u00e9dric",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7199-8109"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratoire de Psychologie des Pays de la Loire (UR4638), Angers, Pays de la Loire, France."
+                },
+                {
+                  "affiliation": "Department of Geriatric Medicine and Memory Clinic, Research Center on Autonomy and Longevity, Centre Hospitalier Universitaire d'Angers, 4 rue Larrey, Angers, Pays de la Loire, 49100, France, 33 0241354725."
+                },
+                {
+                  "affiliation": "Health Faculty, Universit\u00e9 d'Angers, Angers, Pays de la Loire, France."
+                },
+                {
+                  "affiliation": "G\u00e9rontop\u00f4le Autonomie Long\u00e9vit\u00e9 des Pays de la Loire, Nantes, Pays de la Loire, France."
+                },
+                {
+                  "affiliation": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Robarts Research Institute, Western University, London, ON, Canada."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6868-0346"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7689-4694"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7199-8109"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0004-3879-0455"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "3",
+        "journalIssueId": 4202989,
+        "dateOfPublication": "2026 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "JMIR XR Spat Comput",
+          "title": "JMIR XR and spatial computing",
+          "essn": "2818-3045",
+          "issn": "2818-3045",
+          "nlmid": "9919031604106676",
+          "isoabbreviation": "JMIR XR Spat Comput"
+        },
+        "printPublicationDate": "2026-01-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "e98090",
+      "abstractText": "<h4>Background</h4>Lumbar puncture (LP) is a diagnostic procedure in geriatric medicine but may be technically challenging in older adults with spinal deformities, osteoarthritis, frailty, or cognitive impairment. Simulation-based training can provide repeated practice without patient risk. Augmented reality (AR) systems may improve anatomical visualization and sensory feedback, but their added value compared with mannequin-based simulators and whether perceptions differ according to clinical experience remain uncertain.<h4>Objective</h4>This study aimed to compare the user experience (UX) of a traditional mannequin-based LP simulator (M43E; T-S) and an augmented reality simulator with haptic feedback (Sim&Care 2; AR-S) across levels of expertise.<h4>Methods</h4>We conducted a single-center, randomized-order, within-participant comparative UX study at Angers University Hospital, France, in June 2025. A total of 30 participants (n=7, 23.3% sixth-year medical students; n=16, 53.3% postgraduate medical students; and n=7, 23.3% graduated physicians) used both simulators for 15 minutes each, with the exposure order randomized. After each session, participants completed an exploratory 5-point Likert questionnaire assessing face validity (FV), usability, perceived educational value (PEV), and overall satisfaction. After both sessions, they reported simulator preference, reasons for preference, and intention to reuse each simulator; open-ended comments were collected. Dimension-level paired comparisons were performed using the Wilcoxon signed-rank test, expertise-group comparisons used the Kruskal-Wallis test, and categorical outcomes were analyzed using the chi-square test. Item-level analyses were considered exploratory.<h4>Results</h4>The AR-S achieved higher composite scores than the T-S for FV (median 3.8 [IQR 3.6-4.2] vs 3.4 [IQR 3.2-3.8]; <i>P</i>=.02) and PEV (median 4 [IQR 3.8-4.6] vs 3.6 [IQR 3.4-4.2]; <i>P</i>=.02). No significant differences were observed for usability (median 4.3 [IQR 4-4.95] vs 4.6 [IQR 4.4-4.8]; <i>P</i>=.11) or overall satisfaction (median 4 [IQR 4-5] vs 4 [IQR 3-4]; <i>P</i>=.16). Exploratory item-level analyses indicated higher ratings for the AR-S for anatomical realism (<i>P</i>=.03), tactile sensations (<i>P</i>=.003), and perceived acquisition of new knowledge (<i>P</i>=.005), whereas the T-S was rated higher for ease of use (<i>P</i>=.01), clarity of instructions (<i>P</i>=.01), and ease of operation during the procedure (<i>P</i>=.003). Overall preference was balanced: 53.3% (16/30) of participants preferred the AR-S, and 46.7% (14/30) of participants preferred the T-S. Preference was not significantly associated with expertise group (<i>P</i>=.09), although graduated physicians descriptively favored the AR-S and sixth-year students favored the T-S. In total, 76.7% (23/30) of participants reported willingness to reuse both simulators.<h4>Conclusions</h4>AR and traditional mannequin-based LP simulation appear to offer distinct and complementary educational advantages rather than one modality being uniformly superior. The AR-S was valued for anatomical and sensory realism and PEV, whereas the T-S retained advantages related to procedural familiarity and ease of use with conventional equipment. These findings support tailoring simulator selection to learner expertise and educational objectives. Larger studies incorporating objective procedural performance are needed to determine how the modalities should be integrated into LP curricula.",
+      "affiliation": "Laboratoire de Psychologie des Pays de la Loire (UR4638), Angers, Pays de la Loire, France.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Medical education",
+          "Geriatrics",
+          "Spinal Puncture",
+          "Patient Simulation",
+          "Simulation Training",
+          "Augmented Reality",
+          "User Experience"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.2196/98090"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13592662"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13592662?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-09-22",
+      "dateOfCreation": "2026-09-22",
+      "dateOfRevision": "2026-09-23",
+      "electronicPublicationDate": "2026-09-21",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-23",
+      "fullTextReceivedDate": "2026-09-24",
+      "hasEvaluations": "N"
+    }
+  ]
+}
