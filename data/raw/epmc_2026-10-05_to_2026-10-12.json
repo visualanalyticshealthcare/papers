@@ -1,0 +1,225 @@
+{
+  "start_date": "2026-10-05",
+  "end_date": "2026-10-12",
+  "records_fetched": 1,
+  "articles": [
+    {
+      "id": "42828403",
+      "source": "MED",
+      "pmid": "42828403",
+      "pmcid": "PMC13632979",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13632979"
+        ]
+      },
+      "doi": "10.1097/gox.0000000000008136",
+      "title": "Multicenter Study on the Surgical Treatment of Suprascapular Nerve Entrapment Syndrome.",
+      "authorString": "Bruno M, Basile G, Leigheb M, Cannistr\u00e0 C, Tripodi D, Moccia F, Molle M, Faenza M, Amadei F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bruno M",
+            "lastName": "Bruno",
+            "firstName": "Maurilio",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "From the Villa Stuart Hospital, Rome, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Basile G",
+            "lastName": "Basile",
+            "firstName": "Giuseppe",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Sciences and Public Health, University \"Politecnica Delle Marche\" of Ancona, Ancona, Italy."
+                },
+                {
+                  "affiliation": "Research Center of Legal Medicine and Risk Management, Cardiovascular Department, Maria Cecilia Hospital, GVM Care & Research, Cotignola, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Leigheb M",
+            "lastName": "Leigheb",
+            "firstName": "Massimiliano",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orthopedics Department, Centro Ortopedico di Quadrante, Omegna, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cannistr\u00e0 C",
+            "lastName": "Cannistr\u00e0",
+            "firstName": "Claudio",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Plastic and Reconstructive Surgery Unit, Centre Hospitalier Universitaire Bichat Claude-Bernard, Paris, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tripodi D",
+            "lastName": "Tripodi",
+            "firstName": "Domenico",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Plastic Surgery Department, UniCamillus-Saint Camillus International University of Health Sciences, Rome, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moccia F",
+            "lastName": "Moccia",
+            "firstName": "Felice",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multidisciplinary Department of Medical-Surgical and Dental Specialties, Plastic Surgery Unit, Universit\u00e0 degli Studi della Campania \"Luigi Vanvitelli,\" Naples, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Molle M",
+            "lastName": "Molle",
+            "firstName": "Marcello",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multidisciplinary Department of Medical-Surgical and Dental Specialties, Plastic Surgery Unit, Universit\u00e0 degli Studi della Campania \"Luigi Vanvitelli,\" Naples, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Faenza M",
+            "lastName": "Faenza",
+            "firstName": "Mario",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Multidisciplinary Department of Medical-Surgical and Dental Specialties, Plastic Surgery Unit, Universit\u00e0 degli Studi della Campania \"Luigi Vanvitelli,\" Naples, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Amadei F",
+            "lastName": "Amadei",
+            "firstName": "Federico",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orthopedics Department, Policlinico di Monza, Monza, Italy."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "10",
+        "volume": "14",
+        "journalIssueId": 4277338,
+        "dateOfPublication": "2026 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Plast Reconstr Surg Glob Open",
+          "title": "Plastic and reconstructive surgery. Global open",
+          "essn": "2169-7574",
+          "issn": "2169-7574",
+          "nlmid": "101622231",
+          "isoabbreviation": "Plast Reconstr Surg Glob Open"
+        },
+        "printPublicationDate": "2026-10-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "e8136",
+      "abstractText": "<h4>Background</h4>Suprascapular nerve entrapment syndrome is a rare but increasingly recognized cause of shoulder pain and dysfunction, particularly among young or middle-aged men involved in overhead sports or physically demanding occupations. The suprascapular nerve, primarily motor but also containing sensory fibers, may become compressed due to anatomical variations, ossified ligaments, or space-occupying lesions such as paralabral ganglia. Diagnosis is challenging due to nonspecific symptoms and overlapping pathologies and often relies on clinical evaluation supported by electromyography (EMG) and magnetic resonance imaging.<h4>Methods</h4>Between 2008 and 2018, a total of 10 patients (8 men, 2 women; mean age 31.1 y) with suprascapular nerve entrapment underwent open surgical decompression. All patients experienced chronic shoulder pain unresponsive to conservative treatment. Surgical exposure followed a scapular spine incision, allowing visualization and decompression of the nerve at the suprascapular notch and infraspinatus fossa. Follow-up (mean 15.4 mo) assessed pain (visual analog scale), muscle strength (Medical Research Council Scale), and EMG findings.<h4>Results</h4>Most patients had delayed diagnosis (mean 7 mo). At follow-up, all but 1 showed significant pain reduction during exertion (mean visual analog scale score from 4.2 to 2.7) and improved strength (mean Medical Research Council Scale score from 2.6 to 4.2). EMG demonstrated normalization in 6 patients, partial recovery in 3, and persistent myogenic changes in 1 case, possibly due to neuralgic amyotrophy.<h4>Conclusions</h4>Open surgical decompression proved to be an effective treatment for suprascapular nerve entrapment, particularly in cases unresponsive to conservative therapy or associated with secondary compression.",
+      "affiliation": "From the Villa Stuart Hospital, Rome, Italy.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1097/GOX.0000000000008136"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13632979"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13632979?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-10-03",
+      "dateOfCreation": "2026-10-03",
+      "dateOfRevision": "2026-10-03",
+      "electronicPublicationDate": "2026-10-05",
+      "firstPublicationDate": "2026-10-05",
+      "firstIndexDate": "2026-10-04",
+      "fullTextReceivedDate": "2026-10-06",
+      "hasEvaluations": "N"
+    }
+  ]
+}
