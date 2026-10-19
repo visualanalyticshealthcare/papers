@@ -1,0 +1,267 @@
+{
+  "start_date": "2026-10-12",
+  "end_date": "2026-10-19",
+  "records_fetched": 1,
+  "articles": [
+    {
+      "id": "42761359",
+      "source": "MED",
+      "pmid": "42761359",
+      "doi": "10.18240/ijo.2026.10.09",
+      "title": "Evaluation of corneal stromal demarcation line depth after corneal collagen cross-linking with two different UV energy levels in keratoconus: a comparative study using AS-OCT and &lt;i&gt;in vivo&lt;/i&gt; confocal microscopy.",
+      "authorString": "Liang T, Li Q, Zhou K, Cao WJ, Shen D, Cheng Y, Ma XH, Wei W.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Liang T",
+            "lastName": "Liang",
+            "firstName": "Tian",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Q",
+            "lastName": "Li",
+            "firstName": "Qi",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou K",
+            "lastName": "Zhou",
+            "firstName": "Kun",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cao WJ",
+            "lastName": "Cao",
+            "firstName": "Wen-Jia",
+            "initials": "WJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shen D",
+            "lastName": "Shen",
+            "firstName": "Di",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cheng Y",
+            "lastName": "Cheng",
+            "firstName": "Yu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ma XH",
+            "lastName": "Ma",
+            "firstName": "Xiao-Huan",
+            "initials": "XH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wei W",
+            "lastName": "Wei",
+            "firstName": "Wei",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Institute of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Shaanxi Key Laboratory of Ophthalmology, Xi'an 710002, Shaanxi Province, China."
+                },
+                {
+                  "affiliation": "Clinical Research Center for Ophthalmology Diseases of Shaanxi Province, Xi'an 710002, Shaanxi Province, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "10",
+        "volume": "19",
+        "journalIssueId": 4268466,
+        "dateOfPublication": "2026 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Int J Ophthalmol",
+          "title": "International journal of ophthalmology",
+          "essn": "2227-4898",
+          "issn": "2222-3959",
+          "isoabbreviation": "Int J Ophthalmol",
+          "nlmid": "101553860"
+        },
+        "printPublicationDate": "2026-01-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "1955-1963",
+      "abstractText": "<h4>Aim</h4>To compare <i>in vivo</i> confocal microscopy (IVCM) and anterior segment optical coherence tomography (AS-OCT) in evaluating demarcation line depth (DLD) after corneal collagen cross-linking (CXL) performed under different ultraviolet (UV) energy levels in keratoconus.<h4>Methods</h4>This was a retrospective case series. This study included 216 participants (328 eyes) who underwent CXL with either high (7.2 J/cm\u00b2) or low (1.8 J/cm\u00b2) UV energy. DLD was assessed by IVCM and AS-OCT at 3, 6, and \u226512mo postoperatively. The high-energy group consisted of participants with progressive keratoconus who received CXL treatment, while the low-energy group included participants with refractive errors who underwent femtosecond laser-assisted <i>in situ</i> keratomileusis (FS-LASIK) Xtra.<h4>Results</h4>The high-energy group included 111 participants (144 eyes, mean age 23.39\u00b17.30y, 68 males), and low-energy group included 105 participants (184 eyes, mean age 22.95\u00b15.84y, 53 males). At 3 and 6mo, as well as at the final follow-up, visibility of the demarcation line was consistently superior with IVCM compared with AS-OCT (all <i>P</i><0.001). At 3mo, the mean DLD measured by IVCM was 382.2\u00b191.12 \u00b5m in the high-energy group and 192.53\u00b158.76 \u00b5m in the low-energy group, while AS-OCT recorded 354.74\u00b178.82 \u00b5m and 196.51\u00b155.57 \u00b5m, respectively. Both modalities demonstrated significantly deeper demarcation line with higher UV energy (<i>P</i><0.05), and no significant difference was observed between IVCM and AS-OCT measurements within each energy group (<i>P</i>>0.05). Furthermore, a significant monotonic temporal trend toward shallower IVCM-detected DLD was observed in both energy groups.<h4>Conclusion</h4>Compared with AS-OCT, IVCM provides clearer and more reliable visualization of the corneal stromal demarcation line after CXL. While both modalities yield comparable depth measurements, IVCM maintains higher visibility across different energy levels and during follow-up at various time points, making it a preferred modality for postoperative assessment in clinical practice.",
+      "affiliation": "Department of Ophthalmology, Xi'an No.1 Hospital, Xi'an 710002, Shaanxi Province, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Keratoconus",
+          "Corneal Collagen Cross-linking",
+          "In Vivo Confocal Microscopy",
+          "Anterior Segment Optical Coherence Tomography",
+          "Corneal Stromal Demarcation Line"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.18240/ijo.2026.10.09"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-09-19",
+      "dateOfCreation": "2026-09-19",
+      "dateOfRevision": "2026-09-21",
+      "electronicPublicationDate": "2026-10-18",
+      "firstPublicationDate": "2026-10-18",
+      "firstIndexDate": "2026-09-20",
+      "hasEvaluations": "N"
+    }
+  ]
+}
